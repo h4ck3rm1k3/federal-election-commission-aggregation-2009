@@ -1,0 +1,381 @@
+countraw: 4
+countrows: 2
+filename: 397438.fec
+header: {}
+rows:
+- input: "F1N\x1CC00011221\x1C\x1CSAPEC-NJ New Jersey League of Community Bankers\x1C\x1C411
+    North Avenue East\x1C\x1CCranford\x1CNJ\x1C07016\x1Cjmeredith@njleague.com\x1C\x1C9082726626\x1C20090123\x1CMeredith\x1CJames\x1C\x1C\x1C\x1C20090123\x1CE\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CT\x1C\x1C\x1CJEBPAC-New
+    Jersey Bankers Association\x1C411 North Avenue East\x1C\x1CCranford\x1CNJ\x1C07016\x1CAFF\x1CCassidy\x1CPaula\x1CH.\x1C\x1C\x1C411
+    North Avenue East\x1C\x1CCranford\x1CNJ\x1C07016\x1CAdministrative Asst.\x1C9082728500\x1CMeredith\x1CJames\x1C\x1C\x1C\x1C646
+    Scotch Plains Avenue\x1C\x1CWestfield\x1CNJ\x1C07090\x1CTreasurer\x1C9082728500\x1CSilkensen\x1CJames
+    R.\x1C\x1C\x1C\x1C102 Edgewood Road\x1C\x1CCranford\x1CNJ\x1C07016\x1CAssistant
+    Treasurer\x1C9082728500\x1CThe Provident Bank\x1C830 Bergen Avenue\x1C\x1CJersey
+    City\x1CNJ\x1C07306\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.F1
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1N
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00011221
+  - name: CHANGE OF COMMITTEE NAME
+    number: '3'
+    value: ''
+  - name: COMMITTEE NAME
+    number: '4'
+    value: SAPEC-NJ New Jersey League of Community Bankers
+  - name: CHANGE OF ADDRESS
+    number: '5'
+    value: ''
+  - name: STREET 1
+    number: '6'
+    value: 411 North Avenue East
+  - name: STREET 2
+    number: '7'
+    value: ''
+  - name: CITY
+    number: '8'
+    value: Cranford
+  - name: STATE
+    number: '9'
+    value: NJ
+  - name: ZIP
+    number: '10'
+    value: '07016'
+  - name: COMMITTEE EMAIL
+    number: '11'
+    value: jmeredith@njleague.com
+  - name: COMMITTEE WEB URL
+    number: '12'
+    value: ''
+  - name: COMMITTEE FAX NUMBER
+    number: '13'
+    value: '9082726626'
+  - name: SUBMISSION DATE
+    number: '14'
+    value: '20090123'
+  - name: SIGNATURE LAST NAME
+    number: '15'
+    value: Meredith
+  - name: SIGNATURE FIRST NAME
+    number: '16'
+    value: James
+  - name: SIGNATURE MIDDLE NAME
+    number: '17'
+    value: ''
+  - name: SIGNATURE PREFIX
+    number: '18'
+    value: ''
+  - name: SIGNATURE SUFFIX
+    number: '19'
+    value: ''
+  - name: DATE SIGNED
+    number: '20'
+    value: '20090123'
+  - name: COMMITTEE TYPE
+    number: 21-5.
+    value: E
+  - name: CANDIDATE ID NUMBER
+    number: 22-5.
+    value: ''
+  - name: CANDIDATE LAST NAME
+    number: 23-5.
+    value: ''
+  - name: CANDIDATE FIRST NAME
+    number: 24-5.
+    value: ''
+  - name: CANDIDATE MIDDLE NAME
+    number: 25-5.
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: 26-5.
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: 27-5.
+    value: ''
+  - name: CANDIDATE OFFICE
+    number: 28-5.
+    value: ''
+  - name: CANDIDATE STATE
+    number: 29-5.
+    value: ''
+  - name: CANDIDATE DISTRICT
+    number: 30-5.
+    value: ''
+  - name: PARTY CODE
+    number: 31-5.
+    value: ''
+  - name: PARTY TYPE
+    number: 32-5.
+    value: ''
+  - name: ORGANIZATION TYPE
+    number: 33-5 (e).
+    value: T
+  - name: LEADERSHIP PAC
+    number: 34-5 (f).
+    value: ''
+  - name: AFFILIATED Committee ID NUM
+    number: 35-6.
+    value: ''
+  - name: AFFILIATED Committee NAME
+    number: 36-6.
+    value: JEBPAC-New Jersey Bankers Association
+  - name: AFFILIATED STREET 1
+    number: 37-6.
+    value: 411 North Avenue East
+  - name: AFFILIATED STREET 2
+    number: 38-6.
+    value: ''
+  - name: AFFILIATED CITY
+    number: 39-6.
+    value: Cranford
+  - name: AFFILIATED STATE
+    number: 40-6.
+    value: NJ
+  - name: AFFILIATED ZIP
+    number: 41-6.
+    value: '07016'
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 42-6.
+    value: AFF
+  - name: CUSTODIAN LAST NAME
+    number: 43-7.
+    value: Cassidy
+  - name: CUSTODIAN FIRST NAME
+    number: 44-7.
+    value: Paula
+  - name: CUSTODIAN MIDDLE NAME
+    number: 45-7.
+    value: H.
+  - name: CUSTODIAN PREFIX
+    number: 46-7.
+    value: ''
+  - name: CUSTODIAN SUFFIX
+    number: 47-7.
+    value: ''
+  - name: CUSTODIAN STREET 1
+    number: 48-7.
+    value: 411 North Avenue East
+  - name: CUSTODIAN STREET 2
+    number: 49-7.
+    value: ''
+  - name: CUSTODIAN CITY
+    number: 50-7.
+    value: Cranford
+  - name: CUSTODIAN STATE
+    number: 51-7.
+    value: NJ
+  - name: CUSTODIAN ZIP
+    number: 52-7.
+    value: '07016'
+  - name: CUSTODIAN TITLE
+    number: 53-7.
+    value: Administrative Asst.
+  - name: CUSTODIAN TELEPHONE
+    number: 54-7.
+    value: '9082728500'
+  - name: TREASURER LAST NAME
+    number: 55-8.
+    value: Meredith
+  - name: TREASURER FIRST NAME
+    number: 56-8.
+    value: James
+  - name: TREASURER MIDDLE NAME
+    number: 57-8.
+    value: ''
+  - name: TREASURER PREFIX
+    number: 58-8.
+    value: ''
+  - name: TREASURER SUFFIX
+    number: 59-8.
+    value: ''
+  - name: TREASURER STREET 1
+    number: 60-8.
+    value: 646 Scotch Plains Avenue
+  - name: TREASURER STREET 2
+    number: 61-8.
+    value: ''
+  - name: TREASURER CITY
+    number: 62-8.
+    value: Westfield
+  - name: TREASURER STATE
+    number: 63-8.
+    value: NJ
+  - name: TREASURER ZIP
+    number: 64-8.
+    value: 07090
+  - name: TREASURER TITLE
+    number: 65-8.
+    value: Treasurer
+  - name: TREASURER TELEPHONE
+    number: 66-8.
+    value: '9082728500'
+  - name: AGENT LAST NAME
+    number: 67-8.
+    value: Silkensen
+  - name: AGENT FIRST NAME
+    number: 68-8.
+    value: James R.
+  - name: AGENT MIDDLE NAME
+    number: 69-8.
+    value: ''
+  - name: AGENT PREFIX
+    number: 70-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 71-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 72-8.
+    value: 102 Edgewood Road
+  - name: AGENT STREET 2
+    number: 73-8.
+    value: ''
+  - name: AGENT CITY
+    number: 74-8.
+    value: Cranford
+  - name: AGENT STATE
+    number: 75-8.
+    value: NJ
+  - name: AGENT ZIP
+    number: 76-8.
+    value: '07016'
+  - name: AGENT TITLE
+    number: 77-8.
+    value: Assistant Treasurer
+  - name: AGENT TELEPHONE
+    number: 78-8.
+    value: '9082728500'
+  - name: BANK NAME
+    number: 79-9. a)
+    value: The Provident Bank
+  - name: BANK STREET 1
+    number: 80-9. a)
+    value: 830 Bergen Avenue
+  - name: BANK STREET 2
+    number: 81-9. a)
+    value: ''
+  - name: BANK CITY
+    number: 82-9. a)
+    value: Jersey City
+  - name: BANK STATE
+    number: 83-9. a)
+    value: NJ
+  - name: BANK ZIP
+    number: 84-9. a)
+    value: '07306'
+  - name: BANK NAME
+    number: 85-9. b)
+    value: ''
+  - name: BANK STREET 1
+    number: 86-9. b)
+    value: ''
+  - name: BANK STREET 2
+    number: 87-9. b)
+    value: ''
+  - name: BANK CITY
+    number: 88-9. b)
+    value: ''
+  - name: BANK STATE
+    number: 89-9. b)
+    value: ''
+  - name: BANK ZIP
+    number: 90-9. b)
+    value: ''
+- input: "F1S\x1CC00011221\x1C\x1C\x1CC00004275\x1CAmerican Bankers Association BankPac\x1C1120
+    Connecticut Avenue, NW\x1C\x1CWashington\x1CDC\x1C20036\x1CAFF\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.F1S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1S
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00011221
+  - name: JOINT FUND PARTICIPANT Committee NAME
+    number: 3-5.
+    value: ''
+  - name: JOINT FUND PARTICIPANT Committee FEC-ID
+    number: 4-5.
+    value: ''
+  - name: AFFILIATED Committee ID NUM
+    number: 5-6.
+    value: C00004275
+  - name: AFFILIATED Committee NAME
+    number: 6-6.
+    value: American Bankers Association BankPac
+  - name: AFFILIATED STREET 1
+    number: 7-6.
+    value: 1120 Connecticut Avenue, NW
+  - name: AFFILIATED STREET 2
+    number: 8-6.
+    value: ''
+  - name: AFFILIATED CITY
+    number: 9-6.
+    value: Washington
+  - name: AFFILIATED STATE
+    number: 10-6.
+    value: DC
+  - name: AFFILIATED ZIP
+    number: 11-6.
+    value: '20036'
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 12-6.
+    value: AFF
+  - name: AGENT LAST NAME
+    number: 13-8.
+    value: ''
+  - name: AGENT FIRST NAME
+    number: 14-8.
+    value: ''
+  - name: AGENT MIDDLE NAME
+    number: 15-8.
+    value: ''
+  - name: AGENT PREFIX
+    number: 16-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 17-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 18-8.
+    value: ''
+  - name: AGENT STREET 2
+    number: 19-8.
+    value: ''
+  - name: AGENT CITY
+    number: 20-8.
+    value: ''
+  - name: AGENT STATE
+    number: 21-8.
+    value: ''
+  - name: AGENT ZIP
+    number: 22-8.
+    value: ''
+  - name: AGENT TITLE
+    number: 23-8.
+    value: ''
+  - name: AGENT TELEPHONE
+    number: 24-8.
+    value: ''
+  - name: BANK NAME
+    number: 25-9.
+    value: ''
+  - name: BANK STREET 1
+    number: 26-9.
+    value: ''
+  - name: BANK STREET 2
+    number: 26-9.
+    value: ''
+  - name: BANK CITY
+    number: 28-9.
+    value: ''
+  - name: BANK STATE
+    number: 29-9.
+    value: ''
+  - name: BANK ZIP
+    number: 30-9.
+    value: ''
+sourceurl: !!python/unicode 20090123
+type: single
