@@ -1,0 +1,6040 @@
+countraw: 43
+countrows: 41
+filename: 395445.fec
+header: {}
+rows:
+- input: "F3A\x1CC00435636\x1CPierluisi 2008, Inc.\x1C\x1CPMB 232, 1353 ROAD 19\x1C\x1CGUAYNABO\x1CPR\x1C00966\x1CPR\x1C00\x1C12G\x1CG2008\x1C20081104\x1CPR\x1C20081001\x1C20081015\x1CPerez\x1CCarlos\x1C\x1C\x1C\x1C20090114\x1CH8PR00062\x1CPierluisi\x1CPedro\x1C\x1C\x1C\x1C\x1C45.00\x1C0.00\x1C45.00\x1C84824.68\x1C0.00\x1C84824.68\x1C91213.25\x1C0.00\x1C0.00\x1C45.00\x1C0.00\x1C45.00\x1C0.00\x1C0.00\x1C0.00\x1C45.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C45.00\x1C84824.68\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C84824.68\x1C175992.93\x1C45.00\x1C176037.93\x1C84824.68\x1C91213.25\x1C1244815.48\x1C1500.00\x1C1243315.48\x1C1152102.23\x1C0.00\x1C1152102.23\x1C1222668.46\x1C9097.02\x1C1231765.48\x1C2500.00\x1C10550.00\x1C0.00\x1C1244815.48\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C1244815.48\x1C1152102.23\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C1500.00\x1C0.00\x1C0.00\x1C1500.00\x1C0.00\x1C1153602.23\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.F3
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F3A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00435636
+  - name: COMMITTEE NAME
+    number: '3'
+    value: Pierluisi 2008, Inc.
+  - name: CHANGE OF ADDRESS
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: PMB 232, 1353 ROAD 19
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: GUAYNABO
+  - name: STATE
+    number: '8'
+    value: PR
+  - name: ZIP
+    number: '9'
+    value: 00966
+  - name: ELECTION STATE
+    number: '10'
+    value: PR
+  - name: ELECTION DISTRICT
+    number: '11'
+    value: '00'
+  - name: REPORT CODE
+    number: '12'
+    value: 12G
+  - name: ELECTION CODE
+    number: '13'
+    value: G2008
+  - name: DATE OF ELECTION
+    number: '14'
+    value: '20081104'
+  - name: STATE OF ELECTION
+    number: '15'
+    value: PR
+  - name: COVERAGE FROM DATE
+    number: '16'
+    value: '20081001'
+  - name: COVERAGE THROUGH DATE
+    number: '17'
+    value: '20081015'
+  - name: TREASURER LAST NAME
+    number: '18'
+    value: Perez
+  - name: TREASURER FIRST NAME
+    number: '19'
+    value: Carlos
+  - name: TREASURER MIDDLE NAME
+    number: '20'
+    value: ''
+  - name: TREASURER PREFIX
+    number: '21'
+    value: ''
+  - name: TREASURER SUFFIX
+    number: '22'
+    value: ''
+  - name: DATE SIGNED
+    number: '23'
+    value: '20090114'
+  - name: CANDIDATE ID NUMBER
+    number: '24'
+    value: H8PR00062
+  - name: CANDIDATE LAST NAME
+    number: '25'
+    value: Pierluisi
+  - name: CANDIDATE FIRST NAME
+    number: '26'
+    value: Pedro
+  - name: CANDIDATE MIDDLE NAME
+    number: '27'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '28'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '29'
+    value: ''
+  - name: F3Z-1 REPORT TYPE
+    number: '30'
+    value: ''
+  - name: Total Contributions (NO Loans)
+    number: 31-(6a)
+    value: '45.00'
+  - name: Total Contribution Refunds
+    number: 32-(6b)
+    value: '0.00'
+  - name: Net Contributions
+    number: 33-(6c)
+    value: '45.00'
+  - name: Total Operating Expenditures
+    number: 34-(7a)
+    value: '84824.68'
+  - name: Total Offset to Operating Expenditures
+    number: 35-(7b)
+    value: '0.00'
+  - name: NET Operating Expenditures.
+    number: 36-(7c)
+    value: '84824.68'
+  - name: CASH ON HAND AT CLOSE ...
+    number: 37-8.
+    value: '91213.25'
+  - name: DEBTS TO ( Totals from SCH C and/or D)
+    number: 38-9.
+    value: '0.00'
+  - name: DEBTS BY (Totals from SCH C and/or D)
+    number: 39-10.
+    value: '0.00'
+  - name: Individuals Itemized
+    number: 40-11(a i.)
+    value: '45.00'
+  - name: Individuals Unitemized
+    number: 41-11(a.ii)
+    value: '0.00'
+  - name: Individual Contribution Total
+    number: 42-11(a.iii)
+    value: '45.00'
+  - name: Political Party Committees
+    number: 43-11(b)
+    value: '0.00'
+  - name: Other Political Committees
+    number: 44-11(c)
+    value: '0.00'
+  - name: The Candidate
+    number: 45-11(d)
+    value: '0.00'
+  - name: Total Contributions
+    number: 46-11(e)
+    value: '45.00'
+  - name: Transfers From Other Authorized Committees
+    number: 47-12.
+    value: '0.00'
+  - name: Loans made or guarn. by the Candidate
+    number: 48-13(a)
+    value: '0.00'
+  - name: All Other Loans
+    number: 49-13(b)
+    value: '0.00'
+  - name: Total Loans
+    number: 50-13(c)
+    value: '0.00'
+  - name: Offsets to Operating Expenditures
+    number: 51-14.
+    value: '0.00'
+  - name: Other Receipts
+    number: 52-15.
+    value: '0.00'
+  - name: Total Receipts
+    number: 53-16.
+    value: '45.00'
+  - name: Operating Expenditures
+    number: 54-17.
+    value: '84824.68'
+  - name: Transfers to Other Authorized Committees
+    number: 55-18.
+    value: '0.00'
+  - name: Of Loans made or guar. by the Cand.
+    number: 56-19(a)
+    value: '0.00'
+  - name: Loan Repayments, All Other Loans
+    number: 57-19(b)
+    value: '0.00'
+  - name: Total Loan Repayments
+    number: 58-19(c)
+    value: '0.00'
+  - name: Refund/Individuals Other than Political Committees
+    number: 59-20(a)
+    value: '0.00'
+  - name: Refund/Political Party Committees
+    number: 60-20(b)
+    value: '0.00'
+  - name: Refund/Other Political Committees
+    number: 61-20(c)
+    value: '0.00'
+  - name: Total Contribution Refunds
+    number: 62-20(d)
+    value: '0.00'
+  - name: Other Disbursements
+    number: 63-21.
+    value: '0.00'
+  - name: Total Disbursements
+    number: 64-22.
+    value: '84824.68'
+  - name: Cash Beginning Reporting Period
+    number: 65-23.
+    value: '175992.93'
+  - name: Total Receipts this Period
+    number: 66-24.
+    value: '45.00'
+  - name: SubTotal
+    number: 67-25.
+    value: '176037.93'
+  - name: Total Disbursements this Period
+    number: 68-26.
+    value: '84824.68'
+  - name: Cash on hand at Close Period
+    number: 69-27.
+    value: '91213.25'
+  - name: Total Contributions (No Loans)
+    number: 70-(6a)
+    value: '1244815.48'
+  - name: Total Contribution Refunds
+    number: 71-(6b)
+    value: '1500.00'
+  - name: Net Contributions
+    number: 72-(6c)
+    value: '1243315.48'
+  - name: Total Operating Expenditures
+    number: 73-(7a)
+    value: '1152102.23'
+  - name: Total Offsets to Operating Expenditures
+    number: 74-(7b)
+    value: '0.00'
+  - name: NET Operating Expenditures.
+    number: 75-(7c)
+    value: '1152102.23'
+  - name: Individuals Itemized
+    number: 76-11(a i.)
+    value: '1222668.46'
+  - name: Individuals Unitemized
+    number: 77-11(a.ii)
+    value: '9097.02'
+  - name: Individuals Total
+    number: 78-11(a.iii)
+    value: '1231765.48'
+  - name: Political Party Committees
+    number: 79-11(b)
+    value: '2500.00'
+  - name: All Other Political Committees (PACS)
+    number: 80-11(c)
+    value: '10550.00'
+  - name: The Candidate
+    number: 81-11(d)
+    value: '0.00'
+  - name: Total Contributions
+    number: 82-11(e)
+    value: '1244815.48'
+  - name: Transfers From Other AUTH Committees
+    number: 83-12.
+    value: '0.00'
+  - name: Loans made or guarn. by the Candidate
+    number: 84-13(a)
+    value: '0.00'
+  - name: All Other Loans
+    number: 85-13(b)
+    value: '0.00'
+  - name: Total Loans
+    number: 86-13(c)
+    value: '0.00'
+  - name: Offsets to Operating Expenditures
+    number: 87-14.
+    value: '0.00'
+  - name: Other Receipts
+    number: 88-15.
+    value: '0.00'
+  - name: Total Receipts
+    number: 89-16.
+    value: '1244815.48'
+  - name: Operating Expenditures
+    number: 90-17
+    value: '1152102.23'
+  - name: Transfers To Other AUTH Committees
+    number: 91-18.
+    value: '0.00'
+  - name: Loan Repayment By Candidate
+    number: 92-19(a)
+    value: '0.00'
+  - name: Loan Repayments, ALL Other Loans
+    number: 93-19(b)
+    value: '0.00'
+  - name: Total Loan Repayments
+    number: 94-19(c)
+    value: '0.00'
+  - name: Refund/Individuals Other than Political Committees
+    number: 95-20(a)
+    value: '1500.00'
+  - name: Refund, Political Party Committees
+    number: 96-20(b)
+    value: '0.00'
+  - name: Refund, Other Political Committees
+    number: 97-20(c)
+    value: '0.00'
+  - name: Total Contributions Refunds
+    number: 98-20(d)
+    value: '1500.00'
+  - name: Other Disbursements
+    number: 99-21.
+    value: '0.00'
+  - name: Total Disbursements
+    number: 100-22.
+    value: '1153602.23'
+  - name: Gross Receipts of Authorized Committees (primary)
+    number: '101'
+    value: ''
+  - name: Aggregate Amount from Personal Funds (primary)
+    number: '102'
+    value: ''
+  - name: Gross Receipts Minus Personal from Candidate (primary)
+    number: '103'
+    value: ''
+  - name: Gross Receipts of Authorized Committees (general)
+    number: '104'
+    value: ''
+  - name: Aggregate Amount from Personal Funds (general)
+    number: '105'
+    value: ''
+  - name: Gross Receipts Minus Personal from Candidate (general)
+    number: '106'
+    value: ''
+- input: "SA11AI\x1CC00435636\x1CSA11AI.8781\x1C\x1C\x1CIND\x1C\x1CMorales\x1CBlanca\x1C\x1C\x1C\x1CCalle
+    C 25\x1C\x1CSan Juan\x1CPR\x1C00926\x1CG2008\x1C\x1C20081014\x1C25.00\x1C25.00\x1C\x1C\x1C\x1CRetired\x1CTeacher\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11AI
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00435636
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA11AI.8781
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Morales
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Blanca
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: Calle C 25
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: San Juan
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: PR
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: 00926
+  - name: ELECTION CODE
+    number: '18'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20081014'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '25.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '25.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Retired
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: Teacher
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: ''
+- input: "SA11AI\x1CC00435636\x1CSA11AI.8779\x1C\x1C\x1CIND\x1C\x1CRoura\x1CMiguel\x1C\x1C\x1C\x1CPO
+    Box 577\x1C\x1CLajas\x1CPR\x1C00667\x1CG2008\x1C\x1C20081010\x1C20.00\x1C20.00\x1C\x1C\x1C\x1CUPR
+    - Mayaguez\x1CAdministration Office\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11AI
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00435636
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA11AI.8779
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Roura
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Miguel
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: PO Box 577
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Lajas
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: PR
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '00667'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20081010'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '20.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '20.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: UPR - Mayaguez
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: Administration Office
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: ''
+- input: "SB17\x1CC00435636\x1CSB17.8820\x1C\x1C\x1CIND\x1C\x1CAirlines\x1CAmerican\x1C\x1C\x1C\x1CMetro
+    Office Park Building\x1C\x1CGuaynabo\x1CPR\x1C00966\x1CG2008\x1C\x1C20081008\x1C692.80\x1C\x1CAirline
+    Ticket Expense\x1C002\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00435636
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB17.8820
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Airlines
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: American
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: Metro Office Park Building
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Guaynabo
+  - name: PAYEE STATE
+    number: '16'
+    value: PR
+  - name: PAYEE ZIP
+    number: '17'
+    value: 00966
+  - name: ELECTION CODE
+    number: '18'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081008'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '692.80'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Airline Ticket Expense
+  - name: CATEGORY CODE
+    number: '24'
+    value: '002'
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '25'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: ''
+- input: "SB17\x1CC00435636\x1CSB17.8811\x1C\x1C\x1CIND\x1C\x1CAlvalle\x1CCarlos\x1C\x1C\x1C\x1C2E
+    19 Ave. Nogal, Lomas Verdes\x1C\x1CBayamon\x1CPR\x1C00956\x1CG2008\x1C\x1C20081015\x1C372.00\x1C\x1CSalary\x1C001\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00435636
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB17.8811
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Alvalle
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Carlos
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 2E 19 Ave. Nogal, Lomas Verdes
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Bayamon
+  - name: PAYEE STATE
+    number: '16'
+    value: PR
+  - name: PAYEE ZIP
+    number: '17'
+    value: 00956
+  - name: ELECTION CODE
+    number: '18'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081015'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '372.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Salary
+  - name: CATEGORY CODE
+    number: '24'
+    value: '001'
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '25'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: ''
+- input: "SB17\x1CC00435636\x1CSB17.8812\x1C\x1C\x1CIND\x1C\x1CAlvalle\x1CCarlos\x1C\x1C\x1C\x1C2E
+    19 Ave. Nogal, Lomas Verdes\x1C\x1CBayamon\x1CPR\x1C00956\x1CG2008\x1C\x1C20081015\x1C100.00\x1C\x1CExpenses\x1C001\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00435636
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB17.8812
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Alvalle
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Carlos
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 2E 19 Ave. Nogal, Lomas Verdes
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Bayamon
+  - name: PAYEE STATE
+    number: '16'
+    value: PR
+  - name: PAYEE ZIP
+    number: '17'
+    value: 00956
+  - name: ELECTION CODE
+    number: '18'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081015'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '100.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Expenses
+  - name: CATEGORY CODE
+    number: '24'
+    value: '001'
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '25'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: ''
+- input: "SB17\x1CC00435636\x1CSB17.8829\x1C\x1C\x1CIND\x1C\x1CCafe\x1CEarls\x1C\x1C\x1C\x1C8335
+    Park Meadows\x1C\x1CDenve\x1CCO\x1C80124\x1CG2008\x1C\x1C20081008\x1C120.15\x1C\x1CLuncheon
+    meeting\x1C002\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00435636
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB17.8829
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Cafe
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Earls
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 8335 Park Meadows
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Denve
+  - name: PAYEE STATE
+    number: '16'
+    value: CO
+  - name: PAYEE ZIP
+    number: '17'
+    value: '80124'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081008'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '120.15'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Luncheon meeting
+  - name: CATEGORY CODE
+    number: '24'
+    value: '002'
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '25'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: ''
+- input: "SB17\x1CC00435636\x1CSB17.8802\x1C\x1C\x1CIND\x1C\x1CCastro\x1CChristian\x1C\x1C\x1C\x1CHC
+    4 Box 46186\x1CBo. Ceiba Baja\x1CAguadilla\x1CPR\x1C00603\x1CG2008\x1C\x1C20081008\x1C69.00\x1C\x1CMeals
+    reimbursement\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00435636
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB17.8802
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Castro
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Christian
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: HC 4 Box 46186
+  - name: PAYEE STREET 2
+    number: '14'
+    value: Bo. Ceiba Baja
+  - name: PAYEE CITY
+    number: '15'
+    value: Aguadilla
+  - name: PAYEE STATE
+    number: '16'
+    value: PR
+  - name: PAYEE ZIP
+    number: '17'
+    value: '00603'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081008'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '69.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Meals reimbursement
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '25'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: ''
+- input: "SB17\x1CC00435636\x1CSB17.8795\x1C\x1C\x1CIND\x1C\x1CColors\x1CSun\x1C\x1C\x1C\x1CPO
+    Box 99\x1C\x1CBayamon\x1CPR\x1C00960\x1CG2008\x1C\x1C20081008\x1C1391.00\x1C\x1CVan
+    Wrapping\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00435636
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB17.8795
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Colors
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Sun
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: PO Box 99
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Bayamon
+  - name: PAYEE STATE
+    number: '16'
+    value: PR
+  - name: PAYEE ZIP
+    number: '17'
+    value: 00960
+  - name: ELECTION CODE
+    number: '18'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081008'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '1391.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Van Wrapping
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '25'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: ''
+- input: "SB17\x1CC00435636\x1CSB17.8805\x1C\x1C\x1CIND\x1C\x1CComun\x1CSentido\x1C\x1C\x1C\x1CPO
+    Box 9720\x1C\x1CSan Juan\x1CPR\x1C00907\x1CG2008\x1C\x1C20081009\x1C12500.00\x1C\x1CTV
+    Spots production\x1C004\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00435636
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB17.8805
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Comun
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Sentido
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: PO Box 9720
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: San Juan
+  - name: PAYEE STATE
+    number: '16'
+    value: PR
+  - name: PAYEE ZIP
+    number: '17'
+    value: 00907
+  - name: ELECTION CODE
+    number: '18'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081009'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '12500.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: TV Spots production
+  - name: CATEGORY CODE
+    number: '24'
+    value: '004'
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '25'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: ''
+- input: "SB17\x1CC00435636\x1CSB17.8794\x1C\x1C\x1CIND\x1C\x1CCruz\x1CRogelio\x1C\x1C\x1C\x1CCedro
+    1116, Villa Tropical\x1C\x1CQuebradillas\x1CPR\x1C00678\x1CG2008\x1C\x1C20081008\x1C147.39\x1C\x1CTolls
+    and Meals Reimbursement\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00435636
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB17.8794
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Cruz
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Rogelio
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: Cedro 1116, Villa Tropical
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Quebradillas
+  - name: PAYEE STATE
+    number: '16'
+    value: PR
+  - name: PAYEE ZIP
+    number: '17'
+    value: 00678
+  - name: ELECTION CODE
+    number: '18'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081008'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '147.39'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Tolls and Meals Reimbursement
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '25'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: ''
+- input: "SB17\x1CC00435636\x1CSB17.8785\x1C\x1C\x1CIND\x1C\x1CGavilan\x1CMarta\x1C\x1C\x1C\x1C799
+    Topacio, La Alameda\x1C\x1CSan Juan\x1CPR\x1C00926\x1CG2008\x1C\x1C20081001\x1C930.00\x1C\x1C\x1C001\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00435636
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB17.8785
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Gavilan
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Marta
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 799 Topacio, La Alameda
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: San Juan
+  - name: PAYEE STATE
+    number: '16'
+    value: PR
+  - name: PAYEE ZIP
+    number: '17'
+    value: 00926
+  - name: ELECTION CODE
+    number: '18'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081001'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '930.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: ''
+  - name: CATEGORY CODE
+    number: '24'
+    value: '001'
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '25'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: ''
+- input: "SB17\x1CC00435636\x1CSB17.8787\x1C\x1C\x1CIND\x1C\x1CHacienda\x1CDepartamento
+    De\x1C\x1C\x1C\x1COld San Juan\x1C\x1CSan Juan\x1CPR\x1C00901\x1CG2008\x1C\x1C20081001\x1C70.00\x1C\x1CTaxes\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00435636
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB17.8787
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Hacienda
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Departamento De
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: Old San Juan
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: San Juan
+  - name: PAYEE STATE
+    number: '16'
+    value: PR
+  - name: PAYEE ZIP
+    number: '17'
+    value: 00901
+  - name: ELECTION CODE
+    number: '18'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081001'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '70.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Taxes
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '25'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: ''
+- input: "SB17\x1CC00435636\x1CSB17.8789\x1C\x1C\x1CIND\x1C\x1CHacienda\x1CDepartamento
+    De\x1C\x1C\x1C\x1COld San Juan\x1C\x1CSan Juan\x1CPR\x1C00901\x1CG2008\x1C\x1C20081001\x1C280.00\x1C\x1CTaxes\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00435636
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB17.8789
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Hacienda
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Departamento De
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: Old San Juan
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: San Juan
+  - name: PAYEE STATE
+    number: '16'
+    value: PR
+  - name: PAYEE ZIP
+    number: '17'
+    value: 00901
+  - name: ELECTION CODE
+    number: '18'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081001'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '280.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Taxes
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '25'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: ''
+- input: "SB17\x1CC00435636\x1CSB17.8801\x1C\x1C\x1CIND\x1C\x1CHilera\x1CEduardo\x1C\x1C\x1C\x1CPO
+    Box 191054\x1C\x1CSan Juan\x1CPR\x1C00919\x1CG2008\x1C\x1C20081008\x1C70.00\x1C\x1CMeals
+    reimbursement\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00435636
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB17.8801
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Hilera
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Eduardo
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: PO Box 191054
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: San Juan
+  - name: PAYEE STATE
+    number: '16'
+    value: PR
+  - name: PAYEE ZIP
+    number: '17'
+    value: 00919
+  - name: ELECTION CODE
+    number: '18'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081008'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '70.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Meals reimbursement
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '25'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: ''
+- input: "SB17\x1CC00435636\x1CSB17.8809\x1C\x1C\x1CIND\x1C\x1CIbarra\x1CLuis\x1C\x1C\x1C\x1CPO
+    Box 1269\x1C\x1CSan Juan\x1CPR\x1C00922\x1CG2008\x1C\x1C20081015\x1C1250.00\x1C\x1CCandidates
+    Debate Expense\x1C007\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00435636
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB17.8809
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Ibarra
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Luis
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: PO Box 1269
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: San Juan
+  - name: PAYEE STATE
+    number: '16'
+    value: PR
+  - name: PAYEE ZIP
+    number: '17'
+    value: 00922
+  - name: ELECTION CODE
+    number: '18'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081015'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '1250.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Candidates Debate Expense
+  - name: CATEGORY CODE
+    number: '24'
+    value: '007'
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '25'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: ''
+- input: "SB17\x1CC00435636\x1CSB17.8784\x1C\x1C\x1CIND\x1C\x1CInc\x1CIdentiko\x1C\x1C\x1C\x1CPO
+    Box 841\x1C\x1CToa Alta\x1CPR\x1C00954\x1CG2008\x1C\x1C20081001\x1C6000.00\x1C\x1C\x1C006\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00435636
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB17.8784
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Inc
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Identiko
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: PO Box 841
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Toa Alta
+  - name: PAYEE STATE
+    number: '16'
+    value: PR
+  - name: PAYEE ZIP
+    number: '17'
+    value: 00954
+  - name: ELECTION CODE
+    number: '18'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081001'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '6000.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: ''
+  - name: CATEGORY CODE
+    number: '24'
+    value: '006'
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '25'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: ''
+- input: "SB17\x1CC00435636\x1CSB17.8797\x1C\x1C\x1CIND\x1C\x1CInc.\x1CCentennial\x1C\x1C\x1C\x1CPO
+    Box 1514\x1C\x1CSan Juan\x1CPR\x1C00921\x1CG2008\x1C\x1C20081008\x1C359.47\x1C\x1CCellulars
+    monthly expense\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00435636
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB17.8797
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Inc.
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Centennial
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: PO Box 1514
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: San Juan
+  - name: PAYEE STATE
+    number: '16'
+    value: PR
+  - name: PAYEE ZIP
+    number: '17'
+    value: 00921
+  - name: ELECTION CODE
+    number: '18'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081008'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '359.47'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Cellulars monthly expense
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '25'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: ''
+- input: "SB17\x1CC00435636\x1CSB17.8806\x1C\x1C\x1CIND\x1C\x1CManagement and Partners\x1CMedia\x1C\x1C\x1C\x1C100
+    Carr. 165 Suite 407\x1C\x1CGuaynabo\x1CPR\x1C00968\x1CG2008\x1C\x1C20081010\x1C45062.63\x1C\x1CMedia
+    Exposure\x1C004\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00435636
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB17.8806
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Management and Partners
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Media
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 100 Carr. 165 Suite 407
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Guaynabo
+  - name: PAYEE STATE
+    number: '16'
+    value: PR
+  - name: PAYEE ZIP
+    number: '17'
+    value: 00968
+  - name: ELECTION CODE
+    number: '18'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081010'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '45062.63'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Media Exposure
+  - name: CATEGORY CODE
+    number: '24'
+    value: '004'
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '25'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: ''
+- input: "SB17\x1CC00435636\x1CSB17.8791\x1C\x1C\x1CIND\x1C\x1CMedia Monitor\x1CPuerto
+    Rico\x1C\x1C\x1C\x1CBox 32 Calle Amarillo 1738\x1CEl Senorial\x1CSan Juan\x1CPR\x1C00926\x1CG2008\x1C\x1C20081001\x1C500.00\x1C\x1CMonthly
+    TV Monitoring\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00435636
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB17.8791
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Media Monitor
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Puerto Rico
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: Box 32 Calle Amarillo 1738
+  - name: PAYEE STREET 2
+    number: '14'
+    value: El Senorial
+  - name: PAYEE CITY
+    number: '15'
+    value: San Juan
+  - name: PAYEE STATE
+    number: '16'
+    value: PR
+  - name: PAYEE ZIP
+    number: '17'
+    value: 00926
+  - name: ELECTION CODE
+    number: '18'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081001'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '500.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Monthly TV Monitoring
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '25'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: ''
+- input: "SB17\x1CC00435636\x1CSB17.8793\x1C\x1C\x1CIND\x1C\x1COrtiz\x1CIvette\x1C\x1C\x1C\x1CCond.
+    Alegria Sur, Edif. 16\x1CApt. 102\x1CBayamon\x1CPR\x1C00957\x1CG2008\x1C\x1C20081008\x1C287.97\x1C\x1CTolls
+    and Meals Reimbursement\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00435636
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB17.8793
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Ortiz
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Ivette
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: Cond. Alegria Sur, Edif. 16
+  - name: PAYEE STREET 2
+    number: '14'
+    value: Apt. 102
+  - name: PAYEE CITY
+    number: '15'
+    value: Bayamon
+  - name: PAYEE STATE
+    number: '16'
+    value: PR
+  - name: PAYEE ZIP
+    number: '17'
+    value: 00957
+  - name: ELECTION CODE
+    number: '18'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081008'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '287.97'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Tolls and Meals Reimbursement
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '25'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: ''
+- input: "SB17\x1CC00435636\x1CSB17.8788\x1C\x1C\x1CIND\x1C\x1CPerez\x1CDennisse\x1C\x1C\x1C\x1CPMB
+    232\x1C1353 Road 19\x1CGuaynabo\x1CPR\x1C00966\x1CG2008\x1C\x1C20081001\x1C3720.00\x1C\x1C\x1C001\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00435636
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB17.8788
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Perez
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Dennisse
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: PMB 232
+  - name: PAYEE STREET 2
+    number: '14'
+    value: 1353 Road 19
+  - name: PAYEE CITY
+    number: '15'
+    value: Guaynabo
+  - name: PAYEE STATE
+    number: '16'
+    value: PR
+  - name: PAYEE ZIP
+    number: '17'
+    value: 00966
+  - name: ELECTION CODE
+    number: '18'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081001'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '3720.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: ''
+  - name: CATEGORY CODE
+    number: '24'
+    value: '001'
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '25'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: ''
+- input: "SB17\x1CC00435636\x1CSB17.8819\x1C\x1C\x1CIND\x1C\x1CPerez\x1CDennisse\x1C\x1C\x1C\x1CPMB
+    232\x1C1353 Road 19\x1CGuaynabo\x1CPR\x1C00966\x1CG2008\x1C\x1C20081001\x1C2500.00\x1C\x1CExpenses\x1C001\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00435636
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB17.8819
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Perez
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Dennisse
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: PMB 232
+  - name: PAYEE STREET 2
+    number: '14'
+    value: 1353 Road 19
+  - name: PAYEE CITY
+    number: '15'
+    value: Guaynabo
+  - name: PAYEE STATE
+    number: '16'
+    value: PR
+  - name: PAYEE ZIP
+    number: '17'
+    value: 00966
+  - name: ELECTION CODE
+    number: '18'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081001'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '2500.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Expenses
+  - name: CATEGORY CODE
+    number: '24'
+    value: '001'
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '25'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: ''
+- input: "SB17\x1CC00435636\x1CSB17.8800\x1C\x1C\x1CIND\x1C\x1CPierluisi\x1CCaridad\x1C\x1C\x1C\x1CPMB
+    301\x1C1353 Road 19\x1CGuaynabo\x1CPR\x1C00966\x1CG2008\x1C\x1C20081008\x1C20.62\x1C\x1COffice
+    Supplies\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00435636
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB17.8800
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Pierluisi
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Caridad
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: PMB 301
+  - name: PAYEE STREET 2
+    number: '14'
+    value: 1353 Road 19
+  - name: PAYEE CITY
+    number: '15'
+    value: Guaynabo
+  - name: PAYEE STATE
+    number: '16'
+    value: PR
+  - name: PAYEE ZIP
+    number: '17'
+    value: 00966
+  - name: ELECTION CODE
+    number: '18'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081008'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '20.62'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Office Supplies
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '25'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: ''
+- input: "SB17\x1CC00435636\x1CSB17.8818\x1C\x1C\x1CCAN\x1C\x1CPierluisi\x1CPedro\x1C\x1C\x1C\x1CPMB
+    232, 1353 Road 19\x1C\x1CGuaynabo\x1CPR\x1C00966\x1CG2008\x1C\x1C20081008\x1C381.02\x1C\x1CTravel
+    expense reimbursement\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CH\x1CPR\x1C01\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00435636
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB17.8818
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: CAN
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Pierluisi
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Pedro
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: PMB 232, 1353 Road 19
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Guaynabo
+  - name: PAYEE STATE
+    number: '16'
+    value: PR
+  - name: PAYEE ZIP
+    number: '17'
+    value: 00966
+  - name: ELECTION CODE
+    number: '18'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081008'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '381.02'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Travel expense reimbursement
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '25'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '35'
+    value: H
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '36'
+    value: PR
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '37'
+    value: '01'
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: ''
+- input: "SB17\x1CC00435636\x1CSB17.8783\x1C\x1C\x1CIND\x1C\x1CPlus\x1CSigns\x1C\x1C\x1C\x1CPO
+    Box 51917\x1C\x1CToa Baja\x1CPR\x1C00950\x1CG2008\x1C\x1C20081001\x1C475.00\x1C\x1C\x1C004\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00435636
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB17.8783
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Plus
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Signs
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: PO Box 51917
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Toa Baja
+  - name: PAYEE STATE
+    number: '16'
+    value: PR
+  - name: PAYEE ZIP
+    number: '17'
+    value: 00950
+  - name: ELECTION CODE
+    number: '18'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081001'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '475.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: ''
+  - name: CATEGORY CODE
+    number: '24'
+    value: '004'
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '25'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: ''
+- input: "SB17\x1CC00435636\x1CSB17.8813\x1C\x1C\x1CIND\x1C\x1CPopular de Puerto Rico\x1CBanco\x1C\x1C\x1C\x1CPO
+    Box 362708\x1C\x1CSan Juan\x1CPR\x1C00936\x1CG2008\x1C\x1C20081001\x1C118.25\x1C\x1CChecks
+    reorder\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00435636
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB17.8813
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Popular de Puerto Rico
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Banco
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: PO Box 362708
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: San Juan
+  - name: PAYEE STATE
+    number: '16'
+    value: PR
+  - name: PAYEE ZIP
+    number: '17'
+    value: 00936
+  - name: ELECTION CODE
+    number: '18'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081001'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '118.25'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Checks reorder
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '25'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: ''
+- input: "SB17\x1CC00435636\x1CSB17.8814\x1C\x1C\x1CIND\x1C\x1CPopular de Puerto Rico\x1CBanco\x1C\x1C\x1C\x1CPO
+    Box 362708\x1C\x1CSan Juan\x1CPR\x1C00936\x1CG2008\x1C\x1C20081001\x1C74.83\x1C\x1CCredit
+    Cards Bank Fee\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00435636
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB17.8814
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Popular de Puerto Rico
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Banco
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: PO Box 362708
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: San Juan
+  - name: PAYEE STATE
+    number: '16'
+    value: PR
+  - name: PAYEE ZIP
+    number: '17'
+    value: 00936
+  - name: ELECTION CODE
+    number: '18'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081001'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '74.83'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Credit Cards Bank Fee
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '25'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: ''
+- input: "SB17\x1CC00435636\x1CSB17.8815\x1C\x1C\x1CIND\x1C\x1CPopular de Puerto Rico\x1CBanco\x1C\x1C\x1C\x1CPO
+    Box 362708\x1C\x1CSan Juan\x1CPR\x1C00936\x1CG2008\x1C\x1C20081001\x1C32.00\x1C\x1CCredit
+    Cards Bank Fee\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00435636
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB17.8815
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Popular de Puerto Rico
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Banco
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: PO Box 362708
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: San Juan
+  - name: PAYEE STATE
+    number: '16'
+    value: PR
+  - name: PAYEE ZIP
+    number: '17'
+    value: 00936
+  - name: ELECTION CODE
+    number: '18'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081001'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '32.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Credit Cards Bank Fee
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '25'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: ''
+- input: "SB17\x1CC00435636\x1CSB17.8816\x1C\x1C\x1CIND\x1C\x1CPopular de Puerto Rico\x1CBanco\x1C\x1C\x1C\x1CPO
+    Box 362708\x1C\x1CSan Juan\x1CPR\x1C00936\x1CG2008\x1C\x1C20081001\x1C14.00\x1C\x1CCredit
+    Card Machine Monthly Fee\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00435636
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB17.8816
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Popular de Puerto Rico
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Banco
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: PO Box 362708
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: San Juan
+  - name: PAYEE STATE
+    number: '16'
+    value: PR
+  - name: PAYEE ZIP
+    number: '17'
+    value: 00936
+  - name: ELECTION CODE
+    number: '18'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081001'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '14.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Credit Card Machine Monthly Fee
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '25'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: ''
+- input: "SB17\x1CC00435636\x1CSB17.8817\x1C\x1C\x1CIND\x1C\x1CPopular de Puerto Rico\x1CBanco\x1C\x1C\x1C\x1CPO
+    Box 362708\x1C\x1CSan Juan\x1CPR\x1C00936\x1CG2008\x1C\x1C20081015\x1C30.00\x1C\x1CWeb
+    cash management bank fee\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00435636
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB17.8817
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Popular de Puerto Rico
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Banco
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: PO Box 362708
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: San Juan
+  - name: PAYEE STATE
+    number: '16'
+    value: PR
+  - name: PAYEE ZIP
+    number: '17'
+    value: 00936
+  - name: ELECTION CODE
+    number: '18'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081015'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '30.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Web cash management bank fee
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '25'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: ''
+- input: "SB17\x1CC00435636\x1CSB17.8799\x1C\x1C\x1CIND\x1C\x1CProduct\x1CD&H\x1C\x1C\x1C\x1CPO
+    Box 600\x1C\x1CLuquillo\x1CPR\x1C00773\x1CG2008\x1C\x1C20081008\x1C181.00\x1C\x1CWater\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00435636
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB17.8799
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Product
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: D&H
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: PO Box 600
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Luquillo
+  - name: PAYEE STATE
+    number: '16'
+    value: PR
+  - name: PAYEE ZIP
+    number: '17'
+    value: '00773'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081008'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '181.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Water
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '25'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: ''
+- input: "SB17\x1CC00435636\x1CSB17.8790\x1C\x1C\x1CIND\x1C\x1CProperties\x1CR&B\x1C\x1C\x1C\x1CPO
+    Box 195577\x1C\x1CSan Juan\x1CPR\x1C00919\x1CG2008\x1C\x1C20081001\x1C2000.00\x1C\x1CMonthly
+    Rent\x1C001\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00435636
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB17.8790
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Properties
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: R&B
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: PO Box 195577
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: San Juan
+  - name: PAYEE STATE
+    number: '16'
+    value: PR
+  - name: PAYEE ZIP
+    number: '17'
+    value: 00919
+  - name: ELECTION CODE
+    number: '18'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081001'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '2000.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Monthly Rent
+  - name: CATEGORY CODE
+    number: '24'
+    value: '001'
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '25'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: ''
+- input: "SB17\x1CC00435636\x1CSB17.8827\x1C\x1C\x1CIND\x1C\x1CRest\x1CRioja\x1C\x1C\x1C\x1C1431
+    Larimer\x1C\x1CDenver\x1CCO\x1C80202\x1CG2008\x1C\x1C20081008\x1C237.95\x1C\x1CDinner
+    meeting\x1C002\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00435636
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB17.8827
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Rest
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Rioja
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 1431 Larimer
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Denver
+  - name: PAYEE STATE
+    number: '16'
+    value: CO
+  - name: PAYEE ZIP
+    number: '17'
+    value: '80202'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081008'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '237.95'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Dinner meeting
+  - name: CATEGORY CODE
+    number: '24'
+    value: '002'
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '25'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: ''
+- input: "SB17\x1CC00435636\x1CSB17.8804\x1C\x1C\x1CIND\x1C\x1CRoman\x1CJorge\x1C\x1C\x1C\x1CPrimavera
+    80, Praderas Morovis\x1C\x1CMorovis\x1CPR\x1C00687\x1CG2008\x1C\x1C20081008\x1C271.46\x1C\x1CMeals
+    Reimbursement\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00435636
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB17.8804
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Roman
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Jorge
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: Primavera 80, Praderas Morovis
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Morovis
+  - name: PAYEE STATE
+    number: '16'
+    value: PR
+  - name: PAYEE ZIP
+    number: '17'
+    value: 00687
+  - name: ELECTION CODE
+    number: '18'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081008'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '271.46'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Meals Reimbursement
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '25'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: ''
+- input: "SB17\x1CC00435636\x1CSB17.8808\x1C\x1C\x1CIND\x1C\x1CService Center\x1CGulf\x1C\x1C\x1C\x1CCarretera
+    Militar Km. 99.1\x1C\x1CQuebradillas\x1CPR\x1C00678\x1CG2008\x1C\x1C20081010\x1C1849.16\x1C\x1CGasoline\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00435636
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB17.8808
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Service Center
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Gulf
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: Carretera Militar Km. 99.1
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Quebradillas
+  - name: PAYEE STATE
+    number: '16'
+    value: PR
+  - name: PAYEE ZIP
+    number: '17'
+    value: 00678
+  - name: ELECTION CODE
+    number: '18'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081010'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '1849.16'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Gasoline
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '25'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: ''
+- input: "SB17\x1CC00435636\x1CSB17.8792\x1C\x1C\x1CIND\x1C\x1CService Station\x1CHipodromo\x1C\x1C\x1C\x1CFernandez
+    Juncos 1319, Pda. 20\x1C\x1CSan Juan\x1CPR\x1C00909\x1CG2008\x1C\x1C20081008\x1C726.66\x1C\x1CGasoline\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00435636
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB17.8792
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Service Station
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Hipodromo
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: Fernandez Juncos 1319, Pda. 20
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: San Juan
+  - name: PAYEE STATE
+    number: '16'
+    value: PR
+  - name: PAYEE ZIP
+    number: '17'
+    value: 00909
+  - name: ELECTION CODE
+    number: '18'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081008'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '726.66'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Gasoline
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '25'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: ''
+- input: "SB17\x1CC00435636\x1CSB17.8798\x1C\x1C\x1CIND\x1C\x1CService Station\x1CHipodromo\x1C\x1C\x1C\x1CFernandez
+    Juncos 1319, Pda. 20\x1C\x1CSan Juan\x1CPR\x1C00909\x1CG2008\x1C\x1C20081008\x1C591.42\x1C\x1CGasoline\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00435636
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB17.8798
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Service Station
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Hipodromo
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: Fernandez Juncos 1319, Pda. 20
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: San Juan
+  - name: PAYEE STATE
+    number: '16'
+    value: PR
+  - name: PAYEE ZIP
+    number: '17'
+    value: 00909
+  - name: ELECTION CODE
+    number: '18'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081008'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '591.42'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Gasoline
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '25'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: ''
+- input: "SB17\x1CC00435636\x1CSB17.8821\x1C\x1C\x1CIND\x1C\x1CSheraton\x1CFour Points\x1C\x1C\x1C\x1C6363
+    East Hampden Ave.\x1C\x1CDenver\x1CCO\x1C80222\x1CG2008\x1C\x1C20081008\x1C723.05\x1C\x1CHotel
+    for Candidate Travel expense\x1C002\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00435636
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB17.8821
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Sheraton
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Four Points
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 6363 East Hampden Ave.
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Denver
+  - name: PAYEE STATE
+    number: '16'
+    value: CO
+  - name: PAYEE ZIP
+    number: '17'
+    value: '80222'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081008'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '723.05'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Hotel for Candidate Travel expense
+  - name: CATEGORY CODE
+    number: '24'
+    value: '002'
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '25'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: ''
+- input: "SB17\x1CC00435636\x1CSB17.8825\x1C\x1C\x1CIND\x1C\x1CTaylor & Prima\x1CKevin\x1C\x1C\x1C\x1C1106
+    14th St.\x1C\x1CDenver\x1CCO\x1C80202\x1CG2008\x1C\x1C20081008\x1C410.00\x1C\x1CLuncheon
+    meeting\x1C002\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00435636
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB17.8825
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Taylor & Prima
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Kevin
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 1106 14th St.
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Denver
+  - name: PAYEE STATE
+    number: '16'
+    value: CO
+  - name: PAYEE ZIP
+    number: '17'
+    value: '80202'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081008'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '410.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Luncheon meeting
+  - name: CATEGORY CODE
+    number: '24'
+    value: '002'
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '25'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: ''
+- input: "SB17\x1CC00435636\x1CSB17.8823\x1C\x1C\x1CIND\x1C\x1CThe Steakhouse\x1CMortons\x1C\x1C\x1C\x1C8480
+    E Belleview Ave.\x1C\x1CEnglewood\x1CCO\x1C80111\x1CG2008\x1C\x1C20081008\x1C265.85\x1C\x1CDinner
+    meeting with Campaign staff\x1C002\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00435636
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB17.8823
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: The Steakhouse
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Mortons
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 8480 E Belleview Ave.
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Englewood
+  - name: PAYEE STATE
+    number: '16'
+    value: CO
+  - name: PAYEE ZIP
+    number: '17'
+    value: '80111'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081008'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '265.85'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Dinner meeting with Campaign staff
+  - name: CATEGORY CODE
+    number: '24'
+    value: '002'
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '25'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: ''
+sourceurl: !!python/unicode 20090114
+type: single
