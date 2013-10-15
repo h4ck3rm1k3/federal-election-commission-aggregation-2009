@@ -1,0 +1,132 @@
+countraw: 3
+countrows: 1
+filename: 405470.fec
+header: {}
+rows:
+- input: "F2N\x1CH0IL05153\x1CWheelan\x1CCharles\x1CJ \x1C\x1C\x1C\x1C839 W Fullerton
+    Ave\x1C\x1CChicago\x1CIL\x1C60614\x1CDEM\x1CH\x1CIL\x1C05\x1C2009\x1CC00457713\x1CWheelan
+    for Congress\x1CPO Box 146487\x1C\x1CChicago\x1CIL\x1C60614\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C0.00\x1C0.00\x1CWheelan\x1CCharles\x1CJ\x1C\x1C\x1C20090222"
+  record: fec.version.v6_2.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2N
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H0IL05153
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Wheelan
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: Charles
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: 'J '
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: 839 W Fullerton Ave
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Chicago
+  - name: CANDIDATE STATE
+    number: '12'
+    value: IL
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '60614'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: DEM
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: IL
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '05'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2009'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00457713
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: Wheelan for Congress
+  - name: PCC STREET 1
+    number: '21'
+    value: PO Box 146487
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: Chicago
+  - name: PCC STATE
+    number: '24'
+    value: IL
+  - name: PCC ZIP
+    number: '25'
+    value: '60614'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: ''
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: AUTH STREET 1
+    number: '28'
+    value: ''
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: ''
+  - name: AUTH STATE
+    number: '31'
+    value: ''
+  - name: AUTH ZIP
+    number: '32'
+    value: ''
+  - name: PRI PERSONAL FUNDS DECLARED
+    number: '33'
+    value: '0.00'
+  - name: GEN PERSONAL FUNDS DECLARED
+    number: '34'
+    value: '0.00'
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '35'
+    value: Wheelan
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '36'
+    value: Charles
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '37'
+    value: J
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '38'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '39'
+    value: ''
+  - name: DATE SIGNED
+    number: '40'
+    value: '20090222'
+sourceurl: !!python/unicode 20090224
+type: single
