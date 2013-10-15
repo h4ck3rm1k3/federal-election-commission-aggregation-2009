@@ -1,0 +1,132 @@
+countraw: 3
+countrows: 1
+filename: 403670.fec
+header: {}
+rows:
+- input: "F2N\x1CH2CT02112\x1CCourtney\x1CJoseph\x1CD\x1C\x1C\x1C\x1C9 Tobias Court\x1C\x1CVernon\x1CCT\x1C06066\x1CDEM\x1CH\x1CCT\x1C02\x1C2010\x1CC00410233\x1CCOURTNEY
+    FOR CONGRESS\x1C38 Risley Road\x1C\x1CVernon\x1CCT\x1C06066\x1CC00427112\x1CC00427112\x1CConnecticut
+    for Change\x1CP.O. Box 1372\x1CVernon\x1CCT\x1C06066\x1C0.00\x1C0.00\x1CCourtney\x1CJoe\x1C\x1C\x1C\x1C20090215"
+  record: fec.version.v6_2.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2N
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H2CT02112
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Courtney
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: Joseph
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: D
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: 9 Tobias Court
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Vernon
+  - name: CANDIDATE STATE
+    number: '12'
+    value: CT
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '06066'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: DEM
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: CT
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '02'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2010'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00410233
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: COURTNEY FOR CONGRESS
+  - name: PCC STREET 1
+    number: '21'
+    value: 38 Risley Road
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: Vernon
+  - name: PCC STATE
+    number: '24'
+    value: CT
+  - name: PCC ZIP
+    number: '25'
+    value: '06066'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: C00427112
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: C00427112
+  - name: AUTH STREET 1
+    number: '28'
+    value: Connecticut for Change
+  - name: AUTH STREET 2
+    number: '29'
+    value: P.O. Box 1372
+  - name: AUTH CITY
+    number: '30'
+    value: Vernon
+  - name: AUTH STATE
+    number: '31'
+    value: CT
+  - name: AUTH ZIP
+    number: '32'
+    value: '06066'
+  - name: PRI PERSONAL FUNDS DECLARED
+    number: '33'
+    value: '0.00'
+  - name: GEN PERSONAL FUNDS DECLARED
+    number: '34'
+    value: '0.00'
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '35'
+    value: Courtney
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '36'
+    value: Joe
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '37'
+    value: ''
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '38'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '39'
+    value: ''
+  - name: DATE SIGNED
+    number: '40'
+    value: '20090215'
+sourceurl: !!python/unicode 20090215
+type: single
