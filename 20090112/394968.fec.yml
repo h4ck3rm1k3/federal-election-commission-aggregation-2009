@@ -1,0 +1,285 @@
+countraw: 3
+countrows: 1
+filename: 394968.fec
+header: {}
+rows:
+- input: "F1N\x1CC00340745\x1C\x1CWaddell & Reed Financial, Inc. Political Action
+    Committee\x1C\x1C6300 Lamar Ave\x1C\x1COverland Park\x1CKS\x1C66202\x1Cnmcintosh@waddell.com\x1C\x1C9132361930\x1C20090112\x1CConnealy\x1CDaniel\x1CP.\x1C\x1C\x1C20090112\x1CE\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CC\x1C\x1C\x1CWaddell
+    & Reed Financial, Inc.\x1C6300 Lamar Avenue\x1C\x1COverland Park\x1CKS\x1C66202\x1CORG\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CConnealy\x1CDaniel\x1CP.\x1C\x1C\x1C6300
+    Lamar Ave\x1C\x1COverland Park\x1CKS\x1C66202\x1CTreasurer\x1C9132362645\x1CMcIntosh\x1CNicole\x1C\x1C\x1C\x1C6300
+    Lamar Ave.\x1C\x1COverland Park\x1CKS\x1C66202\x1CAssistant Treasurer\x1C9132361880\x1CUMB
+    Bank\x1C1010 Grand Blvd.\x1C\x1CKansas City\x1CMO\x1C64106\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.F1
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1N
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00340745
+  - name: CHANGE OF COMMITTEE NAME
+    number: '3'
+    value: ''
+  - name: COMMITTEE NAME
+    number: '4'
+    value: Waddell & Reed Financial, Inc. Political Action Committee
+  - name: CHANGE OF ADDRESS
+    number: '5'
+    value: ''
+  - name: STREET 1
+    number: '6'
+    value: 6300 Lamar Ave
+  - name: STREET 2
+    number: '7'
+    value: ''
+  - name: CITY
+    number: '8'
+    value: Overland Park
+  - name: STATE
+    number: '9'
+    value: KS
+  - name: ZIP
+    number: '10'
+    value: '66202'
+  - name: COMMITTEE EMAIL
+    number: '11'
+    value: nmcintosh@waddell.com
+  - name: COMMITTEE WEB URL
+    number: '12'
+    value: ''
+  - name: COMMITTEE FAX NUMBER
+    number: '13'
+    value: '9132361930'
+  - name: SUBMISSION DATE
+    number: '14'
+    value: '20090112'
+  - name: SIGNATURE LAST NAME
+    number: '15'
+    value: Connealy
+  - name: SIGNATURE FIRST NAME
+    number: '16'
+    value: Daniel
+  - name: SIGNATURE MIDDLE NAME
+    number: '17'
+    value: P.
+  - name: SIGNATURE PREFIX
+    number: '18'
+    value: ''
+  - name: SIGNATURE SUFFIX
+    number: '19'
+    value: ''
+  - name: DATE SIGNED
+    number: '20'
+    value: '20090112'
+  - name: COMMITTEE TYPE
+    number: 21-5.
+    value: E
+  - name: CANDIDATE ID NUMBER
+    number: 22-5.
+    value: ''
+  - name: CANDIDATE LAST NAME
+    number: 23-5.
+    value: ''
+  - name: CANDIDATE FIRST NAME
+    number: 24-5.
+    value: ''
+  - name: CANDIDATE MIDDLE NAME
+    number: 25-5.
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: 26-5.
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: 27-5.
+    value: ''
+  - name: CANDIDATE OFFICE
+    number: 28-5.
+    value: ''
+  - name: CANDIDATE STATE
+    number: 29-5.
+    value: ''
+  - name: CANDIDATE DISTRICT
+    number: 30-5.
+    value: ''
+  - name: PARTY CODE
+    number: 31-5.
+    value: ''
+  - name: PARTY TYPE
+    number: 32-5.
+    value: ''
+  - name: ORGANIZATION TYPE
+    number: 33-5 (e).
+    value: C
+  - name: LEADERSHIP PAC
+    number: 34-5 (f).
+    value: ''
+  - name: AFFILIATED Committee ID NUM
+    number: 35-6.
+    value: ''
+  - name: AFFILIATED Committee NAME
+    number: 36-6.
+    value: Waddell & Reed Financial, Inc.
+  - name: AFFILIATED STREET 1
+    number: 37-6.
+    value: 6300 Lamar Avenue
+  - name: AFFILIATED STREET 2
+    number: 38-6.
+    value: ''
+  - name: AFFILIATED CITY
+    number: 39-6.
+    value: Overland Park
+  - name: AFFILIATED STATE
+    number: 40-6.
+    value: KS
+  - name: AFFILIATED ZIP
+    number: 41-6.
+    value: '66202'
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 42-6.
+    value: ORG
+  - name: CUSTODIAN LAST NAME
+    number: 43-7.
+    value: ''
+  - name: CUSTODIAN FIRST NAME
+    number: 44-7.
+    value: ''
+  - name: CUSTODIAN MIDDLE NAME
+    number: 45-7.
+    value: ''
+  - name: CUSTODIAN PREFIX
+    number: 46-7.
+    value: ''
+  - name: CUSTODIAN SUFFIX
+    number: 47-7.
+    value: ''
+  - name: CUSTODIAN STREET 1
+    number: 48-7.
+    value: ''
+  - name: CUSTODIAN STREET 2
+    number: 49-7.
+    value: ''
+  - name: CUSTODIAN CITY
+    number: 50-7.
+    value: ''
+  - name: CUSTODIAN STATE
+    number: 51-7.
+    value: ''
+  - name: CUSTODIAN ZIP
+    number: 52-7.
+    value: ''
+  - name: CUSTODIAN TITLE
+    number: 53-7.
+    value: ''
+  - name: CUSTODIAN TELEPHONE
+    number: 54-7.
+    value: ''
+  - name: TREASURER LAST NAME
+    number: 55-8.
+    value: Connealy
+  - name: TREASURER FIRST NAME
+    number: 56-8.
+    value: Daniel
+  - name: TREASURER MIDDLE NAME
+    number: 57-8.
+    value: P.
+  - name: TREASURER PREFIX
+    number: 58-8.
+    value: ''
+  - name: TREASURER SUFFIX
+    number: 59-8.
+    value: ''
+  - name: TREASURER STREET 1
+    number: 60-8.
+    value: 6300 Lamar Ave
+  - name: TREASURER STREET 2
+    number: 61-8.
+    value: ''
+  - name: TREASURER CITY
+    number: 62-8.
+    value: Overland Park
+  - name: TREASURER STATE
+    number: 63-8.
+    value: KS
+  - name: TREASURER ZIP
+    number: 64-8.
+    value: '66202'
+  - name: TREASURER TITLE
+    number: 65-8.
+    value: Treasurer
+  - name: TREASURER TELEPHONE
+    number: 66-8.
+    value: '9132362645'
+  - name: AGENT LAST NAME
+    number: 67-8.
+    value: McIntosh
+  - name: AGENT FIRST NAME
+    number: 68-8.
+    value: Nicole
+  - name: AGENT MIDDLE NAME
+    number: 69-8.
+    value: ''
+  - name: AGENT PREFIX
+    number: 70-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 71-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 72-8.
+    value: 6300 Lamar Ave.
+  - name: AGENT STREET 2
+    number: 73-8.
+    value: ''
+  - name: AGENT CITY
+    number: 74-8.
+    value: Overland Park
+  - name: AGENT STATE
+    number: 75-8.
+    value: KS
+  - name: AGENT ZIP
+    number: 76-8.
+    value: '66202'
+  - name: AGENT TITLE
+    number: 77-8.
+    value: Assistant Treasurer
+  - name: AGENT TELEPHONE
+    number: 78-8.
+    value: '9132361880'
+  - name: BANK NAME
+    number: 79-9. a)
+    value: UMB Bank
+  - name: BANK STREET 1
+    number: 80-9. a)
+    value: 1010 Grand Blvd.
+  - name: BANK STREET 2
+    number: 81-9. a)
+    value: ''
+  - name: BANK CITY
+    number: 82-9. a)
+    value: Kansas City
+  - name: BANK STATE
+    number: 83-9. a)
+    value: MO
+  - name: BANK ZIP
+    number: 84-9. a)
+    value: '64106'
+  - name: BANK NAME
+    number: 85-9. b)
+    value: ''
+  - name: BANK STREET 1
+    number: 86-9. b)
+    value: ''
+  - name: BANK STREET 2
+    number: 87-9. b)
+    value: ''
+  - name: BANK CITY
+    number: 88-9. b)
+    value: ''
+  - name: BANK STATE
+    number: 89-9. b)
+    value: ''
+  - name: BANK ZIP
+    number: 90-9. b)
+    value: ''
+sourceurl: !!python/unicode 20090112
+type: single
