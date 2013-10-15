@@ -1,0 +1,1110 @@
+countraw: 14
+countrows: 11
+filename: 400071.fec
+header: {}
+rows:
+- input: "\"F3XN\"\x1C\"C00348359\"\x1C\"National Conservative Campaign Fund\"\x1C\"\"\x1C\"One
+    Massachusetts Ave NW Suite 630\"\x1C\"\"\x1C\"Washington\"\x1C\"DC\"\x1C\"20001\"\x1C\"YE\"\x1C\"\"\x1C\x1C\"DC\"\x1C20081125\x1C20081231\x1C\"X\"\x1C\"Carven\"\x1C\"P.\"\x1C\"Jay\"\x1C\"\"\x1C\"\"\x1C20090130\x1C665.32\x1C605\x1C1270.32\x1C\x1C1270.32\x1C\x1C15059.38\x1C200\x1C405\x1C605\x1C\x1C\x1C605\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C605\x1C605\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C605\x1C\x1C605\x1C\x1C\x1C\x1C7499.18\x1C2008\x1C162757.95\x1C170257.13\x1C168486.81\x1C1770.32\x1C119290\x1C27502.76\x1C147292.76\x1C\x1C11794.74\x1C159087.5\x1C\x1C\x1C\x1C\x1C\x1C3670.45\x1C\x1C\x1C\x1C162757.95\x1C162757.95\x1C\x1C\x1C62986.81\x1C62986.81\x1C\x1C105500\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C168486.81\x1C168486.81\x1C159087.5\x1C\x1C159087.5\x1C62986.81\x1C\x1C62986.81"
+  record: fec.version.v6_2.F3X
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F3XN
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00348359
+  - name: COMMITTEE NAME
+    number: '3'
+    value: National Conservative Campaign Fund
+  - name: CHANGE OF ADDRESS
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: One Massachusetts Ave NW Suite 630
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Washington
+  - name: STATE
+    number: '8'
+    value: DC
+  - name: ZIP
+    number: '9'
+    value: '20001'
+  - name: REPORT CODE
+    number: '10'
+    value: YE
+  - name: ELECTION CODE
+    number: '11'
+    value: ''
+  - name: DATE OF ELECTION
+    number: '12'
+    value: ''
+  - name: STATE OF ELECTION
+    number: '13'
+    value: DC
+  - name: COVERAGE FROM DATE
+    number: '14'
+    value: '20081125'
+  - name: COVERAGE THROUGH DATE
+    number: '15'
+    value: '20081231'
+  - name: QUALIFIED COMMITTEE
+    number: '16'
+    value: X
+  - name: TREASURER LAST NAME
+    number: '17'
+    value: Carven
+  - name: TREASURER FIRST NAME
+    number: '18'
+    value: P.
+  - name: TREASURER MIDDLE NAME
+    number: '19'
+    value: Jay
+  - name: TREASURER PREFIX
+    number: '20'
+    value: ''
+  - name: TREASURER SUFFIX
+    number: '21'
+    value: ''
+  - name: DATE SIGNED
+    number: '22'
+    value: '20090130'
+  - name: Cash on Hand beginning
+    number: 23-6(b)
+    value: '665.32'
+  - name: Total Receipts
+    number: 24-6(c)
+    value: '605'
+  - name: Subtotal
+    number: 25-6(d)
+    value: '1270.32'
+  - name: Total Disbursements
+    number: 26-7.
+    value: ''
+  - name: Cash on Hand at Close
+    number: 27-8.
+    value: '1270.32'
+  - name: Debts to
+    number: 28-9.
+    value: ''
+  - name: Debts by
+    number: 29-10.
+    value: '15059.38'
+  - name: Itemized
+    number: 30-11(a)i
+    value: '200'
+  - name: Unitemized
+    number: 31-11(a)ii
+    value: '405'
+  - name: Total
+    number: 32-11(a)iii
+    value: '605'
+  - name: Political Party Committees
+    number: 33-11(b)
+    value: ''
+  - name: Other Political Committees (PACs)
+    number: 34-11(c)
+    value: ''
+  - name: Total Contributions
+    number: 35-11(d)
+    value: '605'
+  - name: Transfers from Affiliated/Other Party Committees
+    number: 36-12.
+    value: ''
+  - name: All Loans Received
+    number: 37-13.
+    value: ''
+  - name: Loan Repayments Received
+    number: 38-14.
+    value: ''
+  - name: Offsets to Operating Expenditures (refunds)
+    number: 39-15.
+    value: ''
+  - name: Refunds of Federal Contributions
+    number: 40-16.
+    value: ''
+  - name: Other Federal Receipts (dividends)
+    number: 41-17.
+    value: ''
+  - name: Transfers from Nonfederal Account (H3)
+    number: 42-18(a)
+    value: ''
+  - name: Transfers from Non-Federal (Levin - H5)
+    number: 43-18(b)
+    value: ''
+  - name: Total Non-Federal Transfers (18a+18b)
+    number: 44-18(c)
+    value: ''
+  - name: Total Receipts
+    number: 45-19.
+    value: '605'
+  - name: Total Federal Receipts
+    number: 46-20.
+    value: '605'
+  - name: Federal Share
+    number: 47-21(a)i
+    value: ''
+  - name: Non-Federal Share
+    number: 48-21(a)ii
+    value: ''
+  - name: Other Federal Operating Expenditures
+    number: 49-21(b)
+    value: ''
+  - name: Total Operating Expenditures
+    number: 50-21(c)
+    value: ''
+  - name: Transfers to Affiliated/Other Party Committees
+    number: 51-22.
+    value: ''
+  - name: Contributions to Federal Candidates/Committees
+    number: 52-23.
+    value: ''
+  - name: Independent Expenditures
+    number: 53-24.
+    value: ''
+  - name: Coordinated Expend made by Party Committees
+    number: 54-25.
+    value: ''
+  - name: Loan Repayments
+    number: 55-26.
+    value: ''
+  - name: Loans Made
+    number: 56-27.
+    value: ''
+  - name: Individuals/Persons
+    number: 57-28(a)
+    value: ''
+  - name: Political Party Committees
+    number: 58-28(b)
+    value: ''
+  - name: Other Political Committees
+    number: 59-28(c)
+    value: ''
+  - name: Total Contributions Refunds
+    number: 60-28(d)
+    value: ''
+  - name: Other Disbursements
+    number: 61-29.
+    value: ''
+  - name: Shared Federal Activity (H6) Fed Share
+    number: 62-30(a)i
+    value: ''
+  - name: Shared Federal Activity (H6) Non-Fed
+    number: 63-30(a)ii
+    value: ''
+  - name: Non-Allocable 100% Fed Election Activity
+    number: 64-30(b)
+    value: ''
+  - name: Total Federal Election Activity
+    number: 65-30(c)
+    value: ''
+  - name: Total Disbursements
+    number: 66-31.
+    value: ''
+  - name: Total Federal Disbursements
+    number: 67-32.
+    value: ''
+  - name: Total Contributions
+    number: 68-33.
+    value: '605'
+  - name: Total Contribution Refunds
+    number: 69-34.
+    value: ''
+  - name: Net Contributions
+    number: 70-35.
+    value: '605'
+  - name: Total Federal Operating Expenditures
+    number: 71-36.
+    value: ''
+  - name: Offsets to Operating Expenditures
+    number: 72-37.
+    value: ''
+  - name: Net Operating Expenditures
+    number: 73-38.
+    value: ''
+  - name: Cash on Hand Jan 1, 19
+    number: 74-6(a)
+    value: '7499.18'
+  - name: Year for Above
+    number: '75'
+    value: '2008'
+  - name: Total Receipts
+    number: 76-6(c)
+    value: '162757.95'
+  - name: Subtotal
+    number: 77-6(d)
+    value: '170257.13'
+  - name: Total disbursements
+    number: 78-7.
+    value: '168486.81'
+  - name: Cash on Hand Close
+    number: 79-8.
+    value: '1770.32'
+  - name: Itemized
+    number: 80-11(a)i
+    value: '119290'
+  - name: Unitemized
+    number: 81-11(a)ii
+    value: '27502.76'
+  - name: Total
+    number: 82-11(a)iii
+    value: '147292.76'
+  - name: Political Party committees
+    number: 83-11(b)
+    value: ''
+  - name: Other Political Committees (PACs)
+    number: 84-11(c)
+    value: '11794.74'
+  - name: Total Contributions
+    number: 85-11(d)
+    value: '159087.5'
+  - name: Transfers from Affiliated/Other Party Committees
+    number: 86-12.
+    value: ''
+  - name: All Loans Received
+    number: 87-13.
+    value: ''
+  - name: Loan Repayments Received
+    number: 88-14.
+    value: ''
+  - name: Offsets to Operating Expenditures (refunds)
+    number: 89-15.
+    value: ''
+  - name: Refunds of Federal Contributions
+    number: 90-16.
+    value: ''
+  - name: Other Federal Receipts (dividends)
+    number: 91-17.
+    value: '3670.45'
+  - name: Transfers from Nonfederal Account (H3)
+    number: 92-18(a)
+    value: ''
+  - name: Transfers from Non-Federal (Levin - H5)
+    number: 93-18(b)
+    value: ''
+  - name: Total Non-Federal Transfers (18a+18b)
+    number: 94-18(c)
+    value: ''
+  - name: Total Receipts
+    number: 95-19.
+    value: '162757.95'
+  - name: Total Federal Receipts
+    number: 96-20.
+    value: '162757.95'
+  - name: Federal Share
+    number: 97-21(a)i
+    value: ''
+  - name: Non-Federal Share
+    number: 98-21(a)ii
+    value: ''
+  - name: Other Federal Operating Expenditures
+    number: 99-21(b)
+    value: '62986.81'
+  - name: Total operating Expenditures
+    number: 100-21(c)
+    value: '62986.81'
+  - name: Transfers to Affiliated/Other Party Committees
+    number: 101-22.
+    value: ''
+  - name: Contributions to Federal Candidates/Committees
+    number: 102-23.
+    value: '105500'
+  - name: Independent Expenditures
+    number: 103-24.
+    value: ''
+  - name: Coordinated Expend made by Party Committees
+    number: 104-25.
+    value: ''
+  - name: Loan Repayments Made
+    number: 105-26.
+    value: ''
+  - name: Loans Made
+    number: 106-27.
+    value: ''
+  - name: Individuals/Persons
+    number: 107-28(a)
+    value: ''
+  - name: Political Party Committees
+    number: 108-28(b)
+    value: ''
+  - name: Other Political Committees
+    number: 109-28(c)
+    value: ''
+  - name: Total contributions Refunds
+    number: 110-28(d)
+    value: ''
+  - name: Other Disbursements
+    number: 111-29.
+    value: ''
+  - name: Shared Federal Activity (H6) Fed Share
+    number: 112-30(a)i
+    value: ''
+  - name: Shared Federal Activity (H6) Non-Fed
+    number: 113-30(a)ii
+    value: ''
+  - name: Non-Allocable 100% Fed Election Activity
+    number: 114-30(b)
+    value: ''
+  - name: Total Federal Election Activity
+    number: 115-30(c)
+    value: ''
+  - name: Total Disbursements
+    number: 116-31.
+    value: '168486.81'
+  - name: Total Federal Disbursements
+    number: 117-32.
+    value: '168486.81'
+  - name: Total Contributions
+    number: 118-33.
+    value: '159087.5'
+  - name: Total Contribution Refunds
+    number: 119-34.
+    value: ''
+  - name: Net contributions
+    number: 120-35.
+    value: '159087.5'
+  - name: Total Federal Operating Expenditures
+    number: 121-36.
+    value: '62986.81'
+  - name: Offsets to Operating Expenditures
+    number: 122-37.
+    value: ''
+  - name: Net Operating Expenditures
+    number: 123-38.
+    value: '62986.81'
+- input: "\"SA11Ai\"\x1C\"C00348359\"\x1C\"SA11Ai-CN15617\"\x1C\"\"\x1C\"\"\x1C\"IND\"\x1C\"\"\x1C\"Kern\"\x1C\"Beverley\"\x1C\"R.\"\x1C\"Mrs.\"\x1C\"\"\x1C\"50
+    Biscayne Dr NE\"\x1C\"Apt 2115\"\x1C\"Atlanta\"\x1C\"GA\"\x1C\"30309\"\x1C\"G2008\"\x1C\"\"\x1C20081229\x1C200\x1C500\x1C\"15\"\x1C\"\"\x1C\"\"\x1C\"None\"\x1C\"retired\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\""
+  record: fec.version.v6_2.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11Ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00348359
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA11Ai-CN15617
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Kern
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Beverley
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: R.
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: Mrs.
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 50 Biscayne Dr NE
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: Apt 2115
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Atlanta
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: GA
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '30309'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20081229'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '200'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '500'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: None
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: retired
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: ''
+- input: "\"SD10\"\x1C\"C00348359\"\x1C\"SD10-INV1007\"\x1C\"ORG\"\x1C\"Eagle Publishing\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"1
+    Massachusetts Ave.\"\x1C\"\"\x1C\"Washington\"\x1C\"DC\"\x1C\"20001\"\x1C\"Invoice:
+    Mailing Labels PAC only Adminis\"\x1C63.15\x1C.00\x1C.00\x1C63.15"
+  record: fec.version.v6_2.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00348359
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10-INV1007
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Eagle Publishing
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 1 Massachusetts Ave.
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Washington
+  - name: CREDITOR STATE
+    number: '14'
+    value: DC
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '20001'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: 'Invoice: Mailing Labels PAC only Adminis'
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '63.15'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '63.15'
+- input: "\"SD10\"\x1C\"C00348359\"\x1C\"SD10-INV1075\"\x1C\"ORG\"\x1C\"Eagle Publishing\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"1
+    Massachusetts Ave.\"\x1C\"\"\x1C\"Washington\"\x1C\"DC\"\x1C\"20001\"\x1C\"Invoice:
+    Admin Assistance PAC Only Admin\"\x1C1850.40\x1C.00\x1C.00\x1C1850.40"
+  record: fec.version.v6_2.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00348359
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10-INV1075
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Eagle Publishing
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 1 Massachusetts Ave.
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Washington
+  - name: CREDITOR STATE
+    number: '14'
+    value: DC
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '20001'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: 'Invoice: Admin Assistance PAC Only Admin'
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '1850.40'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '1850.40'
+- input: "\"SD10\"\x1C\"C00348359\"\x1C\"SD10-INV1076\"\x1C\"ORG\"\x1C\"Eagle Direct\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"1
+    Massachusetts Ave. NW\"\x1C\"\"\x1C\"Washington\"\x1C\"DC\"\x1C\"20001\"\x1C\"Invoice:
+    Print and Mail PAC Fundraiser A\"\x1C3596.90\x1C.00\x1C.00\x1C3596.90"
+  record: fec.version.v6_2.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00348359
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10-INV1076
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Eagle Direct
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 1 Massachusetts Ave. NW
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Washington
+  - name: CREDITOR STATE
+    number: '14'
+    value: DC
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '20001'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: 'Invoice: Print and Mail PAC Fundraiser A'
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '3596.90'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '3596.90'
+- input: "\"SD10\"\x1C\"C00348359\"\x1C\"SD10-INV1073\"\x1C\"ORG\"\x1C\"Annapolis
+    Web Publishing Inc.\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"14 State Circle\"\x1C\"\"\x1C\"Annapolis\"\x1C\"MD\"\x1C\"21401\"\x1C\"Invoice:
+    Website Hosting/Update PAC Only\"\x1C600.00\x1C.00\x1C.00\x1C600.00"
+  record: fec.version.v6_2.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00348359
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10-INV1073
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Annapolis Web Publishing Inc.
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 14 State Circle
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Annapolis
+  - name: CREDITOR STATE
+    number: '14'
+    value: MD
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '21401'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: 'Invoice: Website Hosting/Update PAC Only'
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '600.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '600.00'
+- input: "\"SD10\"\x1C\"C00348359\"\x1C\"SD10-INV1098\"\x1C\"ORG\"\x1C\"Eagle Publishing\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"1
+    Massachusetts Ave.\"\x1C\"\"\x1C\"Washington\"\x1C\"DC\"\x1C\"20001\"\x1C\"Invoice:
+    Admin Assistance PAC Only Admi\"\x1C1850.40\x1C.00\x1C.00\x1C1850.40"
+  record: fec.version.v6_2.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00348359
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10-INV1098
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Eagle Publishing
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 1 Massachusetts Ave.
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Washington
+  - name: CREDITOR STATE
+    number: '14'
+    value: DC
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '20001'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: 'Invoice: Admin Assistance PAC Only Admi'
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '1850.40'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '1850.40'
+- input: "\"SD10\"\x1C\"C00348359\"\x1C\"SD10-INV1095\"\x1C\"IND\"\x1C\"\"\x1C\"Hollingsworth\"\x1C\"D.Jeffrey\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"1
+    Massachusetts Ave. NW\"\x1C\"\"\x1C\"Washington\"\x1C\"DC\"\x1C\"20001\"\x1C\"Invoice:
+    Postage for PAC House File Mail\"\x1C42.00\x1C.00\x1C.00\x1C42.00"
+  record: fec.version.v6_2.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00348359
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10-INV1095
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: Hollingsworth
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: D.Jeffrey
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 1 Massachusetts Ave. NW
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Washington
+  - name: CREDITOR STATE
+    number: '14'
+    value: DC
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '20001'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: 'Invoice: Postage for PAC House File Mail'
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '42.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '42.00'
+- input: "\"SD10\"\x1C\"C00348359\"\x1C\"SD10-INV1096\"\x1C\"ORG\"\x1C\"Eagle Publishing\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"1
+    Massachusetts Ave.\"\x1C\"\"\x1C\"Washington\"\x1C\"DC\"\x1C\"20001\"\x1C\"Invoice:
+    Admin Assistance PAC only Admi\"\x1C.00\x1C1850.40\x1C.00\x1C1850.40"
+  record: fec.version.v6_2.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00348359
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10-INV1096
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Eagle Publishing
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 1 Massachusetts Ave.
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Washington
+  - name: CREDITOR STATE
+    number: '14'
+    value: DC
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '20001'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: 'Invoice: Admin Assistance PAC only Admi'
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '1850.40'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '1850.40'
+- input: "\"SD10\"\x1C\"C00348359\"\x1C\"SD10-INV1092\"\x1C\"ORG\"\x1C\"Eagle Direct\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"1
+    Massachusetts Ave. NW\"\x1C\"\"\x1C\"Washington\"\x1C\"DC\"\x1C\"20001\"\x1C\"Invoice:
+    Winter NCCF Newsletter Mailing\"\x1C.00\x1C3355.73\x1C.00\x1C3355.73"
+  record: fec.version.v6_2.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00348359
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10-INV1092
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Eagle Direct
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 1 Massachusetts Ave. NW
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Washington
+  - name: CREDITOR STATE
+    number: '14'
+    value: DC
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '20001'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: 'Invoice: Winter NCCF Newsletter Mailing'
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '3355.73'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '3355.73'
+- input: "\"SD10\"\x1C\"C00348359\"\x1C\"SD10-INV1097\"\x1C\"ORG\"\x1C\"Eagle Publishing\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"1
+    Massachusetts Ave.\"\x1C\"\"\x1C\"Washington\"\x1C\"DC\"\x1C\"20001\"\x1C\"Invoice:
+    Admin Assistance PAC Only Admi\"\x1C.00\x1C1850.40\x1C.00\x1C1850.40"
+  record: fec.version.v6_2.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00348359
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10-INV1097
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Eagle Publishing
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 1 Massachusetts Ave.
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Washington
+  - name: CREDITOR STATE
+    number: '14'
+    value: DC
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '20001'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: 'Invoice: Admin Assistance PAC Only Admi'
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '1850.40'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '1850.40'
+sourceurl: !!python/unicode 20090130
+type: single
