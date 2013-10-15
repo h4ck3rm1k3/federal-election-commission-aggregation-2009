@@ -1,0 +1,195 @@
+countraw: 5
+countrows: 3
+filename: 393607.fec
+header: {}
+rows:
+- input: "F2N\x1CH8IL11113\x1CHalvorson\x1CDeborah\x1C'Debbie'\x1C\x1C\x1C\x1C565
+    Aberdeen Dr\x1C\x1CCrete\x1CIL\x1C60417\x1CDEM\x1CH\x1CIL\x1C11\x1C2010\x1CC00440016\x1CHalvorson
+    for Congress\x1CPO Box 1176\x1C\x1CCrete\x1CIL\x1C60417\x1CC00450882\x1CWomen
+    Lead Victory 2008\x1C430 South Capitol Street, SE\x1C\x1CWashington\x1CDC\x1C20003\x1C0.00\x1C0.00\x1CHalvorson\x1CDeborah\x1C'Debbie'\x1C\x1C\x1C20090105"
+  record: fec.version.v6_2.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2N
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H8IL11113
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Halvorson
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: Deborah
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: '''Debbie'''
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: 565 Aberdeen Dr
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Crete
+  - name: CANDIDATE STATE
+    number: '12'
+    value: IL
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '60417'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: DEM
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: IL
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '11'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2010'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00440016
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: Halvorson for Congress
+  - name: PCC STREET 1
+    number: '21'
+    value: PO Box 1176
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: Crete
+  - name: PCC STATE
+    number: '24'
+    value: IL
+  - name: PCC ZIP
+    number: '25'
+    value: '60417'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: C00450882
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: Women Lead Victory 2008
+  - name: AUTH STREET 1
+    number: '28'
+    value: 430 South Capitol Street, SE
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: Washington
+  - name: AUTH STATE
+    number: '31'
+    value: DC
+  - name: AUTH ZIP
+    number: '32'
+    value: '20003'
+  - name: PRI PERSONAL FUNDS DECLARED
+    number: '33'
+    value: '0.00'
+  - name: GEN PERSONAL FUNDS DECLARED
+    number: '34'
+    value: '0.00'
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '35'
+    value: Halvorson
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '36'
+    value: Deborah
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '37'
+    value: '''Debbie'''
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '38'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '39'
+    value: ''
+  - name: DATE SIGNED
+    number: '40'
+    value: '20090105'
+- input: "f2s\x1CH8IL11113\x1CC00451567\x1CBlue Illinois 2008\x1C500 N Dearborn\x1CSte
+    518\x1CChicago\x1CIL\x1C60610"
+  record: fec.version.v6_2.F2S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: f2s
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H8IL11113
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '3'
+    value: C00451567
+  - name: AUTH COMMITTEE NAME
+    number: '4'
+    value: Blue Illinois 2008
+  - name: AUTH STREET 1
+    number: '5'
+    value: 500 N Dearborn
+  - name: AUTH STREET 2
+    number: '6'
+    value: Ste 518
+  - name: AUTH CITY
+    number: '7'
+    value: Chicago
+  - name: AUTH STATE
+    number: '8'
+    value: IL
+  - name: AUTH ZIP
+    number: '9'
+    value: '60610'
+- input: "f2s\x1CH8IL11113\x1CC00452045\x1CRangel Victory Fund\x1C40 West 135th St\x1CSuite
+    10U\x1CNew York \x1CNY\x1C10037"
+  record: fec.version.v6_2.F2S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: f2s
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H8IL11113
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '3'
+    value: C00452045
+  - name: AUTH COMMITTEE NAME
+    number: '4'
+    value: Rangel Victory Fund
+  - name: AUTH STREET 1
+    number: '5'
+    value: 40 West 135th St
+  - name: AUTH STREET 2
+    number: '6'
+    value: Suite 10U
+  - name: AUTH CITY
+    number: '7'
+    value: 'New York '
+  - name: AUTH STATE
+    number: '8'
+    value: NY
+  - name: AUTH ZIP
+    number: '9'
+    value: '10037'
+sourceurl: !!python/unicode 20090105
+type: single
