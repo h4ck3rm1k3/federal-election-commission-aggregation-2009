@@ -1,0 +1,131 @@
+countraw: 3
+countrows: 1
+filename: 398587.fec
+header: {}
+rows:
+- input: "F2N\x1CH6WI08122\x1CKagen\x1CSteven\x1CL\x1C\x1C\x1C\x1C1712 S. Mason St.\x1C\x1CAppleton\x1CWI\x1C54914\x1CDEM\x1CH\x1CWI\x1C08\x1C2010\x1CC00412809\x1CKagen
+    4 Congress\x1C100 W. College Ave.\x1C50 D\x1CAppleton\x1CWI\x1C54911\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C0.00\x1C0.00\x1CKagen\x1CSteven\x1CL\x1C\x1C\x1C20090128"
+  record: fec.version.v6_2.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2N
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H6WI08122
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Kagen
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: Steven
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: L
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: 1712 S. Mason St.
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Appleton
+  - name: CANDIDATE STATE
+    number: '12'
+    value: WI
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '54914'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: DEM
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: WI
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: 08
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2010'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00412809
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: Kagen 4 Congress
+  - name: PCC STREET 1
+    number: '21'
+    value: 100 W. College Ave.
+  - name: PCC STREET 2
+    number: '22'
+    value: 50 D
+  - name: PCC CITY
+    number: '23'
+    value: Appleton
+  - name: PCC STATE
+    number: '24'
+    value: WI
+  - name: PCC ZIP
+    number: '25'
+    value: '54911'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: ''
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: AUTH STREET 1
+    number: '28'
+    value: ''
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: ''
+  - name: AUTH STATE
+    number: '31'
+    value: ''
+  - name: AUTH ZIP
+    number: '32'
+    value: ''
+  - name: PRI PERSONAL FUNDS DECLARED
+    number: '33'
+    value: '0.00'
+  - name: GEN PERSONAL FUNDS DECLARED
+    number: '34'
+    value: '0.00'
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '35'
+    value: Kagen
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '36'
+    value: Steven
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '37'
+    value: L
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '38'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '39'
+    value: ''
+  - name: DATE SIGNED
+    number: '40'
+    value: '20090128'
+sourceurl: !!python/unicode 20090128
+type: single
