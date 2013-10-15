@@ -1,0 +1,339 @@
+countraw: 7
+countrows: 5
+filename: 403627.fec
+header: {}
+rows:
+- input: "F6\x1CC00457713\x1CWheelan for Congress\x1CPO Box 146487\x1C\x1CChicago\x1CIL\x1C60614\x1CH0IL05153\x1CWheelan\x1CCharles\x1C\x1C\x1C\x1CH\x1CIL\x1C05\x1CPascal\x1CHarry\x1C\x1C\x1C\x1C20090213"
+  record: fec.version.v6_2.F6
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F6
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00457713
+  - name: COMMITTEE NAME
+    number: '3'
+    value: Wheelan for Congress
+  - name: STREET 1
+    number: '4'
+    value: PO Box 146487
+  - name: STREET 2
+    number: '5'
+    value: ''
+  - name: CITY
+    number: '6'
+    value: Chicago
+  - name: STATE
+    number: '7'
+    value: IL
+  - name: ZIP
+    number: '8'
+    value: '60614'
+  - name: CANDIDATE ID NUMBER
+    number: '9'
+    value: H0IL05153
+  - name: CANDIDATE LAST NAME
+    number: '10'
+    value: Wheelan
+  - name: CANDIDATE FIRST NAME
+    number: '11'
+    value: Charles
+  - name: CANDIDATE MIDDLE NAME
+    number: '12'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '13'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '14'
+    value: ''
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: IL
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '05'
+  - name: SIGNER LAST NAME
+    number: '18'
+    value: Pascal
+  - name: SIGNER FIRST NAME
+    number: '19'
+    value: Harry
+  - name: SIGNER MIDDLE NAME
+    number: '20'
+    value: ''
+  - name: SIGNER PREFIX
+    number: '21'
+    value: ''
+  - name: SIGNER SUFFIX
+    number: '22'
+    value: ''
+  - name: DATE SIGNED
+    number: '23'
+    value: '20090213'
+- input: "F65\x1CC00457713\x1CC1904732\x1CIND\x1C\x1CBrown\x1CDavid\x1CR\x1C\x1C\x1C4151
+    N Greenview\x1C\x1CChicago\x1CIL\x1C60613\x1C\x1C20090212\x1C1000.00\x1Cinformation
+    requested\x1Cinformation requested"
+  record: fec.version.v6_2.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00457713
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: C1904732
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Brown
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: David
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: R
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 4151 N Greenview
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Chicago
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: IL
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '60613'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20090212'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '1000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: information requested
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: information requested
+- input: "F65\x1CC00457713\x1CC1904731\x1CIND\x1C\x1CCrown\x1CLester\x1C\x1C\x1C\x1C222
+    North LaSalle Street\x1CSuite 2000\x1CChicago\x1CIL\x1C60601\x1C\x1C20090212\x1C2000.00\x1CHenry
+    Crown and Company\x1CChairman"
+  record: fec.version.v6_2.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00457713
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: C1904731
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Crown
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Lester
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 222 North LaSalle Street
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: Suite 2000
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Chicago
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: IL
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '60601'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20090212'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '2000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: Henry Crown and Company
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: Chairman
+- input: "F65\x1CC00457713\x1CC1904734\x1CIND\x1C\x1CMraz\x1CLuke\x1C\x1C\x1C\x1C1849
+    W North Ave\x1C\x1CChicago\x1CIL\x1C60622\x1C\x1C20090213\x1C1000.00\x1CRonin
+    Capital\x1CTrader"
+  record: fec.version.v6_2.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00457713
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: C1904734
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Mraz
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Luke
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 1849 W North Ave
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Chicago
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: IL
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '60622'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20090213'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '1000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: Ronin Capital
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: Trader
+- input: "F65\x1CC00457713\x1CC1904733\x1CIND\x1C\x1CSullivan\x1CBradley\x1C\x1C\x1C\x1C309
+    S Arlington Ave.\x1C\x1CElmhurst\x1CIL\x1C60126\x1C\x1C20090212\x1C1000.00\x1CMarquette
+    Partners\x1CTrader"
+  record: fec.version.v6_2.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00457713
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: C1904733
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Sullivan
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Bradley
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 309 S Arlington Ave.
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Elmhurst
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: IL
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '60126'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20090212'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '1000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: Marquette Partners
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: Trader
+sourceurl: !!python/unicode 20090214
+type: single
