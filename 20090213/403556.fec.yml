@@ -1,0 +1,311 @@
+countraw: 4
+countrows: 2
+filename: 403556.fec
+header: {}
+rows:
+- input: "F1A\x1CC00206672\x1C\x1CNewmont Mining Corporation PAC\x1C\x1C101 Constitution
+    Ave. NW Suite 800\x1C\x1CWashington\x1CDC\x1C20001\x1CMBDonnelly@newmont.com\x1CN/A\x1C\x1C20090212\x1CDonnelly\x1CMary
+    Beth\x1C\x1C\x1C\x1C20090213\x1CE\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CC\x1C
+    \x1C\x1CNewmont Mining Corporation\x1C6363 S. Fiddler's Green Circle\x1C\x1CGreenwood
+    Village\x1CCO\x1C80111\x1CORG\x1CDonnelly\x1CMary Beth\x1C\x1C\x1C\x1C101 Constitution
+    Ave. NW\x1CSuite 800\x1CWashington\x1CDC\x1C20001\x1CTreasurer\x1C2028226777\x1CDonnelly\x1CMary
+    Beth\x1C\x1C\x1C\x1C101 Constitution Ave. NW\x1CSuite 800\x1CWashington\x1CDC\x1C20003\x1CTreasurer\x1C2028226777\x1CMahoney\x1CThomas\x1CP\x1C\x1C\x1C6363
+    S. Fiddler's Green Circle\x1C\x1CGreenwood\x1CCO\x1C80111\x1CAssistant Treasurer\x1C3038375881\x1CCitibank\x1C399
+    Park Avenue\x1C\x1CNew York\x1CNY\x1C10043\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.F1
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00206672
+  - name: CHANGE OF COMMITTEE NAME
+    number: '3'
+    value: ''
+  - name: COMMITTEE NAME
+    number: '4'
+    value: Newmont Mining Corporation PAC
+  - name: CHANGE OF ADDRESS
+    number: '5'
+    value: ''
+  - name: STREET 1
+    number: '6'
+    value: 101 Constitution Ave. NW Suite 800
+  - name: STREET 2
+    number: '7'
+    value: ''
+  - name: CITY
+    number: '8'
+    value: Washington
+  - name: STATE
+    number: '9'
+    value: DC
+  - name: ZIP
+    number: '10'
+    value: '20001'
+  - name: COMMITTEE EMAIL
+    number: '11'
+    value: MBDonnelly@newmont.com
+  - name: COMMITTEE WEB URL
+    number: '12'
+    value: N/A
+  - name: COMMITTEE FAX NUMBER
+    number: '13'
+    value: ''
+  - name: SUBMISSION DATE
+    number: '14'
+    value: '20090212'
+  - name: SIGNATURE LAST NAME
+    number: '15'
+    value: Donnelly
+  - name: SIGNATURE FIRST NAME
+    number: '16'
+    value: Mary Beth
+  - name: SIGNATURE MIDDLE NAME
+    number: '17'
+    value: ''
+  - name: SIGNATURE PREFIX
+    number: '18'
+    value: ''
+  - name: SIGNATURE SUFFIX
+    number: '19'
+    value: ''
+  - name: DATE SIGNED
+    number: '20'
+    value: '20090213'
+  - name: COMMITTEE TYPE
+    number: 21-5.
+    value: E
+  - name: CANDIDATE ID NUMBER
+    number: 22-5.
+    value: ''
+  - name: CANDIDATE LAST NAME
+    number: 23-5.
+    value: ''
+  - name: CANDIDATE FIRST NAME
+    number: 24-5.
+    value: ''
+  - name: CANDIDATE MIDDLE NAME
+    number: 25-5.
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: 26-5.
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: 27-5.
+    value: ''
+  - name: CANDIDATE OFFICE
+    number: 28-5.
+    value: ''
+  - name: CANDIDATE STATE
+    number: 29-5.
+    value: ''
+  - name: CANDIDATE DISTRICT
+    number: 30-5.
+    value: ''
+  - name: PARTY CODE
+    number: 31-5.
+    value: ''
+  - name: PARTY TYPE
+    number: 32-5.
+    value: ''
+  - name: ORGANIZATION TYPE
+    number: 33-5 (e).
+    value: C
+  - name: LEADERSHIP PAC
+    number: 34-5 (f).
+    value: ' '
+  - name: AFFILIATED Committee ID NUM
+    number: 35-6.
+    value: ''
+  - name: AFFILIATED Committee NAME
+    number: 36-6.
+    value: Newmont Mining Corporation
+  - name: AFFILIATED STREET 1
+    number: 37-6.
+    value: 6363 S. Fiddler's Green Circle
+  - name: AFFILIATED STREET 2
+    number: 38-6.
+    value: ''
+  - name: AFFILIATED CITY
+    number: 39-6.
+    value: Greenwood Village
+  - name: AFFILIATED STATE
+    number: 40-6.
+    value: CO
+  - name: AFFILIATED ZIP
+    number: 41-6.
+    value: '80111'
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 42-6.
+    value: ORG
+  - name: CUSTODIAN LAST NAME
+    number: 43-7.
+    value: Donnelly
+  - name: CUSTODIAN FIRST NAME
+    number: 44-7.
+    value: Mary Beth
+  - name: CUSTODIAN MIDDLE NAME
+    number: 45-7.
+    value: ''
+  - name: CUSTODIAN PREFIX
+    number: 46-7.
+    value: ''
+  - name: CUSTODIAN SUFFIX
+    number: 47-7.
+    value: ''
+  - name: CUSTODIAN STREET 1
+    number: 48-7.
+    value: 101 Constitution Ave. NW
+  - name: CUSTODIAN STREET 2
+    number: 49-7.
+    value: Suite 800
+  - name: CUSTODIAN CITY
+    number: 50-7.
+    value: Washington
+  - name: CUSTODIAN STATE
+    number: 51-7.
+    value: DC
+  - name: CUSTODIAN ZIP
+    number: 52-7.
+    value: '20001'
+  - name: CUSTODIAN TITLE
+    number: 53-7.
+    value: Treasurer
+  - name: CUSTODIAN TELEPHONE
+    number: 54-7.
+    value: '2028226777'
+  - name: TREASURER LAST NAME
+    number: 55-8.
+    value: Donnelly
+  - name: TREASURER FIRST NAME
+    number: 56-8.
+    value: Mary Beth
+  - name: TREASURER MIDDLE NAME
+    number: 57-8.
+    value: ''
+  - name: TREASURER PREFIX
+    number: 58-8.
+    value: ''
+  - name: TREASURER SUFFIX
+    number: 59-8.
+    value: ''
+  - name: TREASURER STREET 1
+    number: 60-8.
+    value: 101 Constitution Ave. NW
+  - name: TREASURER STREET 2
+    number: 61-8.
+    value: Suite 800
+  - name: TREASURER CITY
+    number: 62-8.
+    value: Washington
+  - name: TREASURER STATE
+    number: 63-8.
+    value: DC
+  - name: TREASURER ZIP
+    number: 64-8.
+    value: '20003'
+  - name: TREASURER TITLE
+    number: 65-8.
+    value: Treasurer
+  - name: TREASURER TELEPHONE
+    number: 66-8.
+    value: '2028226777'
+  - name: AGENT LAST NAME
+    number: 67-8.
+    value: Mahoney
+  - name: AGENT FIRST NAME
+    number: 68-8.
+    value: Thomas
+  - name: AGENT MIDDLE NAME
+    number: 69-8.
+    value: P
+  - name: AGENT PREFIX
+    number: 70-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 71-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 72-8.
+    value: 6363 S. Fiddler's Green Circle
+  - name: AGENT STREET 2
+    number: 73-8.
+    value: ''
+  - name: AGENT CITY
+    number: 74-8.
+    value: Greenwood
+  - name: AGENT STATE
+    number: 75-8.
+    value: CO
+  - name: AGENT ZIP
+    number: 76-8.
+    value: '80111'
+  - name: AGENT TITLE
+    number: 77-8.
+    value: Assistant Treasurer
+  - name: AGENT TELEPHONE
+    number: 78-8.
+    value: '3038375881'
+  - name: BANK NAME
+    number: 79-9. a)
+    value: Citibank
+  - name: BANK STREET 1
+    number: 80-9. a)
+    value: 399 Park Avenue
+  - name: BANK STREET 2
+    number: 81-9. a)
+    value: ''
+  - name: BANK CITY
+    number: 82-9. a)
+    value: New York
+  - name: BANK STATE
+    number: 83-9. a)
+    value: NY
+  - name: BANK ZIP
+    number: 84-9. a)
+    value: '10043'
+  - name: BANK NAME
+    number: 85-9. b)
+    value: ''
+  - name: BANK STREET 1
+    number: 86-9. b)
+    value: ''
+  - name: BANK STREET 2
+    number: 87-9. b)
+    value: ''
+  - name: BANK CITY
+    number: 88-9. b)
+    value: ''
+  - name: BANK STATE
+    number: 89-9. b)
+    value: ''
+  - name: BANK ZIP
+    number: 90-9. b)
+    value: ''
+- input: "TEXT\x1CC00206672\x1CF1A\x1CF1A\x1CF1A\x1CThis F1A is being filed to reflect
+    a new corporate address and to remove Britt Banks as Assistant Treasurer."
+  record: fec.version.v6_2.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00206672
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F1A
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: F1A
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: F1A
+  - name: TEXT4000
+    number: '6'
+    value: This F1A is being filed to reflect a new corporate address and to remove
+      Britt Banks as Assistant Treasurer.
+sourceurl: !!python/unicode 20090213
+type: single
