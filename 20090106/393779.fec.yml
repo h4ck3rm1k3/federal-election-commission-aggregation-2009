@@ -1,0 +1,377 @@
+countraw: 4
+countrows: 2
+filename: 393779.fec
+header: {}
+rows:
+- input: "F1A\x1CC00265298\x1C\x1CTERRY EVERETT FOR CONGRESS\x1C\x1CP.O. Box 1828\x1C\x1CDothan\x1CAL\x1C36302\x1Cteverett@swrr.com\x1C\x1C3346788827\x1C20030911\x1CWilliams\x1CCharles\x1CA.\x1C\x1C\x1C20090106\x1CA\x1CH2AL02067\x1CEVERETT\x1CTERRY\x1C\x1C\x1C\x1CH\x1CAL\x1C02\x1CREP\x1C\x1C\x1C\x1C\x1CNONE\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CWilliams\x1CCharles\x1CA.\x1CMr.\x1C\x1C108
+    Jamestown Blvd.\x1C\x1CDothan\x1CAL\x1C36305\x1CTreasurer\x1C3346774411\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CSunSouth
+    Bank\x1CPO Box 1910\x1C\x1CDothan\x1CAL\x1C363021910\x1CCitizens State Bank\x1C315
+    Columbus Ave NW\x1CPO Box 800\x1CVernon\x1CAL\x1C355920800"
+  record: fec.version.v6_2.F1
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00265298
+  - name: CHANGE OF COMMITTEE NAME
+    number: '3'
+    value: ''
+  - name: COMMITTEE NAME
+    number: '4'
+    value: TERRY EVERETT FOR CONGRESS
+  - name: CHANGE OF ADDRESS
+    number: '5'
+    value: ''
+  - name: STREET 1
+    number: '6'
+    value: P.O. Box 1828
+  - name: STREET 2
+    number: '7'
+    value: ''
+  - name: CITY
+    number: '8'
+    value: Dothan
+  - name: STATE
+    number: '9'
+    value: AL
+  - name: ZIP
+    number: '10'
+    value: '36302'
+  - name: COMMITTEE EMAIL
+    number: '11'
+    value: teverett@swrr.com
+  - name: COMMITTEE WEB URL
+    number: '12'
+    value: ''
+  - name: COMMITTEE FAX NUMBER
+    number: '13'
+    value: '3346788827'
+  - name: SUBMISSION DATE
+    number: '14'
+    value: '20030911'
+  - name: SIGNATURE LAST NAME
+    number: '15'
+    value: Williams
+  - name: SIGNATURE FIRST NAME
+    number: '16'
+    value: Charles
+  - name: SIGNATURE MIDDLE NAME
+    number: '17'
+    value: A.
+  - name: SIGNATURE PREFIX
+    number: '18'
+    value: ''
+  - name: SIGNATURE SUFFIX
+    number: '19'
+    value: ''
+  - name: DATE SIGNED
+    number: '20'
+    value: '20090106'
+  - name: COMMITTEE TYPE
+    number: 21-5.
+    value: A
+  - name: CANDIDATE ID NUMBER
+    number: 22-5.
+    value: H2AL02067
+  - name: CANDIDATE LAST NAME
+    number: 23-5.
+    value: EVERETT
+  - name: CANDIDATE FIRST NAME
+    number: 24-5.
+    value: TERRY
+  - name: CANDIDATE MIDDLE NAME
+    number: 25-5.
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: 26-5.
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: 27-5.
+    value: ''
+  - name: CANDIDATE OFFICE
+    number: 28-5.
+    value: H
+  - name: CANDIDATE STATE
+    number: 29-5.
+    value: AL
+  - name: CANDIDATE DISTRICT
+    number: 30-5.
+    value: '02'
+  - name: PARTY CODE
+    number: 31-5.
+    value: REP
+  - name: PARTY TYPE
+    number: 32-5.
+    value: ''
+  - name: ORGANIZATION TYPE
+    number: 33-5 (e).
+    value: ''
+  - name: LEADERSHIP PAC
+    number: 34-5 (f).
+    value: ''
+  - name: AFFILIATED Committee ID NUM
+    number: 35-6.
+    value: ''
+  - name: AFFILIATED Committee NAME
+    number: 36-6.
+    value: NONE
+  - name: AFFILIATED STREET 1
+    number: 37-6.
+    value: ''
+  - name: AFFILIATED STREET 2
+    number: 38-6.
+    value: ''
+  - name: AFFILIATED CITY
+    number: 39-6.
+    value: ''
+  - name: AFFILIATED STATE
+    number: 40-6.
+    value: ''
+  - name: AFFILIATED ZIP
+    number: 41-6.
+    value: ''
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 42-6.
+    value: ''
+  - name: CUSTODIAN LAST NAME
+    number: 43-7.
+    value: ''
+  - name: CUSTODIAN FIRST NAME
+    number: 44-7.
+    value: ''
+  - name: CUSTODIAN MIDDLE NAME
+    number: 45-7.
+    value: ''
+  - name: CUSTODIAN PREFIX
+    number: 46-7.
+    value: ''
+  - name: CUSTODIAN SUFFIX
+    number: 47-7.
+    value: ''
+  - name: CUSTODIAN STREET 1
+    number: 48-7.
+    value: ''
+  - name: CUSTODIAN STREET 2
+    number: 49-7.
+    value: ''
+  - name: CUSTODIAN CITY
+    number: 50-7.
+    value: ''
+  - name: CUSTODIAN STATE
+    number: 51-7.
+    value: ''
+  - name: CUSTODIAN ZIP
+    number: 52-7.
+    value: ''
+  - name: CUSTODIAN TITLE
+    number: 53-7.
+    value: ''
+  - name: CUSTODIAN TELEPHONE
+    number: 54-7.
+    value: ''
+  - name: TREASURER LAST NAME
+    number: 55-8.
+    value: Williams
+  - name: TREASURER FIRST NAME
+    number: 56-8.
+    value: Charles
+  - name: TREASURER MIDDLE NAME
+    number: 57-8.
+    value: A.
+  - name: TREASURER PREFIX
+    number: 58-8.
+    value: Mr.
+  - name: TREASURER SUFFIX
+    number: 59-8.
+    value: ''
+  - name: TREASURER STREET 1
+    number: 60-8.
+    value: 108 Jamestown Blvd.
+  - name: TREASURER STREET 2
+    number: 61-8.
+    value: ''
+  - name: TREASURER CITY
+    number: 62-8.
+    value: Dothan
+  - name: TREASURER STATE
+    number: 63-8.
+    value: AL
+  - name: TREASURER ZIP
+    number: 64-8.
+    value: '36305'
+  - name: TREASURER TITLE
+    number: 65-8.
+    value: Treasurer
+  - name: TREASURER TELEPHONE
+    number: 66-8.
+    value: '3346774411'
+  - name: AGENT LAST NAME
+    number: 67-8.
+    value: ''
+  - name: AGENT FIRST NAME
+    number: 68-8.
+    value: ''
+  - name: AGENT MIDDLE NAME
+    number: 69-8.
+    value: ''
+  - name: AGENT PREFIX
+    number: 70-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 71-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 72-8.
+    value: ''
+  - name: AGENT STREET 2
+    number: 73-8.
+    value: ''
+  - name: AGENT CITY
+    number: 74-8.
+    value: ''
+  - name: AGENT STATE
+    number: 75-8.
+    value: ''
+  - name: AGENT ZIP
+    number: 76-8.
+    value: ''
+  - name: AGENT TITLE
+    number: 77-8.
+    value: ''
+  - name: AGENT TELEPHONE
+    number: 78-8.
+    value: ''
+  - name: BANK NAME
+    number: 79-9. a)
+    value: SunSouth Bank
+  - name: BANK STREET 1
+    number: 80-9. a)
+    value: PO Box 1910
+  - name: BANK STREET 2
+    number: 81-9. a)
+    value: ''
+  - name: BANK CITY
+    number: 82-9. a)
+    value: Dothan
+  - name: BANK STATE
+    number: 83-9. a)
+    value: AL
+  - name: BANK ZIP
+    number: 84-9. a)
+    value: '363021910'
+  - name: BANK NAME
+    number: 85-9. b)
+    value: Citizens State Bank
+  - name: BANK STREET 1
+    number: 86-9. b)
+    value: 315 Columbus Ave NW
+  - name: BANK STREET 2
+    number: 87-9. b)
+    value: PO Box 800
+  - name: BANK CITY
+    number: 88-9. b)
+    value: Vernon
+  - name: BANK STATE
+    number: 89-9. b)
+    value: AL
+  - name: BANK ZIP
+    number: 90-9. b)
+    value: '355920800'
+- input: "F1S\x1CC00265298\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CRegions
+    Bank\x1CPO Box 6507\x1C\x1CDothan\x1CAL\x1C36302"
+  record: fec.version.v6_2.F1S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1S
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00265298
+  - name: JOINT FUND PARTICIPANT Committee NAME
+    number: 3-5.
+    value: ''
+  - name: JOINT FUND PARTICIPANT Committee FEC-ID
+    number: 4-5.
+    value: ''
+  - name: AFFILIATED Committee ID NUM
+    number: 5-6.
+    value: ''
+  - name: AFFILIATED Committee NAME
+    number: 6-6.
+    value: ''
+  - name: AFFILIATED STREET 1
+    number: 7-6.
+    value: ''
+  - name: AFFILIATED STREET 2
+    number: 8-6.
+    value: ''
+  - name: AFFILIATED CITY
+    number: 9-6.
+    value: ''
+  - name: AFFILIATED STATE
+    number: 10-6.
+    value: ''
+  - name: AFFILIATED ZIP
+    number: 11-6.
+    value: ''
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 12-6.
+    value: ''
+  - name: AGENT LAST NAME
+    number: 13-8.
+    value: ''
+  - name: AGENT FIRST NAME
+    number: 14-8.
+    value: ''
+  - name: AGENT MIDDLE NAME
+    number: 15-8.
+    value: ''
+  - name: AGENT PREFIX
+    number: 16-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 17-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 18-8.
+    value: ''
+  - name: AGENT STREET 2
+    number: 19-8.
+    value: ''
+  - name: AGENT CITY
+    number: 20-8.
+    value: ''
+  - name: AGENT STATE
+    number: 21-8.
+    value: ''
+  - name: AGENT ZIP
+    number: 22-8.
+    value: ''
+  - name: AGENT TITLE
+    number: 23-8.
+    value: ''
+  - name: AGENT TELEPHONE
+    number: 24-8.
+    value: ''
+  - name: BANK NAME
+    number: 25-9.
+    value: Regions Bank
+  - name: BANK STREET 1
+    number: 26-9.
+    value: PO Box 6507
+  - name: BANK STREET 2
+    number: 26-9.
+    value: ''
+  - name: BANK CITY
+    number: 28-9.
+    value: Dothan
+  - name: BANK STATE
+    number: 29-9.
+    value: AL
+  - name: BANK ZIP
+    number: 30-9.
+    value: '36302'
+sourceurl: !!python/unicode 20090106
+type: single
