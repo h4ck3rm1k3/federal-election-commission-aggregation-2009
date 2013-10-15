@@ -1,0 +1,287 @@
+countraw: 3
+countrows: 1
+filename: 396618.fec
+header: {}
+rows:
+- input: "F1A\x1CC00336834\x1C\x1CMOTORISTS MUTUAL INSURANCE COMPANY CIVIC FUND\x1C\x1C471
+    E BROAD ST\x1C\x1CCOLUMBUS\x1COH\x1C43215\x1CLaurie.Wright@motoristsgroup.com\x1C\x1C8662252095\x1C20090120\x1CWiseman\x1CMichael
+    L.\x1C\x1C\x1C\x1C20090120\x1CE\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CC\x1C\x1C\x1CMotorists
+    Mutual Insurance Company\x1C471 East Broad Street\x1C\x1CColumbus\x1COH\x1C43215\x1CORG\x1CGaskill\x1CCharles\x1CR.\x1C\x1C\x1C1425
+    Briarmeadow Dr.\x1C\x1CColumbus\x1COH\x1C43235\x1CVP Corp Counsel\x1C6142258593\x1CWiseman\x1CMichael
+    L.\x1C\x1C\x1C\x1C90 Timberknoll Loop\x1C\x1CPowell\x1COH\x1C43065\x1CTreasurer\x1C6142258294\x1CGaskill\x1CCharles\x1CR.\x1C\x1C\x1C1425
+    Briarmeadow Dr.\x1C\x1CColumbus\x1COH\x1C43235\x1CAsst Treas of MICF\x1C6142258593\x1CMotorists
+    Insurance Emp Credit Union\x1C471 East Broad Street\x1C\x1CColumbus\x1COH\x1C43215\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.F1
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00336834
+  - name: CHANGE OF COMMITTEE NAME
+    number: '3'
+    value: ''
+  - name: COMMITTEE NAME
+    number: '4'
+    value: MOTORISTS MUTUAL INSURANCE COMPANY CIVIC FUND
+  - name: CHANGE OF ADDRESS
+    number: '5'
+    value: ''
+  - name: STREET 1
+    number: '6'
+    value: 471 E BROAD ST
+  - name: STREET 2
+    number: '7'
+    value: ''
+  - name: CITY
+    number: '8'
+    value: COLUMBUS
+  - name: STATE
+    number: '9'
+    value: OH
+  - name: ZIP
+    number: '10'
+    value: '43215'
+  - name: COMMITTEE EMAIL
+    number: '11'
+    value: Laurie.Wright@motoristsgroup.com
+  - name: COMMITTEE WEB URL
+    number: '12'
+    value: ''
+  - name: COMMITTEE FAX NUMBER
+    number: '13'
+    value: '8662252095'
+  - name: SUBMISSION DATE
+    number: '14'
+    value: '20090120'
+  - name: SIGNATURE LAST NAME
+    number: '15'
+    value: Wiseman
+  - name: SIGNATURE FIRST NAME
+    number: '16'
+    value: Michael L.
+  - name: SIGNATURE MIDDLE NAME
+    number: '17'
+    value: ''
+  - name: SIGNATURE PREFIX
+    number: '18'
+    value: ''
+  - name: SIGNATURE SUFFIX
+    number: '19'
+    value: ''
+  - name: DATE SIGNED
+    number: '20'
+    value: '20090120'
+  - name: COMMITTEE TYPE
+    number: 21-5.
+    value: E
+  - name: CANDIDATE ID NUMBER
+    number: 22-5.
+    value: ''
+  - name: CANDIDATE LAST NAME
+    number: 23-5.
+    value: ''
+  - name: CANDIDATE FIRST NAME
+    number: 24-5.
+    value: ''
+  - name: CANDIDATE MIDDLE NAME
+    number: 25-5.
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: 26-5.
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: 27-5.
+    value: ''
+  - name: CANDIDATE OFFICE
+    number: 28-5.
+    value: ''
+  - name: CANDIDATE STATE
+    number: 29-5.
+    value: ''
+  - name: CANDIDATE DISTRICT
+    number: 30-5.
+    value: ''
+  - name: PARTY CODE
+    number: 31-5.
+    value: ''
+  - name: PARTY TYPE
+    number: 32-5.
+    value: ''
+  - name: ORGANIZATION TYPE
+    number: 33-5 (e).
+    value: C
+  - name: LEADERSHIP PAC
+    number: 34-5 (f).
+    value: ''
+  - name: AFFILIATED Committee ID NUM
+    number: 35-6.
+    value: ''
+  - name: AFFILIATED Committee NAME
+    number: 36-6.
+    value: Motorists Mutual Insurance Company
+  - name: AFFILIATED STREET 1
+    number: 37-6.
+    value: 471 East Broad Street
+  - name: AFFILIATED STREET 2
+    number: 38-6.
+    value: ''
+  - name: AFFILIATED CITY
+    number: 39-6.
+    value: Columbus
+  - name: AFFILIATED STATE
+    number: 40-6.
+    value: OH
+  - name: AFFILIATED ZIP
+    number: 41-6.
+    value: '43215'
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 42-6.
+    value: ORG
+  - name: CUSTODIAN LAST NAME
+    number: 43-7.
+    value: Gaskill
+  - name: CUSTODIAN FIRST NAME
+    number: 44-7.
+    value: Charles
+  - name: CUSTODIAN MIDDLE NAME
+    number: 45-7.
+    value: R.
+  - name: CUSTODIAN PREFIX
+    number: 46-7.
+    value: ''
+  - name: CUSTODIAN SUFFIX
+    number: 47-7.
+    value: ''
+  - name: CUSTODIAN STREET 1
+    number: 48-7.
+    value: 1425 Briarmeadow Dr.
+  - name: CUSTODIAN STREET 2
+    number: 49-7.
+    value: ''
+  - name: CUSTODIAN CITY
+    number: 50-7.
+    value: Columbus
+  - name: CUSTODIAN STATE
+    number: 51-7.
+    value: OH
+  - name: CUSTODIAN ZIP
+    number: 52-7.
+    value: '43235'
+  - name: CUSTODIAN TITLE
+    number: 53-7.
+    value: VP Corp Counsel
+  - name: CUSTODIAN TELEPHONE
+    number: 54-7.
+    value: '6142258593'
+  - name: TREASURER LAST NAME
+    number: 55-8.
+    value: Wiseman
+  - name: TREASURER FIRST NAME
+    number: 56-8.
+    value: Michael L.
+  - name: TREASURER MIDDLE NAME
+    number: 57-8.
+    value: ''
+  - name: TREASURER PREFIX
+    number: 58-8.
+    value: ''
+  - name: TREASURER SUFFIX
+    number: 59-8.
+    value: ''
+  - name: TREASURER STREET 1
+    number: 60-8.
+    value: 90 Timberknoll Loop
+  - name: TREASURER STREET 2
+    number: 61-8.
+    value: ''
+  - name: TREASURER CITY
+    number: 62-8.
+    value: Powell
+  - name: TREASURER STATE
+    number: 63-8.
+    value: OH
+  - name: TREASURER ZIP
+    number: 64-8.
+    value: '43065'
+  - name: TREASURER TITLE
+    number: 65-8.
+    value: Treasurer
+  - name: TREASURER TELEPHONE
+    number: 66-8.
+    value: '6142258294'
+  - name: AGENT LAST NAME
+    number: 67-8.
+    value: Gaskill
+  - name: AGENT FIRST NAME
+    number: 68-8.
+    value: Charles
+  - name: AGENT MIDDLE NAME
+    number: 69-8.
+    value: R.
+  - name: AGENT PREFIX
+    number: 70-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 71-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 72-8.
+    value: 1425 Briarmeadow Dr.
+  - name: AGENT STREET 2
+    number: 73-8.
+    value: ''
+  - name: AGENT CITY
+    number: 74-8.
+    value: Columbus
+  - name: AGENT STATE
+    number: 75-8.
+    value: OH
+  - name: AGENT ZIP
+    number: 76-8.
+    value: '43235'
+  - name: AGENT TITLE
+    number: 77-8.
+    value: Asst Treas of MICF
+  - name: AGENT TELEPHONE
+    number: 78-8.
+    value: '6142258593'
+  - name: BANK NAME
+    number: 79-9. a)
+    value: Motorists Insurance Emp Credit Union
+  - name: BANK STREET 1
+    number: 80-9. a)
+    value: 471 East Broad Street
+  - name: BANK STREET 2
+    number: 81-9. a)
+    value: ''
+  - name: BANK CITY
+    number: 82-9. a)
+    value: Columbus
+  - name: BANK STATE
+    number: 83-9. a)
+    value: OH
+  - name: BANK ZIP
+    number: 84-9. a)
+    value: '43215'
+  - name: BANK NAME
+    number: 85-9. b)
+    value: ''
+  - name: BANK STREET 1
+    number: 86-9. b)
+    value: ''
+  - name: BANK STREET 2
+    number: 87-9. b)
+    value: ''
+  - name: BANK CITY
+    number: 88-9. b)
+    value: ''
+  - name: BANK STATE
+    number: 89-9. b)
+    value: ''
+  - name: BANK ZIP
+    number: 90-9. b)
+    value: ''
+sourceurl: !!python/unicode 20090120
+type: single
