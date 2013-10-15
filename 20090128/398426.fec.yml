@@ -1,0 +1,495 @@
+countraw: 6
+countrows: 4
+filename: 398426.fec
+header: {}
+rows:
+- input: "F1A\x1CC00104802\x1C\x1CNorthwest Airlines Political Action Committee\x1C\x1C1212
+    New York Avenue NW\x1CSuite 200\x1CWashington\x1CDC\x1C20005\x1Cnancy.duke@nwa.com\x1C\x1C2022896834\x1C20070509\x1CDuke\x1CNancy\x1C\x1CMs\x1C\x1C20090128\x1CE\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CC\x1C\x1CC00104802\x1CNorthwest
+    Airlines Political Action Committee\x1C1212 New York Avenue NW\x1CSuite 200\x1CWashington\x1CDC\x1C20005\x1CORG\x1CDuke\x1CNancy\x1C\x1CMs\x1C\x1C1212
+    New York Avenue NW\x1CSuite 200\x1CWashington\x1CCO\x1C20005\x1C\x1C\x1CDuke\x1CNancy\x1C\x1CMs\x1C\x1C1212
+    New York Avenue NW\x1CSuite 200\x1CWashington\x1CCO\x1C20005\x1CSpecialist\x1C2028424185\x1CVEITH\x1CSALLY\x1C\x1C\x1C\x1C5101
+    NORTHWEST DRIVE\x1C\x1CST. PAUL\x1CMN\x1C55111\x1C\x1C\x1CUS Bank\x1CPO Box 1800\x1C\x1CSt.
+    Paul\x1CMN\x1C55101\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.F1
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00104802
+  - name: CHANGE OF COMMITTEE NAME
+    number: '3'
+    value: ''
+  - name: COMMITTEE NAME
+    number: '4'
+    value: Northwest Airlines Political Action Committee
+  - name: CHANGE OF ADDRESS
+    number: '5'
+    value: ''
+  - name: STREET 1
+    number: '6'
+    value: 1212 New York Avenue NW
+  - name: STREET 2
+    number: '7'
+    value: Suite 200
+  - name: CITY
+    number: '8'
+    value: Washington
+  - name: STATE
+    number: '9'
+    value: DC
+  - name: ZIP
+    number: '10'
+    value: '20005'
+  - name: COMMITTEE EMAIL
+    number: '11'
+    value: nancy.duke@nwa.com
+  - name: COMMITTEE WEB URL
+    number: '12'
+    value: ''
+  - name: COMMITTEE FAX NUMBER
+    number: '13'
+    value: '2022896834'
+  - name: SUBMISSION DATE
+    number: '14'
+    value: '20070509'
+  - name: SIGNATURE LAST NAME
+    number: '15'
+    value: Duke
+  - name: SIGNATURE FIRST NAME
+    number: '16'
+    value: Nancy
+  - name: SIGNATURE MIDDLE NAME
+    number: '17'
+    value: ''
+  - name: SIGNATURE PREFIX
+    number: '18'
+    value: Ms
+  - name: SIGNATURE SUFFIX
+    number: '19'
+    value: ''
+  - name: DATE SIGNED
+    number: '20'
+    value: '20090128'
+  - name: COMMITTEE TYPE
+    number: 21-5.
+    value: E
+  - name: CANDIDATE ID NUMBER
+    number: 22-5.
+    value: ''
+  - name: CANDIDATE LAST NAME
+    number: 23-5.
+    value: ''
+  - name: CANDIDATE FIRST NAME
+    number: 24-5.
+    value: ''
+  - name: CANDIDATE MIDDLE NAME
+    number: 25-5.
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: 26-5.
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: 27-5.
+    value: ''
+  - name: CANDIDATE OFFICE
+    number: 28-5.
+    value: ''
+  - name: CANDIDATE STATE
+    number: 29-5.
+    value: ''
+  - name: CANDIDATE DISTRICT
+    number: 30-5.
+    value: ''
+  - name: PARTY CODE
+    number: 31-5.
+    value: ''
+  - name: PARTY TYPE
+    number: 32-5.
+    value: ''
+  - name: ORGANIZATION TYPE
+    number: 33-5 (e).
+    value: C
+  - name: LEADERSHIP PAC
+    number: 34-5 (f).
+    value: ''
+  - name: AFFILIATED Committee ID NUM
+    number: 35-6.
+    value: C00104802
+  - name: AFFILIATED Committee NAME
+    number: 36-6.
+    value: Northwest Airlines Political Action Committee
+  - name: AFFILIATED STREET 1
+    number: 37-6.
+    value: 1212 New York Avenue NW
+  - name: AFFILIATED STREET 2
+    number: 38-6.
+    value: Suite 200
+  - name: AFFILIATED CITY
+    number: 39-6.
+    value: Washington
+  - name: AFFILIATED STATE
+    number: 40-6.
+    value: DC
+  - name: AFFILIATED ZIP
+    number: 41-6.
+    value: '20005'
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 42-6.
+    value: ORG
+  - name: CUSTODIAN LAST NAME
+    number: 43-7.
+    value: Duke
+  - name: CUSTODIAN FIRST NAME
+    number: 44-7.
+    value: Nancy
+  - name: CUSTODIAN MIDDLE NAME
+    number: 45-7.
+    value: ''
+  - name: CUSTODIAN PREFIX
+    number: 46-7.
+    value: Ms
+  - name: CUSTODIAN SUFFIX
+    number: 47-7.
+    value: ''
+  - name: CUSTODIAN STREET 1
+    number: 48-7.
+    value: 1212 New York Avenue NW
+  - name: CUSTODIAN STREET 2
+    number: 49-7.
+    value: Suite 200
+  - name: CUSTODIAN CITY
+    number: 50-7.
+    value: Washington
+  - name: CUSTODIAN STATE
+    number: 51-7.
+    value: CO
+  - name: CUSTODIAN ZIP
+    number: 52-7.
+    value: '20005'
+  - name: CUSTODIAN TITLE
+    number: 53-7.
+    value: ''
+  - name: CUSTODIAN TELEPHONE
+    number: 54-7.
+    value: ''
+  - name: TREASURER LAST NAME
+    number: 55-8.
+    value: Duke
+  - name: TREASURER FIRST NAME
+    number: 56-8.
+    value: Nancy
+  - name: TREASURER MIDDLE NAME
+    number: 57-8.
+    value: ''
+  - name: TREASURER PREFIX
+    number: 58-8.
+    value: Ms
+  - name: TREASURER SUFFIX
+    number: 59-8.
+    value: ''
+  - name: TREASURER STREET 1
+    number: 60-8.
+    value: 1212 New York Avenue NW
+  - name: TREASURER STREET 2
+    number: 61-8.
+    value: Suite 200
+  - name: TREASURER CITY
+    number: 62-8.
+    value: Washington
+  - name: TREASURER STATE
+    number: 63-8.
+    value: CO
+  - name: TREASURER ZIP
+    number: 64-8.
+    value: '20005'
+  - name: TREASURER TITLE
+    number: 65-8.
+    value: Specialist
+  - name: TREASURER TELEPHONE
+    number: 66-8.
+    value: '2028424185'
+  - name: AGENT LAST NAME
+    number: 67-8.
+    value: VEITH
+  - name: AGENT FIRST NAME
+    number: 68-8.
+    value: SALLY
+  - name: AGENT MIDDLE NAME
+    number: 69-8.
+    value: ''
+  - name: AGENT PREFIX
+    number: 70-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 71-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 72-8.
+    value: 5101 NORTHWEST DRIVE
+  - name: AGENT STREET 2
+    number: 73-8.
+    value: ''
+  - name: AGENT CITY
+    number: 74-8.
+    value: ST. PAUL
+  - name: AGENT STATE
+    number: 75-8.
+    value: MN
+  - name: AGENT ZIP
+    number: 76-8.
+    value: '55111'
+  - name: AGENT TITLE
+    number: 77-8.
+    value: ''
+  - name: AGENT TELEPHONE
+    number: 78-8.
+    value: ''
+  - name: BANK NAME
+    number: 79-9. a)
+    value: US Bank
+  - name: BANK STREET 1
+    number: 80-9. a)
+    value: PO Box 1800
+  - name: BANK STREET 2
+    number: 81-9. a)
+    value: ''
+  - name: BANK CITY
+    number: 82-9. a)
+    value: St. Paul
+  - name: BANK STATE
+    number: 83-9. a)
+    value: MN
+  - name: BANK ZIP
+    number: 84-9. a)
+    value: '55101'
+  - name: BANK NAME
+    number: 85-9. b)
+    value: ''
+  - name: BANK STREET 1
+    number: 86-9. b)
+    value: ''
+  - name: BANK STREET 2
+    number: 87-9. b)
+    value: ''
+  - name: BANK CITY
+    number: 88-9. b)
+    value: ''
+  - name: BANK STATE
+    number: 89-9. b)
+    value: ''
+  - name: BANK ZIP
+    number: 90-9. b)
+    value: ''
+- input: "F1S\x1CC00104802\x1C\x1C\x1C\x1CDelta Air Lines\x1C1040 Delta Blvd.\x1C\x1CAtlanta\x1CGA\x1C30354\x1CORG\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.F1S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1S
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00104802
+  - name: JOINT FUND PARTICIPANT Committee NAME
+    number: 3-5.
+    value: ''
+  - name: JOINT FUND PARTICIPANT Committee FEC-ID
+    number: 4-5.
+    value: ''
+  - name: AFFILIATED Committee ID NUM
+    number: 5-6.
+    value: ''
+  - name: AFFILIATED Committee NAME
+    number: 6-6.
+    value: Delta Air Lines
+  - name: AFFILIATED STREET 1
+    number: 7-6.
+    value: 1040 Delta Blvd.
+  - name: AFFILIATED STREET 2
+    number: 8-6.
+    value: ''
+  - name: AFFILIATED CITY
+    number: 9-6.
+    value: Atlanta
+  - name: AFFILIATED STATE
+    number: 10-6.
+    value: GA
+  - name: AFFILIATED ZIP
+    number: 11-6.
+    value: '30354'
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 12-6.
+    value: ORG
+  - name: AGENT LAST NAME
+    number: 13-8.
+    value: ''
+  - name: AGENT FIRST NAME
+    number: 14-8.
+    value: ''
+  - name: AGENT MIDDLE NAME
+    number: 15-8.
+    value: ''
+  - name: AGENT PREFIX
+    number: 16-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 17-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 18-8.
+    value: ''
+  - name: AGENT STREET 2
+    number: 19-8.
+    value: ''
+  - name: AGENT CITY
+    number: 20-8.
+    value: ''
+  - name: AGENT STATE
+    number: 21-8.
+    value: ''
+  - name: AGENT ZIP
+    number: 22-8.
+    value: ''
+  - name: AGENT TITLE
+    number: 23-8.
+    value: ''
+  - name: AGENT TELEPHONE
+    number: 24-8.
+    value: ''
+  - name: BANK NAME
+    number: 25-9.
+    value: ''
+  - name: BANK STREET 1
+    number: 26-9.
+    value: ''
+  - name: BANK STREET 2
+    number: 26-9.
+    value: ''
+  - name: BANK CITY
+    number: 28-9.
+    value: ''
+  - name: BANK STATE
+    number: 29-9.
+    value: ''
+  - name: BANK ZIP
+    number: 30-9.
+    value: ''
+- input: "F1S\x1CC00104802\x1C\x1C\x1CC00076133\x1CDELTA AIRLINES INC POLITICAL ACTION
+    COMMITTEE\x1CHARTSFIELD ATLANTA INTL AIRPORT\x1CDEPARTMENT 976\x1CATLANTA\x1CGA\x1C30320\x1CAFF\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.F1S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1S
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00104802
+  - name: JOINT FUND PARTICIPANT Committee NAME
+    number: 3-5.
+    value: ''
+  - name: JOINT FUND PARTICIPANT Committee FEC-ID
+    number: 4-5.
+    value: ''
+  - name: AFFILIATED Committee ID NUM
+    number: 5-6.
+    value: C00076133
+  - name: AFFILIATED Committee NAME
+    number: 6-6.
+    value: DELTA AIRLINES INC POLITICAL ACTION COMMITTEE
+  - name: AFFILIATED STREET 1
+    number: 7-6.
+    value: HARTSFIELD ATLANTA INTL AIRPORT
+  - name: AFFILIATED STREET 2
+    number: 8-6.
+    value: DEPARTMENT 976
+  - name: AFFILIATED CITY
+    number: 9-6.
+    value: ATLANTA
+  - name: AFFILIATED STATE
+    number: 10-6.
+    value: GA
+  - name: AFFILIATED ZIP
+    number: 11-6.
+    value: '30320'
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 12-6.
+    value: AFF
+  - name: AGENT LAST NAME
+    number: 13-8.
+    value: ''
+  - name: AGENT FIRST NAME
+    number: 14-8.
+    value: ''
+  - name: AGENT MIDDLE NAME
+    number: 15-8.
+    value: ''
+  - name: AGENT PREFIX
+    number: 16-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 17-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 18-8.
+    value: ''
+  - name: AGENT STREET 2
+    number: 19-8.
+    value: ''
+  - name: AGENT CITY
+    number: 20-8.
+    value: ''
+  - name: AGENT STATE
+    number: 21-8.
+    value: ''
+  - name: AGENT ZIP
+    number: 22-8.
+    value: ''
+  - name: AGENT TITLE
+    number: 23-8.
+    value: ''
+  - name: AGENT TELEPHONE
+    number: 24-8.
+    value: ''
+  - name: BANK NAME
+    number: 25-9.
+    value: ''
+  - name: BANK STREET 1
+    number: 26-9.
+    value: ''
+  - name: BANK STREET 2
+    number: 26-9.
+    value: ''
+  - name: BANK CITY
+    number: 28-9.
+    value: ''
+  - name: BANK STATE
+    number: 29-9.
+    value: ''
+  - name: BANK ZIP
+    number: 30-9.
+    value: ''
+- input: "TEXT\x1CC00104802\x1C.TEXT\x1C\x1CF1A\x1CAdding Delta Air Lines as affiliated
+    corporation and PAC Committee.  "
+  record: fec.version.v6_2.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00104802
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: .TEXT
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: F1A
+  - name: TEXT4000
+    number: '6'
+    value: 'Adding Delta Air Lines as affiliated corporation and PAC Committee.  '
+sourceurl: !!python/unicode 20090128
+type: single
