@@ -1,0 +1,132 @@
+countraw: 3
+countrows: 1
+filename: 401265.fec
+header: {}
+rows:
+- input: "F2N\x1CH8NY09091\x1CWeiner\x1CAnthony\x1CD\x1CMr\x1C\x1C\x1C1 Ascan Ave
+    #31\x1C\x1CForest Hills\x1CNY\x1C11375\x1CDEM\x1CH\x1CNY\x1C09\x1C2010\x1CC00327742\x1CFriends
+    of Weiner\x1C1 Ascan Ave #31\x1C\x1CForest Hills\x1CNY\x1C11375\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C0.00\x1C0.00\x1CWeiner\x1CAnthony\x1C\x1C\x1C\x1C20090131"
+  record: fec.version.v6_2.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2N
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H8NY09091
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Weiner
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: Anthony
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: D
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: Mr
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: '1 Ascan Ave #31'
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Forest Hills
+  - name: CANDIDATE STATE
+    number: '12'
+    value: NY
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '11375'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: DEM
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: NY
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: 09
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2010'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00327742
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: Friends of Weiner
+  - name: PCC STREET 1
+    number: '21'
+    value: '1 Ascan Ave #31'
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: Forest Hills
+  - name: PCC STATE
+    number: '24'
+    value: NY
+  - name: PCC ZIP
+    number: '25'
+    value: '11375'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: ''
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: AUTH STREET 1
+    number: '28'
+    value: ''
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: ''
+  - name: AUTH STATE
+    number: '31'
+    value: ''
+  - name: AUTH ZIP
+    number: '32'
+    value: ''
+  - name: PRI PERSONAL FUNDS DECLARED
+    number: '33'
+    value: '0.00'
+  - name: GEN PERSONAL FUNDS DECLARED
+    number: '34'
+    value: '0.00'
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '35'
+    value: Weiner
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '36'
+    value: Anthony
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '37'
+    value: ''
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '38'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '39'
+    value: ''
+  - name: DATE SIGNED
+    number: '40'
+    value: '20090131'
+sourceurl: !!python/unicode 20090131
+type: single
