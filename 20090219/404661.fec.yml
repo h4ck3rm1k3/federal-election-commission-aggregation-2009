@@ -1,0 +1,134 @@
+countraw: 3
+countrows: 1
+filename: 404661.fec
+header: {}
+rows:
+- input: "F2A\x1CH6CA24253\x1CMARTINEZ\x1CJILL MARIE\x1C\x1C\x1C\x1C\x1C239 E FIR
+    AVE\x1C\x1COXNARD\x1CCA\x1C93033\x1CDEM\x1CH\x1CCA\x1C24\x1C2010\x1CC00416032\x1CJILL
+    MARTINEZ FOR CONGRESS\x1C1212 S. Victory Blvd.\x1C\x1CBURBANK\x1CCA\x1C91502\x1CC00416032\x1CJILL
+    MARTINEZ FOR CONGRESS\x1C1212 S. Victory Blvd.\x1C\x1CBURBANK\x1CCA\x1C91502\x1C0.00\x1C0.00\x1CMARTINEZ\x1CJILL
+    MARIE\x1C\x1C\x1C\x1C20081210"
+  record: fec.version.v6_2.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2A
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H6CA24253
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: MARTINEZ
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: JILL MARIE
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: 239 E FIR AVE
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: OXNARD
+  - name: CANDIDATE STATE
+    number: '12'
+    value: CA
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '93033'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: DEM
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: CA
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '24'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2010'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00416032
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: JILL MARTINEZ FOR CONGRESS
+  - name: PCC STREET 1
+    number: '21'
+    value: 1212 S. Victory Blvd.
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: BURBANK
+  - name: PCC STATE
+    number: '24'
+    value: CA
+  - name: PCC ZIP
+    number: '25'
+    value: '91502'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: C00416032
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: JILL MARTINEZ FOR CONGRESS
+  - name: AUTH STREET 1
+    number: '28'
+    value: 1212 S. Victory Blvd.
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: BURBANK
+  - name: AUTH STATE
+    number: '31'
+    value: CA
+  - name: AUTH ZIP
+    number: '32'
+    value: '91502'
+  - name: PRI PERSONAL FUNDS DECLARED
+    number: '33'
+    value: '0.00'
+  - name: GEN PERSONAL FUNDS DECLARED
+    number: '34'
+    value: '0.00'
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '35'
+    value: MARTINEZ
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '36'
+    value: JILL MARIE
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '37'
+    value: ''
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '38'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '39'
+    value: ''
+  - name: DATE SIGNED
+    number: '40'
+    value: '20081210'
+sourceurl: !!python/unicode 20090219
+type: single
