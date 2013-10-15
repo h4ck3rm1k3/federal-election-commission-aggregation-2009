@@ -1,0 +1,866 @@
+countraw: 1008
+countrows: 1006
+filename: 400581.fec
+header: {}
+rows:
+- input: "SB28A\x1CC00009282\x1CB244422\x1C\x1C\x1CIND\x1C\x1CComstock\x1CGregory\x1C\x1C\x1C\x1C1312
+    Glen Cedars Dr\x1C\x1CMableton\x1CGA\x1C30126\x1CO2008\x1CNot Applicable\x1C20081231\x1C134.92\x1C24U\x1CEmployee
+    Refund\x1C010\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CGA\x1C \x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB28A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00009282
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: B244422
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Comstock
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Gregory
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 1312 Glen Cedars Dr
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Mableton
+  - name: PAYEE STATE
+    number: '16'
+    value: GA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '30126'
+  - name: ELECTION CODE
+    number: '18'
+    value: O2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Not Applicable
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081231'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '134.92'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '22'
+    value: 24U
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Employee Refund
+  - name: CATEGORY CODE
+    number: '24'
+    value: '010'
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '25'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '36'
+    value: GA
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '37'
+    value: ' '
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: ''
+- input: "SB28A\x1CC00009282\x1CB244420\x1C\x1C\x1CIND\x1C\x1CDavison\x1CRichard\x1C\x1C\x1C\x1C2457
+    Haversham Close\x1C\x1CVirginia Beach\x1CVA\x1C23454\x1CO2008\x1CNot Applicable\x1C20081231\x1C86.32\x1C24U\x1CEmployee
+    Refund\x1C010\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CGA\x1C \x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB28A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00009282
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: B244420
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Davison
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Richard
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 2457 Haversham Close
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Virginia Beach
+  - name: PAYEE STATE
+    number: '16'
+    value: VA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '23454'
+  - name: ELECTION CODE
+    number: '18'
+    value: O2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Not Applicable
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081231'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '86.32'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '22'
+    value: 24U
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Employee Refund
+  - name: CATEGORY CODE
+    number: '24'
+    value: '010'
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '25'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '36'
+    value: GA
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '37'
+    value: ' '
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: ''
+- input: "SB28A\x1CC00009282\x1CB244421\x1C\x1C\x1CIND\x1C\x1CStewart\x1CMarta\x1C\x1C\x1C\x1C1698
+    S Woodside Ln\x1C\x1CVirginia Beach\x1CVA\x1C23454\x1CO2008\x1CNot Applicable\x1C20081231\x1C313.25\x1C24U\x1CEmployee
+    Refund\x1C010\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CGA\x1C \x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB28A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00009282
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: B244421
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Stewart
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Marta
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 1698 S Woodside Ln
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Virginia Beach
+  - name: PAYEE STATE
+    number: '16'
+    value: VA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '23454'
+  - name: ELECTION CODE
+    number: '18'
+    value: O2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Not Applicable
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081231'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '313.25'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '22'
+    value: 24U
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Employee Refund
+  - name: CATEGORY CODE
+    number: '24'
+    value: '010'
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '25'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '36'
+    value: GA
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '37'
+    value: ' '
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: ''
+- input: "SB28A\x1CC00009282\x1CB244527\x1C\x1C\x1CIND\x1C\x1CPardee\x1CTrevor\x1C\x1C\x1C\x1CP.O.
+    Box 3231\x1C\x1CNorfolk\x1CVA\x1C23514\x1CO2008\x1CNot Applicable\x1C20081231\x1C156.92\x1C24U\x1CEmployee
+    Refund\x1C010\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CVA\x1C \x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB28A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00009282
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: B244527
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Pardee
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Trevor
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: P.O. Box 3231
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Norfolk
+  - name: PAYEE STATE
+    number: '16'
+    value: VA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '23514'
+  - name: ELECTION CODE
+    number: '18'
+    value: O2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Not Applicable
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081231'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '156.92'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '22'
+    value: 24U
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Employee Refund
+  - name: CATEGORY CODE
+    number: '24'
+    value: '010'
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '25'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '36'
+    value: VA
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '37'
+    value: ' '
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: ''
+- input: "SB28A\x1CC00009282\x1CB244423\x1C\x1C\x1CIND\x1C\x1CAspatore\x1CG A\x1C\x1C\x1C\x1C877
+    Bishopsgate Ln\x1C\x1CVirginia Beach\x1CVA\x1C23452\x1CO2008\x1CNot Applicable\x1C20081231\x1C293.46\x1C24U\x1CEmployee
+    Refund\x1C010\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CVA\x1C \x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB28A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00009282
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: B244423
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Aspatore
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: G A
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 877 Bishopsgate Ln
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Virginia Beach
+  - name: PAYEE STATE
+    number: '16'
+    value: VA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '23452'
+  - name: ELECTION CODE
+    number: '18'
+    value: O2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Not Applicable
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081231'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '293.46'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '22'
+    value: 24U
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Employee Refund
+  - name: CATEGORY CODE
+    number: '24'
+    value: '010'
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '25'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '36'
+    value: VA
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '37'
+    value: ' '
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: ''
+- input: "SB29\x1CC00009282\x1CB241510\x1C\x1C\x1CCCM\x1CJoe Hackney for House Cmte\x1C\x1C\x1C\x1C\x1C\x1C104
+    Carolina Forest Road\x1C\x1CChapel Hill\x1CNC\x1C27516\x1CP2010\x1C\x1C20081125\x1C2000.00\x1C24U\x1CP-2010
+    State House 54 NC\x1C011\x1C\x1C\x1C\x1C\x1C\x1CHackney\x1CJoe\x1C\x1C\x1C\x1C\x1C\x1C
+    \x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C"
+  record: fec.version.v6_2.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB29
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00009282
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: B241510
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: CCM
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Joe Hackney for House Cmte
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 104 Carolina Forest Road
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Chapel Hill
+  - name: PAYEE STATE
+    number: '16'
+    value: NC
+  - name: PAYEE ZIP
+    number: '17'
+    value: '27516'
+  - name: ELECTION CODE
+    number: '18'
+    value: P2010
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081125'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '2000.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '22'
+    value: 24U
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: P-2010 State House 54 NC
+  - name: CATEGORY CODE
+    number: '24'
+    value: '011'
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '25'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '30'
+    value: Hackney
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '31'
+    value: Joe
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '37'
+    value: ' '
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: ''
+sourceurl: !!python/unicode 20090130
+type: chunk
