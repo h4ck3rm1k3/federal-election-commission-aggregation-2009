@@ -1,0 +1,134 @@
+countrows: 2
+filename: 405923.fec
+header: {}
+rows:
+- 2
+- input: "F2N\x1CH6MI15127\x1CKilpatrick\x1CCarolyn\x1C\x1C\x1C\x1C\x1C7445 LaSalle
+    Blvd.\x1C\x1CDetroit\x1CMI\x1C48206\x1CDEM\x1CH\x1CMI\x1C15\x1C2010\x1CC00317842\x1CKilpatrick
+    for United States Congress\x1CP.O. Box 32175\x1C\x1CDetroit\x1CMI\x1C48232\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C0.00\x1C0.00\x1CKilpatrick\x1CCarolyn\x1C\x1C\x1C\x1C20090302\n"
+  record: fec.version.v6_2.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2N
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H6MI15127
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Kilpatrick
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: Carolyn
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: 7445 LaSalle Blvd.
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Detroit
+  - name: CANDIDATE STATE
+    number: '12'
+    value: MI
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '48206'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: DEM
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: MI
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '15'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2010'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00317842
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: Kilpatrick for United States Congress
+  - name: PCC STREET 1
+    number: '21'
+    value: P.O. Box 32175
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: Detroit
+  - name: PCC STATE
+    number: '24'
+    value: MI
+  - name: PCC ZIP
+    number: '25'
+    value: '48232'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: ''
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: AUTH STREET 1
+    number: '28'
+    value: ''
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: ''
+  - name: AUTH STATE
+    number: '31'
+    value: ''
+  - name: AUTH ZIP
+    number: '32'
+    value: ''
+  - name: PRI PERSONAL FUNDS DECLARED
+    number: '33'
+    value: '0.00'
+  - name: GEN PERSONAL FUNDS DECLARED
+    number: '34'
+    value: '0.00'
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '35'
+    value: Kilpatrick
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '36'
+    value: Carolyn
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '37'
+    value: ''
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '38'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '39'
+    value: ''
+  - name: DATE SIGNED
+    number: '40'
+    value: '20090302
+
+'
+sourceurl: !!python/unicode 20090302
+type: chunk

@@ -1,0 +1,1911 @@
+countrows: 19
+filename: 405929.fec
+header: {}
+rows:
+- 2
+- input: "F1A\x1CC00366096\x1C\x1CVan Hollen For Congress\x1C\x1C10537 St. Paul Street\x1C\x1CKensington\x1CMD\x1C20895\x1Cjenny.kensington@verizon.net\x1C\x1C3019623800\x1C20090302\x1CSmith\x1CJennifer\x1CLewis\x1C\x1C\x1C20090302\x1CA\x1CH2MD08126\x1CHollen\x1CChris\x1CVan\x1C\x1C\x1CH\x1CMD\x1C08\x1CDEM\x1CNAT\x1C\x1CN\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CSmith\x1CJennifer\x1CLewis\x1C\x1C\x1C10537
+    St. Paul St.\x1C\x1CKensington\x1CMD\x1C20895\x1CTreasurer\x1C3019463804\x1CSmith\x1CJennifer\x1CLewis\x1C\x1C\x1C10537
+    St. Paul St.\x1C\x1CKensington\x1CMD\x1C20895\x1CTreasurer\x1C3019463804\x1CSmith\x1CJennifer\x1CLewis\x1C\x1C\x1C10537
+    St. Paul St.\x1C\x1CKensington\x1CMD\x1C20895\x1CTreasurer\x1C3019463804\x1CM
+    & T Bank\x1C10420 Montgomery Ave.\x1C\x1CKensington\x1CMD\x1C20895\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_2.F1
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00366096
+  - name: CHANGE OF COMMITTEE NAME
+    number: '3'
+    value: ''
+  - name: COMMITTEE NAME
+    number: '4'
+    value: Van Hollen For Congress
+  - name: CHANGE OF ADDRESS
+    number: '5'
+    value: ''
+  - name: STREET 1
+    number: '6'
+    value: 10537 St. Paul Street
+  - name: STREET 2
+    number: '7'
+    value: ''
+  - name: CITY
+    number: '8'
+    value: Kensington
+  - name: STATE
+    number: '9'
+    value: MD
+  - name: ZIP
+    number: '10'
+    value: '20895'
+  - name: COMMITTEE EMAIL
+    number: '11'
+    value: jenny.kensington@verizon.net
+  - name: COMMITTEE WEB URL
+    number: '12'
+    value: ''
+  - name: COMMITTEE FAX NUMBER
+    number: '13'
+    value: '3019623800'
+  - name: SUBMISSION DATE
+    number: '14'
+    value: '20090302'
+  - name: SIGNATURE LAST NAME
+    number: '15'
+    value: Smith
+  - name: SIGNATURE FIRST NAME
+    number: '16'
+    value: Jennifer
+  - name: SIGNATURE MIDDLE NAME
+    number: '17'
+    value: Lewis
+  - name: SIGNATURE PREFIX
+    number: '18'
+    value: ''
+  - name: SIGNATURE SUFFIX
+    number: '19'
+    value: ''
+  - name: DATE SIGNED
+    number: '20'
+    value: '20090302'
+  - name: COMMITTEE TYPE
+    number: 21-5.
+    value: A
+  - name: CANDIDATE ID NUMBER
+    number: 22-5.
+    value: H2MD08126
+  - name: CANDIDATE LAST NAME
+    number: 23-5.
+    value: Hollen
+  - name: CANDIDATE FIRST NAME
+    number: 24-5.
+    value: Chris
+  - name: CANDIDATE MIDDLE NAME
+    number: 25-5.
+    value: Van
+  - name: CANDIDATE PREFIX
+    number: 26-5.
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: 27-5.
+    value: ''
+  - name: CANDIDATE OFFICE
+    number: 28-5.
+    value: H
+  - name: CANDIDATE STATE
+    number: 29-5.
+    value: MD
+  - name: CANDIDATE DISTRICT
+    number: 30-5.
+    value: 08
+  - name: PARTY CODE
+    number: 31-5.
+    value: DEM
+  - name: PARTY TYPE
+    number: 32-5.
+    value: NAT
+  - name: ORGANIZATION TYPE
+    number: 33-5 (e).
+    value: ''
+  - name: LEADERSHIP PAC
+    number: 34-5 (f).
+    value: N
+  - name: AFFILIATED Committee ID NUM
+    number: 35-6.
+    value: ''
+  - name: AFFILIATED Committee NAME
+    number: 36-6.
+    value: ''
+  - name: AFFILIATED STREET 1
+    number: 37-6.
+    value: ''
+  - name: AFFILIATED STREET 2
+    number: 38-6.
+    value: ''
+  - name: AFFILIATED CITY
+    number: 39-6.
+    value: ''
+  - name: AFFILIATED STATE
+    number: 40-6.
+    value: ''
+  - name: AFFILIATED ZIP
+    number: 41-6.
+    value: ''
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 42-6.
+    value: ''
+  - name: CUSTODIAN LAST NAME
+    number: 43-7.
+    value: Smith
+  - name: CUSTODIAN FIRST NAME
+    number: 44-7.
+    value: Jennifer
+  - name: CUSTODIAN MIDDLE NAME
+    number: 45-7.
+    value: Lewis
+  - name: CUSTODIAN PREFIX
+    number: 46-7.
+    value: ''
+  - name: CUSTODIAN SUFFIX
+    number: 47-7.
+    value: ''
+  - name: CUSTODIAN STREET 1
+    number: 48-7.
+    value: 10537 St. Paul St.
+  - name: CUSTODIAN STREET 2
+    number: 49-7.
+    value: ''
+  - name: CUSTODIAN CITY
+    number: 50-7.
+    value: Kensington
+  - name: CUSTODIAN STATE
+    number: 51-7.
+    value: MD
+  - name: CUSTODIAN ZIP
+    number: 52-7.
+    value: '20895'
+  - name: CUSTODIAN TITLE
+    number: 53-7.
+    value: Treasurer
+  - name: CUSTODIAN TELEPHONE
+    number: 54-7.
+    value: '3019463804'
+  - name: TREASURER LAST NAME
+    number: 55-8.
+    value: Smith
+  - name: TREASURER FIRST NAME
+    number: 56-8.
+    value: Jennifer
+  - name: TREASURER MIDDLE NAME
+    number: 57-8.
+    value: Lewis
+  - name: TREASURER PREFIX
+    number: 58-8.
+    value: ''
+  - name: TREASURER SUFFIX
+    number: 59-8.
+    value: ''
+  - name: TREASURER STREET 1
+    number: 60-8.
+    value: 10537 St. Paul St.
+  - name: TREASURER STREET 2
+    number: 61-8.
+    value: ''
+  - name: TREASURER CITY
+    number: 62-8.
+    value: Kensington
+  - name: TREASURER STATE
+    number: 63-8.
+    value: MD
+  - name: TREASURER ZIP
+    number: 64-8.
+    value: '20895'
+  - name: TREASURER TITLE
+    number: 65-8.
+    value: Treasurer
+  - name: TREASURER TELEPHONE
+    number: 66-8.
+    value: '3019463804'
+  - name: AGENT LAST NAME
+    number: 67-8.
+    value: Smith
+  - name: AGENT FIRST NAME
+    number: 68-8.
+    value: Jennifer
+  - name: AGENT MIDDLE NAME
+    number: 69-8.
+    value: Lewis
+  - name: AGENT PREFIX
+    number: 70-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 71-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 72-8.
+    value: 10537 St. Paul St.
+  - name: AGENT STREET 2
+    number: 73-8.
+    value: ''
+  - name: AGENT CITY
+    number: 74-8.
+    value: Kensington
+  - name: AGENT STATE
+    number: 75-8.
+    value: MD
+  - name: AGENT ZIP
+    number: 76-8.
+    value: '20895'
+  - name: AGENT TITLE
+    number: 77-8.
+    value: Treasurer
+  - name: AGENT TELEPHONE
+    number: 78-8.
+    value: '3019463804'
+  - name: BANK NAME
+    number: 79-9. a)
+    value: M & T Bank
+  - name: BANK STREET 1
+    number: 80-9. a)
+    value: 10420 Montgomery Ave.
+  - name: BANK STREET 2
+    number: 81-9. a)
+    value: ''
+  - name: BANK CITY
+    number: 82-9. a)
+    value: Kensington
+  - name: BANK STATE
+    number: 83-9. a)
+    value: MD
+  - name: BANK ZIP
+    number: 84-9. a)
+    value: '20895'
+  - name: BANK NAME
+    number: 85-9. b)
+    value: ''
+  - name: BANK STREET 1
+    number: 86-9. b)
+    value: ''
+  - name: BANK STREET 2
+    number: 87-9. b)
+    value: ''
+  - name: BANK CITY
+    number: 88-9. b)
+    value: ''
+  - name: BANK STATE
+    number: 89-9. b)
+    value: ''
+  - name: BANK ZIP
+    number: 90-9. b)
+    value: '
+
+'
+- input: "F1S\x1CC00366096\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CPacific
+    Mercantile Bank\x1C949 South Coast Dr.\x1C3rd Floor\x1CCosta Mesa\x1CCA\x1C92626\n"
+  record: fec.version.v6_2.F1S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1S
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00366096
+  - name: JOINT FUND PARTICIPANT Committee NAME
+    number: 3-5.
+    value: ''
+  - name: JOINT FUND PARTICIPANT Committee FEC-ID
+    number: 4-5.
+    value: ''
+  - name: AFFILIATED Committee ID NUM
+    number: 5-6.
+    value: ''
+  - name: AFFILIATED Committee NAME
+    number: 6-6.
+    value: ''
+  - name: AFFILIATED STREET 1
+    number: 7-6.
+    value: ''
+  - name: AFFILIATED STREET 2
+    number: 8-6.
+    value: ''
+  - name: AFFILIATED CITY
+    number: 9-6.
+    value: ''
+  - name: AFFILIATED STATE
+    number: 10-6.
+    value: ''
+  - name: AFFILIATED ZIP
+    number: 11-6.
+    value: ''
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 12-6.
+    value: ''
+  - name: AGENT LAST NAME
+    number: 13-8.
+    value: ''
+  - name: AGENT FIRST NAME
+    number: 14-8.
+    value: ''
+  - name: AGENT MIDDLE NAME
+    number: 15-8.
+    value: ''
+  - name: AGENT PREFIX
+    number: 16-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 17-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 18-8.
+    value: ''
+  - name: AGENT STREET 2
+    number: 19-8.
+    value: ''
+  - name: AGENT CITY
+    number: 20-8.
+    value: ''
+  - name: AGENT STATE
+    number: 21-8.
+    value: ''
+  - name: AGENT ZIP
+    number: 22-8.
+    value: ''
+  - name: AGENT TITLE
+    number: 23-8.
+    value: ''
+  - name: AGENT TELEPHONE
+    number: 24-8.
+    value: ''
+  - name: BANK NAME
+    number: 25-9.
+    value: Pacific Mercantile Bank
+  - name: BANK STREET 1
+    number: 26-9.
+    value: 949 South Coast Dr.
+  - name: BANK STREET 2
+    number: 26-9.
+    value: 3rd Floor
+  - name: BANK CITY
+    number: 28-9.
+    value: Costa Mesa
+  - name: BANK STATE
+    number: 29-9.
+    value: CA
+  - name: BANK ZIP
+    number: 30-9.
+    value: '92626
+
+'
+- input: "F1S\x1CC00366096\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CCorus
+    Bank\x1CP.O. Box 804306\x1C\x1CChicago\x1CIL\x1C60680\n"
+  record: fec.version.v6_2.F1S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1S
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00366096
+  - name: JOINT FUND PARTICIPANT Committee NAME
+    number: 3-5.
+    value: ''
+  - name: JOINT FUND PARTICIPANT Committee FEC-ID
+    number: 4-5.
+    value: ''
+  - name: AFFILIATED Committee ID NUM
+    number: 5-6.
+    value: ''
+  - name: AFFILIATED Committee NAME
+    number: 6-6.
+    value: ''
+  - name: AFFILIATED STREET 1
+    number: 7-6.
+    value: ''
+  - name: AFFILIATED STREET 2
+    number: 8-6.
+    value: ''
+  - name: AFFILIATED CITY
+    number: 9-6.
+    value: ''
+  - name: AFFILIATED STATE
+    number: 10-6.
+    value: ''
+  - name: AFFILIATED ZIP
+    number: 11-6.
+    value: ''
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 12-6.
+    value: ''
+  - name: AGENT LAST NAME
+    number: 13-8.
+    value: ''
+  - name: AGENT FIRST NAME
+    number: 14-8.
+    value: ''
+  - name: AGENT MIDDLE NAME
+    number: 15-8.
+    value: ''
+  - name: AGENT PREFIX
+    number: 16-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 17-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 18-8.
+    value: ''
+  - name: AGENT STREET 2
+    number: 19-8.
+    value: ''
+  - name: AGENT CITY
+    number: 20-8.
+    value: ''
+  - name: AGENT STATE
+    number: 21-8.
+    value: ''
+  - name: AGENT ZIP
+    number: 22-8.
+    value: ''
+  - name: AGENT TITLE
+    number: 23-8.
+    value: ''
+  - name: AGENT TELEPHONE
+    number: 24-8.
+    value: ''
+  - name: BANK NAME
+    number: 25-9.
+    value: Corus Bank
+  - name: BANK STREET 1
+    number: 26-9.
+    value: P.O. Box 804306
+  - name: BANK STREET 2
+    number: 26-9.
+    value: ''
+  - name: BANK CITY
+    number: 28-9.
+    value: Chicago
+  - name: BANK STATE
+    number: 29-9.
+    value: IL
+  - name: BANK ZIP
+    number: 30-9.
+    value: '60680
+
+'
+- input: "F1S\x1CC00366096\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CAscencia,
+    a Division of PBI Bank\x1CP.O. Box 436029\x1C\x1CLouisville\x1CKY\x1C40258\n"
+  record: fec.version.v6_2.F1S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1S
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00366096
+  - name: JOINT FUND PARTICIPANT Committee NAME
+    number: 3-5.
+    value: ''
+  - name: JOINT FUND PARTICIPANT Committee FEC-ID
+    number: 4-5.
+    value: ''
+  - name: AFFILIATED Committee ID NUM
+    number: 5-6.
+    value: ''
+  - name: AFFILIATED Committee NAME
+    number: 6-6.
+    value: ''
+  - name: AFFILIATED STREET 1
+    number: 7-6.
+    value: ''
+  - name: AFFILIATED STREET 2
+    number: 8-6.
+    value: ''
+  - name: AFFILIATED CITY
+    number: 9-6.
+    value: ''
+  - name: AFFILIATED STATE
+    number: 10-6.
+    value: ''
+  - name: AFFILIATED ZIP
+    number: 11-6.
+    value: ''
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 12-6.
+    value: ''
+  - name: AGENT LAST NAME
+    number: 13-8.
+    value: ''
+  - name: AGENT FIRST NAME
+    number: 14-8.
+    value: ''
+  - name: AGENT MIDDLE NAME
+    number: 15-8.
+    value: ''
+  - name: AGENT PREFIX
+    number: 16-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 17-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 18-8.
+    value: ''
+  - name: AGENT STREET 2
+    number: 19-8.
+    value: ''
+  - name: AGENT CITY
+    number: 20-8.
+    value: ''
+  - name: AGENT STATE
+    number: 21-8.
+    value: ''
+  - name: AGENT ZIP
+    number: 22-8.
+    value: ''
+  - name: AGENT TITLE
+    number: 23-8.
+    value: ''
+  - name: AGENT TELEPHONE
+    number: 24-8.
+    value: ''
+  - name: BANK NAME
+    number: 25-9.
+    value: Ascencia, a Division of PBI Bank
+  - name: BANK STREET 1
+    number: 26-9.
+    value: P.O. Box 436029
+  - name: BANK STREET 2
+    number: 26-9.
+    value: ''
+  - name: BANK CITY
+    number: 28-9.
+    value: Louisville
+  - name: BANK STATE
+    number: 29-9.
+    value: KY
+  - name: BANK ZIP
+    number: 30-9.
+    value: '40258
+
+'
+- input: "F1S\x1CC00366096\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CING
+    Direct\x1C1 South Orange St.\x1C\x1CWilmington\x1CDE\x1C19801\n"
+  record: fec.version.v6_2.F1S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1S
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00366096
+  - name: JOINT FUND PARTICIPANT Committee NAME
+    number: 3-5.
+    value: ''
+  - name: JOINT FUND PARTICIPANT Committee FEC-ID
+    number: 4-5.
+    value: ''
+  - name: AFFILIATED Committee ID NUM
+    number: 5-6.
+    value: ''
+  - name: AFFILIATED Committee NAME
+    number: 6-6.
+    value: ''
+  - name: AFFILIATED STREET 1
+    number: 7-6.
+    value: ''
+  - name: AFFILIATED STREET 2
+    number: 8-6.
+    value: ''
+  - name: AFFILIATED CITY
+    number: 9-6.
+    value: ''
+  - name: AFFILIATED STATE
+    number: 10-6.
+    value: ''
+  - name: AFFILIATED ZIP
+    number: 11-6.
+    value: ''
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 12-6.
+    value: ''
+  - name: AGENT LAST NAME
+    number: 13-8.
+    value: ''
+  - name: AGENT FIRST NAME
+    number: 14-8.
+    value: ''
+  - name: AGENT MIDDLE NAME
+    number: 15-8.
+    value: ''
+  - name: AGENT PREFIX
+    number: 16-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 17-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 18-8.
+    value: ''
+  - name: AGENT STREET 2
+    number: 19-8.
+    value: ''
+  - name: AGENT CITY
+    number: 20-8.
+    value: ''
+  - name: AGENT STATE
+    number: 21-8.
+    value: ''
+  - name: AGENT ZIP
+    number: 22-8.
+    value: ''
+  - name: AGENT TITLE
+    number: 23-8.
+    value: ''
+  - name: AGENT TELEPHONE
+    number: 24-8.
+    value: ''
+  - name: BANK NAME
+    number: 25-9.
+    value: ING Direct
+  - name: BANK STREET 1
+    number: 26-9.
+    value: 1 South Orange St.
+  - name: BANK STREET 2
+    number: 26-9.
+    value: ''
+  - name: BANK CITY
+    number: 28-9.
+    value: Wilmington
+  - name: BANK STATE
+    number: 29-9.
+    value: DE
+  - name: BANK ZIP
+    number: 30-9.
+    value: '19801
+
+'
+- input: "F1S\x1CC00366096\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CAdvanta
+    Bank Corp.\x1CP.O. Box 30715\x1C\x1CSalt Lake City\x1CUT\x1C84130\n"
+  record: fec.version.v6_2.F1S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1S
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00366096
+  - name: JOINT FUND PARTICIPANT Committee NAME
+    number: 3-5.
+    value: ''
+  - name: JOINT FUND PARTICIPANT Committee FEC-ID
+    number: 4-5.
+    value: ''
+  - name: AFFILIATED Committee ID NUM
+    number: 5-6.
+    value: ''
+  - name: AFFILIATED Committee NAME
+    number: 6-6.
+    value: ''
+  - name: AFFILIATED STREET 1
+    number: 7-6.
+    value: ''
+  - name: AFFILIATED STREET 2
+    number: 8-6.
+    value: ''
+  - name: AFFILIATED CITY
+    number: 9-6.
+    value: ''
+  - name: AFFILIATED STATE
+    number: 10-6.
+    value: ''
+  - name: AFFILIATED ZIP
+    number: 11-6.
+    value: ''
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 12-6.
+    value: ''
+  - name: AGENT LAST NAME
+    number: 13-8.
+    value: ''
+  - name: AGENT FIRST NAME
+    number: 14-8.
+    value: ''
+  - name: AGENT MIDDLE NAME
+    number: 15-8.
+    value: ''
+  - name: AGENT PREFIX
+    number: 16-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 17-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 18-8.
+    value: ''
+  - name: AGENT STREET 2
+    number: 19-8.
+    value: ''
+  - name: AGENT CITY
+    number: 20-8.
+    value: ''
+  - name: AGENT STATE
+    number: 21-8.
+    value: ''
+  - name: AGENT ZIP
+    number: 22-8.
+    value: ''
+  - name: AGENT TITLE
+    number: 23-8.
+    value: ''
+  - name: AGENT TELEPHONE
+    number: 24-8.
+    value: ''
+  - name: BANK NAME
+    number: 25-9.
+    value: Advanta Bank Corp.
+  - name: BANK STREET 1
+    number: 26-9.
+    value: P.O. Box 30715
+  - name: BANK STREET 2
+    number: 26-9.
+    value: ''
+  - name: BANK CITY
+    number: 28-9.
+    value: Salt Lake City
+  - name: BANK STATE
+    number: 29-9.
+    value: UT
+  - name: BANK ZIP
+    number: 30-9.
+    value: '84130
+
+'
+- input: "F1S\x1CC00366096\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CQuantum
+    National Bank\x1C505 Peachtree Industrial Blvd.\x1C\x1CSuwanee\x1CGA\x1C30024\n"
+  record: fec.version.v6_2.F1S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1S
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00366096
+  - name: JOINT FUND PARTICIPANT Committee NAME
+    number: 3-5.
+    value: ''
+  - name: JOINT FUND PARTICIPANT Committee FEC-ID
+    number: 4-5.
+    value: ''
+  - name: AFFILIATED Committee ID NUM
+    number: 5-6.
+    value: ''
+  - name: AFFILIATED Committee NAME
+    number: 6-6.
+    value: ''
+  - name: AFFILIATED STREET 1
+    number: 7-6.
+    value: ''
+  - name: AFFILIATED STREET 2
+    number: 8-6.
+    value: ''
+  - name: AFFILIATED CITY
+    number: 9-6.
+    value: ''
+  - name: AFFILIATED STATE
+    number: 10-6.
+    value: ''
+  - name: AFFILIATED ZIP
+    number: 11-6.
+    value: ''
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 12-6.
+    value: ''
+  - name: AGENT LAST NAME
+    number: 13-8.
+    value: ''
+  - name: AGENT FIRST NAME
+    number: 14-8.
+    value: ''
+  - name: AGENT MIDDLE NAME
+    number: 15-8.
+    value: ''
+  - name: AGENT PREFIX
+    number: 16-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 17-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 18-8.
+    value: ''
+  - name: AGENT STREET 2
+    number: 19-8.
+    value: ''
+  - name: AGENT CITY
+    number: 20-8.
+    value: ''
+  - name: AGENT STATE
+    number: 21-8.
+    value: ''
+  - name: AGENT ZIP
+    number: 22-8.
+    value: ''
+  - name: AGENT TITLE
+    number: 23-8.
+    value: ''
+  - name: AGENT TELEPHONE
+    number: 24-8.
+    value: ''
+  - name: BANK NAME
+    number: 25-9.
+    value: Quantum National Bank
+  - name: BANK STREET 1
+    number: 26-9.
+    value: 505 Peachtree Industrial Blvd.
+  - name: BANK STREET 2
+    number: 26-9.
+    value: ''
+  - name: BANK CITY
+    number: 28-9.
+    value: Suwanee
+  - name: BANK STATE
+    number: 29-9.
+    value: GA
+  - name: BANK ZIP
+    number: 30-9.
+    value: '30024
+
+'
+- input: "F1S\x1CC00366096\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CCentennial
+    Bank\x1C18837 Brookhurst St.\x1CSuite 100\x1CFountain Valley\x1CCA\x1C92708\n"
+  record: fec.version.v6_2.F1S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1S
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00366096
+  - name: JOINT FUND PARTICIPANT Committee NAME
+    number: 3-5.
+    value: ''
+  - name: JOINT FUND PARTICIPANT Committee FEC-ID
+    number: 4-5.
+    value: ''
+  - name: AFFILIATED Committee ID NUM
+    number: 5-6.
+    value: ''
+  - name: AFFILIATED Committee NAME
+    number: 6-6.
+    value: ''
+  - name: AFFILIATED STREET 1
+    number: 7-6.
+    value: ''
+  - name: AFFILIATED STREET 2
+    number: 8-6.
+    value: ''
+  - name: AFFILIATED CITY
+    number: 9-6.
+    value: ''
+  - name: AFFILIATED STATE
+    number: 10-6.
+    value: ''
+  - name: AFFILIATED ZIP
+    number: 11-6.
+    value: ''
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 12-6.
+    value: ''
+  - name: AGENT LAST NAME
+    number: 13-8.
+    value: ''
+  - name: AGENT FIRST NAME
+    number: 14-8.
+    value: ''
+  - name: AGENT MIDDLE NAME
+    number: 15-8.
+    value: ''
+  - name: AGENT PREFIX
+    number: 16-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 17-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 18-8.
+    value: ''
+  - name: AGENT STREET 2
+    number: 19-8.
+    value: ''
+  - name: AGENT CITY
+    number: 20-8.
+    value: ''
+  - name: AGENT STATE
+    number: 21-8.
+    value: ''
+  - name: AGENT ZIP
+    number: 22-8.
+    value: ''
+  - name: AGENT TITLE
+    number: 23-8.
+    value: ''
+  - name: AGENT TELEPHONE
+    number: 24-8.
+    value: ''
+  - name: BANK NAME
+    number: 25-9.
+    value: Centennial Bank
+  - name: BANK STREET 1
+    number: 26-9.
+    value: 18837 Brookhurst St.
+  - name: BANK STREET 2
+    number: 26-9.
+    value: Suite 100
+  - name: BANK CITY
+    number: 28-9.
+    value: Fountain Valley
+  - name: BANK STATE
+    number: 29-9.
+    value: CA
+  - name: BANK ZIP
+    number: 30-9.
+    value: '92708
+
+'
+- input: "F1S\x1CC00366096\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CGeauga
+    Savings Bank\x1C10800 Kinsman Rd.\x1C\x1CNewbury\x1COH\x1C44065\n"
+  record: fec.version.v6_2.F1S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1S
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00366096
+  - name: JOINT FUND PARTICIPANT Committee NAME
+    number: 3-5.
+    value: ''
+  - name: JOINT FUND PARTICIPANT Committee FEC-ID
+    number: 4-5.
+    value: ''
+  - name: AFFILIATED Committee ID NUM
+    number: 5-6.
+    value: ''
+  - name: AFFILIATED Committee NAME
+    number: 6-6.
+    value: ''
+  - name: AFFILIATED STREET 1
+    number: 7-6.
+    value: ''
+  - name: AFFILIATED STREET 2
+    number: 8-6.
+    value: ''
+  - name: AFFILIATED CITY
+    number: 9-6.
+    value: ''
+  - name: AFFILIATED STATE
+    number: 10-6.
+    value: ''
+  - name: AFFILIATED ZIP
+    number: 11-6.
+    value: ''
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 12-6.
+    value: ''
+  - name: AGENT LAST NAME
+    number: 13-8.
+    value: ''
+  - name: AGENT FIRST NAME
+    number: 14-8.
+    value: ''
+  - name: AGENT MIDDLE NAME
+    number: 15-8.
+    value: ''
+  - name: AGENT PREFIX
+    number: 16-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 17-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 18-8.
+    value: ''
+  - name: AGENT STREET 2
+    number: 19-8.
+    value: ''
+  - name: AGENT CITY
+    number: 20-8.
+    value: ''
+  - name: AGENT STATE
+    number: 21-8.
+    value: ''
+  - name: AGENT ZIP
+    number: 22-8.
+    value: ''
+  - name: AGENT TITLE
+    number: 23-8.
+    value: ''
+  - name: AGENT TELEPHONE
+    number: 24-8.
+    value: ''
+  - name: BANK NAME
+    number: 25-9.
+    value: Geauga Savings Bank
+  - name: BANK STREET 1
+    number: 26-9.
+    value: 10800 Kinsman Rd.
+  - name: BANK STREET 2
+    number: 26-9.
+    value: ''
+  - name: BANK CITY
+    number: 28-9.
+    value: Newbury
+  - name: BANK STATE
+    number: 29-9.
+    value: OH
+  - name: BANK ZIP
+    number: 30-9.
+    value: '44065
+
+'
+- input: "F1S\x1CC00366096\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CSunTrust
+    Bank\x1C3740 University Blvd W\x1C\x1CKensington\x1CMD\x1C20895\n"
+  record: fec.version.v6_2.F1S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1S
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00366096
+  - name: JOINT FUND PARTICIPANT Committee NAME
+    number: 3-5.
+    value: ''
+  - name: JOINT FUND PARTICIPANT Committee FEC-ID
+    number: 4-5.
+    value: ''
+  - name: AFFILIATED Committee ID NUM
+    number: 5-6.
+    value: ''
+  - name: AFFILIATED Committee NAME
+    number: 6-6.
+    value: ''
+  - name: AFFILIATED STREET 1
+    number: 7-6.
+    value: ''
+  - name: AFFILIATED STREET 2
+    number: 8-6.
+    value: ''
+  - name: AFFILIATED CITY
+    number: 9-6.
+    value: ''
+  - name: AFFILIATED STATE
+    number: 10-6.
+    value: ''
+  - name: AFFILIATED ZIP
+    number: 11-6.
+    value: ''
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 12-6.
+    value: ''
+  - name: AGENT LAST NAME
+    number: 13-8.
+    value: ''
+  - name: AGENT FIRST NAME
+    number: 14-8.
+    value: ''
+  - name: AGENT MIDDLE NAME
+    number: 15-8.
+    value: ''
+  - name: AGENT PREFIX
+    number: 16-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 17-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 18-8.
+    value: ''
+  - name: AGENT STREET 2
+    number: 19-8.
+    value: ''
+  - name: AGENT CITY
+    number: 20-8.
+    value: ''
+  - name: AGENT STATE
+    number: 21-8.
+    value: ''
+  - name: AGENT ZIP
+    number: 22-8.
+    value: ''
+  - name: AGENT TITLE
+    number: 23-8.
+    value: ''
+  - name: AGENT TELEPHONE
+    number: 24-8.
+    value: ''
+  - name: BANK NAME
+    number: 25-9.
+    value: SunTrust Bank
+  - name: BANK STREET 1
+    number: 26-9.
+    value: 3740 University Blvd W
+  - name: BANK STREET 2
+    number: 26-9.
+    value: ''
+  - name: BANK CITY
+    number: 28-9.
+    value: Kensington
+  - name: BANK STATE
+    number: 29-9.
+    value: MD
+  - name: BANK ZIP
+    number: 30-9.
+    value: '20895
+
+'
+- input: "F1S\x1CC00366096\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CEagleBank\x1C8665
+    Georgia Ave\x1C\x1CSilver Spring\x1CMD\x1C20910\n"
+  record: fec.version.v6_2.F1S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1S
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00366096
+  - name: JOINT FUND PARTICIPANT Committee NAME
+    number: 3-5.
+    value: ''
+  - name: JOINT FUND PARTICIPANT Committee FEC-ID
+    number: 4-5.
+    value: ''
+  - name: AFFILIATED Committee ID NUM
+    number: 5-6.
+    value: ''
+  - name: AFFILIATED Committee NAME
+    number: 6-6.
+    value: ''
+  - name: AFFILIATED STREET 1
+    number: 7-6.
+    value: ''
+  - name: AFFILIATED STREET 2
+    number: 8-6.
+    value: ''
+  - name: AFFILIATED CITY
+    number: 9-6.
+    value: ''
+  - name: AFFILIATED STATE
+    number: 10-6.
+    value: ''
+  - name: AFFILIATED ZIP
+    number: 11-6.
+    value: ''
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 12-6.
+    value: ''
+  - name: AGENT LAST NAME
+    number: 13-8.
+    value: ''
+  - name: AGENT FIRST NAME
+    number: 14-8.
+    value: ''
+  - name: AGENT MIDDLE NAME
+    number: 15-8.
+    value: ''
+  - name: AGENT PREFIX
+    number: 16-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 17-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 18-8.
+    value: ''
+  - name: AGENT STREET 2
+    number: 19-8.
+    value: ''
+  - name: AGENT CITY
+    number: 20-8.
+    value: ''
+  - name: AGENT STATE
+    number: 21-8.
+    value: ''
+  - name: AGENT ZIP
+    number: 22-8.
+    value: ''
+  - name: AGENT TITLE
+    number: 23-8.
+    value: ''
+  - name: AGENT TELEPHONE
+    number: 24-8.
+    value: ''
+  - name: BANK NAME
+    number: 25-9.
+    value: EagleBank
+  - name: BANK STREET 1
+    number: 26-9.
+    value: 8665 Georgia Ave
+  - name: BANK STREET 2
+    number: 26-9.
+    value: ''
+  - name: BANK CITY
+    number: 28-9.
+    value: Silver Spring
+  - name: BANK STATE
+    number: 29-9.
+    value: MD
+  - name: BANK ZIP
+    number: 30-9.
+    value: '20910
+
+'
+- input: "F1S\x1CC00366096\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_2.F1S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1S
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00366096
+  - name: JOINT FUND PARTICIPANT Committee NAME
+    number: 3-5.
+    value: ''
+  - name: JOINT FUND PARTICIPANT Committee FEC-ID
+    number: 4-5.
+    value: ''
+  - name: AFFILIATED Committee ID NUM
+    number: 5-6.
+    value: ''
+  - name: AFFILIATED Committee NAME
+    number: 6-6.
+    value: ''
+  - name: AFFILIATED STREET 1
+    number: 7-6.
+    value: ''
+  - name: AFFILIATED STREET 2
+    number: 8-6.
+    value: ''
+  - name: AFFILIATED CITY
+    number: 9-6.
+    value: ''
+  - name: AFFILIATED STATE
+    number: 10-6.
+    value: ''
+  - name: AFFILIATED ZIP
+    number: 11-6.
+    value: ''
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 12-6.
+    value: ''
+  - name: AGENT LAST NAME
+    number: 13-8.
+    value: ''
+  - name: AGENT FIRST NAME
+    number: 14-8.
+    value: ''
+  - name: AGENT MIDDLE NAME
+    number: 15-8.
+    value: ''
+  - name: AGENT PREFIX
+    number: 16-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 17-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 18-8.
+    value: ''
+  - name: AGENT STREET 2
+    number: 19-8.
+    value: ''
+  - name: AGENT CITY
+    number: 20-8.
+    value: ''
+  - name: AGENT STATE
+    number: 21-8.
+    value: ''
+  - name: AGENT ZIP
+    number: 22-8.
+    value: ''
+  - name: AGENT TITLE
+    number: 23-8.
+    value: ''
+  - name: AGENT TELEPHONE
+    number: 24-8.
+    value: ''
+  - name: BANK NAME
+    number: 25-9.
+    value: ''
+  - name: BANK STREET 1
+    number: 26-9.
+    value: ''
+  - name: BANK STREET 2
+    number: 26-9.
+    value: ''
+  - name: BANK CITY
+    number: 28-9.
+    value: ''
+  - name: BANK STATE
+    number: 29-9.
+    value: ''
+  - name: BANK ZIP
+    number: 30-9.
+    value: '
+
+'
+- input: "F1S\x1CC00366096\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_2.F1S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1S
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00366096
+  - name: JOINT FUND PARTICIPANT Committee NAME
+    number: 3-5.
+    value: ''
+  - name: JOINT FUND PARTICIPANT Committee FEC-ID
+    number: 4-5.
+    value: ''
+  - name: AFFILIATED Committee ID NUM
+    number: 5-6.
+    value: ''
+  - name: AFFILIATED Committee NAME
+    number: 6-6.
+    value: ''
+  - name: AFFILIATED STREET 1
+    number: 7-6.
+    value: ''
+  - name: AFFILIATED STREET 2
+    number: 8-6.
+    value: ''
+  - name: AFFILIATED CITY
+    number: 9-6.
+    value: ''
+  - name: AFFILIATED STATE
+    number: 10-6.
+    value: ''
+  - name: AFFILIATED ZIP
+    number: 11-6.
+    value: ''
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 12-6.
+    value: ''
+  - name: AGENT LAST NAME
+    number: 13-8.
+    value: ''
+  - name: AGENT FIRST NAME
+    number: 14-8.
+    value: ''
+  - name: AGENT MIDDLE NAME
+    number: 15-8.
+    value: ''
+  - name: AGENT PREFIX
+    number: 16-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 17-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 18-8.
+    value: ''
+  - name: AGENT STREET 2
+    number: 19-8.
+    value: ''
+  - name: AGENT CITY
+    number: 20-8.
+    value: ''
+  - name: AGENT STATE
+    number: 21-8.
+    value: ''
+  - name: AGENT ZIP
+    number: 22-8.
+    value: ''
+  - name: AGENT TITLE
+    number: 23-8.
+    value: ''
+  - name: AGENT TELEPHONE
+    number: 24-8.
+    value: ''
+  - name: BANK NAME
+    number: 25-9.
+    value: ''
+  - name: BANK STREET 1
+    number: 26-9.
+    value: ''
+  - name: BANK STREET 2
+    number: 26-9.
+    value: ''
+  - name: BANK CITY
+    number: 28-9.
+    value: ''
+  - name: BANK STATE
+    number: 29-9.
+    value: ''
+  - name: BANK ZIP
+    number: 30-9.
+    value: '
+
+'
+- input: "F1S\x1CC00366096\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_2.F1S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1S
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00366096
+  - name: JOINT FUND PARTICIPANT Committee NAME
+    number: 3-5.
+    value: ''
+  - name: JOINT FUND PARTICIPANT Committee FEC-ID
+    number: 4-5.
+    value: ''
+  - name: AFFILIATED Committee ID NUM
+    number: 5-6.
+    value: ''
+  - name: AFFILIATED Committee NAME
+    number: 6-6.
+    value: ''
+  - name: AFFILIATED STREET 1
+    number: 7-6.
+    value: ''
+  - name: AFFILIATED STREET 2
+    number: 8-6.
+    value: ''
+  - name: AFFILIATED CITY
+    number: 9-6.
+    value: ''
+  - name: AFFILIATED STATE
+    number: 10-6.
+    value: ''
+  - name: AFFILIATED ZIP
+    number: 11-6.
+    value: ''
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 12-6.
+    value: ''
+  - name: AGENT LAST NAME
+    number: 13-8.
+    value: ''
+  - name: AGENT FIRST NAME
+    number: 14-8.
+    value: ''
+  - name: AGENT MIDDLE NAME
+    number: 15-8.
+    value: ''
+  - name: AGENT PREFIX
+    number: 16-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 17-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 18-8.
+    value: ''
+  - name: AGENT STREET 2
+    number: 19-8.
+    value: ''
+  - name: AGENT CITY
+    number: 20-8.
+    value: ''
+  - name: AGENT STATE
+    number: 21-8.
+    value: ''
+  - name: AGENT ZIP
+    number: 22-8.
+    value: ''
+  - name: AGENT TITLE
+    number: 23-8.
+    value: ''
+  - name: AGENT TELEPHONE
+    number: 24-8.
+    value: ''
+  - name: BANK NAME
+    number: 25-9.
+    value: ''
+  - name: BANK STREET 1
+    number: 26-9.
+    value: ''
+  - name: BANK STREET 2
+    number: 26-9.
+    value: ''
+  - name: BANK CITY
+    number: 28-9.
+    value: ''
+  - name: BANK STATE
+    number: 29-9.
+    value: ''
+  - name: BANK ZIP
+    number: 30-9.
+    value: '
+
+'
+- input: "F1S\x1CC00366096\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_2.F1S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1S
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00366096
+  - name: JOINT FUND PARTICIPANT Committee NAME
+    number: 3-5.
+    value: ''
+  - name: JOINT FUND PARTICIPANT Committee FEC-ID
+    number: 4-5.
+    value: ''
+  - name: AFFILIATED Committee ID NUM
+    number: 5-6.
+    value: ''
+  - name: AFFILIATED Committee NAME
+    number: 6-6.
+    value: ''
+  - name: AFFILIATED STREET 1
+    number: 7-6.
+    value: ''
+  - name: AFFILIATED STREET 2
+    number: 8-6.
+    value: ''
+  - name: AFFILIATED CITY
+    number: 9-6.
+    value: ''
+  - name: AFFILIATED STATE
+    number: 10-6.
+    value: ''
+  - name: AFFILIATED ZIP
+    number: 11-6.
+    value: ''
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 12-6.
+    value: ''
+  - name: AGENT LAST NAME
+    number: 13-8.
+    value: ''
+  - name: AGENT FIRST NAME
+    number: 14-8.
+    value: ''
+  - name: AGENT MIDDLE NAME
+    number: 15-8.
+    value: ''
+  - name: AGENT PREFIX
+    number: 16-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 17-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 18-8.
+    value: ''
+  - name: AGENT STREET 2
+    number: 19-8.
+    value: ''
+  - name: AGENT CITY
+    number: 20-8.
+    value: ''
+  - name: AGENT STATE
+    number: 21-8.
+    value: ''
+  - name: AGENT ZIP
+    number: 22-8.
+    value: ''
+  - name: AGENT TITLE
+    number: 23-8.
+    value: ''
+  - name: AGENT TELEPHONE
+    number: 24-8.
+    value: ''
+  - name: BANK NAME
+    number: 25-9.
+    value: ''
+  - name: BANK STREET 1
+    number: 26-9.
+    value: ''
+  - name: BANK STREET 2
+    number: 26-9.
+    value: ''
+  - name: BANK CITY
+    number: 28-9.
+    value: ''
+  - name: BANK STATE
+    number: 29-9.
+    value: ''
+  - name: BANK ZIP
+    number: 30-9.
+    value: '
+
+'
+- input: "F1S\x1CC00366096\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_2.F1S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1S
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00366096
+  - name: JOINT FUND PARTICIPANT Committee NAME
+    number: 3-5.
+    value: ''
+  - name: JOINT FUND PARTICIPANT Committee FEC-ID
+    number: 4-5.
+    value: ''
+  - name: AFFILIATED Committee ID NUM
+    number: 5-6.
+    value: ''
+  - name: AFFILIATED Committee NAME
+    number: 6-6.
+    value: ''
+  - name: AFFILIATED STREET 1
+    number: 7-6.
+    value: ''
+  - name: AFFILIATED STREET 2
+    number: 8-6.
+    value: ''
+  - name: AFFILIATED CITY
+    number: 9-6.
+    value: ''
+  - name: AFFILIATED STATE
+    number: 10-6.
+    value: ''
+  - name: AFFILIATED ZIP
+    number: 11-6.
+    value: ''
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 12-6.
+    value: ''
+  - name: AGENT LAST NAME
+    number: 13-8.
+    value: ''
+  - name: AGENT FIRST NAME
+    number: 14-8.
+    value: ''
+  - name: AGENT MIDDLE NAME
+    number: 15-8.
+    value: ''
+  - name: AGENT PREFIX
+    number: 16-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 17-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 18-8.
+    value: ''
+  - name: AGENT STREET 2
+    number: 19-8.
+    value: ''
+  - name: AGENT CITY
+    number: 20-8.
+    value: ''
+  - name: AGENT STATE
+    number: 21-8.
+    value: ''
+  - name: AGENT ZIP
+    number: 22-8.
+    value: ''
+  - name: AGENT TITLE
+    number: 23-8.
+    value: ''
+  - name: AGENT TELEPHONE
+    number: 24-8.
+    value: ''
+  - name: BANK NAME
+    number: 25-9.
+    value: ''
+  - name: BANK STREET 1
+    number: 26-9.
+    value: ''
+  - name: BANK STREET 2
+    number: 26-9.
+    value: ''
+  - name: BANK CITY
+    number: 28-9.
+    value: ''
+  - name: BANK STATE
+    number: 29-9.
+    value: ''
+  - name: BANK ZIP
+    number: 30-9.
+    value: '
+
+'
+- input: "F1S\x1CC00366096\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_2.F1S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1S
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00366096
+  - name: JOINT FUND PARTICIPANT Committee NAME
+    number: 3-5.
+    value: ''
+  - name: JOINT FUND PARTICIPANT Committee FEC-ID
+    number: 4-5.
+    value: ''
+  - name: AFFILIATED Committee ID NUM
+    number: 5-6.
+    value: ''
+  - name: AFFILIATED Committee NAME
+    number: 6-6.
+    value: ''
+  - name: AFFILIATED STREET 1
+    number: 7-6.
+    value: ''
+  - name: AFFILIATED STREET 2
+    number: 8-6.
+    value: ''
+  - name: AFFILIATED CITY
+    number: 9-6.
+    value: ''
+  - name: AFFILIATED STATE
+    number: 10-6.
+    value: ''
+  - name: AFFILIATED ZIP
+    number: 11-6.
+    value: ''
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 12-6.
+    value: ''
+  - name: AGENT LAST NAME
+    number: 13-8.
+    value: ''
+  - name: AGENT FIRST NAME
+    number: 14-8.
+    value: ''
+  - name: AGENT MIDDLE NAME
+    number: 15-8.
+    value: ''
+  - name: AGENT PREFIX
+    number: 16-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 17-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 18-8.
+    value: ''
+  - name: AGENT STREET 2
+    number: 19-8.
+    value: ''
+  - name: AGENT CITY
+    number: 20-8.
+    value: ''
+  - name: AGENT STATE
+    number: 21-8.
+    value: ''
+  - name: AGENT ZIP
+    number: 22-8.
+    value: ''
+  - name: AGENT TITLE
+    number: 23-8.
+    value: ''
+  - name: AGENT TELEPHONE
+    number: 24-8.
+    value: ''
+  - name: BANK NAME
+    number: 25-9.
+    value: ''
+  - name: BANK STREET 1
+    number: 26-9.
+    value: ''
+  - name: BANK STREET 2
+    number: 26-9.
+    value: ''
+  - name: BANK CITY
+    number: 28-9.
+    value: ''
+  - name: BANK STATE
+    number: 29-9.
+    value: ''
+  - name: BANK ZIP
+    number: 30-9.
+    value: '
+
+'
+- input: "F1S\x1CC00366096\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_2.F1S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1S
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00366096
+  - name: JOINT FUND PARTICIPANT Committee NAME
+    number: 3-5.
+    value: ''
+  - name: JOINT FUND PARTICIPANT Committee FEC-ID
+    number: 4-5.
+    value: ''
+  - name: AFFILIATED Committee ID NUM
+    number: 5-6.
+    value: ''
+  - name: AFFILIATED Committee NAME
+    number: 6-6.
+    value: ''
+  - name: AFFILIATED STREET 1
+    number: 7-6.
+    value: ''
+  - name: AFFILIATED STREET 2
+    number: 8-6.
+    value: ''
+  - name: AFFILIATED CITY
+    number: 9-6.
+    value: ''
+  - name: AFFILIATED STATE
+    number: 10-6.
+    value: ''
+  - name: AFFILIATED ZIP
+    number: 11-6.
+    value: ''
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 12-6.
+    value: ''
+  - name: AGENT LAST NAME
+    number: 13-8.
+    value: ''
+  - name: AGENT FIRST NAME
+    number: 14-8.
+    value: ''
+  - name: AGENT MIDDLE NAME
+    number: 15-8.
+    value: ''
+  - name: AGENT PREFIX
+    number: 16-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 17-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 18-8.
+    value: ''
+  - name: AGENT STREET 2
+    number: 19-8.
+    value: ''
+  - name: AGENT CITY
+    number: 20-8.
+    value: ''
+  - name: AGENT STATE
+    number: 21-8.
+    value: ''
+  - name: AGENT ZIP
+    number: 22-8.
+    value: ''
+  - name: AGENT TITLE
+    number: 23-8.
+    value: ''
+  - name: AGENT TELEPHONE
+    number: 24-8.
+    value: ''
+  - name: BANK NAME
+    number: 25-9.
+    value: ''
+  - name: BANK STREET 1
+    number: 26-9.
+    value: ''
+  - name: BANK STREET 2
+    number: 26-9.
+    value: ''
+  - name: BANK CITY
+    number: 28-9.
+    value: ''
+  - name: BANK STATE
+    number: 29-9.
+    value: ''
+  - name: BANK ZIP
+    number: 30-9.
+    value: '
+
+'
+sourceurl: !!python/unicode 20090302
+type: chunk

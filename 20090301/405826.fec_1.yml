@@ -1,0 +1,282 @@
+countrows: 5
+filename: 405826.fec
+header: {}
+rows:
+- 2
+- input: "F6\x1CC00458208\x1CTom Geoghegan for Congress\x1CPO Box 1145\x1C\x1CChicago\x1CIL\x1C60690\x1CH9IL05014\x1CGeoghegan\x1CThomas\x1CHoward\x1C\x1C\x1CH\x1CIL\x1C05\x1CCostello\x1CJoseph\x1CG.\x1C\x1C\x1C20090301\n"
+  record: fec.version.v6_2.F6
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F6
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00458208
+  - name: COMMITTEE NAME
+    number: '3'
+    value: Tom Geoghegan for Congress
+  - name: STREET 1
+    number: '4'
+    value: PO Box 1145
+  - name: STREET 2
+    number: '5'
+    value: ''
+  - name: CITY
+    number: '6'
+    value: Chicago
+  - name: STATE
+    number: '7'
+    value: IL
+  - name: ZIP
+    number: '8'
+    value: '60690'
+  - name: CANDIDATE ID NUMBER
+    number: '9'
+    value: H9IL05014
+  - name: CANDIDATE LAST NAME
+    number: '10'
+    value: Geoghegan
+  - name: CANDIDATE FIRST NAME
+    number: '11'
+    value: Thomas
+  - name: CANDIDATE MIDDLE NAME
+    number: '12'
+    value: Howard
+  - name: CANDIDATE PREFIX
+    number: '13'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '14'
+    value: ''
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: IL
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '05'
+  - name: SIGNER LAST NAME
+    number: '18'
+    value: Costello
+  - name: SIGNER FIRST NAME
+    number: '19'
+    value: Joseph
+  - name: SIGNER MIDDLE NAME
+    number: '20'
+    value: G.
+  - name: SIGNER PREFIX
+    number: '21'
+    value: ''
+  - name: SIGNER SUFFIX
+    number: '22'
+    value: ''
+  - name: DATE SIGNED
+    number: '23'
+    value: '20090301
+
+'
+- input: "F65\x1CC00458208\x1CC24064\x1CIND\x1C\x1CCoughlin\x1CPatrick\x1C\x1C\x1C\x1C655
+    W Broadway, Ste 1900\x1C\x1CSan Diego\x1CCA\x1C92101\x1C\x1C20090227\x1C2400.00\x1CCoughlin
+    Stoia Geller Rudman & Robbins\x1CAttorney\n"
+  record: fec.version.v6_2.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00458208
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: C24064
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Coughlin
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Patrick
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 655 W Broadway, Ste 1900
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: San Diego
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: CA
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '92101'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20090227'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '2400.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: Coughlin Stoia Geller Rudman & Robbins
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'Attorney
+
+'
+- input: "F65\x1CC00458208\x1CC24065\x1CIND\x1C\x1CGeorgiou\x1CByron\x1CS.\x1C\x1C\x1C2747
+    Paradise Road, Unit 2204\x1C\x1CLas Vegas\x1CNV\x1C89109\x1C\x1C20090227\x1C1000.00\x1CGeorgiou
+    Consulting Inc.\x1CAttorney\n"
+  record: fec.version.v6_2.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00458208
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: C24065
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Georgiou
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Byron
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: S.
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 2747 Paradise Road, Unit 2204
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Las Vegas
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: NV
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '89109'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20090227'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '1000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: Georgiou Consulting Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'Attorney
+
+'
+- input: "F65\x1CC00458208\x1CC24344A\x1CIND\x1C\x1CGraham\x1CRobert\x1C\x1C\x1C\x1C179
+    East Lakeshore Drive\x1C\x1CChicago\x1CIL\x1C60611\x1C\x1C20090227\x1C1000.00\x1CJenner
+    and Block\x1CAttorney\n"
+  record: fec.version.v6_2.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00458208
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: C24344A
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Graham
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Robert
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 179 East Lakeshore Drive
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Chicago
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: IL
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '60611'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20090227'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '1000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: Jenner and Block
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'Attorney
+
+'
+sourceurl: !!python/unicode 20090301
+type: chunk
