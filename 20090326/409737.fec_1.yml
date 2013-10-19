@@ -1,0 +1,135 @@
+countrows: 2
+filename: 409737.fec
+header: {}
+rows:
+- 2
+- input: "F2N\x1CH0KS01107\x1CBarker\x1CTimothy Clark\x1C\x1C\x1C\x1C\x1C307 South
+    Main Street\x1C\x1CPratt\x1CKS\x1C67124\x1CREP\x1CH\x1CKS\x1C01\x1C2010\x1CC00457804\x1CBarker
+    for Kansas\x1C307 South Main Street\x1C\x1CPratt\x1CKS\x1C67124\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C0.00\x1C0.00\x1CBarker\x1CTimothy
+    Clark\x1C\x1C\x1C\x1C20090326\n"
+  record: fec.version.v6_3.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2N
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H0KS01107
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Barker
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: Timothy Clark
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: 307 South Main Street
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Pratt
+  - name: CANDIDATE STATE
+    number: '12'
+    value: KS
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '67124'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: REP
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: KS
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '01'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2010'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00457804
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: Barker for Kansas
+  - name: PCC STREET 1
+    number: '21'
+    value: 307 South Main Street
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: Pratt
+  - name: PCC STATE
+    number: '24'
+    value: KS
+  - name: PCC ZIP
+    number: '25'
+    value: '67124'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: ''
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: AUTH STREET 1
+    number: '28'
+    value: ''
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: ''
+  - name: AUTH STATE
+    number: '31'
+    value: ''
+  - name: AUTH ZIP
+    number: '32'
+    value: ''
+  - name: PRI PERSONAL FUNDS DECLARED
+    number: '33'
+    value: '0.00'
+  - name: GEN PERSONAL FUNDS DECLARED
+    number: '34'
+    value: '0.00'
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '35'
+    value: Barker
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '36'
+    value: Timothy Clark
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '37'
+    value: ''
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '38'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '39'
+    value: ''
+  - name: DATE SIGNED
+    number: '40'
+    value: '20090326
+
+'
+sourceurl: !!python/unicode 20090326
+type: chunk

@@ -1,0 +1,133 @@
+countrows: 2
+filename: 406689.fec
+header: {}
+rows:
+- 2
+- input: "F2N\x1CH2AZ07070\x1CGrijalva\x1CRaul\x1CM\x1C\x1C\x1C\x1CPO Box 1242\x1C\x1CTucson\x1CAZ\x1C85702\x1CDEM\x1CH\x1CAZ\x1C07\x1C2010\x1CC00374058\x1CA
+    Whole Lot of Peole for Grijalva Congressional Campaign\x1CPO Box 1242\x1C\x1CTucson\x1CAZ\x1C85702\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C0.00\x1C0.00\x1CGrijalva\x1CRaul\x1CM\x1C\x1C\x1C20090308\n"
+  record: fec.version.v6_2.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2N
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H2AZ07070
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Grijalva
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: Raul
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: M
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: PO Box 1242
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Tucson
+  - name: CANDIDATE STATE
+    number: '12'
+    value: AZ
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '85702'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: DEM
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: AZ
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '07'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2010'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00374058
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: A Whole Lot of Peole for Grijalva Congressional Campaign
+  - name: PCC STREET 1
+    number: '21'
+    value: PO Box 1242
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: Tucson
+  - name: PCC STATE
+    number: '24'
+    value: AZ
+  - name: PCC ZIP
+    number: '25'
+    value: '85702'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: ''
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: AUTH STREET 1
+    number: '28'
+    value: ''
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: ''
+  - name: AUTH STATE
+    number: '31'
+    value: ''
+  - name: AUTH ZIP
+    number: '32'
+    value: ''
+  - name: PRI PERSONAL FUNDS DECLARED
+    number: '33'
+    value: '0.00'
+  - name: GEN PERSONAL FUNDS DECLARED
+    number: '34'
+    value: '0.00'
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '35'
+    value: Grijalva
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '36'
+    value: Raul
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '37'
+    value: M
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '38'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '39'
+    value: ''
+  - name: DATE SIGNED
+    number: '40'
+    value: '20090308
+
+'
+sourceurl: !!python/unicode 20090308
+type: chunk

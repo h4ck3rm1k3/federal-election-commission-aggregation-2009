@@ -1,0 +1,135 @@
+countrows: 2
+filename: 409327.fec
+header: {}
+rows:
+- 2
+- input: "F2N\x1CH8IL18043\x1CSchock\x1CAaron\x1CJon\x1CMr.\x1C\x1C\x1C1040 East Melbourne
+    Ave\x1C\x1CPeoria\x1CIL\x1C61603\x1CUNK\x1CH\x1CIL\x1C18\x1C2010\x1CC00437756\x1CSchock
+    for Congress\x1CPO Box 10555\x1C\x1CPeoria\x1CIL\x1C61612\x1CC00458562\x1CHouse
+    Republican Freshmen 2009\x1CPO Box 2719\x1C\x1CWashington\x1CDC\x1C200132719\x1C0.00\x1C0.00\x1CSchock\x1CAaron\x1CJon\x1CMr.\x1C\x1C20090324\n"
+  record: fec.version.v6_3.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2N
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H8IL18043
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Schock
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: Aaron
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: Jon
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: Mr.
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: 1040 East Melbourne Ave
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Peoria
+  - name: CANDIDATE STATE
+    number: '12'
+    value: IL
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '61603'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: UNK
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: IL
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '18'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2010'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00437756
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: Schock for Congress
+  - name: PCC STREET 1
+    number: '21'
+    value: PO Box 10555
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: Peoria
+  - name: PCC STATE
+    number: '24'
+    value: IL
+  - name: PCC ZIP
+    number: '25'
+    value: '61612'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: C00458562
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: House Republican Freshmen 2009
+  - name: AUTH STREET 1
+    number: '28'
+    value: PO Box 2719
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: Washington
+  - name: AUTH STATE
+    number: '31'
+    value: DC
+  - name: AUTH ZIP
+    number: '32'
+    value: '200132719'
+  - name: PRI PERSONAL FUNDS DECLARED
+    number: '33'
+    value: '0.00'
+  - name: GEN PERSONAL FUNDS DECLARED
+    number: '34'
+    value: '0.00'
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '35'
+    value: Schock
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '36'
+    value: Aaron
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '37'
+    value: Jon
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '38'
+    value: Mr.
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '39'
+    value: ''
+  - name: DATE SIGNED
+    number: '40'
+    value: '20090324
+
+'
+sourceurl: !!python/unicode 20090324
+type: chunk

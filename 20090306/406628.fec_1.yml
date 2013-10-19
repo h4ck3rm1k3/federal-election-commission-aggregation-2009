@@ -1,0 +1,289 @@
+countrows: 2
+filename: 406628.fec
+header: {}
+rows:
+- 2
+- input: "F1N\x1CC00430884\x1C\x1CSTATE AUTO EMPLOYEES FED PAC COMMITTEE OF STATE
+    AUTOMOBILE MUTUAL INSURANCE COMPANY\x1C\x1C518 EAST BROAD STREET\x1C\x1CCOLUMBUS\x1COH\x1C432153976\x1Csteve.hazelbaker@StateAuto.com\x1C\x1C317-931-6489\x1C20090305\x1CHazelbaker\x1CSteven\x1C\x1C\x1C\x1C20090305\x1CE\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CW\x1C\x1C\x1CState
+    Automobile Mutual Insurance Company\x1C518 East Broad Street\x1C\x1CColumbus\x1COH\x1C432153976\x1CORG\x1CHazelbaker\x1CSteven\x1C\x1C\x1C\x1C518
+    East Broad Street\x1C\x1CColumbus\x1COH\x1C432153976\x1CVice President\x1C6149175102\x1CHazelbaker\x1CSteven\x1C\x1C\x1C\x1C518
+    EAST BROAD STREET\x1C\x1CCOLUMBUS\x1COH\x1C432153976\x1CVice President\x1C6149175102\x1CAllison\x1CJonathan\x1C\x1C\x1C\x1C518
+    East Broad Street\x1C\x1CColumbus\x1COH\x1C43215\x1CAssistant Treasurer\x1C6149174475\x1CNational
+    City Bank\x1C155 East Broad Street\x1C\x1CColumbus\x1COH\x1C432153976\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_2.F1
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1N
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00430884
+  - name: CHANGE OF COMMITTEE NAME
+    number: '3'
+    value: ''
+  - name: COMMITTEE NAME
+    number: '4'
+    value: STATE AUTO EMPLOYEES FED PAC COMMITTEE OF STATE AUTOMOBILE MUTUAL INSURANCE
+      COMPANY
+  - name: CHANGE OF ADDRESS
+    number: '5'
+    value: ''
+  - name: STREET 1
+    number: '6'
+    value: 518 EAST BROAD STREET
+  - name: STREET 2
+    number: '7'
+    value: ''
+  - name: CITY
+    number: '8'
+    value: COLUMBUS
+  - name: STATE
+    number: '9'
+    value: OH
+  - name: ZIP
+    number: '10'
+    value: '432153976'
+  - name: COMMITTEE EMAIL
+    number: '11'
+    value: steve.hazelbaker@StateAuto.com
+  - name: COMMITTEE WEB URL
+    number: '12'
+    value: ''
+  - name: COMMITTEE FAX NUMBER
+    number: '13'
+    value: 317-931-6489
+  - name: SUBMISSION DATE
+    number: '14'
+    value: '20090305'
+  - name: SIGNATURE LAST NAME
+    number: '15'
+    value: Hazelbaker
+  - name: SIGNATURE FIRST NAME
+    number: '16'
+    value: Steven
+  - name: SIGNATURE MIDDLE NAME
+    number: '17'
+    value: ''
+  - name: SIGNATURE PREFIX
+    number: '18'
+    value: ''
+  - name: SIGNATURE SUFFIX
+    number: '19'
+    value: ''
+  - name: DATE SIGNED
+    number: '20'
+    value: '20090305'
+  - name: COMMITTEE TYPE
+    number: 21-5.
+    value: E
+  - name: CANDIDATE ID NUMBER
+    number: 22-5.
+    value: ''
+  - name: CANDIDATE LAST NAME
+    number: 23-5.
+    value: ''
+  - name: CANDIDATE FIRST NAME
+    number: 24-5.
+    value: ''
+  - name: CANDIDATE MIDDLE NAME
+    number: 25-5.
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: 26-5.
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: 27-5.
+    value: ''
+  - name: CANDIDATE OFFICE
+    number: 28-5.
+    value: ''
+  - name: CANDIDATE STATE
+    number: 29-5.
+    value: ''
+  - name: CANDIDATE DISTRICT
+    number: 30-5.
+    value: ''
+  - name: PARTY CODE
+    number: 31-5.
+    value: ''
+  - name: PARTY TYPE
+    number: 32-5.
+    value: ''
+  - name: ORGANIZATION TYPE
+    number: 33-5 (e).
+    value: W
+  - name: LEADERSHIP PAC
+    number: 34-5 (f).
+    value: ''
+  - name: AFFILIATED Committee ID NUM
+    number: 35-6.
+    value: ''
+  - name: AFFILIATED Committee NAME
+    number: 36-6.
+    value: State Automobile Mutual Insurance Company
+  - name: AFFILIATED STREET 1
+    number: 37-6.
+    value: 518 East Broad Street
+  - name: AFFILIATED STREET 2
+    number: 38-6.
+    value: ''
+  - name: AFFILIATED CITY
+    number: 39-6.
+    value: Columbus
+  - name: AFFILIATED STATE
+    number: 40-6.
+    value: OH
+  - name: AFFILIATED ZIP
+    number: 41-6.
+    value: '432153976'
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 42-6.
+    value: ORG
+  - name: CUSTODIAN LAST NAME
+    number: 43-7.
+    value: Hazelbaker
+  - name: CUSTODIAN FIRST NAME
+    number: 44-7.
+    value: Steven
+  - name: CUSTODIAN MIDDLE NAME
+    number: 45-7.
+    value: ''
+  - name: CUSTODIAN PREFIX
+    number: 46-7.
+    value: ''
+  - name: CUSTODIAN SUFFIX
+    number: 47-7.
+    value: ''
+  - name: CUSTODIAN STREET 1
+    number: 48-7.
+    value: 518 East Broad Street
+  - name: CUSTODIAN STREET 2
+    number: 49-7.
+    value: ''
+  - name: CUSTODIAN CITY
+    number: 50-7.
+    value: Columbus
+  - name: CUSTODIAN STATE
+    number: 51-7.
+    value: OH
+  - name: CUSTODIAN ZIP
+    number: 52-7.
+    value: '432153976'
+  - name: CUSTODIAN TITLE
+    number: 53-7.
+    value: Vice President
+  - name: CUSTODIAN TELEPHONE
+    number: 54-7.
+    value: '6149175102'
+  - name: TREASURER LAST NAME
+    number: 55-8.
+    value: Hazelbaker
+  - name: TREASURER FIRST NAME
+    number: 56-8.
+    value: Steven
+  - name: TREASURER MIDDLE NAME
+    number: 57-8.
+    value: ''
+  - name: TREASURER PREFIX
+    number: 58-8.
+    value: ''
+  - name: TREASURER SUFFIX
+    number: 59-8.
+    value: ''
+  - name: TREASURER STREET 1
+    number: 60-8.
+    value: 518 EAST BROAD STREET
+  - name: TREASURER STREET 2
+    number: 61-8.
+    value: ''
+  - name: TREASURER CITY
+    number: 62-8.
+    value: COLUMBUS
+  - name: TREASURER STATE
+    number: 63-8.
+    value: OH
+  - name: TREASURER ZIP
+    number: 64-8.
+    value: '432153976'
+  - name: TREASURER TITLE
+    number: 65-8.
+    value: Vice President
+  - name: TREASURER TELEPHONE
+    number: 66-8.
+    value: '6149175102'
+  - name: AGENT LAST NAME
+    number: 67-8.
+    value: Allison
+  - name: AGENT FIRST NAME
+    number: 68-8.
+    value: Jonathan
+  - name: AGENT MIDDLE NAME
+    number: 69-8.
+    value: ''
+  - name: AGENT PREFIX
+    number: 70-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 71-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 72-8.
+    value: 518 East Broad Street
+  - name: AGENT STREET 2
+    number: 73-8.
+    value: ''
+  - name: AGENT CITY
+    number: 74-8.
+    value: Columbus
+  - name: AGENT STATE
+    number: 75-8.
+    value: OH
+  - name: AGENT ZIP
+    number: 76-8.
+    value: '43215'
+  - name: AGENT TITLE
+    number: 77-8.
+    value: Assistant Treasurer
+  - name: AGENT TELEPHONE
+    number: 78-8.
+    value: '6149174475'
+  - name: BANK NAME
+    number: 79-9. a)
+    value: National City Bank
+  - name: BANK STREET 1
+    number: 80-9. a)
+    value: 155 East Broad Street
+  - name: BANK STREET 2
+    number: 81-9. a)
+    value: ''
+  - name: BANK CITY
+    number: 82-9. a)
+    value: Columbus
+  - name: BANK STATE
+    number: 83-9. a)
+    value: OH
+  - name: BANK ZIP
+    number: 84-9. a)
+    value: '432153976'
+  - name: BANK NAME
+    number: 85-9. b)
+    value: ''
+  - name: BANK STREET 1
+    number: 86-9. b)
+    value: ''
+  - name: BANK STREET 2
+    number: 87-9. b)
+    value: ''
+  - name: BANK CITY
+    number: 88-9. b)
+    value: ''
+  - name: BANK STATE
+    number: 89-9. b)
+    value: ''
+  - name: BANK ZIP
+    number: 90-9. b)
+    value: '
+
+'
+sourceurl: !!python/unicode 20090306
+type: chunk

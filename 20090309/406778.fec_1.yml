@@ -1,0 +1,134 @@
+countrows: 2
+filename: 406778.fec
+header: {}
+rows:
+- 2
+- input: "F2N\x1CH6FL22040\x1CKlein\x1CRon\x1C\x1C\x1C\x1C\x1C1900 Glades Road \x1CSuite
+    200\x1CBoca Raton\x1CFL\x1C33431\x1CDEM\x1CH\x1CFL\x1C22\x1C2010\x1CC00410522\x1CKlein
+    for Congress\x1C21301 Powerline Road Suite 204\x1C\x1CBoca Raton\x1CFL\x1C33433\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C0.00\x1C0.00\x1CKlein\x1CRon\x1C\x1C\x1C\x1C20090309\n"
+  record: fec.version.v6_2.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2N
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H6FL22040
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Klein
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: Ron
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: '1900 Glades Road '
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: Suite 200
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Boca Raton
+  - name: CANDIDATE STATE
+    number: '12'
+    value: FL
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '33431'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: DEM
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: FL
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '22'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2010'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00410522
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: Klein for Congress
+  - name: PCC STREET 1
+    number: '21'
+    value: 21301 Powerline Road Suite 204
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: Boca Raton
+  - name: PCC STATE
+    number: '24'
+    value: FL
+  - name: PCC ZIP
+    number: '25'
+    value: '33433'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: ''
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: AUTH STREET 1
+    number: '28'
+    value: ''
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: ''
+  - name: AUTH STATE
+    number: '31'
+    value: ''
+  - name: AUTH ZIP
+    number: '32'
+    value: ''
+  - name: PRI PERSONAL FUNDS DECLARED
+    number: '33'
+    value: '0.00'
+  - name: GEN PERSONAL FUNDS DECLARED
+    number: '34'
+    value: '0.00'
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '35'
+    value: Klein
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '36'
+    value: Ron
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '37'
+    value: ''
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '38'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '39'
+    value: ''
+  - name: DATE SIGNED
+    number: '40'
+    value: '20090309
+
+'
+sourceurl: !!python/unicode 20090309
+type: chunk
