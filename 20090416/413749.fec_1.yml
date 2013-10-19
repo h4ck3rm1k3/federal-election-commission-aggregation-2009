@@ -1,0 +1,4843 @@
+countrows: 32
+filename: 413749.fec
+header: {}
+rows:
+- 2
+- input: "F3XN\x1CC00242271\x1CKindred Healthcare, Inc. PAC\x1C\x1C680 S. Fourth St.\x1C\x1CLouisville\x1CKY\x1C40202\x1CM4\x1C\x1C\x1C\x1C20090301\x1C20090331\x1CX\x1CRobinson\x1CHank\x1C\x1C\x1C\x1C20090416\x1C52264.57\x1C11622.34\x1C63886.91\x1C10000.00\x1C53886.91\x1C0.00\x1C0.00\x1C4177.54\x1C7444.80\x1C11622.34\x1C0.00\x1C0.00\x1C11622.34\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C11622.34\x1C11622.34\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C10000.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C10000.00\x1C10000.00\x1C11622.34\x1C0.00\x1C11622.34\x1C0.00\x1C0.00\x1C0.00\x1C33510.72\x1C2009\x1C40876.19\x1C74386.91\x1C20500.00\x1C53886.91\x1C13288.04\x1C27588.15\x1C40876.19\x1C0.00\x1C0.00\x1C40876.19\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C40876.19\x1C40876.19\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C20500.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C20500.00\x1C20500.00\x1C40876.19\x1C0.00\x1C40876.19\x1C0.00\x1C0.00\x1C0.00\n"
+  record: fec.version.v6_3.F3X
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F3XN
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00242271
+  - name: COMMITTEE NAME
+    number: '3'
+    value: Kindred Healthcare, Inc. PAC
+  - name: CHANGE OF ADDRESS
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 680 S. Fourth St.
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Louisville
+  - name: STATE
+    number: '8'
+    value: KY
+  - name: ZIP
+    number: '9'
+    value: '40202'
+  - name: REPORT CODE
+    number: '10'
+    value: M4
+  - name: ELECTION CODE
+    number: '11'
+    value: ''
+  - name: DATE OF ELECTION
+    number: '12'
+    value: ''
+  - name: STATE OF ELECTION
+    number: '13'
+    value: ''
+  - name: COVERAGE FROM DATE
+    number: '14'
+    value: '20090301'
+  - name: COVERAGE THROUGH DATE
+    number: '15'
+    value: '20090331'
+  - name: QUALIFIED COMMITTEE
+    number: '16'
+    value: X
+  - name: TREASURER LAST NAME
+    number: '17'
+    value: Robinson
+  - name: TREASURER FIRST NAME
+    number: '18'
+    value: Hank
+  - name: TREASURER MIDDLE NAME
+    number: '19'
+    value: ''
+  - name: TREASURER PREFIX
+    number: '20'
+    value: ''
+  - name: TREASURER SUFFIX
+    number: '21'
+    value: ''
+  - name: DATE SIGNED
+    number: '22'
+    value: '20090416'
+  - name: Cash on Hand beginning
+    number: 23-6(b)
+    value: '52264.57'
+  - name: Total Receipts
+    number: 24-6(c)
+    value: '11622.34'
+  - name: Subtotal
+    number: 25-6(d)
+    value: '63886.91'
+  - name: Total Disbursements
+    number: 26-7.
+    value: '10000.00'
+  - name: Cash on Hand at Close
+    number: 27-8.
+    value: '53886.91'
+  - name: Debts to
+    number: 28-9.
+    value: '0.00'
+  - name: Debts by
+    number: 29-10.
+    value: '0.00'
+  - name: Itemized
+    number: 30-11(a)i
+    value: '4177.54'
+  - name: Unitemized
+    number: 31-11(a)ii
+    value: '7444.80'
+  - name: Total
+    number: 32-11(a)iii
+    value: '11622.34'
+  - name: Political Party Committees
+    number: 33-11(b)
+    value: '0.00'
+  - name: Other Political Committees (PACs)
+    number: 34-11(c)
+    value: '0.00'
+  - name: Total Contributions
+    number: 35-11(d)
+    value: '11622.34'
+  - name: Transfers from Affiliated/Other Party Committees
+    number: 36-12.
+    value: '0.00'
+  - name: All Loans Received
+    number: 37-13.
+    value: '0.00'
+  - name: Loan Repayments Received
+    number: 38-14.
+    value: '0.00'
+  - name: Offsets to Operating Expenditures (refunds)
+    number: 39-15.
+    value: '0.00'
+  - name: Refunds of Federal Contributions
+    number: 40-16.
+    value: '0.00'
+  - name: Other Federal Receipts (dividends)
+    number: 41-17.
+    value: '0.00'
+  - name: Transfers from Nonfederal Account (H3)
+    number: 42-18(a)
+    value: '0.00'
+  - name: Transfers from Non-Federal (Levin - H5)
+    number: 43-18(b)
+    value: '0.00'
+  - name: Total Non-Federal Transfers (18a+18b)
+    number: 44-18(c)
+    value: '0.00'
+  - name: Total Receipts
+    number: 45-19.
+    value: '11622.34'
+  - name: Total Federal Receipts
+    number: 46-20.
+    value: '11622.34'
+  - name: Federal Share
+    number: 47-21(a)i
+    value: '0.00'
+  - name: Non-Federal Share
+    number: 48-21(a)ii
+    value: '0.00'
+  - name: Other Federal Operating Expenditures
+    number: 49-21(b)
+    value: '0.00'
+  - name: Total Operating Expenditures
+    number: 50-21(c)
+    value: '0.00'
+  - name: Transfers to Affiliated/Other Party Committees
+    number: 51-22.
+    value: '0.00'
+  - name: Contributions to Federal Candidates/Committees
+    number: 52-23.
+    value: '10000.00'
+  - name: Independent Expenditures
+    number: 53-24.
+    value: '0.00'
+  - name: Coordinated Expend made by Party Committees
+    number: 54-25.
+    value: '0.00'
+  - name: Loan Repayments
+    number: 55-26.
+    value: '0.00'
+  - name: Loans Made
+    number: 56-27.
+    value: '0.00'
+  - name: Individuals/Persons
+    number: 57-28(a)
+    value: '0.00'
+  - name: Political Party Committees
+    number: 58-28(b)
+    value: '0.00'
+  - name: Other Political Committees
+    number: 59-28(c)
+    value: '0.00'
+  - name: Total Contributions Refunds
+    number: 60-28(d)
+    value: '0.00'
+  - name: Other Disbursements
+    number: 61-29.
+    value: '0.00'
+  - name: Shared Federal Activity (H6) Fed Share
+    number: 62-30(a)i
+    value: '0.00'
+  - name: Shared Federal Activity (H6) Non-Fed
+    number: 63-30(a)ii
+    value: '0.00'
+  - name: Non-Allocable 100% Fed Election Activity
+    number: 64-30(b)
+    value: '0.00'
+  - name: Total Federal Election Activity
+    number: 65-30(c)
+    value: '0.00'
+  - name: Total Disbursements
+    number: 66-31.
+    value: '10000.00'
+  - name: Total Federal Disbursements
+    number: 67-32.
+    value: '10000.00'
+  - name: Total Contributions
+    number: 68-33.
+    value: '11622.34'
+  - name: Total Contribution Refunds
+    number: 69-34.
+    value: '0.00'
+  - name: Net Contributions
+    number: 70-35.
+    value: '11622.34'
+  - name: Total Federal Operating Expenditures
+    number: 71-36.
+    value: '0.00'
+  - name: Offsets to Operating Expenditures
+    number: 72-37.
+    value: '0.00'
+  - name: Net Operating Expenditures
+    number: 73-38.
+    value: '0.00'
+  - name: Cash on Hand Jan 1, 19
+    number: 74-6(a)
+    value: '33510.72'
+  - name: Year for Above
+    number: '75'
+    value: '2009'
+  - name: Total Receipts
+    number: 76-6(c)
+    value: '40876.19'
+  - name: Subtotal
+    number: 77-6(d)
+    value: '74386.91'
+  - name: Total disbursements
+    number: 78-7.
+    value: '20500.00'
+  - name: Cash on Hand Close
+    number: 79-8.
+    value: '53886.91'
+  - name: Itemized
+    number: 80-11(a)i
+    value: '13288.04'
+  - name: Unitemized
+    number: 81-11(a)ii
+    value: '27588.15'
+  - name: Total
+    number: 82-11(a)iii
+    value: '40876.19'
+  - name: Political Party committees
+    number: 83-11(b)
+    value: '0.00'
+  - name: Other Political Committees (PACs)
+    number: 84-11(c)
+    value: '0.00'
+  - name: Total Contributions
+    number: 85-11(d)
+    value: '40876.19'
+  - name: Transfers from Affiliated/Other Party Committees
+    number: 86-12.
+    value: '0.00'
+  - name: All Loans Received
+    number: 87-13.
+    value: '0.00'
+  - name: Loan Repayments Received
+    number: 88-14.
+    value: '0.00'
+  - name: Offsets to Operating Expenditures (refunds)
+    number: 89-15.
+    value: '0.00'
+  - name: Refunds of Federal Contributions
+    number: 90-16.
+    value: '0.00'
+  - name: Other Federal Receipts (dividends)
+    number: 91-17.
+    value: '0.00'
+  - name: Transfers from Nonfederal Account (H3)
+    number: 92-18(a)
+    value: '0.00'
+  - name: Transfers from Non-Federal (Levin - H5)
+    number: 93-18(b)
+    value: '0.00'
+  - name: Total Non-Federal Transfers (18a+18b)
+    number: 94-18(c)
+    value: '0.00'
+  - name: Total Receipts
+    number: 95-19.
+    value: '40876.19'
+  - name: Total Federal Receipts
+    number: 96-20.
+    value: '40876.19'
+  - name: Federal Share
+    number: 97-21(a)i
+    value: '0.00'
+  - name: Non-Federal Share
+    number: 98-21(a)ii
+    value: '0.00'
+  - name: Other Federal Operating Expenditures
+    number: 99-21(b)
+    value: '0.00'
+  - name: Total operating Expenditures
+    number: 100-21(c)
+    value: '0.00'
+  - name: Transfers to Affiliated/Other Party Committees
+    number: 101-22.
+    value: '0.00'
+  - name: Contributions to Federal Candidates/Committees
+    number: 102-23.
+    value: '20500.00'
+  - name: Independent Expenditures
+    number: 103-24.
+    value: '0.00'
+  - name: Coordinated Expend made by Party Committees
+    number: 104-25.
+    value: '0.00'
+  - name: Loan Repayments Made
+    number: 105-26.
+    value: '0.00'
+  - name: Loans Made
+    number: 106-27.
+    value: '0.00'
+  - name: Individuals/Persons
+    number: 107-28(a)
+    value: '0.00'
+  - name: Political Party Committees
+    number: 108-28(b)
+    value: '0.00'
+  - name: Other Political Committees
+    number: 109-28(c)
+    value: '0.00'
+  - name: Total contributions Refunds
+    number: 110-28(d)
+    value: '0.00'
+  - name: Other Disbursements
+    number: 111-29.
+    value: '0.00'
+  - name: Shared Federal Activity (H6) Fed Share
+    number: 112-30(a)i
+    value: '0.00'
+  - name: Shared Federal Activity (H6) Non-Fed
+    number: 113-30(a)ii
+    value: '0.00'
+  - name: Non-Allocable 100% Fed Election Activity
+    number: 114-30(b)
+    value: '0.00'
+  - name: Total Federal Election Activity
+    number: 115-30(c)
+    value: '0.00'
+  - name: Total Disbursements
+    number: 116-31.
+    value: '20500.00'
+  - name: Total Federal Disbursements
+    number: 117-32.
+    value: '20500.00'
+  - name: Total Contributions
+    number: 118-33.
+    value: '40876.19'
+  - name: Total Contribution Refunds
+    number: 119-34.
+    value: '0.00'
+  - name: Net contributions
+    number: 120-35.
+    value: '40876.19'
+  - name: Total Federal Operating Expenditures
+    number: 121-36.
+    value: '0.00'
+  - name: Offsets to Operating Expenditures
+    number: 122-37.
+    value: '0.00'
+  - name: Net Operating Expenditures
+    number: 123-38.
+    value: '0.00
+
+'
+- input: "SA11ai\x1CC00242271\x1C28687485\x1C\x1C\x1CIND\x1C\x1CCowgill\x1CJohn\x1C\x1C\x1C\x1C9103
+    Lantern Lite Parkway\x1C\x1CLouisville\x1CKY\x1C40220\x1C\x1C\x1C20090310\x1C1000.00\x1C1000.00\x1C15\x1C\x1C\x1CKindred
+    Healthcare, Inc\x1CVice President of Facilities Managemen\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00242271
+  - name: TRANSACTION ID
+    number: '3'
+    value: '28687485'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Cowgill
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: John
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 9103 Lantern Lite Parkway
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Louisville
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: KY
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '40220'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090310'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '1000.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '1000.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Kindred Healthcare, Inc
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: Vice President of Facilities Managemen
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00242271\x1CPR1094183916804\x1C\x1C\x1CIND\x1C\x1CKuntz\x1CEdward\x1CL\x1C\x1C\x1C8807
+    Stable Crest Boulevard\x1C\x1CHouston\x1CTX\x1C77024\x1C\x1C\x1C20090331\x1C200.00\x1C700.00\x1C15\x1C\x1C\x1CKindred
+    Healthcare Inc.\x1CExecutive Chairman\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CP/R
+    Deduction ($100.00 Bi-Weekly)\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00242271
+  - name: TRANSACTION ID
+    number: '3'
+    value: PR1094183916804
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Kuntz
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Edward
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: L
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 8807 Stable Crest Boulevard
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Houston
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: TX
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '77024'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090331'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '200.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '700.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Kindred Healthcare Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: Executive Chairman
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: P/R Deduction ($100.00 Bi-Weekly)
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00242271\x1CPR1094185016804\x1C\x1C\x1CIND\x1C\x1CWindhorst\x1CDavid\x1CR\x1C\x1C\x1C2000
+    Spring Farms Road\x1C\x1CFloyds Knobs\x1CIN\x1C47119\x1C\x1C\x1C20090331\x1C80.00\x1C280.00\x1C15\x1C\x1C\x1CKindred
+    Healthcare Inc.\x1CVP Financial Sys Dev\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CP/R
+    Deduction ($40.00 Bi-Weekly)\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00242271
+  - name: TRANSACTION ID
+    number: '3'
+    value: PR1094185016804
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Windhorst
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: David
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: R
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 2000 Spring Farms Road
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Floyds Knobs
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: IN
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '47119'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090331'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '80.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '280.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Kindred Healthcare Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: VP Financial Sys Dev
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: P/R Deduction ($40.00 Bi-Weekly)
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00242271\x1CPR1094185616804\x1C\x1C\x1CIND\x1C\x1CMarkham\x1CKatheryn\x1CJ\x1C\x1C\x1C680
+    S. Fourth Street\x1C\x1CLouisville\x1CKY\x1C40202\x1C\x1C\x1C20090331\x1C90.00\x1C315.00\x1C15\x1C\x1C\x1CKindred
+    Healthcare Inc.\x1CVP IS Planning&FieldSvcs\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CP/R
+    Deduction ($45.00 Bi-Weekly)\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00242271
+  - name: TRANSACTION ID
+    number: '3'
+    value: PR1094185616804
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Markham
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Katheryn
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: J
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 680 S. Fourth Street
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Louisville
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: KY
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '40202'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090331'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '90.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '315.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Kindred Healthcare Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: VP IS Planning&FieldSvcs
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: P/R Deduction ($45.00 Bi-Weekly)
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00242271\x1CPR1094187416804\x1C\x1C\x1CIND\x1C\x1CSeibert\x1CWilliam\x1CB\x1C\x1C\x1C680
+    S. Fourth Street\x1C\x1CLouisville\x1CKY\x1C40202\x1C\x1C\x1C20090331\x1C60.00\x1C210.00\x1C15\x1C\x1C\x1CKindred
+    Healthcare Inc.\x1CSr Dir Fin Sys Dev\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CP/R
+    Deduction ($30.00 Bi-Weekly)\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00242271
+  - name: TRANSACTION ID
+    number: '3'
+    value: PR1094187416804
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Seibert
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: William
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: B
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 680 S. Fourth Street
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Louisville
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: KY
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '40202'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090331'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '60.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '210.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Kindred Healthcare Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: Sr Dir Fin Sys Dev
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: P/R Deduction ($30.00 Bi-Weekly)
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00242271\x1CPR1094187916804\x1C\x1C\x1CIND\x1C\x1CWardrip\x1CCharles\x1C\x1C\x1C\x1C2805
+    Chestnut Ridge Place\x1C\x1CLouisville\x1CKY\x1C40245\x1C\x1C\x1C20090331\x1C100.00\x1C350.00\x1C15\x1C\x1C\x1CKindred
+    Healthcare Inc.\x1CVP IS Ops & Telecomm\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CP/R
+    Deduction ($50.00 Bi-Weekly)\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00242271
+  - name: TRANSACTION ID
+    number: '3'
+    value: PR1094187916804
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Wardrip
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Charles
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 2805 Chestnut Ridge Place
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Louisville
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: KY
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '40245'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090331'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '100.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '350.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Kindred Healthcare Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: VP IS Ops & Telecomm
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: P/R Deduction ($50.00 Bi-Weekly)
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00242271\x1CPR1094188016804\x1C\x1C\x1CIND\x1C\x1CDobler\x1CStephen\x1CM\x1C\x1C\x1C1106
+    Holly Springs Drive\x1C\x1CLouisville\x1CKY\x1C40242\x1C\x1C\x1C20090331\x1C90.00\x1C315.00\x1C15\x1C\x1C\x1CKindred
+    Healthcare Inc.\x1CVP IS Finance & Admin\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CP/R
+    Deduction ($45.00 Bi-Weekly)\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00242271
+  - name: TRANSACTION ID
+    number: '3'
+    value: PR1094188016804
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Dobler
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Stephen
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: M
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 1106 Holly Springs Drive
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Louisville
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: KY
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '40242'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090331'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '90.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '315.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Kindred Healthcare Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: VP IS Finance & Admin
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: P/R Deduction ($45.00 Bi-Weekly)
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00242271\x1CPR1094190416804\x1C\x1C\x1CIND\x1C\x1CShapiro\x1CJack\x1C\x1C\x1C\x1C22591
+    Covington Drive\x1C\x1CDeer Park\x1CIL\x1C60010\x1C\x1C\x1C20090331\x1C150.00\x1C350.00\x1C15\x1C\x1C\x1CKindred
+    Healthcare Inc.\x1CExecutive Director III\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CP/R
+    Deduction ($50.00 Bi-Weekly)\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00242271
+  - name: TRANSACTION ID
+    number: '3'
+    value: PR1094190416804
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Shapiro
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Jack
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 22591 Covington Drive
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Deer Park
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: IL
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '60010'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090331'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '150.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '350.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Kindred Healthcare Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: Executive Director III
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: P/R Deduction ($50.00 Bi-Weekly)
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00242271\x1CPR1094192216804\x1C\x1C\x1CIND\x1C\x1CMuldoon\x1CSean\x1CR\x1C\x1C\x1C5800
+    Brittany Valley Road\x1C\x1CLouisville\x1CKY\x1C40222\x1C\x1C\x1C20090331\x1C150.00\x1C525.00\x1C15\x1C\x1C\x1CKindred
+    Healthcare Inc.\x1CSr VP & Chief Med Off-HD\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CP/R
+    Deduction ($75.00 Bi-Weekly)\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00242271
+  - name: TRANSACTION ID
+    number: '3'
+    value: PR1094192216804
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Muldoon
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Sean
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: R
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 5800 Brittany Valley Road
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Louisville
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: KY
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '40222'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090331'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '150.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '525.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Kindred Healthcare Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: Sr VP & Chief Med Off-HD
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: P/R Deduction ($75.00 Bi-Weekly)
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00242271\x1CPR1094193916804\x1C\x1C\x1CIND\x1C\x1CGrannan\x1CCharles
+    Michael\x1C\x1C\x1C\x1C7109 Cannonade Court\x1C\x1CProspect\x1CKY\x1C40059\x1C\x1C\x1C20090331\x1C70.00\x1C245.00\x1C15\x1C\x1C\x1CKindred
+    Healthcare Inc.\x1CVP Purchasing\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CP/R
+    Deduction ($35.00 Bi-Weekly)\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00242271
+  - name: TRANSACTION ID
+    number: '3'
+    value: PR1094193916804
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Grannan
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Charles Michael
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 7109 Cannonade Court
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Prospect
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: KY
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '40059'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090331'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '70.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '245.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Kindred Healthcare Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: VP Purchasing
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: P/R Deduction ($35.00 Bi-Weekly)
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00242271\x1CPR1094194116804\x1C\x1C\x1CIND\x1C\x1CHansen\x1CDennis\x1CJ\x1C\x1C\x1C1791
+    Connor Station Road\x1C\x1CSimpsonville\x1CKY\x1C40067\x1C\x1C\x1C20090331\x1C70.00\x1C245.00\x1C15\x1C\x1C\x1CKindred
+    Healthcare Inc.\x1CVP Reimb-HSD\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CP/R
+    Deduction ($35.00 Bi-Weekly)\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00242271
+  - name: TRANSACTION ID
+    number: '3'
+    value: PR1094194116804
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Hansen
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Dennis
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: J
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 1791 Connor Station Road
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Simpsonville
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: KY
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '40067'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090331'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '70.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '245.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Kindred Healthcare Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: VP Reimb-HSD
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: P/R Deduction ($35.00 Bi-Weekly)
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00242271\x1CPR1094195416804\x1C\x1C\x1CIND\x1C\x1CWoods\x1CAnne\x1CS\x1C\x1C\x1C7420
+    Falls Ridge Ct.\x1C\x1CLouisville\x1CKY\x1C40241\x1C\x1C\x1C20090331\x1C72.00\x1C252.00\x1C15\x1C\x1C\x1CKindred
+    Healthcare Inc.\x1CVP Internal Audit\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CP/R
+    Deduction ($36.00 Bi-Weekly)\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00242271
+  - name: TRANSACTION ID
+    number: '3'
+    value: PR1094195416804
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Woods
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Anne
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: S
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 7420 Falls Ridge Ct.
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Louisville
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: KY
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '40241'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090331'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '72.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '252.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Kindred Healthcare Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: VP Internal Audit
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: P/R Deduction ($36.00 Bi-Weekly)
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00242271\x1CPR1094195916804\x1C\x1C\x1CIND\x1C\x1CLucchese\x1CJohn\x1C\x1C\x1C\x1C14401
+    Broad Oak Place\x1C\x1CLouisville\x1CKY\x1C40245\x1C\x1C\x1C20090331\x1C76.94\x1C269.29\x1C15\x1C\x1C\x1CKindred
+    Healthcare Inc.\x1CSr VP & Corp Controller\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CP/R
+    Deduction ($38.47 Bi-Weekly)\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00242271
+  - name: TRANSACTION ID
+    number: '3'
+    value: PR1094195916804
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Lucchese
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: John
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 14401 Broad Oak Place
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Louisville
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: KY
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '40245'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090331'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '76.94'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '269.29'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Kindred Healthcare Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: Sr VP & Corp Controller
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: P/R Deduction ($38.47 Bi-Weekly)
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00242271\x1CPR1094196316804\x1C\x1C\x1CIND\x1C\x1CLandenwich\x1CJoseph\x1C\x1C\x1C\x1C2213
+    Wrocklage Ave.\x1C\x1CLouisville\x1CKY\x1C40205\x1C\x1C\x1C20090331\x1C120.00\x1C420.00\x1C15\x1C\x1C\x1CKindred
+    Healthcare Inc.\x1CSVPCrpLegalAffairs&CrpSec\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CP/R
+    Deduction ($60.00 Bi-Weekly)\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00242271
+  - name: TRANSACTION ID
+    number: '3'
+    value: PR1094196316804
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Landenwich
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Joseph
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 2213 Wrocklage Ave.
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Louisville
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: KY
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '40205'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090331'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '120.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '420.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Kindred Healthcare Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: SVPCrpLegalAffairs&CrpSec
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: P/R Deduction ($60.00 Bi-Weekly)
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00242271\x1CPR1094198016804\x1C\x1C\x1CIND\x1C\x1CAltman\x1CWilliam\x1CM\x1C\x1C\x1C680
+    S. Fourth Street\x1C\x1CLouisville\x1CKY\x1C40202\x1C\x1C\x1C20090331\x1C384.60\x1C1346.10\x1C15\x1C\x1C\x1CKindred
+    Healthcare Inc.\x1CSVPStrategy&PublicPolicy\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CP/R
+    Deduction ($192.30 Bi-Weekly)\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00242271
+  - name: TRANSACTION ID
+    number: '3'
+    value: PR1094198016804
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Altman
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: William
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: M
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 680 S. Fourth Street
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Louisville
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: KY
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '40202'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090331'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '384.60'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '1346.10'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Kindred Healthcare Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: SVPStrategy&PublicPolicy
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: P/R Deduction ($192.30 Bi-Weekly)
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00242271\x1CPR1094200416804\x1C\x1C\x1CIND\x1C\x1CComer\x1CMichael\x1C\x1C\x1C\x1C12
+    Lewis\x1C\x1CIrvine\x1CCA\x1C92620\x1C\x1C\x1C20090331\x1C70.00\x1C245.00\x1C15\x1C\x1C\x1CKindred
+    Healthcare Inc.\x1CVP & CFO-West Reg-HD\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CP/R
+    Deduction ($35.00 Bi-Weekly)\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00242271
+  - name: TRANSACTION ID
+    number: '3'
+    value: PR1094200416804
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Comer
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Michael
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 12 Lewis
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Irvine
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: CA
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '92620'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090331'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '70.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '245.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Kindred Healthcare Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: VP & CFO-West Reg-HD
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: P/R Deduction ($35.00 Bi-Weekly)
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00242271\x1CPR1094200616804\x1C\x1C\x1CIND\x1C\x1CShelton\x1CTraci\x1C\x1C\x1C\x1C2800
+    Nelson Way  Apt. 506\x1C\x1CSanta Monica\x1CCA\x1C90405\x1C\x1C\x1C20090331\x1C300.00\x1C1050.00\x1C15\x1C\x1C\x1CKindred
+    Healthcare Inc.\x1CSr VP & COO-West Reg-HD\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CP/R
+    Deduction ($150.00 Bi-Weekly)\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00242271
+  - name: TRANSACTION ID
+    number: '3'
+    value: PR1094200616804
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Shelton
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Traci
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 2800 Nelson Way  Apt. 506
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Santa Monica
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: CA
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '90405'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090331'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '300.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '1050.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Kindred Healthcare Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: Sr VP & COO-West Reg-HD
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: P/R Deduction ($150.00 Bi-Weekly)
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00242271\x1CPR1094200716804\x1C\x1C\x1CIND\x1C\x1CMonaghan\x1CSteven\x1C\x1C\x1C\x1C508
+    W. Melrose #7-A\x1C\x1CChicago\x1CIL\x1C60657\x1C\x1C\x1C20090331\x1C110.00\x1C385.00\x1C15\x1C\x1C\x1CKindred
+    Healthcare Inc.\x1CExec VP-Cent Reg-HD\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CP/R
+    Deduction ($55.00 Bi-Weekly)\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00242271
+  - name: TRANSACTION ID
+    number: '3'
+    value: PR1094200716804
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Monaghan
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Steven
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: '508 W. Melrose #7-A'
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Chicago
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: IL
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '60657'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090331'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '110.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '385.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Kindred Healthcare Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: Exec VP-Cent Reg-HD
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: P/R Deduction ($55.00 Bi-Weekly)
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00242271\x1CPR1094205316804\x1C\x1C\x1CIND\x1C\x1CNovak\x1CJames\x1CJ\x1C\x1C\x1C9680
+    Ridgewalk Court\x1C\x1CDavie\x1CFL\x1C33328\x1C\x1C\x1C20090331\x1C84.00\x1C294.00\x1C15\x1C\x1C\x1CKindred
+    Healthcare Inc.\x1CExec VP-East Reg-HD\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CP/R
+    Deduction ($42.00 Bi-Weekly)\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00242271
+  - name: TRANSACTION ID
+    number: '3'
+    value: PR1094205316804
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Novak
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: James
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: J
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 9680 Ridgewalk Court
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Davie
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: FL
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '33328'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090331'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '84.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '294.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Kindred Healthcare Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: Exec VP-East Reg-HD
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: P/R Deduction ($42.00 Bi-Weekly)
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00242271\x1CPR1094213616804\x1C\x1C\x1CIND\x1C\x1CBowen\x1CLane\x1CM\x1C\x1C\x1C10868
+    South Prescott Drive\x1C\x1CSandy\x1CUT\x1C84092\x1C\x1C\x1C20090331\x1C100.00\x1C350.00\x1C15\x1C\x1C\x1CKindred
+    Healthcare Inc.\x1CExec VP & President-HSD\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CP/R
+    Deduction ($50.00 Bi-Weekly)\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00242271
+  - name: TRANSACTION ID
+    number: '3'
+    value: PR1094213616804
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Bowen
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Lane
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: M
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 10868 South Prescott Drive
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Sandy
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: UT
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '84092'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090331'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '100.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '350.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Kindred Healthcare Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: Exec VP & President-HSD
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: P/R Deduction ($50.00 Bi-Weekly)
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00242271\x1CPR1094229716804\x1C\x1C\x1CIND\x1C\x1CBond\x1CGaylia\x1C\x1C\x1C\x1C7015
+    Wooded Meadow Rd\x1C\x1CLouisville\x1CKY\x1C40241\x1C\x1C\x1C20090331\x1C60.00\x1C210.00\x1C15\x1C\x1C\x1CKindred
+    Healthcare Inc.\x1CSr VP Human Resources-HD\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CP/R
+    Deduction ($30.00 Bi-Weekly)\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00242271
+  - name: TRANSACTION ID
+    number: '3'
+    value: PR1094229716804
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Bond
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Gaylia
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 7015 Wooded Meadow Rd
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Louisville
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: KY
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '40241'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090331'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '60.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '210.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Kindred Healthcare Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: Sr VP Human Resources-HD
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: P/R Deduction ($30.00 Bi-Weekly)
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00242271\x1CPR1094229916804\x1C\x1C\x1CIND\x1C\x1CMcGillan\x1CPatricia\x1CM\x1C\x1C\x1C510
+    Altagate Rd\x1C\x1CLouisville\x1CKY\x1C40206\x1C\x1C\x1C20090331\x1C60.00\x1C210.00\x1C15\x1C\x1C\x1CKindred
+    Healthcare Inc.\x1CVP Pat Saf & Reg Compl-HD\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CP/R
+    Deduction ($30.00 Bi-Weekly)\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00242271
+  - name: TRANSACTION ID
+    number: '3'
+    value: PR1094229916804
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: McGillan
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Patricia
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: M
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 510 Altagate Rd
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Louisville
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: KY
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '40206'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090331'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '60.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '210.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Kindred Healthcare Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: VP Pat Saf & Reg Compl-HD
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: P/R Deduction ($30.00 Bi-Weekly)
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00242271\x1CPR1094237316804\x1C\x1C\x1CIND\x1C\x1CRoth\x1CDouglas\x1C\x1C\x1C\x1C9891
+    Heytesbery\x1C\x1CSandy\x1CUT\x1C84092\x1C\x1C\x1C20090331\x1C80.00\x1C280.00\x1C15\x1C\x1C\x1CKindred
+    Healthcare Inc.\x1CVP Finance-Pacific RegHSD\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CP/R
+    Deduction ($40.00 Bi-Weekly)\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00242271
+  - name: TRANSACTION ID
+    number: '3'
+    value: PR1094237316804
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Roth
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Douglas
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 9891 Heytesbery
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Sandy
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: UT
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '84092'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090331'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '80.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '280.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Kindred Healthcare Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: VP Finance-Pacific RegHSD
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: P/R Deduction ($40.00 Bi-Weekly)
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00242271\x1CPR1094246616804\x1C\x1C\x1CIND\x1C\x1CSierpina\x1CRaymond\x1CJ\x1C\x1C\x1C14
+    Westwind Road\x1C\x1CLouisville\x1CKY\x1C40207\x1C\x1C\x1C20090331\x1C100.00\x1C350.00\x1C15\x1C\x1C\x1CKindred
+    Healthcare Inc.\x1CVP Public Pol &GovtAffair\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CP/R
+    Deduction ($50.00 Bi-Weekly)\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00242271
+  - name: TRANSACTION ID
+    number: '3'
+    value: PR1094246616804
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Sierpina
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Raymond
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: J
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 14 Westwind Road
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Louisville
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: KY
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '40207'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090331'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '100.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '350.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Kindred Healthcare Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: VP Public Pol &GovtAffair
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: P/R Deduction ($50.00 Bi-Weekly)
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00242271\x1CPR1094247216804\x1C\x1C\x1CIND\x1C\x1CWood\x1CThomas\x1C\x1C\x1C\x1C2949
+    Glascock Street\x1C\x1COakland\x1CCA\x1C94601\x1C\x1C\x1C20090331\x1C130.00\x1C455.00\x1C15\x1C\x1C\x1CKindred
+    Healthcare Inc.\x1CSr Dist Dir Operations\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CP/R
+    Deduction ($65.00 Bi-Weekly)\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00242271
+  - name: TRANSACTION ID
+    number: '3'
+    value: PR1094247216804
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Wood
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Thomas
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 2949 Glascock Street
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Oakland
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: CA
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '94601'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090331'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '130.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '455.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Kindred Healthcare Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: Sr Dist Dir Operations
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: P/R Deduction ($65.00 Bi-Weekly)
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00242271\x1CPR1267998116804\x1C\x1C\x1CIND\x1C\x1CRagland\x1CRussell\x1CD\x1C\x1C\x1C9902
+    Palace Green Way\x1C\x1CVienna\x1CVA\x1C22181\x1C\x1C\x1C20090331\x1C100.00\x1C350.00\x1C15\x1C\x1C\x1CKindred
+    Healthcare Inc.\x1CSr VP Fin-HSD\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CP/R
+    Deduction ($50.00 Bi-Weekly)\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00242271
+  - name: TRANSACTION ID
+    number: '3'
+    value: PR1267998116804
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Ragland
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Russell
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: D
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 9902 Palace Green Way
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Vienna
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: VA
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '22181'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090331'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '100.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '350.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Kindred Healthcare Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: Sr VP Fin-HSD
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: P/R Deduction ($50.00 Bi-Weekly)
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00242271\x1CPR1618127516804\x1C\x1C\x1CIND\x1C\x1CDailey\x1CMary
+    Jane\x1C\x1C\x1C\x1C10411 Loving Trail Drive\x1C\x1CFrisco\x1CTX\x1C75035\x1C\x1C\x1C20090331\x1C200.00\x1C700.00\x1C15\x1C\x1C\x1CKindred
+    Healthcare, Inc.\x1CVP & CCO-East Reg-HD\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CP/R
+    Deduction ($100.00 Bi-Weekly)\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00242271
+  - name: TRANSACTION ID
+    number: '3'
+    value: PR1618127516804
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Dailey
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Mary Jane
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 10411 Loving Trail Drive
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Frisco
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: TX
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '75035'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090331'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '200.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '700.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Kindred Healthcare, Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: VP & CCO-East Reg-HD
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: P/R Deduction ($100.00 Bi-Weekly)
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00242271\x1CPR1618128716804\x1C\x1C\x1CIND\x1C\x1CLawson\x1CMichael\x1C\x1C\x1C\x1C670
+    La Contenta Drive\x1C\x1CValley Springs\x1CCA\x1C95252\x1C\x1C\x1C20090331\x1C70.00\x1C210.00\x1C15\x1C\x1C\x1CKindred
+    Healthcare Inc.\x1CChief Exec Off III\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CP/R
+    Deduction ($35.00 Bi-Weekly)\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00242271
+  - name: TRANSACTION ID
+    number: '3'
+    value: PR1618128716804
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Lawson
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Michael
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 670 La Contenta Drive
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Valley Springs
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: CA
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '95252'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090331'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '70.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '210.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Kindred Healthcare Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: Chief Exec Off III
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: P/R Deduction ($35.00 Bi-Weekly)
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SB23\x1CC00242271\x1C28655302\x1C\x1C\x1CPTY\x1CDemocratic Congressional
+    Campaign Committee\x1C\x1C\x1C\x1C\x1C\x1C430 South Capitol Street, SE\x1C2nd
+    Floor\x1CWashington\x1CDC\x1C20003\x1C\x1C\x1C20090306\x1C7500.00\x1C\x1CContribution\x1C011\x1C\x1C\x1CC00000935\x1CDemocratic
+    Congressional Campaign Committee\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CContribution\x1C\n"
+  record: fec.version.v6_3.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00242271
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: '28655302'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: PTY
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Democratic Congressional Campaign Committee
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 430 South Capitol Street, SE
+  - name: PAYEE STREET 2
+    number: '14'
+    value: 2nd Floor
+  - name: PAYEE CITY
+    number: '15'
+    value: Washington
+  - name: PAYEE STATE
+    number: '16'
+    value: DC
+  - name: PAYEE ZIP
+    number: '17'
+    value: '20003'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090306'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '7500.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Contribution
+  - name: CATEGORY CODE
+    number: '24'
+    value: '011'
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '25'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '27'
+    value: C00000935
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '28'
+    value: Democratic Congressional Campaign Committee
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: Contribution
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: '
+
+'
+- input: "SB23\x1CC00242271\x1C28959062\x1C\x1C\x1CCCM\x1CWyden For Senate\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 3498\x1C\x1CPortland\x1COR\x1C97208\x1CP2010\x1C\x1C20090318\x1C2500.00\x1C\x1CContribution\x1C011\x1C\x1C\x1CC00308676\x1CWyden
+    For Senate\x1CS6OR00110\x1CWyden\x1CRon\x1C\x1CSen.\x1C\x1CS\x1COR\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CContribution\x1C\n"
+  record: fec.version.v6_3.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00242271
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: '28959062'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: CCM
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Wyden For Senate
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: PO Box 3498
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Portland
+  - name: PAYEE STATE
+    number: '16'
+    value: OR
+  - name: PAYEE ZIP
+    number: '17'
+    value: '97208'
+  - name: ELECTION CODE
+    number: '18'
+    value: P2010
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090318'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '2500.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Contribution
+  - name: CATEGORY CODE
+    number: '24'
+    value: '011'
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '25'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '27'
+    value: C00308676
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '28'
+    value: Wyden For Senate
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '29'
+    value: S6OR00110
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '30'
+    value: Wyden
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '31'
+    value: Ron
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '33'
+    value: Sen.
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '35'
+    value: S
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '36'
+    value: OR
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: Contribution
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: '
+
+'
+sourceurl: !!python/unicode 20090416
+type: chunk

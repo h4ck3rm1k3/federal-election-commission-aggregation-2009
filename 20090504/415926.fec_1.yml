@@ -1,0 +1,6438 @@
+countrows: 43
+filename: 415926.fec
+header: {}
+rows:
+- 2
+- input: "F3XN\x1CC00004473\x1CNat'l Telecommunications Cooperative Assn./Telecommunications
+    Education Committee Org.\x1C\x1C4121 Wilson Blvd.\x1C10th Floor\x1CArlington\x1CVA\x1C22203\x1CM5\x1C\x1C\x1C\x1C20090401\x1C20090430\x1CX\x1CSchweitzer\x1CLisa\x1C\x1C\x1C\x1C20090504\x1C211645.65\x1C17388.00\x1C229033.65\x1C3516.44\x1C225517.21\x1C0.00\x1C0.00\x1C11440.00\x1C5948.00\x1C17388.00\x1C0.00\x1C0.00\x1C17388.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C17388.00\x1C17388.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C3500.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C16.44\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C3516.44\x1C3516.44\x1C17388.00\x1C0.00\x1C17388.00\x1C0.00\x1C0.00\x1C0.00\x1C87033.14\x1C2009\x1C148589.12\x1C235622.26\x1C10105.05\x1C225517.21\x1C97236.00\x1C51348.00\x1C148584.00\x1C0.00\x1C0.00\x1C148584.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C5.12\x1C0.00\x1C0.00\x1C0.00\x1C148589.12\x1C148589.12\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C9500.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C605.05\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C10105.05\x1C10105.05\x1C148584.00\x1C0.00\x1C148584.00\x1C0.00\x1C0.00\x1C0.00\n"
+  record: fec.version.v6_3.F3X
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F3XN
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00004473
+  - name: COMMITTEE NAME
+    number: '3'
+    value: Nat'l Telecommunications Cooperative Assn./Telecommunications Education
+      Committee Org.
+  - name: CHANGE OF ADDRESS
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 4121 Wilson Blvd.
+  - name: STREET 2
+    number: '6'
+    value: 10th Floor
+  - name: CITY
+    number: '7'
+    value: Arlington
+  - name: STATE
+    number: '8'
+    value: VA
+  - name: ZIP
+    number: '9'
+    value: '22203'
+  - name: REPORT CODE
+    number: '10'
+    value: M5
+  - name: ELECTION CODE
+    number: '11'
+    value: ''
+  - name: DATE OF ELECTION
+    number: '12'
+    value: ''
+  - name: STATE OF ELECTION
+    number: '13'
+    value: ''
+  - name: COVERAGE FROM DATE
+    number: '14'
+    value: '20090401'
+  - name: COVERAGE THROUGH DATE
+    number: '15'
+    value: '20090430'
+  - name: QUALIFIED COMMITTEE
+    number: '16'
+    value: X
+  - name: TREASURER LAST NAME
+    number: '17'
+    value: Schweitzer
+  - name: TREASURER FIRST NAME
+    number: '18'
+    value: Lisa
+  - name: TREASURER MIDDLE NAME
+    number: '19'
+    value: ''
+  - name: TREASURER PREFIX
+    number: '20'
+    value: ''
+  - name: TREASURER SUFFIX
+    number: '21'
+    value: ''
+  - name: DATE SIGNED
+    number: '22'
+    value: '20090504'
+  - name: Cash on Hand beginning
+    number: 23-6(b)
+    value: '211645.65'
+  - name: Total Receipts
+    number: 24-6(c)
+    value: '17388.00'
+  - name: Subtotal
+    number: 25-6(d)
+    value: '229033.65'
+  - name: Total Disbursements
+    number: 26-7.
+    value: '3516.44'
+  - name: Cash on Hand at Close
+    number: 27-8.
+    value: '225517.21'
+  - name: Debts to
+    number: 28-9.
+    value: '0.00'
+  - name: Debts by
+    number: 29-10.
+    value: '0.00'
+  - name: Itemized
+    number: 30-11(a)i
+    value: '11440.00'
+  - name: Unitemized
+    number: 31-11(a)ii
+    value: '5948.00'
+  - name: Total
+    number: 32-11(a)iii
+    value: '17388.00'
+  - name: Political Party Committees
+    number: 33-11(b)
+    value: '0.00'
+  - name: Other Political Committees (PACs)
+    number: 34-11(c)
+    value: '0.00'
+  - name: Total Contributions
+    number: 35-11(d)
+    value: '17388.00'
+  - name: Transfers from Affiliated/Other Party Committees
+    number: 36-12.
+    value: '0.00'
+  - name: All Loans Received
+    number: 37-13.
+    value: '0.00'
+  - name: Loan Repayments Received
+    number: 38-14.
+    value: '0.00'
+  - name: Offsets to Operating Expenditures (refunds)
+    number: 39-15.
+    value: '0.00'
+  - name: Refunds of Federal Contributions
+    number: 40-16.
+    value: '0.00'
+  - name: Other Federal Receipts (dividends)
+    number: 41-17.
+    value: '0.00'
+  - name: Transfers from Nonfederal Account (H3)
+    number: 42-18(a)
+    value: '0.00'
+  - name: Transfers from Non-Federal (Levin - H5)
+    number: 43-18(b)
+    value: '0.00'
+  - name: Total Non-Federal Transfers (18a+18b)
+    number: 44-18(c)
+    value: '0.00'
+  - name: Total Receipts
+    number: 45-19.
+    value: '17388.00'
+  - name: Total Federal Receipts
+    number: 46-20.
+    value: '17388.00'
+  - name: Federal Share
+    number: 47-21(a)i
+    value: '0.00'
+  - name: Non-Federal Share
+    number: 48-21(a)ii
+    value: '0.00'
+  - name: Other Federal Operating Expenditures
+    number: 49-21(b)
+    value: '0.00'
+  - name: Total Operating Expenditures
+    number: 50-21(c)
+    value: '0.00'
+  - name: Transfers to Affiliated/Other Party Committees
+    number: 51-22.
+    value: '0.00'
+  - name: Contributions to Federal Candidates/Committees
+    number: 52-23.
+    value: '3500.00'
+  - name: Independent Expenditures
+    number: 53-24.
+    value: '0.00'
+  - name: Coordinated Expend made by Party Committees
+    number: 54-25.
+    value: '0.00'
+  - name: Loan Repayments
+    number: 55-26.
+    value: '0.00'
+  - name: Loans Made
+    number: 56-27.
+    value: '0.00'
+  - name: Individuals/Persons
+    number: 57-28(a)
+    value: '0.00'
+  - name: Political Party Committees
+    number: 58-28(b)
+    value: '0.00'
+  - name: Other Political Committees
+    number: 59-28(c)
+    value: '0.00'
+  - name: Total Contributions Refunds
+    number: 60-28(d)
+    value: '0.00'
+  - name: Other Disbursements
+    number: 61-29.
+    value: '16.44'
+  - name: Shared Federal Activity (H6) Fed Share
+    number: 62-30(a)i
+    value: '0.00'
+  - name: Shared Federal Activity (H6) Non-Fed
+    number: 63-30(a)ii
+    value: '0.00'
+  - name: Non-Allocable 100% Fed Election Activity
+    number: 64-30(b)
+    value: '0.00'
+  - name: Total Federal Election Activity
+    number: 65-30(c)
+    value: '0.00'
+  - name: Total Disbursements
+    number: 66-31.
+    value: '3516.44'
+  - name: Total Federal Disbursements
+    number: 67-32.
+    value: '3516.44'
+  - name: Total Contributions
+    number: 68-33.
+    value: '17388.00'
+  - name: Total Contribution Refunds
+    number: 69-34.
+    value: '0.00'
+  - name: Net Contributions
+    number: 70-35.
+    value: '17388.00'
+  - name: Total Federal Operating Expenditures
+    number: 71-36.
+    value: '0.00'
+  - name: Offsets to Operating Expenditures
+    number: 72-37.
+    value: '0.00'
+  - name: Net Operating Expenditures
+    number: 73-38.
+    value: '0.00'
+  - name: Cash on Hand Jan 1, 19
+    number: 74-6(a)
+    value: '87033.14'
+  - name: Year for Above
+    number: '75'
+    value: '2009'
+  - name: Total Receipts
+    number: 76-6(c)
+    value: '148589.12'
+  - name: Subtotal
+    number: 77-6(d)
+    value: '235622.26'
+  - name: Total disbursements
+    number: 78-7.
+    value: '10105.05'
+  - name: Cash on Hand Close
+    number: 79-8.
+    value: '225517.21'
+  - name: Itemized
+    number: 80-11(a)i
+    value: '97236.00'
+  - name: Unitemized
+    number: 81-11(a)ii
+    value: '51348.00'
+  - name: Total
+    number: 82-11(a)iii
+    value: '148584.00'
+  - name: Political Party committees
+    number: 83-11(b)
+    value: '0.00'
+  - name: Other Political Committees (PACs)
+    number: 84-11(c)
+    value: '0.00'
+  - name: Total Contributions
+    number: 85-11(d)
+    value: '148584.00'
+  - name: Transfers from Affiliated/Other Party Committees
+    number: 86-12.
+    value: '0.00'
+  - name: All Loans Received
+    number: 87-13.
+    value: '0.00'
+  - name: Loan Repayments Received
+    number: 88-14.
+    value: '0.00'
+  - name: Offsets to Operating Expenditures (refunds)
+    number: 89-15.
+    value: '0.00'
+  - name: Refunds of Federal Contributions
+    number: 90-16.
+    value: '0.00'
+  - name: Other Federal Receipts (dividends)
+    number: 91-17.
+    value: '5.12'
+  - name: Transfers from Nonfederal Account (H3)
+    number: 92-18(a)
+    value: '0.00'
+  - name: Transfers from Non-Federal (Levin - H5)
+    number: 93-18(b)
+    value: '0.00'
+  - name: Total Non-Federal Transfers (18a+18b)
+    number: 94-18(c)
+    value: '0.00'
+  - name: Total Receipts
+    number: 95-19.
+    value: '148589.12'
+  - name: Total Federal Receipts
+    number: 96-20.
+    value: '148589.12'
+  - name: Federal Share
+    number: 97-21(a)i
+    value: '0.00'
+  - name: Non-Federal Share
+    number: 98-21(a)ii
+    value: '0.00'
+  - name: Other Federal Operating Expenditures
+    number: 99-21(b)
+    value: '0.00'
+  - name: Total operating Expenditures
+    number: 100-21(c)
+    value: '0.00'
+  - name: Transfers to Affiliated/Other Party Committees
+    number: 101-22.
+    value: '0.00'
+  - name: Contributions to Federal Candidates/Committees
+    number: 102-23.
+    value: '9500.00'
+  - name: Independent Expenditures
+    number: 103-24.
+    value: '0.00'
+  - name: Coordinated Expend made by Party Committees
+    number: 104-25.
+    value: '0.00'
+  - name: Loan Repayments Made
+    number: 105-26.
+    value: '0.00'
+  - name: Loans Made
+    number: 106-27.
+    value: '0.00'
+  - name: Individuals/Persons
+    number: 107-28(a)
+    value: '0.00'
+  - name: Political Party Committees
+    number: 108-28(b)
+    value: '0.00'
+  - name: Other Political Committees
+    number: 109-28(c)
+    value: '0.00'
+  - name: Total contributions Refunds
+    number: 110-28(d)
+    value: '0.00'
+  - name: Other Disbursements
+    number: 111-29.
+    value: '605.05'
+  - name: Shared Federal Activity (H6) Fed Share
+    number: 112-30(a)i
+    value: '0.00'
+  - name: Shared Federal Activity (H6) Non-Fed
+    number: 113-30(a)ii
+    value: '0.00'
+  - name: Non-Allocable 100% Fed Election Activity
+    number: 114-30(b)
+    value: '0.00'
+  - name: Total Federal Election Activity
+    number: 115-30(c)
+    value: '0.00'
+  - name: Total Disbursements
+    number: 116-31.
+    value: '10105.05'
+  - name: Total Federal Disbursements
+    number: 117-32.
+    value: '10105.05'
+  - name: Total Contributions
+    number: 118-33.
+    value: '148584.00'
+  - name: Total Contribution Refunds
+    number: 119-34.
+    value: '0.00'
+  - name: Net contributions
+    number: 120-35.
+    value: '148584.00'
+  - name: Total Federal Operating Expenditures
+    number: 121-36.
+    value: '0.00'
+  - name: Offsets to Operating Expenditures
+    number: 122-37.
+    value: '0.00'
+  - name: Net Operating Expenditures
+    number: 123-38.
+    value: '0.00
+
+'
+- input: "SA11ai\x1CC00004473\x1C29700018\x1C\x1C\x1CIND\x1C\x1CNewsome\x1CDelbert\x1C\x1CMr.\x1C\x1C871
+    Hammond Road\x1C\x1CFarmington\x1CKY\x1C420409123\x1C\x1C\x1C20090402\x1C365.00\x1C365.00\x1C15\x1C\x1C\x1CWest
+    Kentucky Rural Telephone Cooperat\x1CDirector\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00004473
+  - name: TRANSACTION ID
+    number: '3'
+    value: '29700018'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Newsome
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Delbert
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: Mr.
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 871 Hammond Road
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Farmington
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: KY
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '420409123'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090402'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '365.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '365.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: West Kentucky Rural Telephone Cooperat
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: Director
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00004473\x1C29700019\x1C\x1C\x1CIND\x1C\x1CLittleton\x1CRicky\x1C\x1C\x1C\x1C13
+    Tate Road\x1C\x1CKenton\x1CTN\x1C382333029\x1C\x1C\x1C20090402\x1C365.00\x1C365.00\x1C15\x1C\x1C\x1CWest
+    Kentucky Rural Telephone Cooperat\x1CDirector\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00004473
+  - name: TRANSACTION ID
+    number: '3'
+    value: '29700019'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Littleton
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Ricky
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 13 Tate Road
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Kenton
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: TN
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '382333029'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090402'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '365.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '365.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: West Kentucky Rural Telephone Cooperat
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: Director
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00004473\x1C29700020\x1C\x1C\x1CIND\x1C\x1CDavis\x1CJeff\x1C\x1CMr.\x1C\x1C200
+    Country Rd 1068\x1C\x1CCunningham\x1CKY\x1C42035\x1C\x1C\x1C20090402\x1C365.00\x1C365.00\x1C15\x1C\x1C\x1CWest
+    Kentucky Rural Telephone Cooperat\x1CDirector\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00004473
+  - name: TRANSACTION ID
+    number: '3'
+    value: '29700020'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Davis
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Jeff
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: Mr.
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 200 Country Rd 1068
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Cunningham
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: KY
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '42035'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090402'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '365.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '365.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: West Kentucky Rural Telephone Cooperat
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: Director
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00004473\x1C29700021\x1C\x1C\x1CIND\x1C\x1CBennett\x1CPaul\x1C\x1CMr.\x1C\x1C2550
+    Eastwood Drive\x1C\x1CTrimble\x1CTN\x1C382593240\x1C\x1C\x1C20090402\x1C365.00\x1C365.00\x1C15\x1C\x1C\x1CWest
+    Kentucky Rural Telephone Cooperat\x1CDirector\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00004473
+  - name: TRANSACTION ID
+    number: '3'
+    value: '29700021'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Bennett
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Paul
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: Mr.
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 2550 Eastwood Drive
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Trimble
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: TN
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '382593240'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090402'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '365.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '365.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: West Kentucky Rural Telephone Cooperat
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: Director
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00004473\x1C29700022\x1C\x1C\x1CIND\x1C\x1CStephenson\x1CJerry\x1CC.\x1CMr.\x1C\x1C5400
+    Highway 140 West\x1C\x1CPuryear\x1CTN\x1C382513933\x1C\x1C\x1C20090402\x1C365.00\x1C365.00\x1C15\x1C\x1C\x1CWest
+    Kentucky Rural Telephone Cooperat\x1CPresident\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00004473
+  - name: TRANSACTION ID
+    number: '3'
+    value: '29700022'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Stephenson
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Jerry
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: C.
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: Mr.
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 5400 Highway 140 West
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Puryear
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: TN
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '382513933'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090402'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '365.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '365.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: West Kentucky Rural Telephone Cooperat
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: President
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00004473\x1C29700023\x1C\x1C\x1CIND\x1C\x1CBarnett\x1CBobbie\x1CD.\x1CMr.\x1C\x1C41
+    Pace Lane\x1C\x1CHardin\x1CKY\x1C420489012\x1C\x1C\x1C20090402\x1C365.00\x1C365.00\x1C15\x1C\x1C\x1CWest
+    Kentucky Rural Telephone Cooperat\x1CDirector\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00004473
+  - name: TRANSACTION ID
+    number: '3'
+    value: '29700023'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Barnett
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Bobbie
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: D.
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: Mr.
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 41 Pace Lane
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Hardin
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: KY
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '420489012'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090402'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '365.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '365.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: West Kentucky Rural Telephone Cooperat
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: Director
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00004473\x1C29700024\x1C\x1C\x1CIND\x1C\x1CThaldorf\x1CDonald\x1C\x1C\x1C\x1C603
+    South Main Street\x1C\x1CCochrane\x1CWI\x1C546229502\x1C\x1C\x1C20090402\x1C365.00\x1C365.00\x1C15\x1C\x1C\x1CCochrane
+    Cooperative Telephone Company\x1CDirector\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00004473
+  - name: TRANSACTION ID
+    number: '3'
+    value: '29700024'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Thaldorf
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Donald
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 603 South Main Street
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Cochrane
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: WI
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '546229502'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090402'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '365.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '365.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Cochrane Cooperative Telephone Company
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: Director
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00004473\x1C29700025\x1C\x1C\x1CIND\x1C\x1CNelson\x1CMorris\x1C\x1CMr.\x1C\x1C8197-
+    210th Street\x1C\x1CRandall\x1CMN\x1C564752724\x1C\x1C\x1C20090402\x1C365.00\x1C365.00\x1C15\x1C\x1C\x1CConsolidated
+    Telecommunications Compan\x1CDirector\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00004473
+  - name: TRANSACTION ID
+    number: '3'
+    value: '29700025'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Nelson
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Morris
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: Mr.
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 8197- 210th Street
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Randall
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: MN
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '564752724'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090402'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '365.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '365.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Consolidated Telecommunications Compan
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: Director
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00004473\x1C29700027\x1C\x1C\x1CIND\x1C\x1CPetty\x1CMary\x1C\x1C\x1C\x1C3341
+    NW 22nd Street\x1C\x1CNewcastle\x1COK\x1C730659734\x1C\x1C\x1C20090402\x1C250.00\x1C250.00\x1C15\x1C\x1C\x1CPioneer
+    Telephone Cooperative\x1CDirector\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00004473
+  - name: TRANSACTION ID
+    number: '3'
+    value: '29700027'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Petty
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Mary
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 3341 NW 22nd Street
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Newcastle
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: OK
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '730659734'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090402'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '250.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '250.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Pioneer Telephone Cooperative
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: Director
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00004473\x1C29700028\x1C\x1C\x1CIND\x1C\x1CAdams\x1CRex\x1CG.\x1CMr.\x1C\x1C1635
+    Peach Road\x1C\x1CKirkman\x1CIA\x1C514477517\x1C\x1C\x1C20090402\x1C150.00\x1C250.00\x1C15\x1C\x1C\x1CFarmers
+    Mutual Cooperative Telephone C\x1CDirector\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00004473
+  - name: TRANSACTION ID
+    number: '3'
+    value: '29700028'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Adams
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Rex
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: G.
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: Mr.
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 1635 Peach Road
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Kirkman
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: IA
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '514477517'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090402'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '150.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '250.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Farmers Mutual Cooperative Telephone C
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: Director
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00004473\x1C29700029\x1C\x1C\x1CIND\x1C\x1CMartin\x1CKenneth\x1C\x1C\x1C\x1C24636
+    450th St.\x1C\x1CHancock\x1CIA\x1C515364134\x1C\x1C\x1C20090402\x1C250.00\x1C250.00\x1C15\x1C\x1C\x1CFarmers
+    Mutual Telephone Cooperative\x1CDirector\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00004473
+  - name: TRANSACTION ID
+    number: '3'
+    value: '29700029'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Martin
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Kenneth
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 24636 450th St.
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Hancock
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: IA
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '515364134'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090402'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '250.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '250.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Farmers Mutual Telephone Cooperative
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: Director
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00004473\x1C29700030\x1C\x1C\x1CIND\x1C\x1CBerndt\x1CJoel\x1C\x1CMr.\x1C\x1C1612
+    20th Street\x1C\x1CHarlan\x1CIA\x1C515371809\x1C\x1C\x1C20090402\x1C250.00\x1C250.00\x1C15\x1C\x1C\x1CFarmers
+    Mutual Telephone Cooperative\x1CDirector\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00004473
+  - name: TRANSACTION ID
+    number: '3'
+    value: '29700030'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Berndt
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Joel
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: Mr.
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 1612 20th Street
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Harlan
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: IA
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '515371809'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090402'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '250.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '250.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Farmers Mutual Telephone Cooperative
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: Director
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00004473\x1C29700031\x1C\x1C\x1CIND\x1C\x1CJuhl\x1CEugene\x1C\x1C\x1C\x1C2345
+    1800th Street\x1C\x1CIrwin\x1CIA\x1C514467510\x1C\x1C\x1C20090402\x1C250.00\x1C250.00\x1C15\x1C\x1C\x1CFarmers
+    Mutual Cooperative Telephone C\x1CDirector\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00004473
+  - name: TRANSACTION ID
+    number: '3'
+    value: '29700031'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Juhl
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Eugene
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 2345 1800th Street
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Irwin
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: IA
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '514467510'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090402'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '250.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '250.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Farmers Mutual Cooperative Telephone C
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: Director
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00004473\x1C29700032\x1C\x1C\x1CIND\x1C\x1CConry\x1CTom\x1C\x1CMr.\x1C\x1C1425
+    Hickory Road\x1C\x1CHarlan\x1CIA\x1C515373705\x1C\x1C\x1C20090402\x1C150.00\x1C150.00\x1C15\x1C\x1C\x1CFarmers
+    Mutual Cooperative Telephone C\x1CManager\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00004473
+  - name: TRANSACTION ID
+    number: '3'
+    value: '29700032'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Conry
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Tom
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: Mr.
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 1425 Hickory Road
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Harlan
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: IA
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '515373705'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090402'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '150.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '150.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Farmers Mutual Cooperative Telephone C
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: Manager
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00004473\x1C29700033\x1C\x1C\x1CIND\x1C\x1CConry\x1CTom\x1C\x1CMr.\x1C\x1C1425
+    Hickory Road\x1C\x1CHarlan\x1CIA\x1C515373705\x1C\x1C\x1C20090402\x1C100.00\x1C250.00\x1C15\x1C\x1C\x1CFarmers
+    Mutual Cooperative Telephone C\x1CManager\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00004473
+  - name: TRANSACTION ID
+    number: '3'
+    value: '29700033'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Conry
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Tom
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: Mr.
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 1425 Hickory Road
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Harlan
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: IA
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '515373705'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090402'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '100.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '250.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Farmers Mutual Cooperative Telephone C
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: Manager
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00004473\x1C29700217\x1C\x1C\x1CIND\x1C\x1CChamberlain\x1CTed\x1C\x1C\x1C\x1C26
+    Sunset Dr.\x1C\x1CEarling\x1CIA\x1C515305322\x1C\x1C\x1C20090402\x1C250.00\x1C250.00\x1C15\x1C\x1C\x1CFarmers
+    Mutual Cooperative Telephone C\x1CSecretary\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00004473
+  - name: TRANSACTION ID
+    number: '3'
+    value: '29700217'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Chamberlain
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Ted
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 26 Sunset Dr.
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Earling
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: IA
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '515305322'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090402'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '250.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '250.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Farmers Mutual Cooperative Telephone C
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: Secretary
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00004473\x1C29700218\x1C\x1C\x1CIND\x1C\x1CRasmussen\x1CJames\x1C\x1C\x1C\x1CBox
+    166\x1C\x1CManilla\x1CIA\x1C514540166\x1C\x1C\x1C20090402\x1C250.00\x1C250.00\x1C15\x1C\x1C\x1CFarmers
+    Mutual Cooperative Telephone C\x1CDirector\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00004473
+  - name: TRANSACTION ID
+    number: '3'
+    value: '29700218'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Rasmussen
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: James
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: Box 166
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Manilla
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: IA
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '514540166'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090402'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '250.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '250.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Farmers Mutual Cooperative Telephone C
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: Director
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00004473\x1C29700219\x1C\x1C\x1CIND\x1C\x1CWalker\x1CWestley\x1C\x1C\x1C\x1CPO
+    Box 263\x1C\x1CDefiance\x1CIA\x1C515270263\x1C\x1C\x1C20090402\x1C250.00\x1C250.00\x1C15\x1C\x1C\x1CFarmers
+    Mutual Cooperative Telephone C\x1CDirector\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00004473
+  - name: TRANSACTION ID
+    number: '3'
+    value: '29700219'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Walker
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Westley
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: PO Box 263
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Defiance
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: IA
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '515270263'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090402'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '250.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '250.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Farmers Mutual Cooperative Telephone C
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: Director
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00004473\x1C29700220\x1C\x1C\x1CIND\x1C\x1CSchmitz\x1CRoger\x1C\x1C\x1C\x1C404
+    Weber Street\x1CPO Box 67\x1CWestphalia\x1CIA\x1C515780067\x1C\x1C\x1C20090402\x1C100.00\x1C100.00\x1C15\x1C\x1C\x1CFarmers
+    Mutual Cooperative Telephone C\x1CDirector\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00004473
+  - name: TRANSACTION ID
+    number: '3'
+    value: '29700220'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Schmitz
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Roger
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 404 Weber Street
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: PO Box 67
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Westphalia
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: IA
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '515780067'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090402'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '100.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '100.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Farmers Mutual Cooperative Telephone C
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: Director
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00004473\x1C29700221\x1C\x1C\x1CIND\x1C\x1CPeters\x1CHarold D.\x1C\x1CMr.\x1C\x1C906
+    Stevens Ave.\x1C\x1CTennant\x1CIA\x1C515377003\x1C\x1C\x1C20090402\x1C250.00\x1C250.00\x1C15\x1C\x1C\x1CFarmers
+    Mutual Cooperative Telephone C\x1CDirector\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00004473
+  - name: TRANSACTION ID
+    number: '3'
+    value: '29700221'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Peters
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Harold D.
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: Mr.
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 906 Stevens Ave.
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Tennant
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: IA
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '515377003'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090402'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '250.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '250.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Farmers Mutual Cooperative Telephone C
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: Director
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00004473\x1C29700222\x1C\x1C\x1CIND\x1C\x1CSchmitz\x1CRoger\x1C\x1C\x1C\x1C404
+    Weber Street\x1CPO Box 67\x1CWestphalia\x1CIA\x1C515780067\x1C\x1C\x1C20090402\x1C150.00\x1C250.00\x1C15\x1C\x1C\x1CFarmers
+    Mutual Cooperative Telephone C\x1CDirector\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00004473
+  - name: TRANSACTION ID
+    number: '3'
+    value: '29700222'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Schmitz
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Roger
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 404 Weber Street
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: PO Box 67
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Westphalia
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: IA
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '515780067'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090402'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '150.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '250.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Farmers Mutual Cooperative Telephone C
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: Director
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00004473\x1C29700223\x1C\x1C\x1CIND\x1C\x1CNelson\x1CPaul\x1CC.\x1CMr.\x1C\x1C2406
+    1650th Street\x1C\x1CIrwin\x1CIA\x1C514467502\x1C\x1C\x1C20090402\x1C250.00\x1C250.00\x1C15\x1C\x1C\x1CFarmers
+    Mutual Cooperative Telephone C\x1CDirector\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00004473
+  - name: TRANSACTION ID
+    number: '3'
+    value: '29700223'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Nelson
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Paul
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: C.
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: Mr.
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 2406 1650th Street
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Irwin
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: IA
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '514467502'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090402'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '250.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '250.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Farmers Mutual Cooperative Telephone C
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: Director
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00004473\x1C29734221\x1C\x1C\x1CIND\x1C\x1CRosenow\x1CJohn\x1C\x1C\x1C\x1CS1847
+    County Road U\x1C\x1CCochrane\x1CWI\x1C54622\x1C\x1C\x1C20090409\x1C365.00\x1C365.00\x1C15\x1C\x1C\x1CCochrane
+    Cooperative Telephone Company\x1CDirector\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00004473
+  - name: TRANSACTION ID
+    number: '3'
+    value: '29734221'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Rosenow
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: John
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: S1847 County Road U
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Cochrane
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: WI
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '54622'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090409'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '365.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '365.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Cochrane Cooperative Telephone Company
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: Director
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00004473\x1C29734228\x1C\x1C\x1CIND\x1C\x1CZeller\x1CRudolph\x1C\x1C\x1C\x1CPO
+    Box 9\x1C\x1CCochrane\x1CWI\x1C546220009\x1C\x1C\x1C20090409\x1C365.00\x1C365.00\x1C15\x1C\x1C\x1CCochrane
+    Cooperative Telephone Company\x1CDirector\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00004473
+  - name: TRANSACTION ID
+    number: '3'
+    value: '29734228'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Zeller
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Rudolph
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: PO Box 9
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Cochrane
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: WI
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '546220009'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090409'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '365.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '365.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Cochrane Cooperative Telephone Company
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: Director
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00004473\x1C29734229\x1C\x1C\x1CIND\x1C\x1CRohrer\x1CJulene\x1CM.\x1C\x1C\x1CPO
+    Box 103\x1C\x1CCochrane\x1CWI\x1C546220103\x1C\x1C\x1C20090409\x1C500.00\x1C500.00\x1C15\x1C\x1C\x1CCochrane
+    Cooperative Telephone Company\x1CDirector\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00004473
+  - name: TRANSACTION ID
+    number: '3'
+    value: '29734229'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Rohrer
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Julene
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: M.
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: PO Box 103
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Cochrane
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: WI
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '546220103'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090409'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '500.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '500.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Cochrane Cooperative Telephone Company
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: Director
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00004473\x1C29734230\x1C\x1C\x1CIND\x1C\x1CKlink\x1CRudolph\x1C\x1C\x1C\x1CPO
+    Box 73\x1C\x1CCochrane\x1CWI\x1C546220073\x1C\x1C\x1C20090409\x1C365.00\x1C365.00\x1C15\x1C\x1C\x1CCochrane
+    Cooperative Telephone Company\x1CDirector\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00004473
+  - name: TRANSACTION ID
+    number: '3'
+    value: '29734230'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Klink
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Rudolph
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: PO Box 73
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Cochrane
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: WI
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '546220073'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090409'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '365.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '365.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Cochrane Cooperative Telephone Company
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: Director
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00004473\x1C29734231\x1C\x1C\x1CIND\x1C\x1CWentz\x1CThomas\x1C\x1CMr.\x1CJr.\x1C1334
+    Hiawatha St.\x1C\x1CMinot\x1CND\x1C587012706\x1C\x1C\x1C20090409\x1C365.00\x1C365.00\x1C15\x1C\x1C\x1CSRT
+    Communications, Inc.\x1CSecretary-Treasurer\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00004473
+  - name: TRANSACTION ID
+    number: '3'
+    value: '29734231'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Wentz
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Thomas
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: Mr.
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: Jr.
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 1334 Hiawatha St.
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Minot
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: ND
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '587012706'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090409'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '365.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '365.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: SRT Communications, Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: Secretary-Treasurer
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00004473\x1C29734236\x1C\x1C\x1CIND\x1C\x1CMoore\x1CMitchell\x1C\x1CMr.\x1C\x1C9680
+    SW Buckskin Terr\x1C\x1CBeaverton\x1COR\x1C97008\x1C\x1C\x1C20090409\x1C365.00\x1C380.00\x1C15\x1C\x1C\x1CClear
+    Creek Mutual Telephone Company\x1CPresident\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00004473
+  - name: TRANSACTION ID
+    number: '3'
+    value: '29734236'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Moore
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Mitchell
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: Mr.
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 9680 SW Buckskin Terr
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Beaverton
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: OR
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '97008'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090409'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '365.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '380.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Clear Creek Mutual Telephone Company
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: President
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00004473\x1C29734241\x1C\x1C\x1CIND\x1C\x1CHale\x1CGreg\x1C\x1CMr.\x1C\x1C6387
+    Friendship Road\x1C\x1CAuburn\x1CKY\x1C422065202\x1C\x1C\x1C20090409\x1C365.00\x1C365.00\x1C15\x1C\x1C\x1CLogan
+    Telephone Cooperative\x1CManager\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00004473
+  - name: TRANSACTION ID
+    number: '3'
+    value: '29734241'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Hale
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Greg
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: Mr.
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 6387 Friendship Road
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Auburn
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: KY
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '422065202'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090409'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '365.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '365.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Logan Telephone Cooperative
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: Manager
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00004473\x1C29783602\x1C\x1C\x1CIND\x1C\x1CNemeth\x1CDoug\x1C\x1CMr.\x1C\x1C16685
+    Aspen Road\x1C\x1CRice\x1CMN\x1C563674405\x1C\x1C\x1C20090416\x1C365.00\x1C365.00\x1C15\x1C\x1C\x1CBenton
+    Cooperative Telephone Company\x1CDirector\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00004473
+  - name: TRANSACTION ID
+    number: '3'
+    value: '29783602'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Nemeth
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Doug
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: Mr.
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 16685 Aspen Road
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Rice
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: MN
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '563674405'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090416'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '365.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '365.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Benton Cooperative Telephone Company
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: Director
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00004473\x1C29783603\x1C\x1C\x1CIND\x1C\x1CYoung\x1CJames\x1C\x1CMr.\x1C\x1C7948
+    355th Avenue\x1C\x1CPierz\x1CMN\x1C563641651\x1C\x1C\x1C20090416\x1C365.00\x1C365.00\x1C15\x1C\x1C\x1CBenton
+    Cooperative Telephone Company\x1CDirector\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00004473
+  - name: TRANSACTION ID
+    number: '3'
+    value: '29783603'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Young
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: James
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: Mr.
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 7948 355th Avenue
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Pierz
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: MN
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '563641651'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090416'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '365.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '365.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Benton Cooperative Telephone Company
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: Director
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00004473\x1C29841055\x1C\x1C\x1CIND\x1C\x1CKobliska\x1CKathleen\x1CM.\x1CMs.\x1C\x1C33302
+    Pulaski Rd.\x1C\x1CCushing\x1CMN\x1C564435005\x1C\x1C\x1C20090430\x1C365.00\x1C365.00\x1C15\x1C\x1C\x1CConsolidated
+    Telecommunications Compan\x1CDirector\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00004473
+  - name: TRANSACTION ID
+    number: '3'
+    value: '29841055'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Kobliska
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Kathleen
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: M.
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: Ms.
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 33302 Pulaski Rd.
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Cushing
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: MN
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '564435005'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090430'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '365.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '365.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Consolidated Telecommunications Compan
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: Director
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00004473\x1C29841056\x1C\x1C\x1CIND\x1C\x1CSwecker\x1CEdward\x1C\x1CMr.\x1C\x1C10655
+    State 64 SW\x1C\x1CMotley\x1CMN\x1C564662029\x1C\x1C\x1C20090430\x1C365.00\x1C365.00\x1C15\x1C\x1C\x1CConsolidated
+    Telecommunications Compan\x1CDirector\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00004473
+  - name: TRANSACTION ID
+    number: '3'
+    value: '29841056'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Swecker
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Edward
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: Mr.
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 10655 State 64 SW
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Motley
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: MN
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '564662029'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090430'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '365.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '365.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Consolidated Telecommunications Compan
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: Director
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00004473\x1C29841057\x1C\x1C\x1CIND\x1C\x1CJohnson\x1CStanley\x1CM.\x1CMr.\x1C\x1C6200
+    Smokey Hollow Rd NE\x1C\x1COuting\x1CMN\x1C566626710\x1C\x1C\x1C20090430\x1C365.00\x1C365.00\x1C15\x1C\x1C\x1CConsolidated
+    Telecommunications Compan\x1CDirector\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00004473
+  - name: TRANSACTION ID
+    number: '3'
+    value: '29841057'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Johnson
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Stanley
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: M.
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: Mr.
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 6200 Smokey Hollow Rd NE
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Outing
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: MN
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '566626710'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090430'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '365.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '365.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: Consolidated Telecommunications Compan
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: Director
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00004473\x1C29841059\x1C\x1C\x1CIND\x1C\x1CBauer\x1CJerome\x1C\x1C\x1C\x1CE8745
+    80th Avenue\x1C\x1CMondovi\x1CWI\x1C547558797\x1C\x1C\x1C20090430\x1C365.00\x1C365.00\x1C15\x1C\x1C\x1CWest
+    Wisconsin Telecom Cooperative\x1CDirector\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00004473
+  - name: TRANSACTION ID
+    number: '3'
+    value: '29841059'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Bauer
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Jerome
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: E8745 80th Avenue
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Mondovi
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: WI
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '547558797'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090430'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '365.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '365.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: West Wisconsin Telecom Cooperative
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: Director
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00004473\x1C29841060\x1C\x1C\x1CIND\x1C\x1CKopp\x1CThomas\x1C\x1CMr.\x1C\x1CN
+    3122 950th Street\x1C\x1CElk Mound\x1CWI\x1C54739\x1C\x1C\x1C20090430\x1C365.00\x1C365.00\x1C15\x1C\x1C\x1CWest
+    Wisconsin Telecom Cooperative\x1CDirector\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00004473
+  - name: TRANSACTION ID
+    number: '3'
+    value: '29841060'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Kopp
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Thomas
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: Mr.
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: N 3122 950th Street
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Elk Mound
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: WI
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '54739'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090430'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '365.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '365.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: West Wisconsin Telecom Cooperative
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: Director
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SA11ai\x1CC00004473\x1C29841061\x1C\x1C\x1CIND\x1C\x1CSiler\x1CRandy\x1CR.\x1CMr.\x1C\x1CN2672
+    454th Street\x1C\x1CDownsville\x1CWI\x1C54735\x1C\x1C\x1C20090430\x1C375.00\x1C375.00\x1C15\x1C\x1C\x1CWest
+    Wisconsin Telecom Cooperative\x1CManager\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_3.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00004473
+  - name: TRANSACTION ID
+    number: '3'
+    value: '29841061'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Siler
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Randy
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: R.
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: Mr.
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: N2672 454th Street
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Downsville
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: WI
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '54735'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090430'
+  - name: CONTRIBUTION AMOUNT
+    number: '21'
+    value: '375.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '375.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: INCREASED LIMIT CODE
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '26'
+    value: West Wisconsin Telecom Cooperative
+  - name: CONTRIBUTOR OCCUPATION
+    number: '27'
+    value: Manager
+  - name: DONOR COMMITTEE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '37'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '38'
+    value: ''
+  - name: CONDUIT NAME
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '40'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '41'
+    value: ''
+  - name: CONDUIT CITY
+    number: '42'
+    value: ''
+  - name: CONDUIT STATE
+    number: '43'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '44'
+    value: ''
+  - name: MEMO CODE
+    number: '45'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '46'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '47'
+    value: '
+
+'
+- input: "SB23\x1CC00004473\x1C29734705\x1C\x1C\x1CCCM\x1CLincoln Davis For Congress\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 350\x1C\x1CJamestown\x1CTN\x1C38556\x1CG2010\x1C\x1C20090409\x1C1000.00\x1C\x1C\x1C011\x1C\x1C\x1CC00365015\x1CLincoln
+    Davis For Congress\x1CH4TN06051\x1CDavis\x1CLincoln\x1C\x1CMr.\x1C\x1CH\x1CTN\x1C00\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_3.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00004473
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: '29734705'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: CCM
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Lincoln Davis For Congress
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: PO Box 350
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Jamestown
+  - name: PAYEE STATE
+    number: '16'
+    value: TN
+  - name: PAYEE ZIP
+    number: '17'
+    value: '38556'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2010
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090409'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '1000.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: ''
+  - name: CATEGORY CODE
+    number: '24'
+    value: '011'
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '25'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '27'
+    value: C00365015
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '28'
+    value: Lincoln Davis For Congress
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '29'
+    value: H4TN06051
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '30'
+    value: Davis
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '31'
+    value: Lincoln
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '33'
+    value: Mr.
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '35'
+    value: H
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '36'
+    value: TN
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '37'
+    value: '00'
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: '
+
+'
+- input: "SB23\x1CC00004473\x1C29734707\x1C\x1C\x1CCCM\x1CKurt Schrader For Congress\x1C\x1C\x1C\x1C\x1C\x1C2236
+    Se 10th Ave\x1CSuite 240\x1CPortland\x1COR\x1C97214\x1CG2010\x1C\x1C20090409\x1C1500.00\x1C\x1C\x1C011\x1C\x1C\x1CC00446906\x1CKurt
+    Schrader For Congress\x1CH8OR05107\x1CSchrader\x1CKurt\x1C\x1CMr.\x1C\x1CH\x1COR\x1C05\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_3.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00004473
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: '29734707'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: CCM
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Kurt Schrader For Congress
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 2236 Se 10th Ave
+  - name: PAYEE STREET 2
+    number: '14'
+    value: Suite 240
+  - name: PAYEE CITY
+    number: '15'
+    value: Portland
+  - name: PAYEE STATE
+    number: '16'
+    value: OR
+  - name: PAYEE ZIP
+    number: '17'
+    value: '97214'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2010
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090409'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '1500.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: ''
+  - name: CATEGORY CODE
+    number: '24'
+    value: '011'
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '25'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '27'
+    value: C00446906
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '28'
+    value: Kurt Schrader For Congress
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '29'
+    value: H8OR05107
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '30'
+    value: Schrader
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '31'
+    value: Kurt
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '33'
+    value: Mr.
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '35'
+    value: H
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '36'
+    value: OR
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '37'
+    value: '05'
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: '
+
+'
+- input: "SB23\x1CC00004473\x1C29734708\x1C\x1C\x1CCCM\x1CGillibrand For Senate\x1C\x1C\x1C\x1C\x1C\x1C313
+    C Street Ne\x1C\x1CWashington\x1CDC\x1C20002\x1CG2010\x1C\x1C20090409\x1C1000.00\x1C\x1C\x1C011\x1C\x1C\x1CC00413914\x1CGillibrand
+    For Senate\x1CH6NY20167\x1CGillibrand\x1CKirsten\x1C\x1CRep.\x1C\x1CS\x1CNY\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_3.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00004473
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: '29734708'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: CCM
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Gillibrand For Senate
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 313 C Street Ne
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Washington
+  - name: PAYEE STATE
+    number: '16'
+    value: DC
+  - name: PAYEE ZIP
+    number: '17'
+    value: '20002'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2010
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090409'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '1000.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: ''
+  - name: CATEGORY CODE
+    number: '24'
+    value: '011'
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '25'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '27'
+    value: C00413914
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '28'
+    value: Gillibrand For Senate
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '29'
+    value: H6NY20167
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '30'
+    value: Gillibrand
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '31'
+    value: Kirsten
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '33'
+    value: Rep.
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '35'
+    value: S
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '36'
+    value: NY
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: '
+
+'
+- input: "SB29\x1CC00004473\x1C29841063\x1C\x1C\x1CORG\x1CBank of America\x1C\x1C\x1C\x1C\x1C\x1CP.O.
+    Box 27025\x1C\x1CRichmond\x1CVA\x1C232617025\x1C\x1C\x1C20090415\x1C16.44\x1C\x1C\x1C001\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_3.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB29
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00004473
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: '29841063'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Bank of America
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: P.O. Box 27025
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Richmond
+  - name: PAYEE STATE
+    number: '16'
+    value: VA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '232617025'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090415'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '16.44'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: ''
+  - name: CATEGORY CODE
+    number: '24'
+    value: '001'
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '25'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: '
+
+'
+sourceurl: !!python/unicode 20090504
+type: chunk
