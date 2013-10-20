@@ -1,0 +1,733 @@
+countrows: 11
+filename: 418452.fec
+header: {}
+rows:
+- input: "SD10\x1CC00400937\x1CSD10.4153\x1CORG\x1CCENTURY DATA SYSTEMS\x1C\x1C\x1C\x1C\x1C\x1C1155
+    - 15TH STREET, NW\x1CSUITE 614\x1CWashington\x1CDC\x1C20005\x1CDATA PROCESSING\x1C18463.23\x1C0.00\x1C7332.21\x1C11131.02\n"
+  record: fec.version.v6_4.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00400937
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10.4153
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: CENTURY DATA SYSTEMS
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 1155 - 15TH STREET, NW
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: SUITE 614
+  - name: CREDITOR CITY
+    number: '13'
+    value: Washington
+  - name: CREDITOR STATE
+    number: '14'
+    value: DC
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '20005'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: DATA PROCESSING
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '18463.23'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '7332.21'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '11131.02
+
+'
+- input: "SD10\x1CC00400937\x1CSD10.4168\x1CORG\x1CCOLORTREE\x1C\x1C\x1C\x1C\x1C\x1CPO
+    BOX 18160\x1C\x1CMERRIFIELD\x1CVA\x1C22118\x1CDIRECT MAIL FUNDRAISING FOR VVP\x1C3575.00\x1C9857.10\x1C3747.10\x1C9685.00\n"
+  record: fec.version.v6_4.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00400937
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10.4168
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: COLORTREE
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO BOX 18160
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: MERRIFIELD
+  - name: CREDITOR STATE
+    number: '14'
+    value: VA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '22118'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: DIRECT MAIL FUNDRAISING FOR VVP
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '3575.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '9857.10'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '3747.10'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '9685.00
+
+'
+- input: "SD10\x1CC00400937\x1CSD10.4154\x1CORG\x1CCONSOLIDATED MAILING SERVICES\x1C\x1C\x1C\x1C\x1C\x1C504
+    SHAW ROAD\x1C\x1CSTERLING\x1CVA\x1C20166\x1CDIRECT MAIL FUNDRAISING FOR VVP\x1C21512.04\x1C14615.43\x1C18373.19\x1C17754.28\n"
+  record: fec.version.v6_4.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00400937
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10.4154
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: CONSOLIDATED MAILING SERVICES
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 504 SHAW ROAD
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: STERLING
+  - name: CREDITOR STATE
+    number: '14'
+    value: VA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '20166'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: DIRECT MAIL FUNDRAISING FOR VVP
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '21512.04'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '14615.43'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '18373.19'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '17754.28
+
+'
+- input: "SD10\x1CC00400937\x1CSD10.61309\x1CORG\x1CELECTRONIC REPORTING SYSTEMS,
+    INC\x1C\x1C\x1C\x1C\x1C\x1C1155 - 15TH STREET, NW\x1C\x1CWASHINGTON\x1CDC\x1C20005\x1CELECTRONIC
+    DISCLOSURE REPORTING\x1C5985.00\x1C0.00\x1C1995.00\x1C3990.00\n"
+  record: fec.version.v6_4.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00400937
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10.61309
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: ELECTRONIC REPORTING SYSTEMS, INC
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 1155 - 15TH STREET, NW
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: WASHINGTON
+  - name: CREDITOR STATE
+    number: '14'
+    value: DC
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '20005'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: ELECTRONIC DISCLOSURE REPORTING
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '5985.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '1995.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '3990.00
+
+'
+- input: "SD10\x1CC00400937\x1CSD10.72046\x1CORG\x1CINTEGRAM\x1C\x1C\x1C\x1C\x1C\x1C8421
+    HILLTOP ROAD\x1C\x1CFAIRFAX\x1CVA\x1C22031\x1CDIRECT MAIL FUNDRAISING\x1C2068.37\x1C4302.06\x1C0.00\x1C6370.43\n"
+  record: fec.version.v6_4.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00400937
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10.72046
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: INTEGRAM
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 8421 HILLTOP ROAD
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: FAIRFAX
+  - name: CREDITOR STATE
+    number: '14'
+    value: VA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '22031'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: DIRECT MAIL FUNDRAISING
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '2068.37'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '4302.06'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '6370.43
+
+'
+- input: "SD10\x1CC00400937\x1CSD10.4152\x1CORG\x1CLEGACY LIST MANAGEMENT INC\x1C\x1C\x1C\x1C\x1C\x1C1155
+    - 15TH STREET, NW\x1CSUITE 614\x1CWASHINGTON\x1CDC\x1C20005\x1CLIST RENTALS\x1C60137.69\x1C12944.73\x1C45505.27\x1C27577.15\n"
+  record: fec.version.v6_4.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00400937
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10.4152
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: LEGACY LIST MANAGEMENT INC
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 1155 - 15TH STREET, NW
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: SUITE 614
+  - name: CREDITOR CITY
+    number: '13'
+    value: WASHINGTON
+  - name: CREDITOR STATE
+    number: '14'
+    value: DC
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '20005'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: LIST RENTALS
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '60137.69'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '12944.73'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '45505.27'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '27577.15
+
+'
+- input: "SD10\x1CC00400937\x1CSD10.72048\x1CORG\x1CMDI IMAGING & MAIL\x1C\x1C\x1C\x1C\x1C\x1C21721-A
+    FILGREE COURT\x1C\x1CASHBURN\x1CVA\x1C20147\x1CDIRECT MAIL FUNDRAISING\x1C14939.10\x1C0.00\x1C0.00\x1C14939.10\n"
+  record: fec.version.v6_4.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00400937
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10.72048
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: MDI IMAGING & MAIL
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 21721-A FILGREE COURT
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: ASHBURN
+  - name: CREDITOR STATE
+    number: '14'
+    value: VA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '20147'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: DIRECT MAIL FUNDRAISING
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '14939.10'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '14939.10
+
+'
+- input: "SD10\x1CC00400937\x1CSD10.72148\x1CORG\x1CPATTON-KIEHL GROUP INC\x1C\x1C\x1C\x1C\x1C\x1CPO
+    BOX 590\x1C\x1CTHORNBURG\x1CVA\x1C22565\x1CDIRECT MAIL FUNDRAISING\x1C0.00\x1C21602.36\x1C6692.91\x1C14909.45\n"
+  record: fec.version.v6_4.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00400937
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10.72148
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: PATTON-KIEHL GROUP INC
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO BOX 590
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: THORNBURG
+  - name: CREDITOR STATE
+    number: '14'
+    value: VA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '22565'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: DIRECT MAIL FUNDRAISING
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '0.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '21602.36'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '6692.91'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '14909.45
+
+'
+- input: "SD10\x1CC00400937\x1CSD10.72152\x1CORG\x1CRST MARKET ASSOCIATES\x1C\x1C\x1C\x1C\x1C\x1C1272
+    CORPORATE PARK RD\x1C\x1CFOREST\x1CVA\x1C24551\x1CDIRECT MAIL FUNDRAISING\x1C0.00\x1C11297.01\x1C5756.59\x1C5540.42\n"
+  record: fec.version.v6_4.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00400937
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10.72152
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: RST MARKET ASSOCIATES
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 1272 CORPORATE PARK RD
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: FOREST
+  - name: CREDITOR STATE
+    number: '14'
+    value: VA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '24551'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: DIRECT MAIL FUNDRAISING
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '0.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '11297.01'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '5756.59'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '5540.42
+
+'
+- input: "SD10\x1CC00400937\x1CSD10.4157\x1CORG\x1CWASHINGTON INTELLIGENCE BUREAU\x1C\x1C\x1C\x1C\x1C\x1C4128
+    PEPSI PL\x1C\x1CCHANTILLY\x1CVA\x1C20151\x1CMONEY PROCESSING & ESCROW\x1C3707.58\x1C11535.31\x1C8671.10\x1C6571.79\n"
+  record: fec.version.v6_4.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00400937
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10.4157
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: WASHINGTON INTELLIGENCE BUREAU
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 4128 PEPSI PL
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: CHANTILLY
+  - name: CREDITOR STATE
+    number: '14'
+    value: VA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '20151'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: MONEY PROCESSING & ESCROW
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '3707.58'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '11535.31'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '8671.10'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '6571.79
+
+'
+- input: "SD10\x1CC00400937\x1CSD10.72188\x1CORG\x1CWEST END PRINTING\x1C\x1C\x1C\x1C\x1C\x1C1609
+    SHERWOOD AVE\x1C\x1CRICHMOND\x1CVA\x1C23220\x1CDIRECT MAIL FUNDRAISING\x1C0.00\x1C10525.20\x1C0.00\x1C10525.20\n"
+  record: fec.version.v6_4.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00400937
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10.72188
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: WEST END PRINTING
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 1609 SHERWOOD AVE
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: RICHMOND
+  - name: CREDITOR STATE
+    number: '14'
+    value: VA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '23220'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: DIRECT MAIL FUNDRAISING
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '0.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '10525.20'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '10525.20
+
+'
+sourceurl: !!python/unicode 20090524
+type: chunk
