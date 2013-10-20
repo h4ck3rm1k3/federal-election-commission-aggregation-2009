@@ -1,0 +1,285 @@
+countrows: 5
+filename: 438586.fec
+header: {}
+rows:
+- 2
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F6
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00464826
+  - name: COMMITTEE NAME
+    number: '3'
+    value: DOUG HOFFMAN FOR CONGRESS
+  - name: STREET 1
+    number: '4'
+    value: 111 RIVER STREET
+  - name: STREET 2
+    number: '5'
+    value: ''
+  - name: CITY
+    number: '6'
+    value: SARANAC LAKE
+  - name: STATE
+    number: '7'
+    value: NY
+  - name: ZIP
+    number: '8'
+    value: '12983'
+  - name: CANDIDATE ID NUMBER
+    number: '9'
+    value: H0NY23107
+  - name: CANDIDATE LAST NAME
+    number: '10'
+    value: HOFFMAN
+  - name: CANDIDATE FIRST NAME
+    number: '11'
+    value: DOUGLAS
+  - name: CANDIDATE MIDDLE NAME
+    number: '12'
+    value: L.
+  - name: CANDIDATE PREFIX
+    number: '13'
+    value: Mr.
+  - name: CANDIDATE SUFFIX
+    number: '14'
+    value: ''
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: NY
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '23'
+  - name: SIGNER LAST NAME
+    number: '18'
+    value: Parker
+  - name: SIGNER FIRST NAME
+    number: '19'
+    value: Webster
+  - name: SIGNER MIDDLE NAME
+    number: '20'
+    value: W
+  - name: SIGNER PREFIX
+    number: '21'
+    value: Mr.
+  - name: SIGNER SUFFIX
+    number: '22'
+    value: ''
+  - name: DATE SIGNED
+    number: '23'
+    value: '20091102'
+  - value: '
+
+'
+  expected_count: 23
+  input: "F6\x1CC00464826\x1CDOUG HOFFMAN FOR CONGRESS\x1C111 RIVER STREET\x1C\x1CSARANAC
+    LAKE\x1CNY\x1C12983\x1CH0NY23107\x1CHOFFMAN\x1CDOUGLAS\x1CL.\x1CMr.\x1C\x1CH\x1CNY\x1C23\x1CParker\x1CWebster\x1CW\x1CMr.\x1C\x1C20091102\x1C\n"
+  input_count: 24
+  record: fec.version.v6_4.F6
+  result: []
+- input: "F65\x1CC00464826\x1CF6.6372\x1CIND\x1C\x1CCOLUMBUS\x1CPAUL\x1C\x1C\x1C\x1C440
+    AUGUSTA WAY\x1C\x1CSUNSET\x1CSC\x1C29685\x1C\x1C20091031\x1C1000.00\x1CSELF\x1CDEVELOPER\n"
+  record: fec.version.v6_4.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00464826
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F6.6372
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: COLUMBUS
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: PAUL
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 440 AUGUSTA WAY
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: SUNSET
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: SC
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '29685'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20091031'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '1000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: SELF
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'DEVELOPER
+
+'
+- input: "F65\x1CC00464826\x1CF6.6378\x1CIND\x1C\x1CMACLEOD\x1CJOHN\x1C\x1C\x1C\x1CPO
+    BOX 8055\x1C\x1CPORTSMOUTH\x1CNH\x1C03802\x1C\x1C20091031\x1C1000.00\x1CGRANITE
+    STATE OPERA\x1CEXEC DIRECTOR\n"
+  record: fec.version.v6_4.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00464826
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F6.6378
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: MACLEOD
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: JOHN
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: PO BOX 8055
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: PORTSMOUTH
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: NH
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: 03802
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20091031'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '1000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: GRANITE STATE OPERA
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'EXEC DIRECTOR
+
+'
+- input: "F65\x1CC00464826\x1CF6.6375\x1CCCM\x1CNEUGEBAUER CONGRESSIONAL COMMITTEE\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 54175\x1C\x1CLubbock\x1CTX\x1C79453\x1CC00384016\x1C20091031\x1C1000.00\x1C\x1C\n"
+  record: fec.version.v6_4.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00464826
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F6.6375
+  - name: ENTITY TYPE
+    number: '4'
+    value: CCM
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: NEUGEBAUER CONGRESSIONAL COMMITTEE
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: PO Box 54175
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Lubbock
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: TX
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '79453'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: C00384016
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20091031'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '1000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: ''
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: '
+
+'
+sourceurl: !!python/unicode 20091102
+type: chunk

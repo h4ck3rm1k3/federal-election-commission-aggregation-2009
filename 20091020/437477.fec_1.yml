@@ -1,0 +1,485 @@
+countrows: 8
+filename: 437477.fec
+header: {}
+rows:
+- 2
+- input: "F6\x1CC00462697\x1CGaramendi for Congress\x1C3605 Long Beach Blvd., Ste.
+    426\x1C\x1CLong Beach\x1CCA\x1C90807\x1CH0CA10149\x1CGaramendi\x1CJohn\x1C\x1C\x1C\x1CH\x1CCA\x1C10\x1CDowning\x1CBetty
+    Ann\x1C\x1C\x1C\x1C20091020\n"
+  record: fec.version.v6_4.F6
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F6
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00462697
+  - name: COMMITTEE NAME
+    number: '3'
+    value: Garamendi for Congress
+  - name: STREET 1
+    number: '4'
+    value: 3605 Long Beach Blvd., Ste. 426
+  - name: STREET 2
+    number: '5'
+    value: ''
+  - name: CITY
+    number: '6'
+    value: Long Beach
+  - name: STATE
+    number: '7'
+    value: CA
+  - name: ZIP
+    number: '8'
+    value: '90807'
+  - name: CANDIDATE ID NUMBER
+    number: '9'
+    value: H0CA10149
+  - name: CANDIDATE LAST NAME
+    number: '10'
+    value: Garamendi
+  - name: CANDIDATE FIRST NAME
+    number: '11'
+    value: John
+  - name: CANDIDATE MIDDLE NAME
+    number: '12'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '13'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '14'
+    value: ''
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: CA
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '10'
+  - name: SIGNER LAST NAME
+    number: '18'
+    value: Downing
+  - name: SIGNER FIRST NAME
+    number: '19'
+    value: Betty Ann
+  - name: SIGNER MIDDLE NAME
+    number: '20'
+    value: ''
+  - name: SIGNER PREFIX
+    number: '21'
+    value: ''
+  - name: SIGNER SUFFIX
+    number: '22'
+    value: ''
+  - name: DATE SIGNED
+    number: '23'
+    value: '20091020
+
+'
+- input: "F65\x1CC00462697\x1CC4619757\x1CIND\x1C\x1CBhaika\x1CHarpal\x1CS.\x1C\x1C\x1C10801
+    Ramsgate Way\x1C\x1CBakersfield\x1CCA\x1C93311\x1C\x1C20091018\x1C1000.00\x1CKern
+    Gastroentorology Medical\x1CGastroentorologist\n"
+  record: fec.version.v6_4.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00462697
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: C4619757
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Bhaika
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Harpal
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: S.
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 10801 Ramsgate Way
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Bakersfield
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: CA
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '93311'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20091018'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '1000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: Kern Gastroentorology Medical
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'Gastroentorologist
+
+'
+- input: "F65\x1CC00462697\x1CC4619666\x1CIND\x1C\x1CBidart\x1CJohn\x1C\x1C\x1C\x1C8805
+    Limoges Way\x1C\x1CBakersfield\x1CCA\x1C933112143\x1C\x1C20091018\x1C1000.00\x1CBidart
+    Dairy\x1CDairyman/Owner\n"
+  record: fec.version.v6_4.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00462697
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: C4619666
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Bidart
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: John
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 8805 Limoges Way
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Bakersfield
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: CA
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '933112143'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20091018'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '1000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: Bidart Dairy
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'Dairyman/Owner
+
+'
+- input: "F65\x1CC00462697\x1CC4619667\x1CIND\x1C\x1CBidart\x1CJohn\x1C\x1C\x1C\x1C8805
+    Limoges Way\x1C\x1CBakersfield\x1CCA\x1C933112143\x1C\x1C20091018\x1C1000.00\x1CBidart
+    Dairy\x1CDairyman/Owner\n"
+  record: fec.version.v6_4.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00462697
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: C4619667
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Bidart
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: John
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 8805 Limoges Way
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Bakersfield
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: CA
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '933112143'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20091018'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '1000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: Bidart Dairy
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'Dairyman/Owner
+
+'
+- input: "F65\x1CC00462697\x1CC4619740\x1CIND\x1C\x1CDillon\x1CJagdish\x1C\x1C\x1C\x1C5812
+    Panorama Dr.\x1C\x1CBakersfield\x1CCA\x1C93306\x1C\x1C20091018\x1C1000.00\x1CJohnny
+    Quick Food Store\x1COwner\n"
+  record: fec.version.v6_4.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00462697
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: C4619740
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Dillon
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Jagdish
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 5812 Panorama Dr.
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Bakersfield
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: CA
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '93306'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20091018'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '1000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: Johnny Quick Food Store
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'Owner
+
+'
+- input: "F65\x1CC00462697\x1CC4619763\x1CIND\x1C\x1CDosanjh\x1CParamjit\x1CS.\x1CMr.\x1C\x1C9158
+    S. Fairfax Rd.\x1C\x1CBakersfield\x1CCA\x1C933079787\x1C\x1C20091018\x1C1000.00\x1CPSD
+    Ag. Associates\x1CFarming\n"
+  record: fec.version.v6_4.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00462697
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: C4619763
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Dosanjh
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Paramjit
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: S.
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: Mr.
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 9158 S. Fairfax Rd.
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Bakersfield
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: CA
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '933079787'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20091018'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '1000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: PSD Ag. Associates
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'Farming
+
+'
+- input: "F65\x1CC00462697\x1CC4619729\x1CIND\x1C\x1CSanghera\x1CRanjit\x1C\x1C\x1C\x1C10409
+    Heather Valley Dr.\x1C\x1CBakersfield\x1CCA\x1C933122958\x1C\x1C20091018\x1C1000.00\x1CStar
+    Real Estate and Development\x1CAgent\n"
+  record: fec.version.v6_4.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00462697
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: C4619729
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Sanghera
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Ranjit
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 10409 Heather Valley Dr.
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Bakersfield
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: CA
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '933122958'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20091018'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '1000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: Star Real Estate and Development
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'Agent
+
+'
+sourceurl: !!python/unicode 20091020
+type: chunk

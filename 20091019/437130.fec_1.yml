@@ -1,0 +1,129 @@
+countrows: 2
+filename: 437130.fec
+header: {}
+rows:
+- 2
+- input: "F2N\x1CH8TX22107\x1COlson\x1CPeter\x1CG\x1C\x1C\x1C\x1CPO Box 16381\x1C\x1CSugar
+    Land\x1CTX\x1C77496   \x1CREP\x1CH\x1CTX\x1C22\x1C2010\x1CC00437913\x1COlson for
+    Congress Committee\x1CPO Box 16381\x1C\x1CSugar Land\x1CTX\x1C77496   \x1CC00045856\x1CHouse
+    Republican Freshmen 2009\x1CPO Box 2719\x1C\x1CWashington\x1CDC\x1C20013   \x1COlson\x1CPeter\x1CG\x1C\x1C\x1C20091019\n"
+  record: fec.version.v6_4.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2N
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H8TX22107
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Olson
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: Peter
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: G
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: PO Box 16381
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Sugar Land
+  - name: CANDIDATE STATE
+    number: '12'
+    value: TX
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '77496   '
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: REP
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: TX
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '22'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2010'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00437913
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: Olson for Congress Committee
+  - name: PCC STREET 1
+    number: '21'
+    value: PO Box 16381
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: Sugar Land
+  - name: PCC STATE
+    number: '24'
+    value: TX
+  - name: PCC ZIP
+    number: '25'
+    value: '77496   '
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: C00045856
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: House Republican Freshmen 2009
+  - name: AUTH STREET 1
+    number: '28'
+    value: PO Box 2719
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: Washington
+  - name: AUTH STATE
+    number: '31'
+    value: DC
+  - name: AUTH ZIP
+    number: '32'
+    value: '20013   '
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: Olson
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: Peter
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: G
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20091019
+
+'
+sourceurl: !!python/unicode 20091019
+type: chunk
