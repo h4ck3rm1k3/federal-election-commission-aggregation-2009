@@ -1,0 +1,5567 @@
+countrows: 119
+filename: 425548.fec
+header: {}
+rows:
+- input: "H4\x1CC00161786\x1C21a-22-01364-03051\x1C21a-22-01364-0007\x1CH4\x1CORG\x1CStaples,
+    Inc.\x1C\x1C\x1C\x1C\x1C\x1C500 Staples Drive\x1C\x1CFramingham\x1CMA\x1C01702\x1CAdministrative
+    2007/2008\x1C20080930\x1C115.00\x1C41.40\x1C73.60\x1C0.00\x1C\x1COffice Supplies\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1CX\x1C\n"
+  record: fec.version.v6_4.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 21a-22-01364-03051
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 21a-22-01364-0007
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: H4
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Staples, Inc.
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 500 Staples Drive
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Framingham
+  - name: PAYEE STATE
+    number: '16'
+    value: MA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '01702'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative 2007/2008
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20080930'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '115.00'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '41.40'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '73.60'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '0.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '24'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '25'
+    value: Office Supplies
+  - name: CATEGORY CODE
+    number: '26'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 27-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 28-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 29-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 30-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 31-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 32-
+    value: ''
+  - name: MEMO CODE
+    number: '33'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '34'
+    value: '
+
+'
+- input: "H4\x1CC00161786\x1C21a-22-01365-0007\x1C\x1C\x1CIND\x1C\x1CThieman\x1CKarla\x1C\x1C\x1C\x1C23905
+    S Outer Rd.\x1C\x1CConcordia\x1CMO\x1C64020\x1CAdministrative 2007/2008\x1C20080930\x1C735.21\x1C264.68\x1C470.53\x1C829986.41\x1C\x1CReimbursed
+    Expenses - See Memo's.\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 21a-22-01365-0007
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Thieman
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Karla
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 23905 S Outer Rd.
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Concordia
+  - name: PAYEE STATE
+    number: '16'
+    value: MO
+  - name: PAYEE ZIP
+    number: '17'
+    value: '64020'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative 2007/2008
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20080930'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '735.21'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '264.68'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '470.53'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '829986.41'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '24'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '25'
+    value: Reimbursed Expenses - See Memo's.
+  - name: CATEGORY CODE
+    number: '26'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 27-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 28-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 29-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 30-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 31-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 32-
+    value: ''
+  - name: MEMO CODE
+    number: '33'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '34'
+    value: '
+
+'
+- input: "H4\x1CC00161786\x1C21a-22-01365-03052\x1C21a-22-01365-0007\x1CH4\x1CIND\x1C\x1CThieman\x1CKarla\x1C\x1C\x1C\x1C23905
+    S Outer Rd.\x1C\x1CConcordia\x1CMO\x1C64020\x1CAdministrative 2007/2008\x1C20080930\x1C453.20\x1C163.15\x1C290.05\x1C0.00\x1C\x1CMileage\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1CX\x1C\n"
+  record: fec.version.v6_4.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 21a-22-01365-03052
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 21a-22-01365-0007
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: H4
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Thieman
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Karla
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 23905 S Outer Rd.
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Concordia
+  - name: PAYEE STATE
+    number: '16'
+    value: MO
+  - name: PAYEE ZIP
+    number: '17'
+    value: '64020'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative 2007/2008
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20080930'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '453.20'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '163.15'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '290.05'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '0.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '24'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '25'
+    value: Mileage
+  - name: CATEGORY CODE
+    number: '26'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 27-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 28-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 29-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 30-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 31-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 32-
+    value: ''
+  - name: MEMO CODE
+    number: '33'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '34'
+    value: '
+
+'
+- input: "H4\x1CC00161786\x1C21a-22-01365-03053\x1C21a-22-01365-0007\x1CH4\x1CORG\x1CEnterprise\x1C\x1C\x1C\x1C\x1C\x1C351
+    Broadway\x1C\x1CDenver\x1CCO\x1C80203\x1CAdministrative 2007/2008\x1C20080930\x1C262.70\x1C94.57\x1C168.13\x1C0.00\x1C\x1CRental
+    Car\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1CX\x1C\n"
+  record: fec.version.v6_4.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 21a-22-01365-03053
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 21a-22-01365-0007
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: H4
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Enterprise
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 351 Broadway
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Denver
+  - name: PAYEE STATE
+    number: '16'
+    value: CO
+  - name: PAYEE ZIP
+    number: '17'
+    value: '80203'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative 2007/2008
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20080930'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '262.70'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '94.57'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '168.13'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '0.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '24'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '25'
+    value: Rental Car
+  - name: CATEGORY CODE
+    number: '26'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 27-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 28-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 29-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 30-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 31-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 32-
+    value: ''
+  - name: MEMO CODE
+    number: '33'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '34'
+    value: '
+
+'
+- input: "H4\x1CC00161786\x1C21a-22-01365-03054\x1C21a-22-01365-0007\x1CH4\x1CORG\x1CKing
+    Soopers, Inc\x1C\x1C\x1C\x1C\x1C\x1C65 Tejon St\x1CBox 5667\x1CDenver\x1CCO\x1C80217\x1CAdministrative
+    2007/2008\x1C20080930\x1C19.31\x1C6.95\x1C12.36\x1C0.00\x1C\x1CVolunteer Refreshments\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1CX\x1C\n"
+  record: fec.version.v6_4.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 21a-22-01365-03054
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 21a-22-01365-0007
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: H4
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: King Soopers, Inc
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 65 Tejon St
+  - name: PAYEE STREET 2
+    number: '14'
+    value: Box 5667
+  - name: PAYEE CITY
+    number: '15'
+    value: Denver
+  - name: PAYEE STATE
+    number: '16'
+    value: CO
+  - name: PAYEE ZIP
+    number: '17'
+    value: '80217'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative 2007/2008
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20080930'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '19.31'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '6.95'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '12.36'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '0.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '24'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '25'
+    value: Volunteer Refreshments
+  - name: CATEGORY CODE
+    number: '26'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 27-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 28-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 29-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 30-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 31-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 32-
+    value: ''
+  - name: MEMO CODE
+    number: '33'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '34'
+    value: '
+
+'
+- input: "H4\x1CC00161786\x1C21a-22-01366-0007\x1C\x1C\x1CIND\x1C\x1CThomas\x1CAjashu\x1C\x1C\x1C\x1C404
+    Hunters Crossing Drive\x1C\x1CHopkins\x1CSC\x1C29061\x1CAdministrative 2007/2008\x1C20080930\x1C718.57\x1C258.69\x1C459.88\x1C830704.98\x1C\x1CReimbursed
+    Expenses - See Memo's.\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 21a-22-01366-0007
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Thomas
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Ajashu
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 404 Hunters Crossing Drive
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Hopkins
+  - name: PAYEE STATE
+    number: '16'
+    value: SC
+  - name: PAYEE ZIP
+    number: '17'
+    value: '29061'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative 2007/2008
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20080930'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '718.57'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '258.69'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '459.88'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '830704.98'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '24'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '25'
+    value: Reimbursed Expenses - See Memo's.
+  - name: CATEGORY CODE
+    number: '26'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 27-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 28-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 29-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 30-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 31-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 32-
+    value: ''
+  - name: MEMO CODE
+    number: '33'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '34'
+    value: '
+
+'
+- input: "H4\x1CC00161786\x1C21a-22-01366-03055\x1C21a-22-01366-0007\x1CH4\x1CIND\x1C\x1CThomas\x1CAjashu\x1C\x1C\x1C\x1C404
+    Hunters Crossing Drive\x1C\x1CHopkins\x1CSC\x1C29061\x1CAdministrative 2007/2008\x1C20080930\x1C666.51\x1C239.94\x1C426.57\x1C0.00\x1C\x1CMileage\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1CX\x1C\n"
+  record: fec.version.v6_4.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 21a-22-01366-03055
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 21a-22-01366-0007
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: H4
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Thomas
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Ajashu
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 404 Hunters Crossing Drive
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Hopkins
+  - name: PAYEE STATE
+    number: '16'
+    value: SC
+  - name: PAYEE ZIP
+    number: '17'
+    value: '29061'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative 2007/2008
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20080930'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '666.51'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '239.94'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '426.57'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '0.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '24'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '25'
+    value: Mileage
+  - name: CATEGORY CODE
+    number: '26'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 27-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 28-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 29-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 30-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 31-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 32-
+    value: ''
+  - name: MEMO CODE
+    number: '33'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '34'
+    value: '
+
+'
+- input: "H4\x1CC00161786\x1C21a-22-01366-03056\x1C21a-22-01366-0007\x1CH4\x1CORG\x1CCopy
+    Plus\x1C\x1C\x1C\x1C\x1C\x1C960 Chambers Suite 102A\x1C\x1CEagle\x1CCO\x1C81631\x1CAdministrative
+    2007/2008\x1C20080930\x1C19.91\x1C7.17\x1C12.74\x1C0.00\x1C\x1COffice Supplies\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1CX\x1C\n"
+  record: fec.version.v6_4.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 21a-22-01366-03056
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 21a-22-01366-0007
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: H4
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Copy Plus
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 960 Chambers Suite 102A
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Eagle
+  - name: PAYEE STATE
+    number: '16'
+    value: CO
+  - name: PAYEE ZIP
+    number: '17'
+    value: '81631'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative 2007/2008
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20080930'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '19.91'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '7.17'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '12.74'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '0.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '24'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '25'
+    value: Office Supplies
+  - name: CATEGORY CODE
+    number: '26'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 27-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 28-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 29-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 30-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 31-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 32-
+    value: ''
+  - name: MEMO CODE
+    number: '33'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '34'
+    value: '
+
+'
+- input: "H4\x1CC00161786\x1C21a-22-01366-03057\x1C21a-22-01366-0007\x1CH4\x1CORG\x1CCopy
+    Copy - Avon\x1C\x1C\x1C\x1C\x1C\x1C142 Beaver Creek Place\x1C\x1CAvon\x1CCO\x1C81620\x1CAdministrative
+    2007/2008\x1C20080930\x1C8.94\x1C3.22\x1C5.72\x1C0.00\x1C\x1COffice Printing\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1CX\x1C\n"
+  record: fec.version.v6_4.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 21a-22-01366-03057
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 21a-22-01366-0007
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: H4
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Copy Copy - Avon
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 142 Beaver Creek Place
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Avon
+  - name: PAYEE STATE
+    number: '16'
+    value: CO
+  - name: PAYEE ZIP
+    number: '17'
+    value: '81620'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative 2007/2008
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20080930'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '8.94'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '3.22'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '5.72'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '0.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '24'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '25'
+    value: Office Printing
+  - name: CATEGORY CODE
+    number: '26'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 27-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 28-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 29-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 30-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 31-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 32-
+    value: ''
+  - name: MEMO CODE
+    number: '33'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '34'
+    value: '
+
+'
+- input: "H4\x1CC00161786\x1C21a-22-01366-03058\x1C21a-22-01366-0007\x1CH4\x1CORG\x1CCopy
+    Copy - Avon\x1C\x1C\x1C\x1C\x1C\x1C142 Beaver Creek Place\x1C\x1CAvon\x1CCO\x1C81620\x1CAdministrative
+    2007/2008\x1C20080930\x1C11.21\x1C4.04\x1C7.17\x1C0.00\x1C\x1COffice Printing\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1CX\x1C\n"
+  record: fec.version.v6_4.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 21a-22-01366-03058
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 21a-22-01366-0007
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: H4
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Copy Copy - Avon
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 142 Beaver Creek Place
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Avon
+  - name: PAYEE STATE
+    number: '16'
+    value: CO
+  - name: PAYEE ZIP
+    number: '17'
+    value: '81620'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative 2007/2008
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20080930'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '11.21'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '4.04'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '7.17'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '0.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '24'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '25'
+    value: Office Printing
+  - name: CATEGORY CODE
+    number: '26'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 27-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 28-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 29-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 30-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 31-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 32-
+    value: ''
+  - name: MEMO CODE
+    number: '33'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '34'
+    value: '
+
+'
+- input: "H4\x1CC00161786\x1C21a-22-01366-03059\x1C21a-22-01366-0007\x1CH4\x1CORG\x1CCopy
+    Copy - Avon\x1C\x1C\x1C\x1C\x1C\x1C142 Beaver Creek Place\x1C\x1CAvon\x1CCO\x1C81620\x1CAdministrative
+    2007/2008\x1C20080930\x1C6.83\x1C2.46\x1C4.37\x1C0.00\x1C\x1COffice Printing\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1CX\x1C\n"
+  record: fec.version.v6_4.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 21a-22-01366-03059
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 21a-22-01366-0007
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: H4
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Copy Copy - Avon
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 142 Beaver Creek Place
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Avon
+  - name: PAYEE STATE
+    number: '16'
+    value: CO
+  - name: PAYEE ZIP
+    number: '17'
+    value: '81620'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative 2007/2008
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20080930'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '6.83'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '2.46'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '4.37'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '0.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '24'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '25'
+    value: Office Printing
+  - name: CATEGORY CODE
+    number: '26'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 27-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 28-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 29-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 30-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 31-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 32-
+    value: ''
+  - name: MEMO CODE
+    number: '33'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '34'
+    value: '
+
+'
+- input: "H4\x1CC00161786\x1C21a-22-01366-03060\x1C21a-22-01366-0007\x1CH4\x1CORG\x1COffice
+    Max, Inc. (Corporate HQ)\x1C\x1C\x1C\x1C\x1C\x1C263 Shuman Blvd.\x1C6492 South
+    Parker Road\x1CNaperville\x1CIL\x1C60563\x1CAdministrative 2007/2008\x1C20080930\x1C5.17\x1C1.86\x1C3.31\x1C0.00\x1C\x1COffice
+    Supplies\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1CX\x1C\n"
+  record: fec.version.v6_4.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 21a-22-01366-03060
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 21a-22-01366-0007
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: H4
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Office Max, Inc. (Corporate HQ)
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 263 Shuman Blvd.
+  - name: PAYEE STREET 2
+    number: '14'
+    value: 6492 South Parker Road
+  - name: PAYEE CITY
+    number: '15'
+    value: Naperville
+  - name: PAYEE STATE
+    number: '16'
+    value: IL
+  - name: PAYEE ZIP
+    number: '17'
+    value: '60563'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative 2007/2008
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20080930'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '5.17'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '1.86'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '3.31'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '0.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '24'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '25'
+    value: Office Supplies
+  - name: CATEGORY CODE
+    number: '26'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 27-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 28-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 29-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 30-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 31-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 32-
+    value: ''
+  - name: MEMO CODE
+    number: '33'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '34'
+    value: '
+
+'
+- input: "H4\x1CC00161786\x1C21a-22-01367-03061\x1C\x1C\x1CIND\x1C\x1CTurley\x1CDavid\x1C\x1C\x1C\x1C95
+    Horatio, 222\x1C\x1CNew York\x1CNY\x1C10014\x1CAdministrative 2007/2008\x1C20080930\x1C137.72\x1C49.58\x1C88.14\x1C830842.70\x1C\x1CMileage\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 21a-22-01367-03061
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Turley
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: David
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 95 Horatio, 222
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: New York
+  - name: PAYEE STATE
+    number: '16'
+    value: NY
+  - name: PAYEE ZIP
+    number: '17'
+    value: '10014'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative 2007/2008
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20080930'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '137.72'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '49.58'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '88.14'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '830842.70'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '24'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '25'
+    value: Mileage
+  - name: CATEGORY CODE
+    number: '26'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 27-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 28-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 29-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 30-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 31-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 32-
+    value: ''
+  - name: MEMO CODE
+    number: '33'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '34'
+    value: '
+
+'
+- input: "H4\x1CC00161786\x1C21a-22-01368-03062\x1C\x1C\x1CIND\x1C\x1CTyson\x1CBenjamin\x1C\x1C\x1C\x1C803
+    Ithaca Drive\x1C\x1CBoulder\x1CCO\x1C80305\x1CAdministrative 2007/2008\x1C20080930\x1C76.74\x1C27.63\x1C49.11\x1C830919.44\x1C\x1CMileage\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 21a-22-01368-03062
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Tyson
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Benjamin
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 803 Ithaca Drive
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Boulder
+  - name: PAYEE STATE
+    number: '16'
+    value: CO
+  - name: PAYEE ZIP
+    number: '17'
+    value: '80305'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative 2007/2008
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20080930'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '76.74'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '27.63'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '49.11'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '830919.44'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '24'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '25'
+    value: Mileage
+  - name: CATEGORY CODE
+    number: '26'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 27-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 28-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 29-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 30-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 31-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 32-
+    value: ''
+  - name: MEMO CODE
+    number: '33'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '34'
+    value: '
+
+'
+- input: "H4\x1CC00161786\x1C21a-22-01369-03063\x1C\x1C\x1CORG\x1CUPS\x1C\x1C\x1C\x1C\x1C\x1CLockbox
+    577\x1C\x1CCarol Stream\x1CIL\x1C60132\x1CAdministrative 2007/2008\x1C20080930\x1C62.13\x1C22.37\x1C39.76\x1C830981.57\x1C\x1COvernight
+    Shipping\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 21a-22-01369-03063
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: UPS
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: Lockbox 577
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Carol Stream
+  - name: PAYEE STATE
+    number: '16'
+    value: IL
+  - name: PAYEE ZIP
+    number: '17'
+    value: '60132'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative 2007/2008
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20080930'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '62.13'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '22.37'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '39.76'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '830981.57'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '24'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '25'
+    value: Overnight Shipping
+  - name: CATEGORY CODE
+    number: '26'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 27-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 28-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 29-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 30-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 31-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 32-
+    value: ''
+  - name: MEMO CODE
+    number: '33'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '34'
+    value: '
+
+'
+- input: "H4\x1CC00161786\x1C21a-22-01370-03064\x1C\x1C\x1CORG\x1CVerizon Wireless\x1C\x1C\x1C\x1C\x1C\x1CP.O.
+    Box 9622\x1C\x1CMission Hills\x1CCA\x1C913469622\x1CAdministrative 2007/2008\x1C20080930\x1C171.63\x1C61.79\x1C109.84\x1C831153.20\x1C\x1CTelephone\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 21a-22-01370-03064
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Verizon Wireless
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: P.O. Box 9622
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Mission Hills
+  - name: PAYEE STATE
+    number: '16'
+    value: CA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '913469622'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative 2007/2008
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20080930'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '171.63'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '61.79'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '109.84'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '831153.20'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '24'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '25'
+    value: Telephone
+  - name: CATEGORY CODE
+    number: '26'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 27-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 28-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 29-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 30-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 31-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 32-
+    value: ''
+  - name: MEMO CODE
+    number: '33'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '34'
+    value: '
+
+'
+- input: "H4\x1CC00161786\x1C21a-22-01371-03065\x1C\x1C\x1CIND\x1C\x1CWaldrep\x1CMary-Elizabeth\x1C\x1C\x1C\x1C4301
+    Utica Street\x1C\x1CDenver\x1CCO\x1C80212\x1CAdministrative 2007/2008\x1C20080930\x1C51.66\x1C18.60\x1C33.06\x1C831204.86\x1C\x1CMileage\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 21a-22-01371-03065
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Waldrep
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Mary-Elizabeth
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 4301 Utica Street
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Denver
+  - name: PAYEE STATE
+    number: '16'
+    value: CO
+  - name: PAYEE ZIP
+    number: '17'
+    value: '80212'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative 2007/2008
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20080930'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '51.66'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '18.60'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '33.06'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '831204.86'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '24'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '25'
+    value: Mileage
+  - name: CATEGORY CODE
+    number: '26'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 27-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 28-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 29-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 30-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 31-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 32-
+    value: ''
+  - name: MEMO CODE
+    number: '33'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '34'
+    value: '
+
+'
+- input: "H4\x1CC00161786\x1C21a-22-01373-03067\x1C\x1C\x1CIND\x1C\x1CGoodbody\x1CCaroline\x1C\x1C\x1C\x1C3414
+    Garfield Street NW\x1C\x1CWashington\x1CDC\x1C20007\x1CAdministrative 2007/2008\x1C20080930\x1C64.77\x1C23.32\x1C41.45\x1C831269.63\x1C\x1CMileage\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 21a-22-01373-03067
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Goodbody
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Caroline
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 3414 Garfield Street NW
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Washington
+  - name: PAYEE STATE
+    number: '16'
+    value: DC
+  - name: PAYEE ZIP
+    number: '17'
+    value: '20007'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative 2007/2008
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20080930'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '64.77'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '23.32'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '41.45'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '831269.63'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '24'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '25'
+    value: Mileage
+  - name: CATEGORY CODE
+    number: '26'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 27-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 28-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 29-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 30-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 31-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 32-
+    value: ''
+  - name: MEMO CODE
+    number: '33'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '34'
+    value: '
+
+'
+- input: "H4\x1CC00161786\x1C21a-22-01375-03069\x1C\x1C\x1CORG\x1CRoyal Performance
+    Group\x1C\x1C\x1C\x1C\x1C\x1C2100 Western Court, Suite 80\x1C\x1CLisle\x1CCO\x1C60532\x1CAdministrative
+    2007/2008\x1C20080930\x1C7517.50\x1C2706.30\x1C4811.20\x1C838787.13\x1C\x1CAuto
+    Fuel\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 21a-22-01375-03069
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Royal Performance Group
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 2100 Western Court, Suite 80
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Lisle
+  - name: PAYEE STATE
+    number: '16'
+    value: CO
+  - name: PAYEE ZIP
+    number: '17'
+    value: '60532'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative 2007/2008
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20080930'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '7517.50'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '2706.30'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '4811.20'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '838787.13'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '24'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '25'
+    value: Auto Fuel
+  - name: CATEGORY CODE
+    number: '26'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 27-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 28-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 29-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 30-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 31-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 32-
+    value: ''
+  - name: MEMO CODE
+    number: '33'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '34'
+    value: '
+
+'
+- input: "H4\x1CC00161786\x1C21a-34-00031-00032\x1C\x1C\x1CORG\x1CFirst Bank\x1C\x1C\x1C\x1C\x1C\x1C1200
+    17th Street, Suite 100\x1C\x1CDenver\x1CCO\x1C80202\x1CAdministrative 2007/2008\x1C20080930\x1C20.00\x1C7.20\x1C12.80\x1C838807.13\x1C\x1CBank
+    Fee\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 21a-34-00031-00032
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: First Bank
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 1200 17th Street, Suite 100
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Denver
+  - name: PAYEE STATE
+    number: '16'
+    value: CO
+  - name: PAYEE ZIP
+    number: '17'
+    value: '80202'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative 2007/2008
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20080930'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '20.00'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '7.20'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '12.80'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '838807.13'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '24'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '25'
+    value: Bank Fee
+  - name: CATEGORY CODE
+    number: '26'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 27-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 28-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 29-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 30-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 31-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 32-
+    value: ''
+  - name: MEMO CODE
+    number: '33'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '34'
+    value: '
+
+'
+- input: "H4\x1CC00161786\x1C21a-39-00017-00090\x1C\x1C\x1CIND\x1C\x1CCraig\x1CTara\x1C\x1C\x1C\x1C19192
+    E Hollow Creek Dr.\x1C\x1CParker\x1CCO\x1C80134\x1CAdministrative 2007/2008\x1C20080930\x1C44.00\x1C15.84\x1C28.16\x1C838851.13\x1C\x1CMileage\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 21a-39-00017-00090
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Craig
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Tara
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 19192 E Hollow Creek Dr.
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Parker
+  - name: PAYEE STATE
+    number: '16'
+    value: CO
+  - name: PAYEE ZIP
+    number: '17'
+    value: '80134'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative 2007/2008
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20080930'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '44.00'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '15.84'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '28.16'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '838851.13'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '24'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '25'
+    value: Mileage
+  - name: CATEGORY CODE
+    number: '26'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 27-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 28-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 29-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 30-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 31-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 32-
+    value: ''
+  - name: MEMO CODE
+    number: '33'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '34'
+    value: '
+
+'
+- input: "H4\x1CC00161786\x1C21a-39-00018-00091\x1C\x1C\x1CIND\x1C\x1CDabbs\x1CKatherine\x1C\x1C\x1C\x1C3330
+    11th Avenue\x1C\x1CGreeley\x1CCO\x1C80620\x1CAdministrative 2007/2008\x1C20080930\x1C14.08\x1C5.07\x1C9.01\x1C838865.21\x1C\x1CMileage\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 21a-39-00018-00091
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Dabbs
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Katherine
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 3330 11th Avenue
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Greeley
+  - name: PAYEE STATE
+    number: '16'
+    value: CO
+  - name: PAYEE ZIP
+    number: '17'
+    value: '80620'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative 2007/2008
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20080930'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '14.08'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '5.07'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '9.01'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '838865.21'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '24'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '25'
+    value: Mileage
+  - name: CATEGORY CODE
+    number: '26'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 27-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 28-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 29-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 30-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 31-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 32-
+    value: ''
+  - name: MEMO CODE
+    number: '33'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '34'
+    value: '
+
+'
+- input: "H4\x1CC00161786\x1C21a-39-00020-00093\x1C\x1C\x1CIND\x1C\x1CGrim\x1CJamie\x1C\x1C\x1C\x1C4305
+    Whippeny Drive\x1C\x1CFort Collins\x1CCO\x1C80526\x1CAdministrative 2007/2008\x1C20080930\x1C73.04\x1C26.29\x1C46.75\x1C838938.25\x1C\x1CMileage\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 21a-39-00020-00093
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Grim
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Jamie
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 4305 Whippeny Drive
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Fort Collins
+  - name: PAYEE STATE
+    number: '16'
+    value: CO
+  - name: PAYEE ZIP
+    number: '17'
+    value: '80526'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative 2007/2008
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20080930'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '73.04'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '26.29'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '46.75'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '838938.25'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '24'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '25'
+    value: Mileage
+  - name: CATEGORY CODE
+    number: '26'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 27-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 28-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 29-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 30-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 31-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 32-
+    value: ''
+  - name: MEMO CODE
+    number: '33'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '34'
+    value: '
+
+'
+- input: "H4\x1CC00161786\x1C21a-39-00020-00094\x1C\x1C\x1CIND\x1C\x1CGrim\x1CJamie\x1C\x1C\x1C\x1C4305
+    Whippeny Drive\x1C\x1CFort Collins\x1CCO\x1C80526\x1CAdministrative 2007/2008\x1C20080930\x1C140.36\x1C50.53\x1C89.83\x1C839078.61\x1C\x1CMileage\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 21a-39-00020-00094
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Grim
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Jamie
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 4305 Whippeny Drive
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Fort Collins
+  - name: PAYEE STATE
+    number: '16'
+    value: CO
+  - name: PAYEE ZIP
+    number: '17'
+    value: '80526'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative 2007/2008
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20080930'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '140.36'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '50.53'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '89.83'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '839078.61'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '24'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '25'
+    value: Mileage
+  - name: CATEGORY CODE
+    number: '26'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 27-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 28-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 29-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 30-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 31-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 32-
+    value: ''
+  - name: MEMO CODE
+    number: '33'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '34'
+    value: '
+
+'
+- input: "H4\x1CC00161786\x1C21a-39-00021-00095\x1C\x1C\x1CIND\x1C\x1CMiller\x1CBenjamin\x1C\x1C\x1C\x1C601
+    Countryside Dr\x1C\x1CFort Collins\x1CCO\x1C80524\x1CAdministrative 2007/2008\x1C20080930\x1C24.20\x1C8.71\x1C15.49\x1C839102.81\x1C\x1CMileage\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 21a-39-00021-00095
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Miller
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Benjamin
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 601 Countryside Dr
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Fort Collins
+  - name: PAYEE STATE
+    number: '16'
+    value: CO
+  - name: PAYEE ZIP
+    number: '17'
+    value: '80524'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative 2007/2008
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20080930'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '24.20'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '8.71'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '15.49'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '839102.81'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '24'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '25'
+    value: Mileage
+  - name: CATEGORY CODE
+    number: '26'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 27-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 28-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 29-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 30-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 31-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 32-
+    value: ''
+  - name: MEMO CODE
+    number: '33'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '34'
+    value: '
+
+'
+- input: "H4\x1CC00161786\x1C21a-39-00022-00096\x1C\x1C\x1CIND\x1C\x1CMontoya\x1CPreslano\x1C\x1C\x1C\x1C1317
+    Cranford Place\x1C\x1CGreeley\x1CCO\x1C80631\x1CAdministrative 2007/2008\x1C20080930\x1C22.00\x1C7.92\x1C14.08\x1C839124.81\x1C\x1CMileage\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 21a-39-00022-00096
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Montoya
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Preslano
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 1317 Cranford Place
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Greeley
+  - name: PAYEE STATE
+    number: '16'
+    value: CO
+  - name: PAYEE ZIP
+    number: '17'
+    value: '80631'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative 2007/2008
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20080930'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '22.00'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '7.92'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '14.08'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '839124.81'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '24'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '25'
+    value: Mileage
+  - name: CATEGORY CODE
+    number: '26'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 27-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 28-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 29-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 30-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 31-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 32-
+    value: ''
+  - name: MEMO CODE
+    number: '33'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '34'
+    value: '
+
+'
+- input: "H4\x1CC00161786\x1C21a-39-00023-00097\x1C\x1C\x1CIND\x1C\x1CSoderquist\x1CRiley\x1C\x1C\x1C\x1C7020
+    Willow Creek Rd\x1C\x1CEden Prarie\x1CMN\x1C55344\x1CAdministrative 2007/2008\x1C20080930\x1C15.04\x1C5.41\x1C9.63\x1C839139.85\x1C\x1CMileage\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 21a-39-00023-00097
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Soderquist
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Riley
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 7020 Willow Creek Rd
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Eden Prarie
+  - name: PAYEE STATE
+    number: '16'
+    value: MN
+  - name: PAYEE ZIP
+    number: '17'
+    value: '55344'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative 2007/2008
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20080930'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '15.04'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '5.41'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '9.63'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '839139.85'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '24'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '25'
+    value: Mileage
+  - name: CATEGORY CODE
+    number: '26'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 27-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 28-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 29-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 30-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 31-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 32-
+    value: ''
+  - name: MEMO CODE
+    number: '33'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '34'
+    value: '
+
+'
+- input: "H4\x1CC00161786\x1C21a-39-00024-0007\x1C\x1C\x1CIND\x1C\x1CWeaver\x1CLindsey\x1C\x1C\x1C\x1C1725
+    12th Avenue\x1C\x1CGreeley\x1CCO\x1C80631\x1CAdministrative 2007/2008\x1C20080930\x1C21.02\x1C7.57\x1C13.45\x1C839160.87\x1C\x1CReimbursed
+    Expenses - See Memo's.\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 21a-39-00024-0007
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Weaver
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Lindsey
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 1725 12th Avenue
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Greeley
+  - name: PAYEE STATE
+    number: '16'
+    value: CO
+  - name: PAYEE ZIP
+    number: '17'
+    value: '80631'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative 2007/2008
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20080930'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '21.02'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '7.57'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '13.45'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '839160.87'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '24'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '25'
+    value: Reimbursed Expenses - See Memo's.
+  - name: CATEGORY CODE
+    number: '26'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 27-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 28-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 29-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 30-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 31-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 32-
+    value: ''
+  - name: MEMO CODE
+    number: '33'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '34'
+    value: '
+
+'
+- input: "H4\x1CC00161786\x1C21a-39-00024-00098\x1C21a-39-00024-0007\x1CH4\x1CIND\x1C\x1CWeaver\x1CLindsey\x1C\x1C\x1C\x1C1725
+    12th Avenue\x1C\x1CGreeley\x1CCO\x1C80631\x1CAdministrative 2007/2008\x1C20080930\x1C13.20\x1C4.75\x1C8.45\x1C0.00\x1C\x1CMileage\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1CX\x1C\n"
+  record: fec.version.v6_4.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 21a-39-00024-00098
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 21a-39-00024-0007
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: H4
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Weaver
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Lindsey
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 1725 12th Avenue
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Greeley
+  - name: PAYEE STATE
+    number: '16'
+    value: CO
+  - name: PAYEE ZIP
+    number: '17'
+    value: '80631'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative 2007/2008
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20080930'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '13.20'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '4.75'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '8.45'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '0.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '24'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '25'
+    value: Mileage
+  - name: CATEGORY CODE
+    number: '26'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 27-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 28-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 29-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 30-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 31-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 32-
+    value: ''
+  - name: MEMO CODE
+    number: '33'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '34'
+    value: '
+
+'
+- input: "H4\x1CC00161786\x1C21a-39-00024-00099\x1C21a-39-00024-0007\x1CH4\x1CORG\x1CGreeley
+    Lock & Key\x1C\x1C\x1C\x1C\x1C\x1C813 13th St.\x1C\x1CGreeley\x1CCO\x1C80631\x1CAdministrative
+    2007/2008\x1C20080930\x1C7.82\x1C2.82\x1C5.00\x1C0.00\x1C\x1COffice Keys\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1CX\x1C\n"
+  record: fec.version.v6_4.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 21a-39-00024-00099
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 21a-39-00024-0007
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: H4
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Greeley Lock & Key
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 813 13th St.
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Greeley
+  - name: PAYEE STATE
+    number: '16'
+    value: CO
+  - name: PAYEE ZIP
+    number: '17'
+    value: '80631'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative 2007/2008
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20080930'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '7.82'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '2.82'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '5.00'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '0.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '24'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '25'
+    value: Office Keys
+  - name: CATEGORY CODE
+    number: '26'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 27-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 28-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 29-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 30-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 31-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 32-
+    value: ''
+  - name: MEMO CODE
+    number: '33'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '34'
+    value: '
+
+'
+- input: "H4\x1CC00161786\x1C21a-39-00028-00109\x1C\x1C\x1CORG\x1CFirst Bank\x1C\x1C\x1C\x1C\x1C\x1C1200
+    17th Street, Suite 100\x1C\x1CDenver\x1CCO\x1C80202\x1CAdministrative 2007/2008\x1C20080930\x1C54.00\x1C19.44\x1C34.56\x1C839214.87\x1C\x1CBank
+    Fee\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 21a-39-00028-00109
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: First Bank
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 1200 17th Street, Suite 100
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Denver
+  - name: PAYEE STATE
+    number: '16'
+    value: CO
+  - name: PAYEE ZIP
+    number: '17'
+    value: '80202'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative 2007/2008
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20080930'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '54.00'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '19.44'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '34.56'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '839214.87'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '24'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '25'
+    value: Bank Fee
+  - name: CATEGORY CODE
+    number: '26'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 27-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 28-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 29-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 30-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 31-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 32-
+    value: ''
+  - name: MEMO CODE
+    number: '33'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '34'
+    value: '
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00001\x1C\x1CF3XA\x1CThe Committee is amending
+    this report due to previously amended reports that affect the Summary and Detailed
+    Summary Page Column B Totals as well as the event year-to-date totals for the
+    Administrative category on Schedule H4.  Per the agreement between DNC Counsel,
+    Neil Reiff, and RAD Supervisor, Debbie Chacona, the Memo Schedule A's that itemize
+    the committees share of the gross contributions received through the joint fundraising
+    activities from the ASDC Dollars for Democrats and ASDC Partnership Program (Association
+    of State Democratic Chairs), the DNC Victory Fund (Democratic National Committee)
+    and / or the Committee for Change are provided on a quarterly basis.    The transfer
+    of the joint fundraising proceeds received during this reporting period from the
+    DNC Victory Fund, ASDC Dollars for Democrats,  ASDC Partnership programs, and
+    the Committee for Change represents the committee's share of proceeds for contributions
+    received during this or prior reporting periods. The memo entries for these contributions
+    are included in this or a prior report of the committee.  -   Determination of
+    usual and normal charges for Enhanced Online Voter File Access for payments received
+    on Schedule A, Line 17 of the Committees report was calculated by the total cost
+    of developing and hosting our online voter file and dividing it by the number
+    of records within the file as well as the presumed number of overall users.  The
+    cost to the organization is then determined by the number of records requested
+    and the length of time access will be granted.  i.e. Statewide or congressional
+    charges are based on the number of records in the district or entire state as
+    requested.  -  Please note that the employees that were disclosed on Schedule
+    H4 supporting Line 21(a) as payroll spent less than 25% of their time during the
+    period working on any Federal Election Activity or activities in connection with
+    a Federal Election therefore salary payments were allocable.  This also includes
+    fringe benefits for those specific employees.  -  Transfers in from the Democratic
+    National Committee, Democratic Senatorial Campaign Committee and or the Democratic
+    Congressional Campaign Committee were not used as the Federal component of expenditures
+    or disbursements that were used for federal election activities paid for in any
+    part by Levin funds.  The committee utilizes standard accounting procedures and
+    a detailed chart of accounts as well as separate bank accounts to ensure that
+    Federal funds transferred from national state district and local party committees
+    are used in compliance with the CFR.\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00001
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: F3XA
+  - name: TEXT4000
+    number: '6'
+    value: 'The Committee is amending this report due to previously amended reports
+      that affect the Summary and Detailed Summary Page Column B Totals as well as
+      the event year-to-date totals for the Administrative category on Schedule H4.  Per
+      the agreement between DNC Counsel, Neil Reiff, and RAD Supervisor, Debbie Chacona,
+      the Memo Schedule A''s that itemize the committees share of the gross contributions
+      received through the joint fundraising activities from the ASDC Dollars for
+      Democrats and ASDC Partnership Program (Association of State Democratic Chairs),
+      the DNC Victory Fund (Democratic National Committee) and / or the Committee
+      for Change are provided on a quarterly basis.    The transfer of the joint fundraising
+      proceeds received during this reporting period from the DNC Victory Fund, ASDC
+      Dollars for Democrats,  ASDC Partnership programs, and the Committee for Change
+      represents the committee''s share of proceeds for contributions received during
+      this or prior reporting periods. The memo entries for these contributions are
+      included in this or a prior report of the committee.  -   Determination of usual
+      and normal charges for Enhanced Online Voter File Access for payments received
+      on Schedule A, Line 17 of the Committees report was calculated by the total
+      cost of developing and hosting our online voter file and dividing it by the
+      number of records within the file as well as the presumed number of overall
+      users.  The cost to the organization is then determined by the number of records
+      requested and the length of time access will be granted.  i.e. Statewide or
+      congressional charges are based on the number of records in the district or
+      entire state as requested.  -  Please note that the employees that were disclosed
+      on Schedule H4 supporting Line 21(a) as payroll spent less than 25% of their
+      time during the period working on any Federal Election Activity or activities
+      in connection with a Federal Election therefore salary payments were allocable.  This
+      also includes fringe benefits for those specific employees.  -  Transfers in
+      from the Democratic National Committee, Democratic Senatorial Campaign Committee
+      and or the Democratic Congressional Campaign Committee were not used as the
+      Federal component of expenditures or disbursements that were used for federal
+      election activities paid for in any part by Levin funds.  The committee utilizes
+      standard accounting procedures and a detailed chart of accounts as well as separate
+      bank accounts to ensure that Federal funds transferred from national state district
+      and local party committees are used in compliance with the CFR.
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00002\x1C12-31-00040-00057\x1CSA12\x1CCommittee
+    for Change Joint Fundraising\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00002
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 12-31-00040-00057
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA12
+  - name: TEXT4000
+    number: '6'
+    value: 'Committee for Change Joint Fundraising
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00003\x1C30b-31-00044-00061\x1CSB30b\x1CPlease
+    note that this expenditure meets all of the requirements necessary to qualify
+    as exempt activity as described in the ACT.\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00003
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-31-00044-00061
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'Please note that this expenditure meets all of the requirements necessary
+      to qualify as exempt activity as described in the ACT.
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00004\x1C11c-31-00046-00067\x1CSA11c\x1CTransfer
+    from Candidate Committee\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00004
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 11c-31-00046-00067
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11c
+  - name: TEXT4000
+    number: '6'
+    value: 'Transfer from Candidate Committee
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00005\x1C21a-01-03951-06026\x1CH4\x1CNot attributable
+    to any candidate for federal office\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00005
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 21a-01-03951-06026
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: H4
+  - name: TEXT4000
+    number: '6'
+    value: 'Not attributable to any candidate for federal office
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00006\x1C21a-01-03952-06027\x1CH4\x1CNot attributable
+    to any candidate for federal office\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00006
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 21a-01-03952-06027
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: H4
+  - name: TEXT4000
+    number: '6'
+    value: 'Not attributable to any candidate for federal office
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00007\x1C15-31-00046-00209\x1CSA15\x1COffset for
+    expenses paid on line 30b\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00007
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 15-31-00046-00209
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA15
+  - name: TEXT4000
+    number: '6'
+    value: 'Offset for expenses paid on line 30b
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00008\x1C15-31-00046-00210\x1CSA15\x1COffset for
+    expenses paid on line 30b\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00008
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 15-31-00046-00210
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA15
+  - name: TEXT4000
+    number: '6'
+    value: 'Offset for expenses paid on line 30b
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00009\x1C15-31-00046-00211\x1CSA15\x1COffset for
+    expenses paid on line 30b\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00009
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 15-31-00046-00211
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA15
+  - name: TEXT4000
+    number: '6'
+    value: 'Offset for expenses paid on line 30b
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00010\x1C30b-31-00062-00083\x1CSB30b\x1CPlease
+    note that this expenditure meets all of the requirements necessary to qualify
+    as exempt activity as described in the ACT.\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00010
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-31-00062-00083
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'Please note that this expenditure meets all of the requirements necessary
+      to qualify as exempt activity as described in the ACT.
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00011\x1C30b-31-00063-00084\x1CSB30b\x1CPlease
+    note that this expenditure meets all of the requirements necessary to qualify
+    as exempt activity as described in the ACT.\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00011
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-31-00063-00084
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'Please note that this expenditure meets all of the requirements necessary
+      to qualify as exempt activity as described in the ACT.
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00012\x1C30b-31-00064-00086\x1CSB30b\x1CPlease
+    note that this expenditure meets all of the requirements necessary to qualify
+    as exempt activity as described in the ACT.\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00012
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-31-00064-00086
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'Please note that this expenditure meets all of the requirements necessary
+      to qualify as exempt activity as described in the ACT.
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00013\x1C30b-31-00065-00087\x1CSB30b\x1CPlease
+    note that this expenditure meets all of the requirements necessary to qualify
+    as exempt activity as described in the ACT.\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00013
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-31-00065-00087
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'Please note that this expenditure meets all of the requirements necessary
+      to qualify as exempt activity as described in the ACT.
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00014\x1C30b-01-03959-06034\x1CSB30b\x1CNot attributable
+    to any candidate for federal office\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00014
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-01-03959-06034
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'Not attributable to any candidate for federal office
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00015\x1C30b-01-04051-06159\x1CSB30b\x1CNot attributable
+    to any candidate for federal office\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00015
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-01-04051-06159
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'Not attributable to any candidate for federal office
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00016\x1C21a-01-03974-06052\x1CH4\x1CNot attributable
+    to any candidate for federal office\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00016
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 21a-01-03974-06052
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: H4
+  - name: TEXT4000
+    number: '6'
+    value: 'Not attributable to any candidate for federal office
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00017\x1C30b-31-00026-00028\x1CSB30b\x1CSee Offset
+    Reimbursement on line 15\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00017
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-31-00026-00028
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'See Offset Reimbursement on line 15
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00018\x1C30b-31-00029-00031\x1CSB30b\x1CSee Offset
+    Reimbursement on line 15\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00018
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-31-00029-00031
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'See Offset Reimbursement on line 15
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00019\x1C11c-31-00034-00038\x1CSA11c\x1CTransfer
+    from Candidate Committee\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00019
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 11c-31-00034-00038
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11c
+  - name: TEXT4000
+    number: '6'
+    value: 'Transfer from Candidate Committee
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00020\x1C15-31-00034-00046\x1CSA15\x1COffset for
+    expenses paid on line 30b\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00020
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 15-31-00034-00046
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA15
+  - name: TEXT4000
+    number: '6'
+    value: 'Offset for expenses paid on line 30b
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00021\x1C15-31-00034-00048\x1CSA15\x1COffset for
+    expenses paid on line 30b\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00021
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 15-31-00034-00048
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA15
+  - name: TEXT4000
+    number: '6'
+    value: 'Offset for expenses paid on line 30b
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00022\x1C15-31-00034-00049\x1CSA15\x1COffset for
+    expenses paid on line 30b\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00022
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 15-31-00034-00049
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA15
+  - name: TEXT4000
+    number: '6'
+    value: 'Offset for expenses paid on line 30b
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00023\x1C30b-21-00295-00398\x1CSB30b\x1CPlease
+    note that this expenditure meets all of the requirements necessary to qualify
+    as exempt activity as described in the ACT.\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00023
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-21-00295-00398
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'Please note that this expenditure meets all of the requirements necessary
+      to qualify as exempt activity as described in the ACT.
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00024\x1C30b-21-00312-00415\x1CSB30b\x1CPlease
+    note that this expenditure meets all of the requirements necessary to qualify
+    as exempt activity as described in the ACT.\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00024
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-21-00312-00415
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'Please note that this expenditure meets all of the requirements necessary
+      to qualify as exempt activity as described in the ACT.
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00025\x1C15-31-00034-00050\x1CSA15\x1COffset for
+    expenses paid on line 30b\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00025
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 15-31-00034-00050
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA15
+  - name: TEXT4000
+    number: '6'
+    value: 'Offset for expenses paid on line 30b
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00026\x1C30b-31-00067-00089\x1CSB30b\x1CSee Offset
+    Reimbursement on line 15\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00026
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-31-00067-00089
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'See Offset Reimbursement on line 15
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00027\x1C30b-31-00068-00090\x1CSB30b\x1CSee Offset
+    Reimbursement on line 15\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00027
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-31-00068-00090
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'See Offset Reimbursement on line 15
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00028\x1C30b-31-00069-00091\x1CSB30b\x1CSee Offset
+    Reimbursement on line 15\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00028
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-31-00069-00091
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'See Offset Reimbursement on line 15
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00029\x1C21a-22-01178-02591\x1CH4\x1CNot attributable
+    to any candidate for federal office\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00029
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 21a-22-01178-02591
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: H4
+  - name: TEXT4000
+    number: '6'
+    value: 'Not attributable to any candidate for federal office
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00030\x1C30b-22-01202-02703\x1CSB30b\x1CNot attributable
+    to any candidate for federal office\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00030
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-22-01202-02703
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'Not attributable to any candidate for federal office
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00031\x1C30b-22-01248-02779\x1CSB30b\x1CNot attributable
+    to any candidate for federal office\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00031
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-22-01248-02779
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'Not attributable to any candidate for federal office
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00032\x1C30b-22-01248-02780\x1CSB30b\x1CNot attributable
+    to any candidate for federal office\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00032
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-22-01248-02780
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'Not attributable to any candidate for federal office
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00033\x1C30b-22-01248-02781\x1CSB30b\x1CNot attributable
+    to any candidate for federal office\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00033
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-22-01248-02781
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'Not attributable to any candidate for federal office
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00034\x1C30b-22-01248-02782\x1CSB30b\x1CNot attributable
+    to any candidate for federal office\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00034
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-22-01248-02782
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'Not attributable to any candidate for federal office
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00035\x1C30b-22-01269-02809\x1CSB30b\x1CNot attributable
+    to any candidate for federal office\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00035
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-22-01269-02809
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'Not attributable to any candidate for federal office
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00036\x1C30b-22-01275-02817\x1CSB30b\x1CNot attributable
+    to any candidate for federal office\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00036
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-22-01275-02817
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'Not attributable to any candidate for federal office
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00037\x1C21a-22-01277-02819\x1CH4\x1CNot attributable
+    to any candidate for federal office\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00037
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 21a-22-01277-02819
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: H4
+  - name: TEXT4000
+    number: '6'
+    value: 'Not attributable to any candidate for federal office
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00038\x1C30b-22-01312-02949\x1CSB30b\x1CNot attributable
+    to any candidate for federal office\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00038
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-22-01312-02949
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'Not attributable to any candidate for federal office
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00039\x1C30b-22-01330-02975\x1CSB30b\x1CNot attributable
+    to any candidate for federal office\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00039
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-22-01330-02975
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'Not attributable to any candidate for federal office
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00040\x1C30b-22-01363-03045\x1CSB30b\x1CNot attributable
+    to any candidate for federal office\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00040
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-22-01363-03045
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'Not attributable to any candidate for federal office
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00041\x1C30b-22-01363-03046\x1CSB30b\x1CNot attributable
+    to any candidate for federal office\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00041
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-22-01363-03046
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'Not attributable to any candidate for federal office
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00042\x1C30b-22-01363-03047\x1CSB30b\x1CNot attributable
+    to any candidate for federal office\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00042
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-22-01363-03047
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'Not attributable to any candidate for federal office
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00043\x1C30b-22-01363-03049\x1CSB30b\x1CNot attributable
+    to any candidate for federal office\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00043
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-22-01363-03049
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'Not attributable to any candidate for federal office
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00044\x1C30b-39-00012-00043\x1CSB30b\x1CNot attributable
+    to any candidate for federal office\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00044
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-39-00012-00043
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'Not attributable to any candidate for federal office
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00045\x1C11c-34-00021-00022\x1CSA11c\x1CTransfer
+    from Candidate Committee\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00045
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 11c-34-00021-00022
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11c
+  - name: TEXT4000
+    number: '6'
+    value: 'Transfer from Candidate Committee
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00046\x1C11c-34-00022-00023\x1CSA11c\x1CTransfer
+    from Candidate Committee\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00046
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 11c-34-00022-00023
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11c
+  - name: TEXT4000
+    number: '6'
+    value: 'Transfer from Candidate Committee
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00047\x1C30b-34-00028-00029\x1CSB30b\x1CPlease
+    note that this expenditure meets all of the requirements necessary to qualify
+    as exempt activity as described in the ACT.\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00047
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-34-00028-00029
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'Please note that this expenditure meets all of the requirements necessary
+      to qualify as exempt activity as described in the ACT.
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00048\x1C30b-39-00025-00104\x1CSB30b\x1CNot attributable
+    to any candidate for federal office\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00048
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-39-00025-00104
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'Not attributable to any candidate for federal office
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00049\x1C30b-30-00155-00825\x1CSB30b\x1CNot attributable
+    to any candidate for federal office\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00049
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-30-00155-00825
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'Not attributable to any candidate for federal office
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00050\x1C21b-30-00157-00827\x1CSB21b\x1CNot allocable
+    to any candidate for federal office and does not meet the definition of FEA\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00050
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 21b-30-00157-00827
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB21b
+  - name: TEXT4000
+    number: '6'
+    value: 'Not allocable to any candidate for federal office and does not meet the
+      definition of FEA
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00051\x1C30b-30-00161-00831\x1CSB30b\x1CNot attributable
+    to any candidate for federal office\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00051
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-30-00161-00831
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'Not attributable to any candidate for federal office
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00052\x1C30b-30-00165-00835\x1CSB30b\x1CSee Offset
+    Reimbursement on line 15\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00052
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-30-00165-00835
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'See Offset Reimbursement on line 15
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00053\x1C30b-30-00171-00842\x1CSB30b\x1CNot attributable
+    to any candidate for federal office\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00053
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-30-00171-00842
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'Not attributable to any candidate for federal office
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00054\x1C30b-30-00179-00852\x1CSB30b\x1CNot attributable
+    to any candidate for federal office\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00054
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-30-00179-00852
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'Not attributable to any candidate for federal office
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00055\x1C21b-30-00202-01018\x1CSB21b\x1CNot attributable
+    to any candidate for federal office\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00055
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 21b-30-00202-01018
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB21b
+  - name: TEXT4000
+    number: '6'
+    value: 'Not attributable to any candidate for federal office
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00056\x1C21b-30-00204-01020\x1CSB21b\x1CNot attributable
+    to any candidate for federal office\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00056
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 21b-30-00204-01020
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB21b
+  - name: TEXT4000
+    number: '6'
+    value: 'Not attributable to any candidate for federal office
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00057\x1C21b-30-00255-01123\x1CSB21b\x1CNot attributable
+    to any candidate for federal office\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00057
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 21b-30-00255-01123
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB21b
+  - name: TEXT4000
+    number: '6'
+    value: 'Not attributable to any candidate for federal office
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00058\x1C30b-30-00276-01220\x1CSB30b\x1CNot attributable
+    to any candidate for federal office\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00058
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-30-00276-01220
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'Not attributable to any candidate for federal office
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00059\x1C30b-30-00277-01221\x1CSB30b\x1CNot attributable
+    to any candidate for federal office\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00059
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-30-00277-01221
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'Not attributable to any candidate for federal office
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00060\x1C30b-30-00280-01224\x1CSB30b\x1CDoes not
+    promote, support, attack, or oppose any candidate for federal office.\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00060
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-30-00280-01224
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'Does not promote, support, attack, or oppose any candidate for federal
+      office.
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00061\x1C21b-30-00298-01414\x1CSB21b\x1CNot allocable
+    to any candidate for federal office and does not meet the definition of FEA\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00061
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 21b-30-00298-01414
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB21b
+  - name: TEXT4000
+    number: '6'
+    value: 'Not allocable to any candidate for federal office and does not meet the
+      definition of FEA
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00062\x1C21b-30-00298-01415\x1CSB21b\x1CNot allocable
+    to any candidate for federal office and does not meet the definition of FEA\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00062
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 21b-30-00298-01415
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB21b
+  - name: TEXT4000
+    number: '6'
+    value: 'Not allocable to any candidate for federal office and does not meet the
+      definition of FEA
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00063\x1C30b-30-00300-01417\x1CSB30b\x1CNot attributable
+    to any candidate for federal office\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00063
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-30-00300-01417
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'Not attributable to any candidate for federal office
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00064\x1C30b-30-00301-01419\x1CSB30b\x1CNot attributable
+    to any candidate for federal office\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00064
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-30-00301-01419
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'Not attributable to any candidate for federal office
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00065\x1C21b-30-00337-01487\x1CSB21b\x1CNot attributable
+    to any candidate for federal office\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00065
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 21b-30-00337-01487
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB21b
+  - name: TEXT4000
+    number: '6'
+    value: 'Not attributable to any candidate for federal office
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00066\x1C30b-02-00803-00808\x1CSB30b\x1CNot attributable
+    to any candidate for federal office\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00066
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-02-00803-00808
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'Not attributable to any candidate for federal office
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00067\x1C21b-00-00816-00816\x1CSB21b\x1CIn-Kind
+    Rent\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00067
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 21b-00-00816-00816
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB21b
+  - name: TEXT4000
+    number: '6'
+    value: 'In-Kind Rent
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00068\x1C21b-00-00817-00817\x1CSB21b\x1CIn-Kind
+    Rent\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00068
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 21b-00-00817-00817
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB21b
+  - name: TEXT4000
+    number: '6'
+    value: 'In-Kind Rent
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00069\x1C21b-00-00818-00818\x1CSB21b\x1CIn-Kind
+    Rent\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00069
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 21b-00-00818-00818
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB21b
+  - name: TEXT4000
+    number: '6'
+    value: 'In-Kind Rent
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00070\x1C21b-00-00819-00819\x1CSB21b\x1CIn-Kind
+    Rent\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00070
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 21b-00-00819-00819
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB21b
+  - name: TEXT4000
+    number: '6'
+    value: 'In-Kind Rent
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00071\x1C21b-00-00820-00820\x1CSB21b\x1CIn-Kind
+    Rent\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00071
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 21b-00-00820-00820
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB21b
+  - name: TEXT4000
+    number: '6'
+    value: 'In-Kind Rent
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00072\x1C21b-00-00821-00821\x1CSB21b\x1CIn-Kind
+    Rent\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00072
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 21b-00-00821-00821
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB21b
+  - name: TEXT4000
+    number: '6'
+    value: 'In-Kind Rent
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00073\x1C21b-00-00823-00823\x1CSB21b\x1CIn-Kind
+    Rent\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00073
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 21b-00-00823-00823
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB21b
+  - name: TEXT4000
+    number: '6'
+    value: 'In-Kind Rent
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00074\x1C21b-00-00824-00824\x1CSB21b\x1CIn-Kind
+    Rent\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00074
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 21b-00-00824-00824
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB21b
+  - name: TEXT4000
+    number: '6'
+    value: 'In-Kind Rent
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00075\x1C21b-00-00826-00826\x1CSB21b\x1CIn-Kind
+    - Rent\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00075
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 21b-00-00826-00826
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB21b
+  - name: TEXT4000
+    number: '6'
+    value: 'In-Kind - Rent
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00076\x1C21b-00-00827-00827\x1CSB21b\x1CIn-Kind
+    - Rent\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00076
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 21b-00-00827-00827
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB21b
+  - name: TEXT4000
+    number: '6'
+    value: 'In-Kind - Rent
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00077\x1C21b-00-00828-00828\x1CSB21b\x1CIn-Kind
+    - Rent\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00077
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 21b-00-00828-00828
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB21b
+  - name: TEXT4000
+    number: '6'
+    value: 'In-Kind - Rent
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00078\x1C21b-00-00829-00829\x1CSB21b\x1CIn-Kind
+    - Rent\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00078
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 21b-00-00829-00829
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB21b
+  - name: TEXT4000
+    number: '6'
+    value: 'In-Kind - Rent
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00079\x1C21b-00-00830-00830\x1CSB21b\x1CIn-Kind
+    - Rent\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00079
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 21b-00-00830-00830
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB21b
+  - name: TEXT4000
+    number: '6'
+    value: 'In-Kind - Rent
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00080\x1C21b-00-00831-00831\x1CSB21b\x1CIn-Kind
+    - Office Equipment\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00080
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 21b-00-00831-00831
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB21b
+  - name: TEXT4000
+    number: '6'
+    value: 'In-Kind - Office Equipment
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00081\x1C21b-00-00832-00832\x1CSB21b\x1CIn-Kind
+    - Office Equipment\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00081
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 21b-00-00832-00832
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB21b
+  - name: TEXT4000
+    number: '6'
+    value: 'In-Kind - Office Equipment
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00082\x1C21b-00-00833-00833\x1CSB21b\x1CIn-Kind
+    - Office Equipment\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00082
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 21b-00-00833-00833
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB21b
+  - name: TEXT4000
+    number: '6'
+    value: 'In-Kind - Office Equipment
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00083\x1C21b-00-00834-00834\x1CSB21b\x1CIn-Kind
+    - Office Equipment\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00083
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 21b-00-00834-00834
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB21b
+  - name: TEXT4000
+    number: '6'
+    value: 'In-Kind - Office Equipment
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00084\x1C21b-00-00835-00835\x1CSB21b\x1CIn-Kind
+    - Office Supplies\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00084
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 21b-00-00835-00835
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB21b
+  - name: TEXT4000
+    number: '6'
+    value: 'In-Kind - Office Supplies
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00085\x1C21b-00-00836-00836\x1CSB21b\x1CIn-Kind
+    - Office Supplies\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00085
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 21b-00-00836-00836
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB21b
+  - name: TEXT4000
+    number: '6'
+    value: 'In-Kind - Office Supplies
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00086\x1C21b-00-00837-00837\x1CSB21b\x1CIn-Kind
+    - Office Supplies\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00086
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 21b-00-00837-00837
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB21b
+  - name: TEXT4000
+    number: '6'
+    value: 'In-Kind - Office Supplies
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00087\x1C21b-00-00838-00838\x1CSB21b\x1CIn-Kind
+    - Office Supplies\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00087
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 21b-00-00838-00838
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB21b
+  - name: TEXT4000
+    number: '6'
+    value: 'In-Kind - Office Supplies
+
+'
+- input: "TEXT\x1CC00161786\x1CTEXT-00088\x1C21b-00-00839-00839\x1CSB21b\x1CIn-Kind
+    - Office Supplies\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00161786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00088
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 21b-00-00839-00839
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB21b
+  - name: TEXT4000
+    number: '6'
+    value: 'In-Kind - Office Supplies
+
+'
+sourceurl: !!python/unicode 20090719
+type: chunk

@@ -1,0 +1,372 @@
+countrows: 3
+filename: 429208.fec
+header: {}
+rows:
+- 2
+- input: "F1A\x1CC00141036\x1C\x1CNational City Bank Political Action Committee -
+    Federal\x1C\x1C1900 East 9th Street\x1CLocator 01-2157\x1CCleveland\x1COH\x1C441143484\x1C\x1Czandra.moss@nationalcity.com\x1C\x1C\x1C20090812\x1CClark\x1CJoanne\x1C\x1C\x1C\x1C20090812\x1CE\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CC\x1CX\x1C\x1C\x1C\x1CNational
+    City Bank\x1C\x1C\x1C\x1C\x1C\x1C\x1C1900 East 9th St\x1CLoc. #01-2157\x1CCleveland\x1COH\x1C441143484\x1CORG\x1CC.\x1CZandra\x1C\x1C\x1CMoss\x1C1900
+    East 9th Street\x1CLocator No. 01-2157\x1CCleveland\x1COH\x1C441143484\x1COfficer/Business
+    Sys\x1C2162223367\x1CClark\x1CJoanne\x1C\x1C\x1C\x1C1900 East 9th St., Loc. 01-2157\x1C\x1CCleveland\x1COH\x1C441143484\x1CSenior
+    Vice Pres.\x1C2162222995\x1CMoss\x1CZandra\x1C\x1C\x1C\x1C1900 East 9th St., Loc.
+    01-2157\x1C\x1CCleveland\x1COH\x1C44114\x1CBusiness Systems Ana\x1C2162223367\x1CNational
+    City Bank\x1C629 Euclid Ave.\x1C\x1CCleveland\x1COH\x1C44114\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.F1
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00141036
+  - name: CHANGE OF COMMITTEE NAME
+    number: '3'
+    value: ''
+  - name: COMMITTEE NAME
+    number: '4'
+    value: National City Bank Political Action Committee - Federal
+  - name: CHANGE OF ADDRESS
+    number: '5'
+    value: ''
+  - name: STREET 1
+    number: '6'
+    value: 1900 East 9th Street
+  - name: STREET 2
+    number: '7'
+    value: Locator 01-2157
+  - name: CITY
+    number: '8'
+    value: Cleveland
+  - name: STATE
+    number: '9'
+    value: OH
+  - name: ZIP
+    number: '10'
+    value: '441143484'
+  - name: CHANGE OF COMMITTEE EMAIL
+    number: '11'
+    value: ''
+  - name: COMMITTEE EMAIL
+    number: '12'
+    value: zandra.moss@nationalcity.com
+  - name: CHANGE OF COMMITTEE WEB URL
+    number: '13'
+    value: ''
+  - name: COMMITTEE WEB URL
+    number: '14'
+    value: ''
+  - name: SUBMISSION DATE
+    number: '15'
+    value: '20090812'
+  - name: SIGNATURE LAST NAME
+    number: '16'
+    value: Clark
+  - name: SIGNATURE FIRST NAME
+    number: '17'
+    value: Joanne
+  - name: SIGNATURE MIDDLE NAME
+    number: '18'
+    value: ''
+  - name: SIGNATURE PREFIX
+    number: '19'
+    value: ''
+  - name: SIGNATURE SUFFIX
+    number: '20'
+    value: ''
+  - name: DATE SIGNED
+    number: '21'
+    value: '20090812'
+  - name: COMMITTEE TYPE
+    number: 22-5.
+    value: E
+  - name: CANDIDATE ID NUMBER
+    number: 23-5.
+    value: ''
+  - name: CANDIDATE LAST NAME
+    number: 24-5.
+    value: ''
+  - name: CANDIDATE FIRST NAME
+    number: 25-5.
+    value: ''
+  - name: CANDIDATE MIDDLE NAME
+    number: 26-5.
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: 27-5.
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: 28-5.
+    value: ''
+  - name: CANDIDATE OFFICE
+    number: 29-5.
+    value: ''
+  - name: CANDIDATE STATE
+    number: 30-5.
+    value: ''
+  - name: CANDIDATE DISTRICT
+    number: 31-5.
+    value: ''
+  - name: PARTY CODE
+    number: 32-5.
+    value: ''
+  - name: PARTY TYPE
+    number: 33-5.
+    value: ''
+  - name: ORGANIZATION TYPE
+    number: 34-5 (e).
+    value: C
+  - name: LOBBYIST/REGISTRANT PAC
+    number: 35-5 (e).
+    value: X
+  - name: LOBBYIST/REGISTRANT PAC
+    number: 36-5 (f).
+    value: ''
+  - name: LEADERSHIP PAC
+    number: 37-5 (f).
+    value: ''
+  - name: AFFILIATED Committee ID NUM
+    number: 38-6.
+    value: ''
+  - name: AFFILIATED Committee NAME
+    number: 39-6.
+    value: National City Bank
+  - name: AFFILIATED CANDIDATE ID NUM
+    number: 40-6.
+    value: ''
+  - name: AFFILIATED LAST NAME
+    number: 41-6.
+    value: ''
+  - name: AFFILIATED FIRST NAME
+    number: 42-6.
+    value: ''
+  - name: AFFILIATED MIDDLE NAME
+    number: 43-6.
+    value: ''
+  - name: AFFILIATED PREFIX
+    number: 44-6.
+    value: ''
+  - name: AFFILIATED SUFFIX
+    number: 45-6.
+    value: ''
+  - name: AFFILIATED STREET 1
+    number: 46-6.
+    value: 1900 East 9th St
+  - name: AFFILIATED STREET 2
+    number: 47-6.
+    value: 'Loc. #01-2157'
+  - name: AFFILIATED CITY
+    number: 48-6.
+    value: Cleveland
+  - name: AFFILIATED STATE
+    number: 49-6.
+    value: OH
+  - name: AFFILIATED ZIP
+    number: 50-6.
+    value: '441143484'
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 51-6.
+    value: ORG
+  - name: CUSTODIAN LAST NAME
+    number: 52-7.
+    value: C.
+  - name: CUSTODIAN FIRST NAME
+    number: 53-7.
+    value: Zandra
+  - name: CUSTODIAN MIDDLE NAME
+    number: 54-7.
+    value: ''
+  - name: CUSTODIAN PREFIX
+    number: 55-7.
+    value: ''
+  - name: CUSTODIAN SUFFIX
+    number: 56-7.
+    value: Moss
+  - name: CUSTODIAN STREET 1
+    number: 57-7.
+    value: 1900 East 9th Street
+  - name: CUSTODIAN STREET 2
+    number: 58-7.
+    value: Locator No. 01-2157
+  - name: CUSTODIAN CITY
+    number: 59-7.
+    value: Cleveland
+  - name: CUSTODIAN STATE
+    number: 60-7.
+    value: OH
+  - name: CUSTODIAN ZIP
+    number: 61-7.
+    value: '441143484'
+  - name: CUSTODIAN TITLE
+    number: 62-7.
+    value: Officer/Business Sys
+  - name: CUSTODIAN TELEPHONE
+    number: 63-7.
+    value: '2162223367'
+  - name: TREASURER LAST NAME
+    number: 64-8.
+    value: Clark
+  - name: TREASURER FIRST NAME
+    number: 65-8.
+    value: Joanne
+  - name: TREASURER MIDDLE NAME
+    number: 66-8.
+    value: ''
+  - name: TREASURER PREFIX
+    number: 67-8.
+    value: ''
+  - name: TREASURER SUFFIX
+    number: 68-8.
+    value: ''
+  - name: TREASURER STREET 1
+    number: 69-8.
+    value: 1900 East 9th St., Loc. 01-2157
+  - name: TREASURER STREET 2
+    number: 70-8.
+    value: ''
+  - name: TREASURER CITY
+    number: 71-8.
+    value: Cleveland
+  - name: TREASURER STATE
+    number: 72-8.
+    value: OH
+  - name: TREASURER ZIP
+    number: 73-8.
+    value: '441143484'
+  - name: TREASURER TITLE
+    number: 74-8.
+    value: Senior Vice Pres.
+  - name: TREASURER TELEPHONE
+    number: 75-8.
+    value: '2162222995'
+  - name: AGENT LAST NAME
+    number: 76-8.
+    value: Moss
+  - name: AGENT FIRST NAME
+    number: 77-8.
+    value: Zandra
+  - name: AGENT MIDDLE NAME
+    number: 78-8.
+    value: ''
+  - name: AGENT PREFIX
+    number: 79-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 80-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 81-8.
+    value: 1900 East 9th St., Loc. 01-2157
+  - name: AGENT STREET 2
+    number: 82-8.
+    value: ''
+  - name: AGENT CITY
+    number: 83-8.
+    value: Cleveland
+  - name: AGENT STATE
+    number: 84-8.
+    value: OH
+  - name: AGENT ZIP
+    number: 85-8.
+    value: '44114'
+  - name: AGENT TITLE
+    number: 86-8.
+    value: Business Systems Ana
+  - name: AGENT TELEPHONE
+    number: 87-8.
+    value: '2162223367'
+  - name: BANK NAME
+    number: 88-9. a)
+    value: National City Bank
+  - name: BANK STREET 1
+    number: 89-9. a)
+    value: 629 Euclid Ave.
+  - name: BANK STREET 2
+    number: 90-9. a)
+    value: ''
+  - name: BANK CITY
+    number: 91-9. a)
+    value: Cleveland
+  - name: BANK STATE
+    number: 92-9. a)
+    value: OH
+  - name: BANK ZIP
+    number: 93-9. a)
+    value: '44114'
+  - name: BANK NAME
+    number: 94-9. b)
+    value: ''
+  - name: BANK STREET 1
+    number: 95-9. b)
+    value: ''
+  - name: BANK STREET 2
+    number: 96-9. b)
+    value: ''
+  - name: BANK CITY
+    number: 97-9. b)
+    value: ''
+  - name: BANK STATE
+    number: 98-9. b)
+    value: ''
+  - name: BANK ZIP
+    number: 99-9. b)
+    value: '
+
+'
+- input: !!binary |
+    VEVYVBxDMDAxNDEwMzYcODEzODQ2MRwcRjFBHENvbm5lY3RlZCBPcmdhbml6YXRpb24gaGFzIGJl
+    ZW4gY2hhbmdlZC4gIFBBQyBuYW1lIGhhcyBiZWVuIGNoYW5nZWQgdG8gaW5jbHVkZSB0aGUgZnVs
+    bCBuYW1lIG9mIGl0cyBjb25uZWN0ZWQgb3JnYW5pemF0aW9uLiAgSW4gcmVzcG9uc2UgdG8geW91
+    ciBsZXR0ZXIgZGF0ZWQgSnVuZSAxNywgMjAwOSBvdXIgU3RhdGVtZW50IG9mIE9yZ2FuaXphdGlv
+    biBoYXMgYmVlbiBhbWVuZGVkIHRvIGNvbXBseSB3aXRoIDExQ1JGIKcxMDIuMTQoYykuICBFbmNs
+    b3NlZCBwbGVhc2UgZmluZCBhbiBhbWVuZGVkIEZFQyBGT1JNIDEgZm9yIE5hdGlvbmFsIENpdHkg
+    Q29ycG9yYXRpb24gUG9saXRpY2FsIEFjdGlvbiBDb21taXR0ZWUgliBGRURFUkFMLiAgVGhlIGFt
+    ZW5kZWQgU3RhdGVtZW50IG9mIE9yZ2FuaXphdGlvbiB3aWxsIHJlZmxlY3QgdGhhdCB0aGUgY29u
+    bmVjdGVkIG9yZ2FuaXphdGlvbiBoYXMgYmVlbiBjaGFuZ2VkIHRvIJNOYXRpb25hbCBDaXR5IEJh
+    bmuULiAgSW4gYWNjb3JkYW5jZSB3aXRoIDExQ1JGIKcxMDIuMTQoYyksIJNUaGUgbmFtZSBvZiBh
+    IHNlcGFyYXRlIHNlZ3JlZ2F0ZWQgZnVuZIVzaGFsbCBpbmNsdWRlIHRoZSBmdWxsIG5hbWUgb2Yg
+    aXRzIGNvbm5lY3RlZCBvcmdhbml6YXRpb24uIEluIG9yZGVyIHRvIGNsYXJpZnkgdGhpcyBkaXNj
+    cmVwYW5jeSBhbmQgY29tcGx5IHdpdGggMTFDUkYgpzEwMi4xNChjKSwgdGhlIGNvbW1pdHRlZSBu
+    YW1lIGhhcyBhbHNvIGJlZW4gY2hhbmdlZCB0byBOYXRpb25hbCBDaXR5IEJhbmsgUG9saXRpY2Fs
+    IEFjdGlvbiBDb21taXR0ZWUgliBGZWRlcmFsLiBUaGUgYW1lbmRlZCBmb3JtIGhhcyBiZWVuIGZp
+    bGVkIGVsZWN0cm9uaWNhbGx5LiAgSG93ZXZlciwgd2UgaGF2ZSBhbHNvIGZvcndhcmRlZCB0aGUg
+    YW1lbmRlZCBGRUMgRm9ybSAxIGJlYXJpbmcgdGhlIG9yaWdpbmFsIHNpZ25hdHVyZSBvZiB0aGUg
+    VHJlYXN1cmVyLgo=
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00141036
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: '8138461'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: F1A
+  - name: TEXT4000
+    number: '6'
+    value: !!binary |
+      Q29ubmVjdGVkIE9yZ2FuaXphdGlvbiBoYXMgYmVlbiBjaGFuZ2VkLiAgUEFDIG5hbWUgaGFzIGJl
+      ZW4gY2hhbmdlZCB0byBpbmNsdWRlIHRoZSBmdWxsIG5hbWUgb2YgaXRzIGNvbm5lY3RlZCBvcmdh
+      bml6YXRpb24uICBJbiByZXNwb25zZSB0byB5b3VyIGxldHRlciBkYXRlZCBKdW5lIDE3LCAyMDA5
+      IG91ciBTdGF0ZW1lbnQgb2YgT3JnYW5pemF0aW9uIGhhcyBiZWVuIGFtZW5kZWQgdG8gY29tcGx5
+      IHdpdGggMTFDUkYgpzEwMi4xNChjKS4gIEVuY2xvc2VkIHBsZWFzZSBmaW5kIGFuIGFtZW5kZWQg
+      RkVDIEZPUk0gMSBmb3IgTmF0aW9uYWwgQ2l0eSBDb3Jwb3JhdGlvbiBQb2xpdGljYWwgQWN0aW9u
+      IENvbW1pdHRlZSCWIEZFREVSQUwuICBUaGUgYW1lbmRlZCBTdGF0ZW1lbnQgb2YgT3JnYW5pemF0
+      aW9uIHdpbGwgcmVmbGVjdCB0aGF0IHRoZSBjb25uZWN0ZWQgb3JnYW5pemF0aW9uIGhhcyBiZWVu
+      IGNoYW5nZWQgdG8gk05hdGlvbmFsIENpdHkgQmFua5QuICBJbiBhY2NvcmRhbmNlIHdpdGggMTFD
+      UkYgpzEwMi4xNChjKSwgk1RoZSBuYW1lIG9mIGEgc2VwYXJhdGUgc2VncmVnYXRlZCBmdW5khXNo
+      YWxsIGluY2x1ZGUgdGhlIGZ1bGwgbmFtZSBvZiBpdHMgY29ubmVjdGVkIG9yZ2FuaXphdGlvbi4g
+      SW4gb3JkZXIgdG8gY2xhcmlmeSB0aGlzIGRpc2NyZXBhbmN5IGFuZCBjb21wbHkgd2l0aCAxMUNS
+      RiCnMTAyLjE0KGMpLCB0aGUgY29tbWl0dGVlIG5hbWUgaGFzIGFsc28gYmVlbiBjaGFuZ2VkIHRv
+      IE5hdGlvbmFsIENpdHkgQmFuayBQb2xpdGljYWwgQWN0aW9uIENvbW1pdHRlZSCWIEZlZGVyYWwu
+      IFRoZSBhbWVuZGVkIGZvcm0gaGFzIGJlZW4gZmlsZWQgZWxlY3Ryb25pY2FsbHkuICBIb3dldmVy
+      LCB3ZSBoYXZlIGFsc28gZm9yd2FyZGVkIHRoZSBhbWVuZGVkIEZFQyBGb3JtIDEgYmVhcmluZyB0
+      aGUgb3JpZ2luYWwgc2lnbmF0dXJlIG9mIHRoZSBUcmVhc3VyZXIuCg==
+sourceurl: !!python/unicode 20090812
+type: chunk

@@ -1,0 +1,204 @@
+countrows: 3
+filename: 428032.fec
+header: {}
+rows:
+- input: "SD10\x1CC00401786\x1CSD10.4249\x1CORG\x1CWASHINGTON INTELLIGENCE BUREAU\x1C\x1C\x1C\x1C\x1C\x1C4128
+    PEPSI PLACE\x1C\x1CCHANTILLY\x1CVA\x1C20151\x1CCAGING & ESCROW SERVICES\x1C0.00\x1C14809.84\x1C14809.84\x1C0.00\n"
+  record: fec.version.v6_4.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00401786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10.4249
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: WASHINGTON INTELLIGENCE BUREAU
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 4128 PEPSI PLACE
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: CHANTILLY
+  - name: CREDITOR STATE
+    number: '14'
+    value: VA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '20151'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: CAGING & ESCROW SERVICES
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '0.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '14809.84'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '14809.84'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '0.00
+
+'
+- input: "SD10\x1CC00401786\x1CSD10.4259\x1CORG\x1CWEST END PRINTING CO.\x1C\x1C\x1C\x1C\x1C\x1C1609
+    SHERWOOD AVE\x1C\x1CRICHMOND\x1CVA\x1C23220\x1CDIRECT MAIL - PRINTING\x1C0.00\x1C17989.00\x1C5646.38\x1C12342.62\n"
+  record: fec.version.v6_4.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00401786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10.4259
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: WEST END PRINTING CO.
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 1609 SHERWOOD AVE
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: RICHMOND
+  - name: CREDITOR STATE
+    number: '14'
+    value: VA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '23220'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: DIRECT MAIL - PRINTING
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '0.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '17989.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '5646.38'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '12342.62
+
+'
+- input: "SD10\x1CC00401786\x1CSD10.4262\x1CORG\x1CZOGBY INTERNATIONAL\x1C\x1C\x1C\x1C\x1C\x1C901
+    BROAD STREET\x1C\x1CUTICA\x1CNY\x1C13501\x1CPOLLING\x1C0.00\x1C4500.00\x1C4500.00\x1C0.00\n"
+  record: fec.version.v6_4.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00401786
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10.4262
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: ZOGBY INTERNATIONAL
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 901 BROAD STREET
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: UTICA
+  - name: CREDITOR STATE
+    number: '14'
+    value: NY
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '13501'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: POLLING
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '0.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '4500.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '4500.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '0.00
+
+'
+sourceurl: !!python/unicode 20090731
+type: chunk

@@ -1,0 +1,158 @@
+countrows: 3
+filename: 425019.fec
+header: {}
+rows:
+- 2
+- input: "F2N\x1CH8NY26095\x1CLee\x1CChristopher\x1C\x1C\x1C\x1C\x1C6347 Everwood
+    Ct N.\x1C\x1CEast Amherst\x1CNY\x1C14051   \x1CREP\x1CH\x1CNY\x1C26\x1C2010\x1CC00450148\x1CChris
+    Lee for Congress\x1CPO Box 15395\x1C\x1CRochester\x1CNY\x1C14615   \x1CC00462200\x1CPatriot
+    Day Committee\x1C228 S Washington Street\x1CSuite 115\x1CWashingnton\x1CDC \x1C22314
+    \   \x1CLee\x1CChristopher\x1C\x1C\x1C\x1C20090716\n"
+  record: fec.version.v6_4.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2N
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H8NY26095
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Lee
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: Christopher
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: 6347 Everwood Ct N.
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: East Amherst
+  - name: CANDIDATE STATE
+    number: '12'
+    value: NY
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '14051   '
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: REP
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: NY
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '26'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2010'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00450148
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: Chris Lee for Congress
+  - name: PCC STREET 1
+    number: '21'
+    value: PO Box 15395
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: Rochester
+  - name: PCC STATE
+    number: '24'
+    value: NY
+  - name: PCC ZIP
+    number: '25'
+    value: '14615   '
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: C00462200
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: Patriot Day Committee
+  - name: AUTH STREET 1
+    number: '28'
+    value: 228 S Washington Street
+  - name: AUTH STREET 2
+    number: '29'
+    value: Suite 115
+  - name: AUTH CITY
+    number: '30'
+    value: Washingnton
+  - name: AUTH STATE
+    number: '31'
+    value: 'DC '
+  - name: AUTH ZIP
+    number: '32'
+    value: '22314    '
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: Lee
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: Christopher
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: ''
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20090716
+
+'
+- attempt:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: H8NY26095
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT.1
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: F2N
+  - name: TEXT4000
+    number: '6'
+    value: Form 2 amended to add JFR Patriot Day Committee
+  - value: '
+
+'
+  expected_count: 6
+  input: "TEXT\x1CH8NY26095\x1CTEXT.1\x1C\x1CF2N\x1CForm 2 amended to add JFR Patriot
+    Day Committee\x1C\n"
+  input_count: 7
+  record: fec.version.v6_4.TEXT
+  result: []
+sourceurl: !!python/unicode 20090716
+type: chunk

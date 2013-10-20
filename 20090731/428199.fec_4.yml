@@ -1,0 +1,7073 @@
+countrows: 52
+filename: 428199.fec
+header: {}
+rows:
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB21b
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00455378
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 90315.E564
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Virgin Mobile USA
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 10 Independence Blvd.
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Warren
+  - name: PAYEE STATE
+    number: '16'
+    value: NJ
+  - name: PAYEE ZIP
+    number: '17'
+    value: '07059    '
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090312'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '11.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: PAC Phone Expense
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: PAC PHONE EXPENSE
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: ''
+  - value: '
+
+'
+  expected_count: 45
+  input: "SB21b\x1CC00455378\x1C90315.E564\x1C\x1C\x1CORG\x1CVirgin Mobile USA\x1C\x1C\x1C\x1C\x1C\x1C10
+    Independence Blvd.\x1C\x1CWarren\x1CNJ\x1C07059    \x1C\x1C\x1C20090312\x1C11.00\x1C\x1C\x1CPAC
+    Phone Expense\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CPAC
+    PHONE EXPENSE\x1C\x1C\n"
+  input_count: 46
+  record: fec.version.v6_4.SB
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB21b
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00455378
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 90428.E607
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Virgin Mobile USA
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 10 Independence Blvd.
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Warren
+  - name: PAYEE STATE
+    number: '16'
+    value: NJ
+  - name: PAYEE ZIP
+    number: '17'
+    value: '07059    '
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090319'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '91.76'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: PAC Phone Expense
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: PAC PHONE EXPENSE
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: ''
+  - value: '
+
+'
+  expected_count: 45
+  input: "SB21b\x1CC00455378\x1C90428.E607\x1C\x1C\x1CORG\x1CVirgin Mobile USA\x1C\x1C\x1C\x1C\x1C\x1C10
+    Independence Blvd.\x1C\x1CWarren\x1CNJ\x1C07059    \x1C\x1C\x1C20090319\x1C91.76\x1C\x1C\x1CPAC
+    Phone Expense\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CPAC
+    PHONE EXPENSE\x1C\x1C\n"
+  input_count: 46
+  record: fec.version.v6_4.SB
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB21b
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00455378
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 90428.E611
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Virgin Mobile USA
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 10 Independence Blvd.
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Warren
+  - name: PAYEE STATE
+    number: '16'
+    value: NJ
+  - name: PAYEE ZIP
+    number: '17'
+    value: '07059    '
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090323'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '90.77'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: PAC Phone Expense
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: PAC PHONE EXPENSE
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: ''
+  - value: '
+
+'
+  expected_count: 45
+  input: "SB21b\x1CC00455378\x1C90428.E611\x1C\x1C\x1CORG\x1CVirgin Mobile USA\x1C\x1C\x1C\x1C\x1C\x1C10
+    Independence Blvd.\x1C\x1CWarren\x1CNJ\x1C07059    \x1C\x1C\x1C20090323\x1C90.77\x1C\x1C\x1CPAC
+    Phone Expense\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CPAC
+    PHONE EXPENSE\x1C\x1C\n"
+  input_count: 46
+  record: fec.version.v6_4.SB
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB21b
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00455378
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 90428.E646
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Virgin Mobile USA
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 10 Independence Blvd.
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Warren
+  - name: PAYEE STATE
+    number: '16'
+    value: NJ
+  - name: PAYEE ZIP
+    number: '17'
+    value: '07059    '
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090420'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '92.12'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: PAC Phone Expense
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: PAC PHONE EXPENSE
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: ''
+  - value: '
+
+'
+  expected_count: 45
+  input: "SB21b\x1CC00455378\x1C90428.E646\x1C\x1C\x1CORG\x1CVirgin Mobile USA\x1C\x1C\x1C\x1C\x1C\x1C10
+    Independence Blvd.\x1C\x1CWarren\x1CNJ\x1C07059    \x1C\x1C\x1C20090420\x1C92.12\x1C\x1C\x1CPAC
+    Phone Expense\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CPAC
+    PHONE EXPENSE\x1C\x1C\n"
+  input_count: 46
+  record: fec.version.v6_4.SB
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB21b
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00455378
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 90428.E648
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Virgin Mobile USA
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 10 Independence Blvd.
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Warren
+  - name: PAYEE STATE
+    number: '16'
+    value: NJ
+  - name: PAYEE ZIP
+    number: '17'
+    value: '07059    '
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090421'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '91.13'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: PAC Phone Expense
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: PAC PHONE EXPENSE
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: ''
+  - value: '
+
+'
+  expected_count: 45
+  input: "SB21b\x1CC00455378\x1C90428.E648\x1C\x1C\x1CORG\x1CVirgin Mobile USA\x1C\x1C\x1C\x1C\x1C\x1C10
+    Independence Blvd.\x1C\x1CWarren\x1CNJ\x1C07059    \x1C\x1C\x1C20090421\x1C91.13\x1C\x1C\x1CPAC
+    Phone Expense\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CPAC
+    PHONE EXPENSE\x1C\x1C\n"
+  input_count: 46
+  record: fec.version.v6_4.SB
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB21b
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00455378
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 90714.E749
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Virgin Mobile USA
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 10 Independence Blvd.
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Warren
+  - name: PAYEE STATE
+    number: '16'
+    value: NJ
+  - name: PAYEE ZIP
+    number: '17'
+    value: '07059    '
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090519'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '92.12'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: PAC Phone Expense
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: PAC PHONE EXPENSE
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: ''
+  - value: '
+
+'
+  expected_count: 45
+  input: "SB21b\x1CC00455378\x1C90714.E749\x1C\x1C\x1CORG\x1CVirgin Mobile USA\x1C\x1C\x1C\x1C\x1C\x1C10
+    Independence Blvd.\x1C\x1CWarren\x1CNJ\x1C07059    \x1C\x1C\x1C20090519\x1C92.12\x1C\x1C\x1CPAC
+    Phone Expense\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CPAC
+    PHONE EXPENSE\x1C\x1C\n"
+  input_count: 46
+  record: fec.version.v6_4.SB
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB21b
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00455378
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 90714.E751
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Virgin Mobile USA
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 10 Independence Blvd.
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Warren
+  - name: PAYEE STATE
+    number: '16'
+    value: NJ
+  - name: PAYEE ZIP
+    number: '17'
+    value: '07059    '
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090521'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '91.13'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: PAC Phone Expense
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: PAC PHONE EXPENSE
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: ''
+  - value: '
+
+'
+  expected_count: 45
+  input: "SB21b\x1CC00455378\x1C90714.E751\x1C\x1C\x1CORG\x1CVirgin Mobile USA\x1C\x1C\x1C\x1C\x1C\x1C10
+    Independence Blvd.\x1C\x1CWarren\x1CNJ\x1C07059    \x1C\x1C\x1C20090521\x1C91.13\x1C\x1C\x1CPAC
+    Phone Expense\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CPAC
+    PHONE EXPENSE\x1C\x1C\n"
+  input_count: 46
+  record: fec.version.v6_4.SB
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB21b
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00455378
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 90714.E771
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Virgin Mobile USA
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 10 Independence Blvd.
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Warren
+  - name: PAYEE STATE
+    number: '16'
+    value: NJ
+  - name: PAYEE ZIP
+    number: '17'
+    value: '07059    '
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090619'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '92.13'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: PAC Phone Expense
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: PAC PHONE EXPENSE
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: ''
+  - value: '
+
+'
+  expected_count: 45
+  input: "SB21b\x1CC00455378\x1C90714.E771\x1C\x1C\x1CORG\x1CVirgin Mobile USA\x1C\x1C\x1C\x1C\x1C\x1C10
+    Independence Blvd.\x1C\x1CWarren\x1CNJ\x1C07059    \x1C\x1C\x1C20090619\x1C92.13\x1C\x1C\x1CPAC
+    Phone Expense\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CPAC
+    PHONE EXPENSE\x1C\x1C\n"
+  input_count: 46
+  record: fec.version.v6_4.SB
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB21b
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00455378
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 90714.E773
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Virgin Mobile USA
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 10 Independence Blvd.
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Warren
+  - name: PAYEE STATE
+    number: '16'
+    value: NJ
+  - name: PAYEE ZIP
+    number: '17'
+    value: '07059    '
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090622'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '91.14'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: PAC Phone Expense
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: PAC PHONE EXPENSE
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: ''
+  - value: '
+
+'
+  expected_count: 45
+  input: "SB21b\x1CC00455378\x1C90714.E773\x1C\x1C\x1CORG\x1CVirgin Mobile USA\x1C\x1C\x1C\x1C\x1C\x1C10
+    Independence Blvd.\x1C\x1CWarren\x1CNJ\x1C07059    \x1C\x1C\x1C20090622\x1C91.14\x1C\x1C\x1CPAC
+    Phone Expense\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CPAC
+    PHONE EXPENSE\x1C\x1C\n"
+  input_count: 46
+  record: fec.version.v6_4.SB
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB21b
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00455378
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 90714.E784
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Virgin Mobile USA
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 10 Independence Blvd.
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Warren
+  - name: PAYEE STATE
+    number: '16'
+    value: NJ
+  - name: PAYEE ZIP
+    number: '17'
+    value: '07059    '
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090626'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '11.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: PAC Phone Expense
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: PAC PHONE EXPENSE
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: ''
+  - value: '
+
+'
+  expected_count: 45
+  input: "SB21b\x1CC00455378\x1C90714.E784\x1C\x1C\x1CORG\x1CVirgin Mobile USA\x1C\x1C\x1C\x1C\x1C\x1C10
+    Independence Blvd.\x1C\x1CWarren\x1CNJ\x1C07059    \x1C\x1C\x1C20090626\x1C11.00\x1C\x1C\x1CPAC
+    Phone Expense\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CPAC
+    PHONE EXPENSE\x1C\x1C\n"
+  input_count: 46
+  record: fec.version.v6_4.SB
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB21b
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00455378
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 90714.E741
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Wheeler
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Scott
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 2100 M St Nw
+  - name: PAYEE STREET 2
+    number: '14'
+    value: 'Suite 170-340 '
+  - name: PAYEE CITY
+    number: '15'
+    value: Washington
+  - name: PAYEE STATE
+    number: '16'
+    value: DC
+  - name: PAYEE ZIP
+    number: '17'
+    value: '20037    '
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090629'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '1701.95'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: 'Reimbursement: See Below'
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: 'REIMBURSEMENT: SEE BELOW'
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: ''
+  - value: '
+
+'
+  expected_count: 45
+  input: "SB21b\x1CC00455378\x1C90714.E741\x1C\x1C\x1CIND\x1C\x1CWheeler\x1CScott\x1C\x1C\x1C\x1C2100
+    M St Nw\x1CSuite 170-340 \x1CWashington\x1CDC\x1C20037    \x1C\x1C\x1C20090629\x1C1701.95\x1C\x1C\x1CReimbursement:
+    See Below\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CREIMBURSEMENT:
+    SEE BELOW\x1C\x1C\n"
+  input_count: 46
+  record: fec.version.v6_4.SB
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB21b
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00455378
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 90714.E743
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Verizon Wireless
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: PO Box 4009
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Silver Spring
+  - name: PAYEE STATE
+    number: '16'
+    value: MD
+  - name: PAYEE ZIP
+    number: '17'
+    value: '20914    '
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090626'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '994.91'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: PAC Cellular Service
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: 'MEMO: PAC CELLULAR SERVICE'
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: ''
+  - value: '
+
+'
+  expected_count: 45
+  input: "SB21b\x1CC00455378\x1C90714.E743\x1C\x1C\x1CORG\x1CVerizon Wireless\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 4009\x1C\x1CSilver Spring\x1CMD\x1C20914    \x1C\x1C\x1C20090626\x1C994.91\x1C\x1C\x1CPAC
+    Cellular Service\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CX\x1CMEMO:
+    PAC CELLULAR SERVICE\x1C\x1C\n"
+  input_count: 46
+  record: fec.version.v6_4.SB
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB21b
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00455378
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 90714.E742
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Wheeler
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Scott
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 2100 M St Nw
+  - name: PAYEE STREET 2
+    number: '14'
+    value: 'Suite 170-340 '
+  - name: PAYEE CITY
+    number: '15'
+    value: Washington
+  - name: PAYEE STATE
+    number: '16'
+    value: DC
+  - name: PAYEE ZIP
+    number: '17'
+    value: '20037    '
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090626'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '707.04'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: PAC Travel/Meals
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: 'MEMO: PAC TRAVEL/MEALS'
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: ''
+  - value: '
+
+'
+  expected_count: 45
+  input: "SB21b\x1CC00455378\x1C90714.E742\x1C\x1C\x1CIND\x1C\x1CWheeler\x1CScott\x1C\x1C\x1C\x1C2100
+    M St Nw\x1CSuite 170-340 \x1CWashington\x1CDC\x1C20037    \x1C\x1C\x1C20090626\x1C707.04\x1C\x1C\x1CPAC
+    Travel/Meals\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CX\x1CMEMO:
+    PAC TRAVEL/MEALS\x1C\x1C\n"
+  input_count: 46
+  record: fec.version.v6_4.SB
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00455378
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 90729.E827
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: CCM
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Tedisco For Congress Inc.
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 1707 Rt 9
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Clifton Park
+  - name: PAYEE STATE
+    number: '16'
+    value: NY
+  - name: PAYEE ZIP
+    number: '17'
+    value: '12065    '
+  - name: ELECTION CODE
+    number: '18'
+    value: S2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Special General 2009
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090403'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '7.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: NON-DIRECTED EARMARK FROM YVONNE STARKS
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '28'
+    value: H0NY00048
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '29'
+    value: TEDISCO
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '30'
+    value: JAMES
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '35'
+    value: NY
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '36'
+    value: '20'
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: 'MEMO: NON-DIRECTED EARMARK FROM YVONNE STARKS'
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: ''
+  - value: '
+
+'
+  expected_count: 45
+  input: "SB23\x1CC00455378\x1C90729.E827\x1C\x1C\x1CCCM\x1CTedisco For Congress Inc.\x1C\x1C\x1C\x1C\x1C\x1C1707
+    Rt 9\x1C\x1CClifton Park\x1CNY\x1C12065    \x1CS2009\x1CSpecial General 2009\x1C20090403\x1C7.00\x1C\x1C\x1CNON-DIRECTED
+    EARMARK FROM YVONNE STARKS\x1C\x1C\x1C\x1CH0NY00048\x1CTEDISCO\x1CJAMES\x1C\x1C\x1C\x1CH\x1CNY\x1C20\x1C\x1C\x1C\x1C\x1C\x1C\x1CX\x1CMEMO:
+    NON-DIRECTED EARMARK FROM YVONNE STARKS\x1C\x1C\n"
+  input_count: 46
+  record: fec.version.v6_4.SB
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00455378
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 90729.E825
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: CCM
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Tedisco For Congress Inc.
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 1707 Rt 9
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Clifton Park
+  - name: PAYEE STATE
+    number: '16'
+    value: NY
+  - name: PAYEE ZIP
+    number: '17'
+    value: '12065    '
+  - name: ELECTION CODE
+    number: '18'
+    value: S2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Special General 2009
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090403'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '10.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: NON-DIRECTED EARMARK FROM NICHOLAS FELICCIA
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '28'
+    value: H0NY00048
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '29'
+    value: TEDISCO
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '30'
+    value: JAMES
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '35'
+    value: NY
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '36'
+    value: '20'
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: 'MEMO: NON-DIRECTED EARMARK FROM NICHOLAS FELICCIA'
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: ''
+  - value: '
+
+'
+  expected_count: 45
+  input: "SB23\x1CC00455378\x1C90729.E825\x1C\x1C\x1CCCM\x1CTedisco For Congress Inc.\x1C\x1C\x1C\x1C\x1C\x1C1707
+    Rt 9\x1C\x1CClifton Park\x1CNY\x1C12065    \x1CS2009\x1CSpecial General 2009\x1C20090403\x1C10.00\x1C\x1C\x1CNON-DIRECTED
+    EARMARK FROM NICHOLAS FELICCIA\x1C\x1C\x1C\x1CH0NY00048\x1CTEDISCO\x1CJAMES\x1C\x1C\x1C\x1CH\x1CNY\x1C20\x1C\x1C\x1C\x1C\x1C\x1C\x1CX\x1CMEMO:
+    NON-DIRECTED EARMARK FROM NICHOLAS FELICCIA\x1C\x1C\n"
+  input_count: 46
+  record: fec.version.v6_4.SB
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00455378
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 90729.E826
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: CCM
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Tedisco For Congress Inc.
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 1707 Rt 9
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Clifton Park
+  - name: PAYEE STATE
+    number: '16'
+    value: NY
+  - name: PAYEE ZIP
+    number: '17'
+    value: '12065    '
+  - name: ELECTION CODE
+    number: '18'
+    value: S2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Special General 2009
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090403'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '25.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: NON-DIRECTED EARMARK FROM RICHARD FORTUNE
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '28'
+    value: H0NY00048
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '29'
+    value: TEDISCO
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '30'
+    value: JAMES
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '35'
+    value: NY
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '36'
+    value: '20'
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: 'MEMO: NON-DIRECTED EARMARK FROM RICHARD FORTUNE'
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: ''
+  - value: '
+
+'
+  expected_count: 45
+  input: "SB23\x1CC00455378\x1C90729.E826\x1C\x1C\x1CCCM\x1CTedisco For Congress Inc.\x1C\x1C\x1C\x1C\x1C\x1C1707
+    Rt 9\x1C\x1CClifton Park\x1CNY\x1C12065    \x1CS2009\x1CSpecial General 2009\x1C20090403\x1C25.00\x1C\x1C\x1CNON-DIRECTED
+    EARMARK FROM RICHARD FORTUNE\x1C\x1C\x1C\x1CH0NY00048\x1CTEDISCO\x1CJAMES\x1C\x1C\x1C\x1CH\x1CNY\x1C20\x1C\x1C\x1C\x1C\x1C\x1C\x1CX\x1CMEMO:
+    NON-DIRECTED EARMARK FROM RICHARD FORTUNE\x1C\x1C\n"
+  input_count: 46
+  record: fec.version.v6_4.SB
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00455378
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 90729.E828
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: CCM
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Tedisco For Congress Inc.
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 1707 Rt 9
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Clifton Park
+  - name: PAYEE STATE
+    number: '16'
+    value: NY
+  - name: PAYEE ZIP
+    number: '17'
+    value: '12065    '
+  - name: ELECTION CODE
+    number: '18'
+    value: S2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Special General 2009
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090403'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '10.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: NON-DIRECTED EARMARK FROM LEE ROY HAYMOND
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '28'
+    value: H0NY00048
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '29'
+    value: TEDISCO
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '30'
+    value: JAMES
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '35'
+    value: NY
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '36'
+    value: '20'
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: 'MEMO: NON-DIRECTED EARMARK FROM LEE ROY HAYMOND'
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: ''
+  - value: '
+
+'
+  expected_count: 45
+  input: "SB23\x1CC00455378\x1C90729.E828\x1C\x1C\x1CCCM\x1CTedisco For Congress Inc.\x1C\x1C\x1C\x1C\x1C\x1C1707
+    Rt 9\x1C\x1CClifton Park\x1CNY\x1C12065    \x1CS2009\x1CSpecial General 2009\x1C20090403\x1C10.00\x1C\x1C\x1CNON-DIRECTED
+    EARMARK FROM LEE ROY HAYMOND\x1C\x1C\x1C\x1CH0NY00048\x1CTEDISCO\x1CJAMES\x1C\x1C\x1C\x1CH\x1CNY\x1C20\x1C\x1C\x1C\x1C\x1C\x1C\x1CX\x1CMEMO:
+    NON-DIRECTED EARMARK FROM LEE ROY HAYMOND\x1C\x1C\n"
+  input_count: 46
+  record: fec.version.v6_4.SB
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00455378
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 90729.E831
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: CCM
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Tedisco For Congress Inc.
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 1707 Rt 9
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Clifton Park
+  - name: PAYEE STATE
+    number: '16'
+    value: NY
+  - name: PAYEE ZIP
+    number: '17'
+    value: '12065    '
+  - name: ELECTION CODE
+    number: '18'
+    value: S2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Special General 2009
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090403'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '25.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: NON-DIRECTED EARMARK FROM MARY LEMLEY
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '28'
+    value: H0NY00048
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '29'
+    value: TEDISCO
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '30'
+    value: JAMES
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '35'
+    value: NY
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '36'
+    value: '20'
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: 'MEMO: NON-DIRECTED EARMARK FROM MARY LEMLEY'
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: ''
+  - value: '
+
+'
+  expected_count: 45
+  input: "SB23\x1CC00455378\x1C90729.E831\x1C\x1C\x1CCCM\x1CTedisco For Congress Inc.\x1C\x1C\x1C\x1C\x1C\x1C1707
+    Rt 9\x1C\x1CClifton Park\x1CNY\x1C12065    \x1CS2009\x1CSpecial General 2009\x1C20090403\x1C25.00\x1C\x1C\x1CNON-DIRECTED
+    EARMARK FROM MARY LEMLEY\x1C\x1C\x1C\x1CH0NY00048\x1CTEDISCO\x1CJAMES\x1C\x1C\x1C\x1CH\x1CNY\x1C20\x1C\x1C\x1C\x1C\x1C\x1C\x1CX\x1CMEMO:
+    NON-DIRECTED EARMARK FROM MARY LEMLEY\x1C\x1C\n"
+  input_count: 46
+  record: fec.version.v6_4.SB
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00455378
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 90729.E829
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: CCM
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Tedisco For Congress Inc.
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 1707 Rt 9
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Clifton Park
+  - name: PAYEE STATE
+    number: '16'
+    value: NY
+  - name: PAYEE ZIP
+    number: '17'
+    value: '12065    '
+  - name: ELECTION CODE
+    number: '18'
+    value: S2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Special General 2009
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090403'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '40.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: NON-DIRECTED EARMARK FROM ANONYMOUS
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '28'
+    value: H0NY00048
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '29'
+    value: TEDISCO
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '30'
+    value: JAMES
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '35'
+    value: NY
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '36'
+    value: '20'
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: 'MEMO: NON-DIRECTED EARMARK FROM ANONYMOUS'
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: ''
+  - value: '
+
+'
+  expected_count: 45
+  input: "SB23\x1CC00455378\x1C90729.E829\x1C\x1C\x1CCCM\x1CTedisco For Congress Inc.\x1C\x1C\x1C\x1C\x1C\x1C1707
+    Rt 9\x1C\x1CClifton Park\x1CNY\x1C12065    \x1CS2009\x1CSpecial General 2009\x1C20090403\x1C40.00\x1C\x1C\x1CNON-DIRECTED
+    EARMARK FROM ANONYMOUS\x1C\x1C\x1C\x1CH0NY00048\x1CTEDISCO\x1CJAMES\x1C\x1C\x1C\x1CH\x1CNY\x1C20\x1C\x1C\x1C\x1C\x1C\x1C\x1CX\x1CMEMO:
+    NON-DIRECTED EARMARK FROM ANONYMOUS\x1C\x1C\n"
+  input_count: 46
+  record: fec.version.v6_4.SB
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00455378
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 90729.E830
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: CCM
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Tedisco For Congress Inc.
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 1707 Rt 9
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Clifton Park
+  - name: PAYEE STATE
+    number: '16'
+    value: NY
+  - name: PAYEE ZIP
+    number: '17'
+    value: '12065    '
+  - name: ELECTION CODE
+    number: '18'
+    value: S2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Special General 2009
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090403'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '50.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: NON-DIRECTED EARMARK FROM EILENE CUMMINS
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '28'
+    value: H0NY00048
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '29'
+    value: TEDISCO
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '30'
+    value: JAMES
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '35'
+    value: NY
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '36'
+    value: '20'
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: 'MEMO: NON-DIRECTED EARMARK FROM EILENE CUMMINS'
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: ''
+  - value: '
+
+'
+  expected_count: 45
+  input: "SB23\x1CC00455378\x1C90729.E830\x1C\x1C\x1CCCM\x1CTedisco For Congress Inc.\x1C\x1C\x1C\x1C\x1C\x1C1707
+    Rt 9\x1C\x1CClifton Park\x1CNY\x1C12065    \x1CS2009\x1CSpecial General 2009\x1C20090403\x1C50.00\x1C\x1C\x1CNON-DIRECTED
+    EARMARK FROM EILENE CUMMINS\x1C\x1C\x1C\x1CH0NY00048\x1CTEDISCO\x1CJAMES\x1C\x1C\x1C\x1CH\x1CNY\x1C20\x1C\x1C\x1C\x1C\x1C\x1C\x1CX\x1CMEMO:
+    NON-DIRECTED EARMARK FROM EILENE CUMMINS\x1C\x1C\n"
+  input_count: 46
+  record: fec.version.v6_4.SB
+  result: []
+- input: "SB29\x1CC00455378\x1C90424.E593\x1C\x1C\x1CORG\x1CDavid Horowtiz Freedom
+    Center\x1C\x1C\x1C\x1C\x1C\x1CP.O. Box 55089\x1C\x1CVan Nuys\x1CCA\x1C914991964\x1CO2009\x1CAnnual
+    2009\x1C20090323\x1C2500.00\x1C\x1C\x1CDONATION\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB29
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00455378
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 90424.E593
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: David Horowtiz Freedom Center
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: P.O. Box 55089
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Van Nuys
+  - name: PAYEE STATE
+    number: '16'
+    value: CA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '914991964'
+  - name: ELECTION CODE
+    number: '18'
+    value: O2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Annual 2009
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090323'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '2500.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: DONATION
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: '
+
+'
+- input: "SB29\x1CC00455378\x1C90424.E592\x1C\x1C\x1CCCM\x1CFoster for Attorney General\x1C\x1C\x1C\x1C\x1C\x1CP.O.
+    Box 7137\x1C\x1CArlington\x1CVA\x1C22207    \x1CP2009\x1C\x1C20090323\x1C2500.00\x1C\x1C\x1CNON-FEDERAL
+    CONTRIBUTION\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB29
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00455378
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 90424.E592
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: CCM
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Foster for Attorney General
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: P.O. Box 7137
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Arlington
+  - name: PAYEE STATE
+    number: '16'
+    value: VA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '22207    '
+  - name: ELECTION CODE
+    number: '18'
+    value: P2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090323'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '2500.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: NON-FEDERAL CONTRIBUTION
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: '
+
+'
+- input: "SB29\x1CC00455378\x1C90512.E696\x1C\x1C\x1CCCM\x1CFoster for Attorney General\x1C\x1C\x1C\x1C\x1C\x1CP.O.
+    Box 7137\x1C\x1CArlington\x1CVA\x1C22207    \x1CP2009\x1C\x1C20090430\x1C10000.00\x1C\x1C\x1CNON-FEDERAL
+    CONTRIBUTION\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB29
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00455378
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 90512.E696
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: CCM
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Foster for Attorney General
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: P.O. Box 7137
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Arlington
+  - name: PAYEE STATE
+    number: '16'
+    value: VA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '22207    '
+  - name: ELECTION CODE
+    number: '18'
+    value: P2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090430'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '10000.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: NON-FEDERAL CONTRIBUTION
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: '
+
+'
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB28B
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00455378
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 90429.E651
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: PTY
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Manatee County Republican Party
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: PO Box 14091
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Bradenton
+  - name: PAYEE STATE
+    number: '16'
+    value: FL
+  - name: PAYEE ZIP
+    number: '17'
+    value: '342804091'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090424'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '5000.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: 'Refund of Contribution '
+  - name: CATEGORY CODE
+    number: '25'
+    value: '010'
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: ''
+  - value: '
+
+'
+  expected_count: 45
+  input: "SB28B\x1CC00455378\x1C90429.E651\x1C\x1C\x1CPTY\x1CManatee County Republican
+    Party\x1C\x1C\x1C\x1C\x1C\x1CPO Box 14091\x1C\x1CBradenton\x1CFL\x1C342804091\x1C\x1C\x1C20090424\x1C5000.00\x1C\x1C\x1CRefund
+    of Contribution \x1C010\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  input_count: 46
+  record: fec.version.v6_4.SB
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00455378
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: LS90730.E833
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Newsmax Media, Inc.
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 560 Village Blvd., Suite 120
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: West Palm Beach
+  - name: CREDITOR STATE
+    number: '14'
+    value: FL
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '33409    '
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Email Communication
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '0.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '4916.90'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '4916.90'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD10\x1CC00455378\x1CLS90730.E833\x1CORG\x1CNewsmax Media, Inc.\x1C\x1C\x1C\x1C\x1C\x1C560
+    Village Blvd., Suite 120\x1C\x1CWest Palm Beach\x1CFL\x1C33409    \x1CEmail Communication\x1C0.00\x1C4916.90\x1C0.00\x1C4916.90\x1C\n"
+  input_count: 21
+  record: fec.version.v6_4.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00455378
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: LS90315.E531
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Eagle Publishing, Inc.
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: One Massachusetts Ave., NW
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Washington
+  - name: CREDITOR STATE
+    number: '14'
+    value: DC
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '20001    '
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: PAC Email Communication
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '12000.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '12000.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '0.00'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD10\x1CC00455378\x1CLS90315.E531\x1CORG\x1CEagle Publishing, Inc.\x1C\x1C\x1C\x1C\x1C\x1COne
+    Massachusetts Ave., NW\x1C\x1CWashington\x1CDC\x1C20001    \x1CPAC Email Communication\x1C12000.00\x1C0.00\x1C12000.00\x1C0.00\x1C\n"
+  input_count: 21
+  record: fec.version.v6_4.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00455378
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: LS90730.E832
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Triangulation Strategies, Inc.
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 64 Twin Lakes Rd
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: South Salem
+  - name: CREDITOR STATE
+    number: '14'
+    value: NY
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '10590    '
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Email Communication
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '0.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '2005.90'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '2005.90'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD10\x1CC00455378\x1CLS90730.E832\x1CORG\x1CTriangulation Strategies, Inc.\x1C\x1C\x1C\x1C\x1C\x1C64
+    Twin Lakes Rd\x1C\x1CSouth Salem\x1CNY\x1C10590    \x1CEmail Communication\x1C0.00\x1C2005.90\x1C0.00\x1C2005.90\x1C\n"
+  input_count: 21
+  record: fec.version.v6_4.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00455378
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: LS90315.E534
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: CRC Public Relations
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 2760 Eisenhower Ave, 4th Floor
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Alexandria
+  - name: CREDITOR STATE
+    number: '14'
+    value: VA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '22314    '
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: PAC Public Relations Consulting
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '15000.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '15000.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '0.00'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD10\x1CC00455378\x1CLS90315.E534\x1CORG\x1CCRC Public Relations\x1C\x1C\x1C\x1C\x1C\x1C2760
+    Eisenhower Ave, 4th Floor\x1C\x1CAlexandria\x1CVA\x1C22314    \x1CPAC Public Relations
+    Consulting\x1C15000.00\x1C0.00\x1C15000.00\x1C0.00\x1C\n"
+  input_count: 21
+  record: fec.version.v6_4.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00455378
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: LS90315.E535
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Southwest Publishing Mailing Corp
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 2600 NW Topeka Blvd
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Topeka
+  - name: CREDITOR STATE
+    number: '14'
+    value: KS
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '66617    '
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: PAC Direct Mail
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '42082.54'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '42082.54'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '0.00'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD10\x1CC00455378\x1CLS90315.E535\x1CORG\x1CSouthwest Publishing Mailing
+    Corp\x1C\x1C\x1C\x1C\x1C\x1C2600 NW Topeka Blvd\x1C\x1CTopeka\x1CKS\x1C66617    \x1CPAC
+    Direct Mail\x1C42082.54\x1C0.00\x1C42082.54\x1C0.00\x1C\n"
+  input_count: 21
+  record: fec.version.v6_4.SD
+  result: []
+- input: "SE\x1CC00455378\x1C90429.E683\x1C\x1C\x1CORG\x1CNewsmax Media, Inc.\x1C\x1C\x1C\x1C\x1C\x1C560
+    Village Blvd., Suite 120\x1C\x1CWest Palm Beach\x1CFL\x1C33409    \x1CS2009\x1CSpecial
+    General 2009\x1C20090327\x1C4916.90\x1C817489.00\x1C24E\x1CEmail Communication\x1C\x1C\x1CS\x1CH0NY00048\x1CTEDISCO\x1CJAMES\x1C\x1C\x1C\x1CH\x1CNY\x1C20\x1CLeitner\x1CPeter\x1C\x1C\x1C\x1C20090731\x1CX\x1C\n"
+  record: fec.version.v6_4.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00455378
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 90429.E683
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Newsmax Media, Inc.
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 560 Village Blvd., Suite 120
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: West Palm Beach
+  - name: PAYEE STATE
+    number: '16'
+    value: FL
+  - name: PAYEE ZIP
+    number: '17'
+    value: '33409    '
+  - name: ELECTION CODE
+    number: '18'
+    value: S2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Special General 2009
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090327'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '4916.90'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '817489.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: 24E
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Email Communication
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '26'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '27'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '28'
+    value: H0NY00048
+  - name: S/O CANDIDATE LAST NAME
+    number: '29'
+    value: TEDISCO
+  - name: S/O CANDIDATE FIRST NAME
+    number: '30'
+    value: JAMES
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '35'
+    value: NY
+  - name: S/O CANDIDATE DISTRICT
+    number: '36'
+    value: '20'
+  - name: COMPLETING LAST NAME
+    number: '37'
+    value: Leitner
+  - name: COMPLETING FIRST NAME
+    number: '38'
+    value: Peter
+  - name: COMPLETING MIDDLE NAME
+    number: '39'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '40'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '41'
+    value: ''
+  - name: DATE SIGNED
+    number: '42'
+    value: '20090731'
+  - name: MEMO CODE
+    number: '43'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: '
+
+'
+- input: "SE\x1CC00455378\x1C90429.E684\x1C\x1C\x1CORG\x1CTriangulation Strategies,
+    Inc.\x1C\x1C\x1C\x1C\x1C\x1C64 Twin Lakes Rd\x1C\x1CSouth Salem\x1CNY\x1C10590
+    \   \x1CS2009\x1CSpecial General 2009\x1C20090320\x1C2005.90\x1C817489.00\x1C24E\x1CEmail
+    Communication\x1C\x1C\x1CS\x1CH0NY00048\x1CTEDISCO\x1CJAMES\x1C\x1C\x1C\x1CH\x1CNY\x1C20\x1CLeitner\x1CPeter\x1C\x1C\x1C\x1C20090731\x1CX\x1C\n"
+  record: fec.version.v6_4.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00455378
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 90429.E684
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Triangulation Strategies, Inc.
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 64 Twin Lakes Rd
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: South Salem
+  - name: PAYEE STATE
+    number: '16'
+    value: NY
+  - name: PAYEE ZIP
+    number: '17'
+    value: '10590    '
+  - name: ELECTION CODE
+    number: '18'
+    value: S2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Special General 2009
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090320'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '2005.90'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '817489.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: 24E
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Email Communication
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '26'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '27'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '28'
+    value: H0NY00048
+  - name: S/O CANDIDATE LAST NAME
+    number: '29'
+    value: TEDISCO
+  - name: S/O CANDIDATE FIRST NAME
+    number: '30'
+    value: JAMES
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '35'
+    value: NY
+  - name: S/O CANDIDATE DISTRICT
+    number: '36'
+    value: '20'
+  - name: COMPLETING LAST NAME
+    number: '37'
+    value: Leitner
+  - name: COMPLETING FIRST NAME
+    number: '38'
+    value: Peter
+  - name: COMPLETING MIDDLE NAME
+    number: '39'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '40'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '41'
+    value: ''
+  - name: DATE SIGNED
+    number: '42'
+    value: '20090731'
+  - name: MEMO CODE
+    number: '43'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: '
+
+'
+- input: "SE\x1CC00455378\x1C90429.E677\x1C\x1C\x1CORG\x1CCornerstone Management Partners\x1C\x1C\x1C\x1C\x1C\x1C779
+    Downing Street\x1C\x1CTeaneck\x1CNJ\x1C07666    \x1CS2009\x1CSpecial General 2009\x1C20090329\x1C40687.00\x1C817489.00\x1C24E\x1CPhone
+    Communication\x1C\x1C\x1CS\x1CH0NY00048\x1CTEDISCO\x1CJAMES\x1C\x1C\x1C\x1CH\x1CNY\x1C20\x1CLeitner\x1CPeter\x1C\x1C\x1C\x1C20090731\x1C\x1C\n"
+  record: fec.version.v6_4.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00455378
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 90429.E677
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Cornerstone Management Partners
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 779 Downing Street
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Teaneck
+  - name: PAYEE STATE
+    number: '16'
+    value: NJ
+  - name: PAYEE ZIP
+    number: '17'
+    value: '07666    '
+  - name: ELECTION CODE
+    number: '18'
+    value: S2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Special General 2009
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090329'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '40687.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '817489.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: 24E
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Phone Communication
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '26'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '27'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '28'
+    value: H0NY00048
+  - name: S/O CANDIDATE LAST NAME
+    number: '29'
+    value: TEDISCO
+  - name: S/O CANDIDATE FIRST NAME
+    number: '30'
+    value: JAMES
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '35'
+    value: NY
+  - name: S/O CANDIDATE DISTRICT
+    number: '36'
+    value: '20'
+  - name: COMPLETING LAST NAME
+    number: '37'
+    value: Leitner
+  - name: COMPLETING FIRST NAME
+    number: '38'
+    value: Peter
+  - name: COMPLETING MIDDLE NAME
+    number: '39'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '40'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '41'
+    value: ''
+  - name: DATE SIGNED
+    number: '42'
+    value: '20090731'
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: '
+
+'
+- input: "SE\x1CC00455378\x1C90429.E686\x1C\x1C\x1CORG\x1CDrake Ventures\x1C\x1C\x1C\x1C\x1C\x1C401
+    E Las Olas Blvd, Suite 1650\x1C\x1CFort Lauderdale\x1CFL\x1C33301    \x1CS2009\x1CSpecial
+    General 2009\x1C20090314\x1C1000.00\x1C817489.00\x1C24E\x1CEmail Production\x1C\x1C\x1CS\x1CH0NY00048\x1CTEDISCO\x1CJAMES\x1C\x1C\x1C\x1CH\x1CNY\x1C20\x1CLeitner\x1CPeter\x1C\x1C\x1C\x1C20090731\x1C\x1C\n"
+  record: fec.version.v6_4.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00455378
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 90429.E686
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Drake Ventures
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 401 E Las Olas Blvd, Suite 1650
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Fort Lauderdale
+  - name: PAYEE STATE
+    number: '16'
+    value: FL
+  - name: PAYEE ZIP
+    number: '17'
+    value: '33301    '
+  - name: ELECTION CODE
+    number: '18'
+    value: S2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Special General 2009
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090314'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '1000.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '817489.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: 24E
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Email Production
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '26'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '27'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '28'
+    value: H0NY00048
+  - name: S/O CANDIDATE LAST NAME
+    number: '29'
+    value: TEDISCO
+  - name: S/O CANDIDATE FIRST NAME
+    number: '30'
+    value: JAMES
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '35'
+    value: NY
+  - name: S/O CANDIDATE DISTRICT
+    number: '36'
+    value: '20'
+  - name: COMPLETING LAST NAME
+    number: '37'
+    value: Leitner
+  - name: COMPLETING FIRST NAME
+    number: '38'
+    value: Peter
+  - name: COMPLETING MIDDLE NAME
+    number: '39'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '40'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '41'
+    value: ''
+  - name: DATE SIGNED
+    number: '42'
+    value: '20090731'
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: '
+
+'
+- input: "SE\x1CC00455378\x1C90429.E656\x1C\x1C\x1CORG\x1CEagle Publishing, Inc.\x1C\x1C\x1C\x1C\x1C\x1COne
+    Massachusetts Ave., NW\x1C\x1CWashington\x1CDC\x1C20001    \x1CS2009\x1CSpecial
+    General 2009\x1C20090326\x1C6000.00\x1C817489.00\x1C24E\x1CEmail Communication\x1C\x1C\x1CS\x1CH0NY00048\x1CTEDISCO\x1CJAMES\x1C\x1C\x1C\x1CH\x1CNY\x1C20\x1CLeitner\x1CPeter\x1C\x1C\x1C\x1C20090731\x1C\x1C\n"
+  record: fec.version.v6_4.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00455378
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 90429.E656
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Eagle Publishing, Inc.
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: One Massachusetts Ave., NW
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Washington
+  - name: PAYEE STATE
+    number: '16'
+    value: DC
+  - name: PAYEE ZIP
+    number: '17'
+    value: '20001    '
+  - name: ELECTION CODE
+    number: '18'
+    value: S2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Special General 2009
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090326'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '6000.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '817489.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: 24E
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Email Communication
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '26'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '27'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '28'
+    value: H0NY00048
+  - name: S/O CANDIDATE LAST NAME
+    number: '29'
+    value: TEDISCO
+  - name: S/O CANDIDATE FIRST NAME
+    number: '30'
+    value: JAMES
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '35'
+    value: NY
+  - name: S/O CANDIDATE DISTRICT
+    number: '36'
+    value: '20'
+  - name: COMPLETING LAST NAME
+    number: '37'
+    value: Leitner
+  - name: COMPLETING FIRST NAME
+    number: '38'
+    value: Peter
+  - name: COMPLETING MIDDLE NAME
+    number: '39'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '40'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '41'
+    value: ''
+  - name: DATE SIGNED
+    number: '42'
+    value: '20090731'
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: '
+
+'
+- input: "SE\x1CC00455378\x1C90429.E655\x1C\x1C\x1CORG\x1CEagle Publishing, Inc.\x1C\x1C\x1C\x1C\x1C\x1COne
+    Massachusetts Ave., NW\x1C\x1CWashington\x1CDC\x1C20001    \x1CS2009\x1CSpecial
+    General 2009\x1C20090324\x1C6000.00\x1C817489.00\x1C24E\x1CEmail Communication\x1C\x1C\x1CS\x1CH0NY00048\x1CTEDISCO\x1CJAMES\x1C\x1C\x1C\x1CH\x1CNY\x1C20\x1CLeitner\x1CPeter\x1C\x1C\x1C\x1C20090731\x1C\x1C\n"
+  record: fec.version.v6_4.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00455378
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 90429.E655
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Eagle Publishing, Inc.
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: One Massachusetts Ave., NW
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Washington
+  - name: PAYEE STATE
+    number: '16'
+    value: DC
+  - name: PAYEE ZIP
+    number: '17'
+    value: '20001    '
+  - name: ELECTION CODE
+    number: '18'
+    value: S2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Special General 2009
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090324'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '6000.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '817489.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: 24E
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Email Communication
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '26'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '27'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '28'
+    value: H0NY00048
+  - name: S/O CANDIDATE LAST NAME
+    number: '29'
+    value: TEDISCO
+  - name: S/O CANDIDATE FIRST NAME
+    number: '30'
+    value: JAMES
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '35'
+    value: NY
+  - name: S/O CANDIDATE DISTRICT
+    number: '36'
+    value: '20'
+  - name: COMPLETING LAST NAME
+    number: '37'
+    value: Leitner
+  - name: COMPLETING FIRST NAME
+    number: '38'
+    value: Peter
+  - name: COMPLETING MIDDLE NAME
+    number: '39'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '40'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '41'
+    value: ''
+  - name: DATE SIGNED
+    number: '42'
+    value: '20090731'
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: '
+
+'
+- input: "SE\x1CC00455378\x1C90429.E654\x1C\x1C\x1CORG\x1CEagle Publishing, Inc.\x1C\x1C\x1C\x1C\x1C\x1COne
+    Massachusetts Ave., NW\x1C\x1CWashington\x1CDC\x1C20001    \x1CS2009\x1CSpecial
+    General 2009\x1C20090319\x1C6000.00\x1C817489.00\x1C24E\x1CEmail Communication\x1C\x1C\x1CS\x1CH0NY00048\x1CTEDISCO\x1CJAMES\x1C\x1C\x1C\x1CH\x1CNY\x1C20\x1CLeitner\x1CPeter\x1C\x1C\x1C\x1C20090731\x1C\x1C\n"
+  record: fec.version.v6_4.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00455378
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 90429.E654
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Eagle Publishing, Inc.
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: One Massachusetts Ave., NW
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Washington
+  - name: PAYEE STATE
+    number: '16'
+    value: DC
+  - name: PAYEE ZIP
+    number: '17'
+    value: '20001    '
+  - name: ELECTION CODE
+    number: '18'
+    value: S2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Special General 2009
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090319'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '6000.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '817489.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: 24E
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Email Communication
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '26'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '27'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '28'
+    value: H0NY00048
+  - name: S/O CANDIDATE LAST NAME
+    number: '29'
+    value: TEDISCO
+  - name: S/O CANDIDATE FIRST NAME
+    number: '30'
+    value: JAMES
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '35'
+    value: NY
+  - name: S/O CANDIDATE DISTRICT
+    number: '36'
+    value: '20'
+  - name: COMPLETING LAST NAME
+    number: '37'
+    value: Leitner
+  - name: COMPLETING FIRST NAME
+    number: '38'
+    value: Peter
+  - name: COMPLETING MIDDLE NAME
+    number: '39'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '40'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '41'
+    value: ''
+  - name: DATE SIGNED
+    number: '42'
+    value: '20090731'
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: '
+
+'
+- input: "SE\x1CC00455378\x1C90429.E685\x1C\x1C\x1CORG\x1CIntrepid Media\x1C\x1C\x1C\x1C\x1C\x1C210
+    Mill Branch Rd\x1C\x1CTallahassee\x1CFL\x1C32312    \x1CS2009\x1CSpecial General
+    2009\x1C20090325\x1C26084.25\x1C817489.00\x1C24E\x1CMedia Production/Dist\x1C\x1C\x1CS\x1CH0NY00048\x1CTEDISCO\x1CJAMES\x1C\x1C\x1C\x1CH\x1CNY\x1C20\x1CLeitner\x1CPeter\x1C\x1C\x1C\x1C20090731\x1C\x1C\n"
+  record: fec.version.v6_4.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00455378
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 90429.E685
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Intrepid Media
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 210 Mill Branch Rd
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Tallahassee
+  - name: PAYEE STATE
+    number: '16'
+    value: FL
+  - name: PAYEE ZIP
+    number: '17'
+    value: '32312    '
+  - name: ELECTION CODE
+    number: '18'
+    value: S2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Special General 2009
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090325'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '26084.25'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '817489.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: 24E
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Media Production/Dist
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '26'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '27'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '28'
+    value: H0NY00048
+  - name: S/O CANDIDATE LAST NAME
+    number: '29'
+    value: TEDISCO
+  - name: S/O CANDIDATE FIRST NAME
+    number: '30'
+    value: JAMES
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '35'
+    value: NY
+  - name: S/O CANDIDATE DISTRICT
+    number: '36'
+    value: '20'
+  - name: COMPLETING LAST NAME
+    number: '37'
+    value: Leitner
+  - name: COMPLETING FIRST NAME
+    number: '38'
+    value: Peter
+  - name: COMPLETING MIDDLE NAME
+    number: '39'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '40'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '41'
+    value: ''
+  - name: DATE SIGNED
+    number: '42'
+    value: '20090731'
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: '
+
+'
+- input: "SE\x1CC00455378\x1C90429.E661\x1C\x1C\x1CORG\x1CIntrepid Media\x1C\x1C\x1C\x1C\x1C\x1C210
+    Mill Branch Rd\x1C\x1CTallahassee\x1CFL\x1C32312    \x1CS2009\x1CSpecial General
+    2009\x1C20090316\x1C20499.85\x1C817489.00\x1C24A\x1CRadio/Media Production\x1C\x1C\x1CO\x1CH0NY20079\x1CMURPHY\x1CSCOTT\x1CH\x1C\x1C\x1CH\x1CNY\x1C20\x1CLeitner\x1CPeter\x1C\x1C\x1C\x1C20090731\x1C\x1C\n"
+  record: fec.version.v6_4.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00455378
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 90429.E661
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Intrepid Media
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 210 Mill Branch Rd
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Tallahassee
+  - name: PAYEE STATE
+    number: '16'
+    value: FL
+  - name: PAYEE ZIP
+    number: '17'
+    value: '32312    '
+  - name: ELECTION CODE
+    number: '18'
+    value: S2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Special General 2009
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090316'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '20499.85'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '817489.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: 24A
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Radio/Media Production
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '26'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '27'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '28'
+    value: H0NY20079
+  - name: S/O CANDIDATE LAST NAME
+    number: '29'
+    value: MURPHY
+  - name: S/O CANDIDATE FIRST NAME
+    number: '30'
+    value: SCOTT
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '35'
+    value: NY
+  - name: S/O CANDIDATE DISTRICT
+    number: '36'
+    value: '20'
+  - name: COMPLETING LAST NAME
+    number: '37'
+    value: Leitner
+  - name: COMPLETING FIRST NAME
+    number: '38'
+    value: Peter
+  - name: COMPLETING MIDDLE NAME
+    number: '39'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '40'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '41'
+    value: ''
+  - name: DATE SIGNED
+    number: '42'
+    value: '20090731'
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: '
+
+'
+- input: "SE\x1CC00455378\x1C90429.E670\x1C\x1C\x1CORG\x1CNewsmax Media, Inc.\x1C\x1C\x1C\x1C\x1C\x1C560
+    Village Blvd., Suite 120\x1C\x1CWest Palm Beach\x1CFL\x1C33409    \x1CS2009\x1CSpecial
+    General 2009\x1C20090314\x1C28610.00\x1C817489.00\x1C24E\x1CEmail Communication\x1C\x1C\x1CS\x1CH0NY00048\x1CTEDISCO\x1CJAMES\x1C\x1C\x1C\x1CH\x1CNY\x1C20\x1CLeitner\x1CPeter\x1C\x1C\x1C\x1C20090731\x1C\x1C\n"
+  record: fec.version.v6_4.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00455378
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 90429.E670
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Newsmax Media, Inc.
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 560 Village Blvd., Suite 120
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: West Palm Beach
+  - name: PAYEE STATE
+    number: '16'
+    value: FL
+  - name: PAYEE ZIP
+    number: '17'
+    value: '33409    '
+  - name: ELECTION CODE
+    number: '18'
+    value: S2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Special General 2009
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090314'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '28610.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '817489.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: 24E
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Email Communication
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '26'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '27'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '28'
+    value: H0NY00048
+  - name: S/O CANDIDATE LAST NAME
+    number: '29'
+    value: TEDISCO
+  - name: S/O CANDIDATE FIRST NAME
+    number: '30'
+    value: JAMES
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '35'
+    value: NY
+  - name: S/O CANDIDATE DISTRICT
+    number: '36'
+    value: '20'
+  - name: COMPLETING LAST NAME
+    number: '37'
+    value: Leitner
+  - name: COMPLETING FIRST NAME
+    number: '38'
+    value: Peter
+  - name: COMPLETING MIDDLE NAME
+    number: '39'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '40'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '41'
+    value: ''
+  - name: DATE SIGNED
+    number: '42'
+    value: '20090731'
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: '
+
+'
+- input: "SE\x1CC00455378\x1C90429.E672\x1C\x1C\x1CORG\x1CNewsmax Media, Inc.\x1C\x1C\x1C\x1C\x1C\x1C560
+    Village Blvd., Suite 120\x1C\x1CWest Palm Beach\x1CFL\x1C33409    \x1CS2009\x1CSpecial
+    General 2009\x1C20090322\x1C13833.00\x1C817489.00\x1C24E\x1CEmail Communication\x1C\x1C\x1CS\x1CH0NY00048\x1CTEDISCO\x1CJAMES\x1C\x1C\x1C\x1CH\x1CNY\x1C20\x1CLeitner\x1CPeter\x1C\x1C\x1C\x1C20090731\x1C\x1C\n"
+  record: fec.version.v6_4.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00455378
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 90429.E672
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Newsmax Media, Inc.
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 560 Village Blvd., Suite 120
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: West Palm Beach
+  - name: PAYEE STATE
+    number: '16'
+    value: FL
+  - name: PAYEE ZIP
+    number: '17'
+    value: '33409    '
+  - name: ELECTION CODE
+    number: '18'
+    value: S2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Special General 2009
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090322'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '13833.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '817489.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: 24E
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Email Communication
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '26'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '27'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '28'
+    value: H0NY00048
+  - name: S/O CANDIDATE LAST NAME
+    number: '29'
+    value: TEDISCO
+  - name: S/O CANDIDATE FIRST NAME
+    number: '30'
+    value: JAMES
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '35'
+    value: NY
+  - name: S/O CANDIDATE DISTRICT
+    number: '36'
+    value: '20'
+  - name: COMPLETING LAST NAME
+    number: '37'
+    value: Leitner
+  - name: COMPLETING FIRST NAME
+    number: '38'
+    value: Peter
+  - name: COMPLETING MIDDLE NAME
+    number: '39'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '40'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '41'
+    value: ''
+  - name: DATE SIGNED
+    number: '42'
+    value: '20090731'
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: '
+
+'
+- input: "SE\x1CC00455378\x1C90519.E721\x1C\x1C\x1CORG\x1CNewsmax Media, Inc.\x1C\x1C\x1C\x1C\x1C\x1C560
+    Village Blvd., Suite 120\x1C\x1CWest Palm Beach\x1CFL\x1C33409    \x1CS2009\x1CSpecial
+    General 2009\x1C20090327\x1C9059.10\x1C817489.00\x1C24E\x1CEmail Communication\x1C\x1C\x1CS\x1CH0NY00048\x1CTEDISCO\x1CJAMES\x1C\x1C\x1C\x1CH\x1CNY\x1C20\x1CLeitner\x1CPeter\x1C\x1C\x1C\x1C20090731\x1C\x1C\n"
+  record: fec.version.v6_4.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00455378
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 90519.E721
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Newsmax Media, Inc.
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 560 Village Blvd., Suite 120
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: West Palm Beach
+  - name: PAYEE STATE
+    number: '16'
+    value: FL
+  - name: PAYEE ZIP
+    number: '17'
+    value: '33409    '
+  - name: ELECTION CODE
+    number: '18'
+    value: S2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Special General 2009
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090327'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '9059.10'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '817489.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: 24E
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Email Communication
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '26'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '27'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '28'
+    value: H0NY00048
+  - name: S/O CANDIDATE LAST NAME
+    number: '29'
+    value: TEDISCO
+  - name: S/O CANDIDATE FIRST NAME
+    number: '30'
+    value: JAMES
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '35'
+    value: NY
+  - name: S/O CANDIDATE DISTRICT
+    number: '36'
+    value: '20'
+  - name: COMPLETING LAST NAME
+    number: '37'
+    value: Leitner
+  - name: COMPLETING FIRST NAME
+    number: '38'
+    value: Peter
+  - name: COMPLETING MIDDLE NAME
+    number: '39'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '40'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '41'
+    value: ''
+  - name: DATE SIGNED
+    number: '42'
+    value: '20090731'
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: '
+
+'
+- input: "SE\x1CC00455378\x1C90429.E674\x1C\x1C\x1CORG\x1CNewsmax Media, Inc.\x1C\x1C\x1C\x1C\x1C\x1C560
+    Village Blvd., Suite 120\x1C\x1CWest Palm Beach\x1CFL\x1C33409    \x1CS2009\x1CSpecial
+    General 2009\x1C20090324\x1C15610.00\x1C817489.00\x1C24E\x1CEmail Communication\x1C\x1C\x1CS\x1CH0NY00048\x1CTEDISCO\x1CJAMES\x1C\x1C\x1C\x1CH\x1CNY\x1C20\x1CLeitner\x1CPeter\x1C\x1C\x1C\x1C20090731\x1C\x1C\n"
+  record: fec.version.v6_4.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00455378
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 90429.E674
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Newsmax Media, Inc.
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 560 Village Blvd., Suite 120
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: West Palm Beach
+  - name: PAYEE STATE
+    number: '16'
+    value: FL
+  - name: PAYEE ZIP
+    number: '17'
+    value: '33409    '
+  - name: ELECTION CODE
+    number: '18'
+    value: S2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Special General 2009
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090324'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '15610.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '817489.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: 24E
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Email Communication
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '26'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '27'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '28'
+    value: H0NY00048
+  - name: S/O CANDIDATE LAST NAME
+    number: '29'
+    value: TEDISCO
+  - name: S/O CANDIDATE FIRST NAME
+    number: '30'
+    value: JAMES
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '35'
+    value: NY
+  - name: S/O CANDIDATE DISTRICT
+    number: '36'
+    value: '20'
+  - name: COMPLETING LAST NAME
+    number: '37'
+    value: Leitner
+  - name: COMPLETING FIRST NAME
+    number: '38'
+    value: Peter
+  - name: COMPLETING MIDDLE NAME
+    number: '39'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '40'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '41'
+    value: ''
+  - name: DATE SIGNED
+    number: '42'
+    value: '20090731'
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: '
+
+'
+- input: "SE\x1CC00455378\x1C90429.E675\x1C\x1C\x1CORG\x1CNewsmax Media, Inc.\x1C\x1C\x1C\x1C\x1C\x1C560
+    Village Blvd., Suite 120\x1C\x1CWest Palm Beach\x1CFL\x1C33409    \x1CS2009\x1CSpecial
+    General 2009\x1C20090325\x1C1839.00\x1C817489.00\x1C24E\x1CEmail Communication\x1C\x1C\x1CS\x1CH0NY00048\x1CTEDISCO\x1CJAMES\x1C\x1C\x1C\x1CH\x1CNY\x1C20\x1CLeitner\x1CPeter\x1C\x1C\x1C\x1C20090731\x1C\x1C\n"
+  record: fec.version.v6_4.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00455378
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 90429.E675
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Newsmax Media, Inc.
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 560 Village Blvd., Suite 120
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: West Palm Beach
+  - name: PAYEE STATE
+    number: '16'
+    value: FL
+  - name: PAYEE ZIP
+    number: '17'
+    value: '33409    '
+  - name: ELECTION CODE
+    number: '18'
+    value: S2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Special General 2009
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090325'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '1839.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '817489.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: 24E
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Email Communication
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '26'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '27'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '28'
+    value: H0NY00048
+  - name: S/O CANDIDATE LAST NAME
+    number: '29'
+    value: TEDISCO
+  - name: S/O CANDIDATE FIRST NAME
+    number: '30'
+    value: JAMES
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '35'
+    value: NY
+  - name: S/O CANDIDATE DISTRICT
+    number: '36'
+    value: '20'
+  - name: COMPLETING LAST NAME
+    number: '37'
+    value: Leitner
+  - name: COMPLETING FIRST NAME
+    number: '38'
+    value: Peter
+  - name: COMPLETING MIDDLE NAME
+    number: '39'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '40'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '41'
+    value: ''
+  - name: DATE SIGNED
+    number: '42'
+    value: '20090731'
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: '
+
+'
+- input: "SE\x1CC00455378\x1C90429.E673\x1C\x1C\x1CORG\x1CNewsmax Media, Inc.\x1C\x1C\x1C\x1C\x1C\x1C560
+    Village Blvd., Suite 120\x1C\x1CWest Palm Beach\x1CFL\x1C33409    \x1CS2009\x1CSpecial
+    General 2009\x1C20090319\x1C4379.00\x1C817489.00\x1C24E\x1CEmail Communication\x1C\x1C\x1CS\x1CH0NY00048\x1CTEDISCO\x1CJAMES\x1C\x1C\x1C\x1CH\x1CNY\x1C20\x1CLeitner\x1CPeter\x1C\x1C\x1C\x1C20090731\x1C\x1C\n"
+  record: fec.version.v6_4.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00455378
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 90429.E673
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Newsmax Media, Inc.
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 560 Village Blvd., Suite 120
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: West Palm Beach
+  - name: PAYEE STATE
+    number: '16'
+    value: FL
+  - name: PAYEE ZIP
+    number: '17'
+    value: '33409    '
+  - name: ELECTION CODE
+    number: '18'
+    value: S2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Special General 2009
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090319'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '4379.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '817489.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: 24E
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Email Communication
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '26'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '27'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '28'
+    value: H0NY00048
+  - name: S/O CANDIDATE LAST NAME
+    number: '29'
+    value: TEDISCO
+  - name: S/O CANDIDATE FIRST NAME
+    number: '30'
+    value: JAMES
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '35'
+    value: NY
+  - name: S/O CANDIDATE DISTRICT
+    number: '36'
+    value: '20'
+  - name: COMPLETING LAST NAME
+    number: '37'
+    value: Leitner
+  - name: COMPLETING FIRST NAME
+    number: '38'
+    value: Peter
+  - name: COMPLETING MIDDLE NAME
+    number: '39'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '40'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '41'
+    value: ''
+  - name: DATE SIGNED
+    number: '42'
+    value: '20090731'
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: '
+
+'
+- input: "SE\x1CC00455378\x1C90424.E595\x1C\x1C\x1CORG\x1CNewton Media Associates,
+    Inc.\x1C\x1C\x1C\x1C\x1C\x1C824 Greenbrier Pkwy, Ste 200\x1C\x1CChesapeake\x1CVA\x1C23320
+    \   \x1CS2009\x1CSpecial General 2009\x1C20090325\x1C57000.00\x1C817489.00\x1C24E\x1CMedia
+    Buy\x1C\x1C\x1CS\x1CH0NY00048\x1CTEDISCO\x1CJAMES\x1C\x1C\x1C\x1CH\x1CNY\x1C20\x1CLeitner\x1CPeter\x1C\x1C\x1C\x1C20090731\x1C\x1C\n"
+  record: fec.version.v6_4.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00455378
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 90424.E595
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Newton Media Associates, Inc.
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 824 Greenbrier Pkwy, Ste 200
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Chesapeake
+  - name: PAYEE STATE
+    number: '16'
+    value: VA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '23320    '
+  - name: ELECTION CODE
+    number: '18'
+    value: S2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Special General 2009
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090325'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '57000.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '817489.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: 24E
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Media Buy
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '26'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '27'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '28'
+    value: H0NY00048
+  - name: S/O CANDIDATE LAST NAME
+    number: '29'
+    value: TEDISCO
+  - name: S/O CANDIDATE FIRST NAME
+    number: '30'
+    value: JAMES
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '35'
+    value: NY
+  - name: S/O CANDIDATE DISTRICT
+    number: '36'
+    value: '20'
+  - name: COMPLETING LAST NAME
+    number: '37'
+    value: Leitner
+  - name: COMPLETING FIRST NAME
+    number: '38'
+    value: Peter
+  - name: COMPLETING MIDDLE NAME
+    number: '39'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '40'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '41'
+    value: ''
+  - name: DATE SIGNED
+    number: '42'
+    value: '20090731'
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: '
+
+'
+- input: "SE\x1CC00455378\x1C90315.E544\x1C\x1C\x1CORG\x1CNewton Media Associates,
+    Inc.\x1C\x1C\x1C\x1C\x1C\x1C824 Greenbrier Pkwy, Ste 200\x1C\x1CChesapeake\x1CVA\x1C23320
+    \   \x1CS2009\x1CSpecial General 2009\x1C20090316\x1C190000.00\x1C817489.00\x1C24A\x1CMedia
+    Buy\x1C\x1C\x1CO\x1CH0NY20079\x1CMURPHY\x1CSCOTT\x1CH\x1C\x1C\x1CH\x1CNY\x1C20\x1CLeitner\x1CPeter\x1C\x1C\x1C\x1C20090731\x1C\x1C\n"
+  record: fec.version.v6_4.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00455378
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 90315.E544
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Newton Media Associates, Inc.
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 824 Greenbrier Pkwy, Ste 200
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Chesapeake
+  - name: PAYEE STATE
+    number: '16'
+    value: VA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '23320    '
+  - name: ELECTION CODE
+    number: '18'
+    value: S2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Special General 2009
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090316'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '190000.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '817489.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: 24A
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Media Buy
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '26'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '27'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '28'
+    value: H0NY20079
+  - name: S/O CANDIDATE LAST NAME
+    number: '29'
+    value: MURPHY
+  - name: S/O CANDIDATE FIRST NAME
+    number: '30'
+    value: SCOTT
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '35'
+    value: NY
+  - name: S/O CANDIDATE DISTRICT
+    number: '36'
+    value: '20'
+  - name: COMPLETING LAST NAME
+    number: '37'
+    value: Leitner
+  - name: COMPLETING FIRST NAME
+    number: '38'
+    value: Peter
+  - name: COMPLETING MIDDLE NAME
+    number: '39'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '40'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '41'
+    value: ''
+  - name: DATE SIGNED
+    number: '42'
+    value: '20090731'
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: '
+
+'
+- input: "SE\x1CC00455378\x1C90424.E594\x1C\x1C\x1CORG\x1CNewton Media Associates,
+    Inc.\x1C\x1C\x1C\x1C\x1C\x1C824 Greenbrier Pkwy, Ste 200\x1C\x1CChesapeake\x1CVA\x1C23320
+    \   \x1CS2009\x1CSpecial General 2009\x1C20090325\x1C90000.00\x1C817489.00\x1C24E\x1CRadio
+    Buy\x1C\x1C\x1CS\x1CH0NY00048\x1CTEDISCO\x1CJAMES\x1C\x1C\x1C\x1CH\x1CNY\x1C20\x1CLeitner\x1CPeter\x1C\x1C\x1C\x1C20090731\x1C\x1C\n"
+  record: fec.version.v6_4.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00455378
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 90424.E594
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Newton Media Associates, Inc.
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 824 Greenbrier Pkwy, Ste 200
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Chesapeake
+  - name: PAYEE STATE
+    number: '16'
+    value: VA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '23320    '
+  - name: ELECTION CODE
+    number: '18'
+    value: S2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Special General 2009
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090325'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '90000.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '817489.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: 24E
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Radio Buy
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '26'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '27'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '28'
+    value: H0NY00048
+  - name: S/O CANDIDATE LAST NAME
+    number: '29'
+    value: TEDISCO
+  - name: S/O CANDIDATE FIRST NAME
+    number: '30'
+    value: JAMES
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '35'
+    value: NY
+  - name: S/O CANDIDATE DISTRICT
+    number: '36'
+    value: '20'
+  - name: COMPLETING LAST NAME
+    number: '37'
+    value: Leitner
+  - name: COMPLETING FIRST NAME
+    number: '38'
+    value: Peter
+  - name: COMPLETING MIDDLE NAME
+    number: '39'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '40'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '41'
+    value: ''
+  - name: DATE SIGNED
+    number: '42'
+    value: '20090731'
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: '
+
+'
+- input: "SE\x1CC00455378\x1C90429.E669\x1C\x1C\x1CORG\x1CNewton Media Associates,
+    Inc.\x1C\x1C\x1C\x1C\x1C\x1C824 Greenbrier Pkwy, Ste 200\x1C\x1CChesapeake\x1CVA\x1C23320
+    \   \x1CS2009\x1CSpecial General 2009\x1C20090325\x1C249725.00\x1C817489.00\x1C24E\x1CMedia
+    Buy\x1C\x1C\x1CS\x1CH0NY00048\x1CTEDISCO\x1CJAMES\x1C\x1C\x1C\x1CH\x1CNY\x1C20\x1CLeitner\x1CPeter\x1C\x1C\x1C\x1C20090731\x1C\x1C\n"
+  record: fec.version.v6_4.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00455378
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 90429.E669
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Newton Media Associates, Inc.
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 824 Greenbrier Pkwy, Ste 200
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Chesapeake
+  - name: PAYEE STATE
+    number: '16'
+    value: VA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '23320    '
+  - name: ELECTION CODE
+    number: '18'
+    value: S2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Special General 2009
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090325'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '249725.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '817489.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: 24E
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Media Buy
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '26'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '27'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '28'
+    value: H0NY00048
+  - name: S/O CANDIDATE LAST NAME
+    number: '29'
+    value: TEDISCO
+  - name: S/O CANDIDATE FIRST NAME
+    number: '30'
+    value: JAMES
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '35'
+    value: NY
+  - name: S/O CANDIDATE DISTRICT
+    number: '36'
+    value: '20'
+  - name: COMPLETING LAST NAME
+    number: '37'
+    value: Leitner
+  - name: COMPLETING FIRST NAME
+    number: '38'
+    value: Peter
+  - name: COMPLETING MIDDLE NAME
+    number: '39'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '40'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '41'
+    value: ''
+  - name: DATE SIGNED
+    number: '42'
+    value: '20090731'
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: '
+
+'
+- input: "SE\x1CC00455378\x1C90424.E588\x1C\x1C\x1CORG\x1CTownhall.com\x1C\x1C\x1C\x1C\x1C\x1C1901
+    N. Moore Street, Suite 701\x1C\x1CArlington\x1CVA\x1C22209    \x1CS2009\x1CSpecial
+    General 2009\x1C20090323\x1C10350.00\x1C817489.00\x1C24E\x1CEmail Communication\x1C\x1C\x1CS\x1CH0NY00048\x1CTEDISCO\x1CJAMES\x1C\x1C\x1C\x1CH\x1CNY\x1C20\x1CLeitner\x1CPeter\x1C\x1C\x1C\x1C20090731\x1C\x1C\n"
+  record: fec.version.v6_4.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00455378
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 90424.E588
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Townhall.com
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 1901 N. Moore Street, Suite 701
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Arlington
+  - name: PAYEE STATE
+    number: '16'
+    value: VA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '22209    '
+  - name: ELECTION CODE
+    number: '18'
+    value: S2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Special General 2009
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090323'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '10350.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '817489.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: 24E
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Email Communication
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '26'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '27'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '28'
+    value: H0NY00048
+  - name: S/O CANDIDATE LAST NAME
+    number: '29'
+    value: TEDISCO
+  - name: S/O CANDIDATE FIRST NAME
+    number: '30'
+    value: JAMES
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '35'
+    value: NY
+  - name: S/O CANDIDATE DISTRICT
+    number: '36'
+    value: '20'
+  - name: COMPLETING LAST NAME
+    number: '37'
+    value: Leitner
+  - name: COMPLETING FIRST NAME
+    number: '38'
+    value: Peter
+  - name: COMPLETING MIDDLE NAME
+    number: '39'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '40'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '41'
+    value: ''
+  - name: DATE SIGNED
+    number: '42'
+    value: '20090731'
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: '
+
+'
+- input: "SE\x1CC00455378\x1C90424.E589\x1C\x1C\x1CORG\x1CTownhall.com\x1C\x1C\x1C\x1C\x1C\x1C1901
+    N. Moore Street, Suite 701\x1C\x1CArlington\x1CVA\x1C22209    \x1CS2009\x1CSpecial
+    General 2009\x1C20090325\x1C10350.00\x1C817489.00\x1C24E\x1CEmail Communication\x1C\x1C\x1CS\x1CH0NY00048\x1CTEDISCO\x1CJAMES\x1C\x1C\x1C\x1CH\x1CNY\x1C20\x1CLeitner\x1CPeter\x1C\x1C\x1C\x1C20090731\x1C\x1C\n"
+  record: fec.version.v6_4.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00455378
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 90424.E589
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Townhall.com
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 1901 N. Moore Street, Suite 701
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Arlington
+  - name: PAYEE STATE
+    number: '16'
+    value: VA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '22209    '
+  - name: ELECTION CODE
+    number: '18'
+    value: S2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Special General 2009
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090325'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '10350.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '817489.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: 24E
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Email Communication
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '26'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '27'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '28'
+    value: H0NY00048
+  - name: S/O CANDIDATE LAST NAME
+    number: '29'
+    value: TEDISCO
+  - name: S/O CANDIDATE FIRST NAME
+    number: '30'
+    value: JAMES
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '35'
+    value: NY
+  - name: S/O CANDIDATE DISTRICT
+    number: '36'
+    value: '20'
+  - name: COMPLETING LAST NAME
+    number: '37'
+    value: Leitner
+  - name: COMPLETING FIRST NAME
+    number: '38'
+    value: Peter
+  - name: COMPLETING MIDDLE NAME
+    number: '39'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '40'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '41'
+    value: ''
+  - name: DATE SIGNED
+    number: '42'
+    value: '20090731'
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: '
+
+'
+- input: "SE\x1CC00455378\x1C90424.E587\x1C\x1C\x1CORG\x1CTownhall.com\x1C\x1C\x1C\x1C\x1C\x1C1901
+    N. Moore Street, Suite 701\x1C\x1CArlington\x1CVA\x1C22209    \x1CS2009\x1CSpecial
+    General 2009\x1C20090320\x1C10350.00\x1C817489.00\x1C24E\x1CEmail Communication\x1C\x1C\x1CS\x1CH0NY00048\x1CTEDISCO\x1CJAMES\x1C\x1C\x1C\x1CH\x1CNY\x1C20\x1CLeitner\x1CPeter\x1C\x1C\x1C\x1C20090731\x1C\x1C\n"
+  record: fec.version.v6_4.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00455378
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 90424.E587
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Townhall.com
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 1901 N. Moore Street, Suite 701
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Arlington
+  - name: PAYEE STATE
+    number: '16'
+    value: VA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '22209    '
+  - name: ELECTION CODE
+    number: '18'
+    value: S2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Special General 2009
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090320'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '10350.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '817489.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: 24E
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Email Communication
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '26'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '27'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '28'
+    value: H0NY00048
+  - name: S/O CANDIDATE LAST NAME
+    number: '29'
+    value: TEDISCO
+  - name: S/O CANDIDATE FIRST NAME
+    number: '30'
+    value: JAMES
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '35'
+    value: NY
+  - name: S/O CANDIDATE DISTRICT
+    number: '36'
+    value: '20'
+  - name: COMPLETING LAST NAME
+    number: '37'
+    value: Leitner
+  - name: COMPLETING FIRST NAME
+    number: '38'
+    value: Peter
+  - name: COMPLETING MIDDLE NAME
+    number: '39'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '40'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '41'
+    value: ''
+  - name: DATE SIGNED
+    number: '42'
+    value: '20090731'
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: '
+
+'
+- input: "SE\x1CC00455378\x1C90429.E659\x1C\x1C\x1CORG\x1CTriangulation Strategies,
+    Inc.\x1C\x1C\x1C\x1C\x1C\x1C64 Twin Lakes Rd\x1C\x1CSouth Salem\x1CNY\x1C10590
+    \   \x1CS2009\x1CSpecial General 2009\x1C20090320\x1C13190.00\x1C817489.00\x1C24E\x1CEmail
+    Communication\x1C\x1C\x1CS\x1CH0NY00048\x1CTEDISCO\x1CJAMES\x1C\x1C\x1C\x1CH\x1CNY\x1C20\x1CLeitner\x1CPeter\x1C\x1C\x1C\x1C20090731\x1C\x1C\n"
+  record: fec.version.v6_4.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00455378
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 90429.E659
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Triangulation Strategies, Inc.
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 64 Twin Lakes Rd
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: South Salem
+  - name: PAYEE STATE
+    number: '16'
+    value: NY
+  - name: PAYEE ZIP
+    number: '17'
+    value: '10590    '
+  - name: ELECTION CODE
+    number: '18'
+    value: S2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Special General 2009
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090320'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '13190.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '817489.00'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: 24E
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Email Communication
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '26'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '27'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '28'
+    value: H0NY00048
+  - name: S/O CANDIDATE LAST NAME
+    number: '29'
+    value: TEDISCO
+  - name: S/O CANDIDATE FIRST NAME
+    number: '30'
+    value: JAMES
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '35'
+    value: NY
+  - name: S/O CANDIDATE DISTRICT
+    number: '36'
+    value: '20'
+  - name: COMPLETING LAST NAME
+    number: '37'
+    value: Leitner
+  - name: COMPLETING FIRST NAME
+    number: '38'
+    value: Peter
+  - name: COMPLETING MIDDLE NAME
+    number: '39'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '40'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '41'
+    value: ''
+  - name: DATE SIGNED
+    number: '42'
+    value: '20090731'
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: '
+
+'
+sourceurl: !!python/unicode 20090731
+type: chunk
