@@ -1,0 +1,1448 @@
+countrows: 12
+filename: 436853.fec
+header: {}
+rows:
+- 2
+- input: "F24\x1CC00332296\x1C24\x1CSUSAN B ANTHONY LIST INC. CANDIDATE FUND\x1C1800
+    North Kent Street\x1CSuite 1070\x1CArlington\x1CVA\x1C22209\x1CCannon\x1CFrank\x1C\x1C\x1C\x1C20091016\n"
+  record: fec.version.v6_4.F24
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F24
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00332296
+  - name: REPORT TYPE (24/48 Hour)
+    number: '3'
+    value: '24'
+  - name: COMMITTEE NAME
+    number: '4'
+    value: SUSAN B ANTHONY LIST INC. CANDIDATE FUND
+  - name: STREET 1
+    number: '5'
+    value: 1800 North Kent Street
+  - name: STREET 2
+    number: '6'
+    value: Suite 1070
+  - name: CITY
+    number: '7'
+    value: Arlington
+  - name: STATE
+    number: '8'
+    value: VA
+  - name: ZIP
+    number: '9'
+    value: '22209'
+  - name: TREASURER LAST NAME
+    number: '10'
+    value: Cannon
+  - name: TREASURER FIRST NAME
+    number: '11'
+    value: Frank
+  - name: TREASURER MIDDLE NAME
+    number: '12'
+    value: ''
+  - name: TREASURER PREFIX
+    number: '13'
+    value: ''
+  - name: TREASURER SUFFIX
+    number: '14'
+    value: ''
+  - name: DATE SIGNED
+    number: '15'
+    value: '20091016
+
+'
+- input: "SE\x1CC00332296\x1CV7FB7EAC84176A5E14CB\x1C\x1C\x1CORG\x1CGeorgia Blom\x1C\x1C\x1C\x1C\x1C\x1C101
+    Asbury Court\x1C\x1CWinchester\x1CVA\x1C22602\x1CG2009\x1C\x1C20091016\x1C1500.00\x1C9497.50\x1C\x1CIndependent
+    Contractor Wages\x1C\x1CC00464826\x1CS\x1C\x1CHoffman\x1CDouglas\x1CL.\x1C\x1C\x1CH\x1CNY\x1C23\x1CCannon\x1CFrank\x1C\x1C\x1C\x1C20091016\x1C\x1C\n"
+  record: fec.version.v6_4.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00332296
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: V7FB7EAC84176A5E14CB
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Georgia Blom
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 101 Asbury Court
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Winchester
+  - name: PAYEE STATE
+    number: '16'
+    value: VA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '22602'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20091016'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '1500.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '9497.50'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Independent Contractor Wages
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '26'
+    value: C00464826
+  - name: SUPPORT/OPPOSE CODE
+    number: '27'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '29'
+    value: Hoffman
+  - name: S/O CANDIDATE FIRST NAME
+    number: '30'
+    value: Douglas
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '31'
+    value: L.
+  - name: S/O CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '35'
+    value: NY
+  - name: S/O CANDIDATE DISTRICT
+    number: '36'
+    value: '23'
+  - name: COMPLETING LAST NAME
+    number: '37'
+    value: Cannon
+  - name: COMPLETING FIRST NAME
+    number: '38'
+    value: Frank
+  - name: COMPLETING MIDDLE NAME
+    number: '39'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '40'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '41'
+    value: ''
+  - name: DATE SIGNED
+    number: '42'
+    value: '20091016'
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: '
+
+'
+- input: "SE\x1CC00332296\x1CVC677CD2EC320663163A\x1C\x1C\x1CORG\x1CGeorgia Blom\x1C\x1C\x1C\x1C\x1C\x1C101
+    Asbury Court\x1C\x1CWinchester\x1CVA\x1C22602\x1CG2009\x1C\x1C20091016\x1C712.50\x1C9497.50\x1C\x1CRoom
+    and Board\x1C\x1CC00464826\x1CS\x1C\x1CHoffman\x1CDouglas\x1CL.\x1C\x1C\x1CH\x1CNY\x1C23\x1CCannon\x1CFrank\x1C\x1C\x1C\x1C20091016\x1C\x1C\n"
+  record: fec.version.v6_4.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00332296
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: VC677CD2EC320663163A
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Georgia Blom
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 101 Asbury Court
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Winchester
+  - name: PAYEE STATE
+    number: '16'
+    value: VA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '22602'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20091016'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '712.50'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '9497.50'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Room and Board
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '26'
+    value: C00464826
+  - name: SUPPORT/OPPOSE CODE
+    number: '27'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '29'
+    value: Hoffman
+  - name: S/O CANDIDATE FIRST NAME
+    number: '30'
+    value: Douglas
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '31'
+    value: L.
+  - name: S/O CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '35'
+    value: NY
+  - name: S/O CANDIDATE DISTRICT
+    number: '36'
+    value: '23'
+  - name: COMPLETING LAST NAME
+    number: '37'
+    value: Cannon
+  - name: COMPLETING FIRST NAME
+    number: '38'
+    value: Frank
+  - name: COMPLETING MIDDLE NAME
+    number: '39'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '40'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '41'
+    value: ''
+  - name: DATE SIGNED
+    number: '42'
+    value: '20091016'
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: '
+
+'
+- input: "SE\x1CC00332296\x1CV967306AA0FD881A7EC8\x1C\x1C\x1CORG\x1CAndy Blom\x1C\x1C\x1C\x1C\x1C\x1C101
+    Asbury Court\x1C\x1CWinchester\x1CVA\x1C22602\x1CG2009\x1C\x1C20091016\x1C1500.00\x1C9497.50\x1C\x1CIndependent
+    Contractor Wages\x1C\x1CC00464826\x1CS\x1C\x1CHoffman\x1CDouglas\x1CL.\x1C\x1C\x1CH\x1CNY\x1C23\x1CCannon\x1CFrank\x1C\x1C\x1C\x1C20091016\x1C\x1C\n"
+  record: fec.version.v6_4.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00332296
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: V967306AA0FD881A7EC8
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Andy Blom
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 101 Asbury Court
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Winchester
+  - name: PAYEE STATE
+    number: '16'
+    value: VA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '22602'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20091016'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '1500.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '9497.50'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Independent Contractor Wages
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '26'
+    value: C00464826
+  - name: SUPPORT/OPPOSE CODE
+    number: '27'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '29'
+    value: Hoffman
+  - name: S/O CANDIDATE FIRST NAME
+    number: '30'
+    value: Douglas
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '31'
+    value: L.
+  - name: S/O CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '35'
+    value: NY
+  - name: S/O CANDIDATE DISTRICT
+    number: '36'
+    value: '23'
+  - name: COMPLETING LAST NAME
+    number: '37'
+    value: Cannon
+  - name: COMPLETING FIRST NAME
+    number: '38'
+    value: Frank
+  - name: COMPLETING MIDDLE NAME
+    number: '39'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '40'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '41'
+    value: ''
+  - name: DATE SIGNED
+    number: '42'
+    value: '20091016'
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: '
+
+'
+- input: "SE\x1CC00332296\x1CV2EDE62BC3DC95447CEB\x1C\x1C\x1CORG\x1CAndy Blom\x1C\x1C\x1C\x1C\x1C\x1C101
+    Asbury Court\x1C\x1CWinchester\x1CVA\x1C22602\x1CG2009\x1C\x1C20091016\x1C1092.50\x1C9497.50\x1C\x1CRoom
+    and Board\x1C\x1CC00464826\x1CS\x1C\x1CHoffman\x1CDouglas\x1CL.\x1C\x1C\x1CH\x1CNY\x1C23\x1CCannon\x1CFrank\x1C\x1C\x1C\x1C20091016\x1C\x1C\n"
+  record: fec.version.v6_4.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00332296
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: V2EDE62BC3DC95447CEB
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Andy Blom
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 101 Asbury Court
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Winchester
+  - name: PAYEE STATE
+    number: '16'
+    value: VA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '22602'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20091016'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '1092.50'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '9497.50'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Room and Board
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '26'
+    value: C00464826
+  - name: SUPPORT/OPPOSE CODE
+    number: '27'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '29'
+    value: Hoffman
+  - name: S/O CANDIDATE FIRST NAME
+    number: '30'
+    value: Douglas
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '31'
+    value: L.
+  - name: S/O CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '35'
+    value: NY
+  - name: S/O CANDIDATE DISTRICT
+    number: '36'
+    value: '23'
+  - name: COMPLETING LAST NAME
+    number: '37'
+    value: Cannon
+  - name: COMPLETING FIRST NAME
+    number: '38'
+    value: Frank
+  - name: COMPLETING MIDDLE NAME
+    number: '39'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '40'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '41'
+    value: ''
+  - name: DATE SIGNED
+    number: '42'
+    value: '20091016'
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: '
+
+'
+- input: "SE\x1CC00332296\x1CV8B989BF437D62F52492\x1C\x1C\x1CORG\x1CNatalie Brown\x1C\x1C\x1C\x1C\x1C\x1C1727
+    N. Rhodes St. #232\x1C\x1CArlington\x1CVA\x1C22201\x1CG2009\x1C\x1C20091016\x1C750.00\x1C9497.50\x1C\x1CIndependent
+    Contractor Wages\x1C\x1CC00464826\x1CS\x1C\x1CHoffman\x1CDouglas\x1CL.\x1C\x1C\x1CH\x1CNY\x1C23\x1CCannon\x1CFrank\x1C\x1C\x1C\x1C20091016\x1C\x1C\n"
+  record: fec.version.v6_4.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00332296
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: V8B989BF437D62F52492
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Natalie Brown
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: '1727 N. Rhodes St. #232'
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Arlington
+  - name: PAYEE STATE
+    number: '16'
+    value: VA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '22201'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20091016'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '750.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '9497.50'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Independent Contractor Wages
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '26'
+    value: C00464826
+  - name: SUPPORT/OPPOSE CODE
+    number: '27'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '29'
+    value: Hoffman
+  - name: S/O CANDIDATE FIRST NAME
+    number: '30'
+    value: Douglas
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '31'
+    value: L.
+  - name: S/O CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '35'
+    value: NY
+  - name: S/O CANDIDATE DISTRICT
+    number: '36'
+    value: '23'
+  - name: COMPLETING LAST NAME
+    number: '37'
+    value: Cannon
+  - name: COMPLETING FIRST NAME
+    number: '38'
+    value: Frank
+  - name: COMPLETING MIDDLE NAME
+    number: '39'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '40'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '41'
+    value: ''
+  - name: DATE SIGNED
+    number: '42'
+    value: '20091016'
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: '
+
+'
+- input: "SE\x1CC00332296\x1CV0F11840C5672F419886\x1C\x1C\x1CORG\x1CNatalie Brown\x1C\x1C\x1C\x1C\x1C\x1C1727
+    N. Rhodes St. #232\x1C\x1CArlington\x1CVA\x1C22201\x1CG2009\x1C\x1C20091016\x1C675.00\x1C9497.50\x1C\x1CRoom
+    and Board\x1C\x1CC00464826\x1CS\x1C\x1CHoffman\x1CDouglas\x1CL.\x1C\x1C\x1CH\x1CNY\x1C23\x1CCannon\x1CFrank\x1C\x1C\x1C\x1C20091016\x1C\x1C\n"
+  record: fec.version.v6_4.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00332296
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: V0F11840C5672F419886
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Natalie Brown
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: '1727 N. Rhodes St. #232'
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Arlington
+  - name: PAYEE STATE
+    number: '16'
+    value: VA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '22201'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20091016'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '675.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '9497.50'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Room and Board
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '26'
+    value: C00464826
+  - name: SUPPORT/OPPOSE CODE
+    number: '27'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '29'
+    value: Hoffman
+  - name: S/O CANDIDATE FIRST NAME
+    number: '30'
+    value: Douglas
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '31'
+    value: L.
+  - name: S/O CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '35'
+    value: NY
+  - name: S/O CANDIDATE DISTRICT
+    number: '36'
+    value: '23'
+  - name: COMPLETING LAST NAME
+    number: '37'
+    value: Cannon
+  - name: COMPLETING FIRST NAME
+    number: '38'
+    value: Frank
+  - name: COMPLETING MIDDLE NAME
+    number: '39'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '40'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '41'
+    value: ''
+  - name: DATE SIGNED
+    number: '42'
+    value: '20091016'
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: '
+
+'
+- input: "SE\x1CC00332296\x1CVB4F70E449E821148A55\x1C\x1C\x1CORG\x1CMallory Quigley\x1C\x1C\x1C\x1C\x1C\x1C20412
+    Sawgrass Drive\x1C\x1CMontgomery Village\x1CMD\x1C20886\x1CG2009\x1C\x1C20091016\x1C750.00\x1C9497.50\x1C\x1CIndependent
+    Contractor Wages\x1C\x1CC00464826\x1CS\x1C\x1CHoffman\x1CDouglas\x1CL.\x1C\x1C\x1CH\x1CNY\x1C23\x1CCannon\x1CFrank\x1C\x1C\x1C\x1C20091016\x1C\x1C\n"
+  record: fec.version.v6_4.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00332296
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: VB4F70E449E821148A55
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Mallory Quigley
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 20412 Sawgrass Drive
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Montgomery Village
+  - name: PAYEE STATE
+    number: '16'
+    value: MD
+  - name: PAYEE ZIP
+    number: '17'
+    value: '20886'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20091016'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '750.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '9497.50'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Independent Contractor Wages
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '26'
+    value: C00464826
+  - name: SUPPORT/OPPOSE CODE
+    number: '27'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '29'
+    value: Hoffman
+  - name: S/O CANDIDATE FIRST NAME
+    number: '30'
+    value: Douglas
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '31'
+    value: L.
+  - name: S/O CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '35'
+    value: NY
+  - name: S/O CANDIDATE DISTRICT
+    number: '36'
+    value: '23'
+  - name: COMPLETING LAST NAME
+    number: '37'
+    value: Cannon
+  - name: COMPLETING FIRST NAME
+    number: '38'
+    value: Frank
+  - name: COMPLETING MIDDLE NAME
+    number: '39'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '40'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '41'
+    value: ''
+  - name: DATE SIGNED
+    number: '42'
+    value: '20091016'
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: '
+
+'
+- input: "SE\x1CC00332296\x1CVAFA34C114E74236D681\x1C\x1C\x1CORG\x1CMallory Quigley\x1C\x1C\x1C\x1C\x1C\x1C20412
+    Sawgrass Drive\x1C\x1CMontgomery Village\x1CMD\x1C20886\x1CG2009\x1C\x1C20091016\x1C675.00\x1C9497.50\x1C\x1CRoom
+    and Board\x1C\x1CC00464826\x1CS\x1C\x1CHoffman\x1CDouglas\x1CL.\x1C\x1C\x1CH\x1CNY\x1C23\x1CCannon\x1CFrank\x1C\x1C\x1C\x1C20091016\x1C\x1C\n"
+  record: fec.version.v6_4.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00332296
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: VAFA34C114E74236D681
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Mallory Quigley
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 20412 Sawgrass Drive
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Montgomery Village
+  - name: PAYEE STATE
+    number: '16'
+    value: MD
+  - name: PAYEE ZIP
+    number: '17'
+    value: '20886'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20091016'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '675.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '9497.50'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Room and Board
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '26'
+    value: C00464826
+  - name: SUPPORT/OPPOSE CODE
+    number: '27'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '29'
+    value: Hoffman
+  - name: S/O CANDIDATE FIRST NAME
+    number: '30'
+    value: Douglas
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '31'
+    value: L.
+  - name: S/O CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '35'
+    value: NY
+  - name: S/O CANDIDATE DISTRICT
+    number: '36'
+    value: '23'
+  - name: COMPLETING LAST NAME
+    number: '37'
+    value: Cannon
+  - name: COMPLETING FIRST NAME
+    number: '38'
+    value: Frank
+  - name: COMPLETING MIDDLE NAME
+    number: '39'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '40'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '41'
+    value: ''
+  - name: DATE SIGNED
+    number: '42'
+    value: '20091016'
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: '
+
+'
+- input: "SE\x1CC00332296\x1CVDA2CF4DF07019DFD998\x1C\x1C\x1CORG\x1CNicholas Bell\x1C\x1C\x1C\x1C\x1C\x1C8062
+    Ordinary Way\x1C\x1CAnnandale\x1CVA\x1C22003\x1CG2009\x1C\x1C20091016\x1C750.00\x1C9497.50\x1C\x1CIndependent
+    Contractor Wages\x1C\x1CC00464826\x1CS\x1C\x1CHoffman\x1CDouglas\x1CL.\x1C\x1C\x1CH\x1CNY\x1C23\x1CCannon\x1CFrank\x1C\x1C\x1C\x1C20091016\x1C\x1C\n"
+  record: fec.version.v6_4.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00332296
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: VDA2CF4DF07019DFD998
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Nicholas Bell
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 8062 Ordinary Way
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Annandale
+  - name: PAYEE STATE
+    number: '16'
+    value: VA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '22003'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20091016'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '750.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '9497.50'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Independent Contractor Wages
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '26'
+    value: C00464826
+  - name: SUPPORT/OPPOSE CODE
+    number: '27'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '29'
+    value: Hoffman
+  - name: S/O CANDIDATE FIRST NAME
+    number: '30'
+    value: Douglas
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '31'
+    value: L.
+  - name: S/O CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '35'
+    value: NY
+  - name: S/O CANDIDATE DISTRICT
+    number: '36'
+    value: '23'
+  - name: COMPLETING LAST NAME
+    number: '37'
+    value: Cannon
+  - name: COMPLETING FIRST NAME
+    number: '38'
+    value: Frank
+  - name: COMPLETING MIDDLE NAME
+    number: '39'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '40'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '41'
+    value: ''
+  - name: DATE SIGNED
+    number: '42'
+    value: '20091016'
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: '
+
+'
+- input: "SE\x1CC00332296\x1CV463CB989A6531B1A93F\x1C\x1C\x1CORG\x1CNicholas Bell\x1C\x1C\x1C\x1C\x1C\x1C8062
+    Ordinary Way\x1C\x1CAnnandale\x1CVA\x1C22003\x1CG2009\x1C\x1C20091016\x1C1092.50\x1C9497.50\x1C\x1CRoom
+    and Board\x1C\x1CC00464826\x1CS\x1C\x1CHoffman\x1CDouglas\x1CL.\x1C\x1C\x1CH\x1CNY\x1C23\x1CCannon\x1CFrank\x1C\x1C\x1C\x1C20091016\x1C\x1C\n"
+  record: fec.version.v6_4.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00332296
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: V463CB989A6531B1A93F
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Nicholas Bell
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 8062 Ordinary Way
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Annandale
+  - name: PAYEE STATE
+    number: '16'
+    value: VA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '22003'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20091016'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '1092.50'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '9497.50'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Room and Board
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '26'
+    value: C00464826
+  - name: SUPPORT/OPPOSE CODE
+    number: '27'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '29'
+    value: Hoffman
+  - name: S/O CANDIDATE FIRST NAME
+    number: '30'
+    value: Douglas
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '31'
+    value: L.
+  - name: S/O CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '35'
+    value: NY
+  - name: S/O CANDIDATE DISTRICT
+    number: '36'
+    value: '23'
+  - name: COMPLETING LAST NAME
+    number: '37'
+    value: Cannon
+  - name: COMPLETING FIRST NAME
+    number: '38'
+    value: Frank
+  - name: COMPLETING MIDDLE NAME
+    number: '39'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '40'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '41'
+    value: ''
+  - name: DATE SIGNED
+    number: '42'
+    value: '20091016'
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: '
+
+'
+sourceurl: !!python/unicode 20091017
+type: chunk
