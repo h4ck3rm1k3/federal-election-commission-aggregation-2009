@@ -1,0 +1,128 @@
+countrows: 2
+filename: 443179.fec
+header: {}
+rows:
+- 2
+- input: "F2N\x1CH0NY23107\x1CHOFFMAN\x1CDOUGLAS\x1CL.\x1CMr.\x1C\x1C\x1CPO BOX 270\x1C25
+    ADK LODGE ROAD\x1CLAKE PLACID\x1CNY\x1C12946\x1CREP\x1CH\x1CNY\x1C23\x1C2010\x1CC00464826\x1CDOUG
+    HOFFMAN FOR CONGRESS\x1C111 RIVER STREET\x1C\x1CSARANAC LAKE\x1CNY\x1C12983\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CHOFFMAN\x1CDOUGLAS\x1CL.\x1CMr.\x1C\x1C20091221\n"
+  record: fec.version.v6_4.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2N
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H0NY23107
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: HOFFMAN
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: DOUGLAS
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: L.
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: Mr.
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: PO BOX 270
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: 25 ADK LODGE ROAD
+  - name: CANDIDATE CITY
+    number: '11'
+    value: LAKE PLACID
+  - name: CANDIDATE STATE
+    number: '12'
+    value: NY
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '12946'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: REP
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: NY
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '23'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2010'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00464826
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: DOUG HOFFMAN FOR CONGRESS
+  - name: PCC STREET 1
+    number: '21'
+    value: 111 RIVER STREET
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: SARANAC LAKE
+  - name: PCC STATE
+    number: '24'
+    value: NY
+  - name: PCC ZIP
+    number: '25'
+    value: '12983'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: ''
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: AUTH STREET 1
+    number: '28'
+    value: ''
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: ''
+  - name: AUTH STATE
+    number: '31'
+    value: ''
+  - name: AUTH ZIP
+    number: '32'
+    value: ''
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: HOFFMAN
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: DOUGLAS
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: L.
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: Mr.
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20091221
+
+'
+sourceurl: !!python/unicode 20091228
+type: chunk
