@@ -1,0 +1,610 @@
+countrows: 5
+filename: 435372.fec
+header: {}
+rows:
+- input: "SC/10\x1CC00440735\x1CL592\x1C13A\x1CIND\x1C\x1CTeague\x1CHarry\x1CR.\x1CMr.\x1CPERS
+    FUNDS\x1C819 Pinon Dr\x1C\x1CHobbs\x1CNM\x1C882405342\x1CP2008\x1C\x1C80000.00\x1C0.00\x1C80000.00\x1C20080528\x1C12/31/2008\x1C.0000\x1CN\x1CY\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00440735
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: L592
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: IND
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: Teague
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: Harry
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: R.
+  - name: LENDER PREFIX
+    number: '10'
+    value: Mr.
+  - name: LENDER SUFFIX
+    number: '11'
+    value: PERS FUNDS
+  - name: LENDER STREET 1
+    number: '12'
+    value: 819 Pinon Dr
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Hobbs
+  - name: LENDER STATE
+    number: '15'
+    value: NM
+  - name: LENDER ZIP
+    number: '16'
+    value: '882405342'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '80000.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '80000.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20080528'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 12/31/2008
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '.0000'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: Y
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: ''
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "SC/10\x1CC00440735\x1CL602\x1C13A\x1CIND\x1C\x1CTeague\x1CHarry\x1CR.\x1CMr.\x1CPERS
+    FUNDS\x1C819 Pinon Dr\x1C\x1CHobbs\x1CNM\x1C882405342\x1CG2008\x1C\x1C500000.00\x1C0.00\x1C500000.00\x1C20080822\x1COn
+    Demand\x1C.0000\x1CN\x1CY\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00440735
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: L602
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: IND
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: Teague
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: Harry
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: R.
+  - name: LENDER PREFIX
+    number: '10'
+    value: Mr.
+  - name: LENDER SUFFIX
+    number: '11'
+    value: PERS FUNDS
+  - name: LENDER STREET 1
+    number: '12'
+    value: 819 Pinon Dr
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Hobbs
+  - name: LENDER STATE
+    number: '15'
+    value: NM
+  - name: LENDER ZIP
+    number: '16'
+    value: '882405342'
+  - name: ELECTION CODE
+    number: '17'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '500000.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '500000.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20080822'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: On Demand
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '.0000'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: Y
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: ''
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "SC/10\x1CC00440735\x1CL607\x1C13A\x1CIND\x1C\x1CTeague\x1CHarry\x1CR.\x1CMr.\x1CPERS
+    FUNDS\x1C819 Pinon Dr\x1C\x1CHobbs\x1CNM\x1C882405342\x1CG2008\x1C\x1C50000.00\x1C0.00\x1C50000.00\x1C20081009\x1Cno
+    due date\x1C.0000\x1CN\x1CY\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00440735
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: L607
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: IND
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: Teague
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: Harry
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: R.
+  - name: LENDER PREFIX
+    number: '10'
+    value: Mr.
+  - name: LENDER SUFFIX
+    number: '11'
+    value: PERS FUNDS
+  - name: LENDER STREET 1
+    number: '12'
+    value: 819 Pinon Dr
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Hobbs
+  - name: LENDER STATE
+    number: '15'
+    value: NM
+  - name: LENDER ZIP
+    number: '16'
+    value: '882405342'
+  - name: ELECTION CODE
+    number: '17'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '50000.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '50000.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20081009'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: no due date
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '.0000'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: Y
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: ''
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "SC/10\x1CC00440735\x1CL609\x1C13A\x1CIND\x1C\x1CTeague\x1CHarry\x1CR.\x1CMr.\x1CPERS
+    FUNDS\x1C819 Pinon Dr\x1C\x1CHobbs\x1CNM\x1C882405342\x1CG2008\x1C\x1C75000.00\x1C0.00\x1C75000.00\x1C20081010\x1Cno
+    due date\x1C.0000\x1CN\x1CY\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00440735
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: L609
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: IND
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: Teague
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: Harry
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: R.
+  - name: LENDER PREFIX
+    number: '10'
+    value: Mr.
+  - name: LENDER SUFFIX
+    number: '11'
+    value: PERS FUNDS
+  - name: LENDER STREET 1
+    number: '12'
+    value: 819 Pinon Dr
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Hobbs
+  - name: LENDER STATE
+    number: '15'
+    value: NM
+  - name: LENDER ZIP
+    number: '16'
+    value: '882405342'
+  - name: ELECTION CODE
+    number: '17'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '75000.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '75000.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20081010'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: no due date
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '.0000'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: Y
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: ''
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "SC/10\x1CC00440735\x1CL610\x1C13A\x1CIND\x1C\x1CTeague\x1CHarry\x1CR.\x1CMr.\x1CPERS
+    FUNDS\x1C819 Pinon Dr\x1C\x1CHobbs\x1CNM\x1C882405342\x1CG2008\x1C\x1C375000.00\x1C0.00\x1C375000.00\x1C20081015\x1Cno
+    due date\x1C.0000\x1CN\x1CY\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00440735
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: L610
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: IND
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: Teague
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: Harry
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: R.
+  - name: LENDER PREFIX
+    number: '10'
+    value: Mr.
+  - name: LENDER SUFFIX
+    number: '11'
+    value: PERS FUNDS
+  - name: LENDER STREET 1
+    number: '12'
+    value: 819 Pinon Dr
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Hobbs
+  - name: LENDER STATE
+    number: '15'
+    value: NM
+  - name: LENDER ZIP
+    number: '16'
+    value: '882405342'
+  - name: ELECTION CODE
+    number: '17'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '375000.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '375000.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20081015'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: no due date
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '.0000'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: Y
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: ''
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+sourceurl: !!python/unicode 20091014
+type: chunk
