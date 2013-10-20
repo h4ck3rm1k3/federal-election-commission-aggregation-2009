@@ -1,0 +1,130 @@
+countrows: 2
+filename: 419334.fec
+header: {}
+rows:
+- 2
+- input: "F2A\x1CH8LA02112\x1CCAO\x1CANH 'JOSEPH'\x1C\x1C\x1C\x1C\x1C4371 MURANO ROAD\x1C\x1CNEW
+    ORLEANS\x1CLA\x1C70129\x1CREP\x1CH\x1CLA\x1C02\x1C2010\x1CC00455808\x1CJOSEPH
+    CAO FOR CONGRESS\x1CPO BOX 56156\x1C\x1CNEW ORLEANS\x1CLA\x1C70156\x1CC00458562\x1CHOUSE
+    REPUBLICAN FRESHMEN 2009\x1CPO BOX 2719\x1C\x1CWASHINGTON\x1CDC\x1C20013\x1CCAO\x1CANH
+    'JOSEPH'\x1C\x1C\x1C\x1C20090605\n"
+  record: fec.version.v6_4.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2A
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H8LA02112
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: CAO
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: ANH 'JOSEPH'
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: 4371 MURANO ROAD
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: NEW ORLEANS
+  - name: CANDIDATE STATE
+    number: '12'
+    value: LA
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '70129'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: REP
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: LA
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '02'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2010'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00455808
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: JOSEPH CAO FOR CONGRESS
+  - name: PCC STREET 1
+    number: '21'
+    value: PO BOX 56156
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: NEW ORLEANS
+  - name: PCC STATE
+    number: '24'
+    value: LA
+  - name: PCC ZIP
+    number: '25'
+    value: '70156'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: C00458562
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: HOUSE REPUBLICAN FRESHMEN 2009
+  - name: AUTH STREET 1
+    number: '28'
+    value: PO BOX 2719
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: WASHINGTON
+  - name: AUTH STATE
+    number: '31'
+    value: DC
+  - name: AUTH ZIP
+    number: '32'
+    value: '20013'
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: CAO
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: ANH 'JOSEPH'
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: ''
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20090605
+
+'
+sourceurl: !!python/unicode 20090605
+type: chunk

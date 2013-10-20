@@ -1,0 +1,4702 @@
+countrows: 32
+filename: 421924.fec
+header: {}
+rows:
+- 2
+- input: "F3XN\x1CC00232843\x1CFinancial Service Centers of America, Inc.\x1C\x1CCourt
+    Plaza South 21 Main St,\x1CSuite 101\x1CHackensack\x1CNJ\x1C07602\x1CMY\x1C\x1C\x1C\x1C20090101\x1C20090630\x1CX\x1CShyne\x1CHenry
+    F.\x1C\x1C\x1C\x1C20090701\x1C40472.50\x1C31250.00\x1C71722.50\x1C35121.36\x1C36601.14\x1C0.00\x1C0.00\x1C23250.00\x1C0.00\x1C23250.00\x1C0.00\x1C8000.00\x1C31250.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C31250.00\x1C31250.00\x1C0.00\x1C0.00\x1C621.36\x1C621.36\x1C0.00\x1C32000.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C2500.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C35121.36\x1C35121.36\x1C31250.00\x1C0.00\x1C31250.00\x1C621.36\x1C0.00\x1C621.36\x1C40472.50\x1C2009\x1C31250.00\x1C71722.50\x1C35121.36\x1C36601.14\x1C23250.00\x1C0.00\x1C23250.00\x1C0.00\x1C8000.00\x1C31250.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C31250.00\x1C31250.00\x1C0.00\x1C0.00\x1C621.36\x1C621.36\x1C0.00\x1C32000.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C2500.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C35121.36\x1C35121.36\x1C31250.00\x1C0.00\x1C31250.00\x1C621.36\x1C0.00\x1C621.36\n"
+  record: fec.version.v6_4.F3X
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F3XN
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00232843
+  - name: COMMITTEE NAME
+    number: '3'
+    value: Financial Service Centers of America, Inc.
+  - name: CHANGE OF ADDRESS
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: Court Plaza South 21 Main St,
+  - name: STREET 2
+    number: '6'
+    value: Suite 101
+  - name: CITY
+    number: '7'
+    value: Hackensack
+  - name: STATE
+    number: '8'
+    value: NJ
+  - name: ZIP
+    number: '9'
+    value: '07602'
+  - name: REPORT CODE
+    number: '10'
+    value: MY
+  - name: ELECTION CODE
+    number: '11'
+    value: ''
+  - name: DATE OF ELECTION
+    number: '12'
+    value: ''
+  - name: STATE OF ELECTION
+    number: '13'
+    value: ''
+  - name: COVERAGE FROM DATE
+    number: '14'
+    value: '20090101'
+  - name: COVERAGE THROUGH DATE
+    number: '15'
+    value: '20090630'
+  - name: QUALIFIED COMMITTEE
+    number: '16'
+    value: X
+  - name: TREASURER LAST NAME
+    number: '17'
+    value: Shyne
+  - name: TREASURER FIRST NAME
+    number: '18'
+    value: Henry F.
+  - name: TREASURER MIDDLE NAME
+    number: '19'
+    value: ''
+  - name: TREASURER PREFIX
+    number: '20'
+    value: ''
+  - name: TREASURER SUFFIX
+    number: '21'
+    value: ''
+  - name: DATE SIGNED
+    number: '22'
+    value: '20090701'
+  - name: Cash on Hand beginning
+    number: 23-6(b)
+    value: '40472.50'
+  - name: Total Receipts
+    number: 24-6(c)
+    value: '31250.00'
+  - name: Subtotal
+    number: 25-6(d)
+    value: '71722.50'
+  - name: Total Disbursements
+    number: 26-7.
+    value: '35121.36'
+  - name: Cash on Hand at Close
+    number: 27-8.
+    value: '36601.14'
+  - name: Debts to
+    number: 28-9.
+    value: '0.00'
+  - name: Debts by
+    number: 29-10.
+    value: '0.00'
+  - name: Itemized
+    number: 30-11(a)i
+    value: '23250.00'
+  - name: Unitemized
+    number: 31-11(a)ii
+    value: '0.00'
+  - name: Total
+    number: 32-11(a)iii
+    value: '23250.00'
+  - name: Political Party Committees
+    number: 33-11(b)
+    value: '0.00'
+  - name: Other Political Committees (PACs)
+    number: 34-11(c)
+    value: '8000.00'
+  - name: Total Contributions
+    number: 35-11(d)
+    value: '31250.00'
+  - name: Transfers from Affiliated/Other Party Committees
+    number: 36-12.
+    value: '0.00'
+  - name: All Loans Received
+    number: 37-13.
+    value: '0.00'
+  - name: Loan Repayments Received
+    number: 38-14.
+    value: '0.00'
+  - name: Offsets to Operating Expenditures (refunds)
+    number: 39-15.
+    value: '0.00'
+  - name: Refunds of Federal Contributions
+    number: 40-16.
+    value: '0.00'
+  - name: Other Federal Receipts (dividends)
+    number: 41-17.
+    value: '0.00'
+  - name: Transfers from Nonfederal Account (H3)
+    number: 42-18(a)
+    value: '0.00'
+  - name: Transfers from Non-Federal (Levin - H5)
+    number: 43-18(b)
+    value: '0.00'
+  - name: Total Non-Federal Transfers (18a+18b)
+    number: 44-18(c)
+    value: '0.00'
+  - name: Total Receipts
+    number: 45-19.
+    value: '31250.00'
+  - name: Total Federal Receipts
+    number: 46-20.
+    value: '31250.00'
+  - name: Federal Share
+    number: 47-21(a)i
+    value: '0.00'
+  - name: Non-Federal Share
+    number: 48-21(a)ii
+    value: '0.00'
+  - name: Other Federal Operating Expenditures
+    number: 49-21(b)
+    value: '621.36'
+  - name: Total Operating Expenditures
+    number: 50-21(c)
+    value: '621.36'
+  - name: Transfers to Affiliated/Other Party Committees
+    number: 51-22.
+    value: '0.00'
+  - name: Contributions to Federal Candidates/Committees
+    number: 52-23.
+    value: '32000.00'
+  - name: Independent Expenditures
+    number: 53-24.
+    value: '0.00'
+  - name: Coordinated Expend made by Party Committees
+    number: 54-25.
+    value: '0.00'
+  - name: Loan Repayments
+    number: 55-26.
+    value: '0.00'
+  - name: Loans Made
+    number: 56-27.
+    value: '0.00'
+  - name: Individuals/Persons
+    number: 57-28(a)
+    value: '0.00'
+  - name: Political Party Committees
+    number: 58-28(b)
+    value: '0.00'
+  - name: Other Political Committees
+    number: 59-28(c)
+    value: '0.00'
+  - name: Total Contributions Refunds
+    number: 60-28(d)
+    value: '0.00'
+  - name: Other Disbursements
+    number: 61-29.
+    value: '2500.00'
+  - name: Shared Federal Activity (H6) Fed Share
+    number: 62-30(a)i
+    value: '0.00'
+  - name: Shared Federal Activity (H6) Non-Fed
+    number: 63-30(a)ii
+    value: '0.00'
+  - name: Non-Allocable 100% Fed Election Activity
+    number: 64-30(b)
+    value: '0.00'
+  - name: Total Federal Election Activity
+    number: 65-30(c)
+    value: '0.00'
+  - name: Total Disbursements
+    number: 66-31.
+    value: '35121.36'
+  - name: Total Federal Disbursements
+    number: 67-32.
+    value: '35121.36'
+  - name: Total Contributions
+    number: 68-33.
+    value: '31250.00'
+  - name: Total Contribution Refunds
+    number: 69-34.
+    value: '0.00'
+  - name: Net Contributions
+    number: 70-35.
+    value: '31250.00'
+  - name: Total Federal Operating Expenditures
+    number: 71-36.
+    value: '621.36'
+  - name: Offsets to Operating Expenditures
+    number: 72-37.
+    value: '0.00'
+  - name: Net Operating Expenditures
+    number: 73-38.
+    value: '621.36'
+  - name: Cash on Hand Jan 1, 19
+    number: 74-6(a)
+    value: '40472.50'
+  - name: Year for Above
+    number: '75'
+    value: '2009'
+  - name: Total Receipts
+    number: 76-6(c)
+    value: '31250.00'
+  - name: Subtotal
+    number: 77-6(d)
+    value: '71722.50'
+  - name: Total disbursements
+    number: 78-7.
+    value: '35121.36'
+  - name: Cash on Hand Close
+    number: 79-8.
+    value: '36601.14'
+  - name: Itemized
+    number: 80-11(a)i
+    value: '23250.00'
+  - name: Unitemized
+    number: 81-11(a)ii
+    value: '0.00'
+  - name: Total
+    number: 82-11(a)iii
+    value: '23250.00'
+  - name: Political Party committees
+    number: 83-11(b)
+    value: '0.00'
+  - name: Other Political Committees (PACs)
+    number: 84-11(c)
+    value: '8000.00'
+  - name: Total Contributions
+    number: 85-11(d)
+    value: '31250.00'
+  - name: Transfers from Affiliated/Other Party Committees
+    number: 86-12.
+    value: '0.00'
+  - name: All Loans Received
+    number: 87-13.
+    value: '0.00'
+  - name: Loan Repayments Received
+    number: 88-14.
+    value: '0.00'
+  - name: Offsets to Operating Expenditures (refunds)
+    number: 89-15.
+    value: '0.00'
+  - name: Refunds of Federal Contributions
+    number: 90-16.
+    value: '0.00'
+  - name: Other Federal Receipts (dividends)
+    number: 91-17.
+    value: '0.00'
+  - name: Transfers from Nonfederal Account (H3)
+    number: 92-18(a)
+    value: '0.00'
+  - name: Transfers from Non-Federal (Levin - H5)
+    number: 93-18(b)
+    value: '0.00'
+  - name: Total Non-Federal Transfers (18a+18b)
+    number: 94-18(c)
+    value: '0.00'
+  - name: Total Receipts
+    number: 95-19.
+    value: '31250.00'
+  - name: Total Federal Receipts
+    number: 96-20.
+    value: '31250.00'
+  - name: Federal Share
+    number: 97-21(a)i
+    value: '0.00'
+  - name: Non-Federal Share
+    number: 98-21(a)ii
+    value: '0.00'
+  - name: Other Federal Operating Expenditures
+    number: 99-21(b)
+    value: '621.36'
+  - name: Total operating Expenditures
+    number: 100-21(c)
+    value: '621.36'
+  - name: Transfers to Affiliated/Other Party Committees
+    number: 101-22.
+    value: '0.00'
+  - name: Contributions to Federal Candidates/Committees
+    number: 102-23.
+    value: '32000.00'
+  - name: Independent Expenditures
+    number: 103-24.
+    value: '0.00'
+  - name: Coordinated Expend made by Party Committees
+    number: 104-25.
+    value: '0.00'
+  - name: Loan Repayments Made
+    number: 105-26.
+    value: '0.00'
+  - name: Loans Made
+    number: 106-27.
+    value: '0.00'
+  - name: Individuals/Persons
+    number: 107-28(a)
+    value: '0.00'
+  - name: Political Party Committees
+    number: 108-28(b)
+    value: '0.00'
+  - name: Other Political Committees
+    number: 109-28(c)
+    value: '0.00'
+  - name: Total contributions Refunds
+    number: 110-28(d)
+    value: '0.00'
+  - name: Other Disbursements
+    number: 111-29.
+    value: '2500.00'
+  - name: Shared Federal Activity (H6) Fed Share
+    number: 112-30(a)i
+    value: '0.00'
+  - name: Shared Federal Activity (H6) Non-Fed
+    number: 113-30(a)ii
+    value: '0.00'
+  - name: Non-Allocable 100% Fed Election Activity
+    number: 114-30(b)
+    value: '0.00'
+  - name: Total Federal Election Activity
+    number: 115-30(c)
+    value: '0.00'
+  - name: Total Disbursements
+    number: 116-31.
+    value: '35121.36'
+  - name: Total Federal Disbursements
+    number: 117-32.
+    value: '35121.36'
+  - name: Total Contributions
+    number: 118-33.
+    value: '31250.00'
+  - name: Total Contribution Refunds
+    number: 119-34.
+    value: '0.00'
+  - name: Net contributions
+    number: 120-35.
+    value: '31250.00'
+  - name: Total Federal Operating Expenditures
+    number: 121-36.
+    value: '621.36'
+  - name: Offsets to Operating Expenditures
+    number: 122-37.
+    value: '0.00'
+  - name: Net Operating Expenditures
+    number: 123-38.
+    value: '621.36
+
+'
+- input: "SA11AI\x1CC00232843\x1CSA11AI.5724\x1C\x1C\x1CIND\x1C\x1CBarr\x1CRichard\x1C\x1CMr.\x1C\x1C425
+    Huehl Road\x1C#3\x1CNorthbrook\x1CIL\x1C60062\x1C\x1C\x1C20090403\x1C1500.00\x1C1500.00\x1C15\x1CContribution\x1CCFSC\x1CPartner\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11AI
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00232843
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA11AI.5724
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Barr
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Richard
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: Mr.
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 425 Huehl Road
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: '#3'
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Northbrook
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: IL
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '60062'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090403'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '1500.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '1500.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: Contribution
+  - name: CONTRIBUTOR EMPLOYER
+    number: '25'
+    value: CFSC
+  - name: CONTRIBUTOR OCCUPATION
+    number: '26'
+    value: Partner
+  - name: DONOR COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: '
+
+'
+- input: "SA11AI\x1CC00232843\x1CSA11AI.5705\x1C\x1C\x1CIND\x1C\x1CCarballo\x1CAlex\x1C\x1C\x1C\x1C4186
+    Broadway\x1C\x1CNew York\x1CNY\x1C10033\x1C\x1C\x1C20090312\x1C500.00\x1C500.00\x1C15\x1CContribution\x1CCastle
+    Financial Services\x1COwner\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11AI
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00232843
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA11AI.5705
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Carballo
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Alex
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 4186 Broadway
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: New York
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: NY
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '10033'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090312'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '500.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '500.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: Contribution
+  - name: CONTRIBUTOR EMPLOYER
+    number: '25'
+    value: Castle Financial Services
+  - name: CONTRIBUTOR OCCUPATION
+    number: '26'
+    value: Owner
+  - name: DONOR COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: '
+
+'
+- input: "SA11AI\x1CC00232843\x1CSA11AI.5707\x1C\x1C\x1CIND\x1C\x1CCarballo\x1CGeorge\x1C\x1C\x1C\x1C100
+    Winston Drive\x1C\x1CCliffside Park\x1CNJ\x1C07010\x1C\x1C\x1C20090312\x1C500.00\x1C500.00\x1C15\x1CContribution\x1CCastle
+    Financial Services\x1COwner\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11AI
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00232843
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA11AI.5707
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Carballo
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: George
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 100 Winston Drive
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Cliffside Park
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: NJ
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '07010'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090312'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '500.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '500.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: Contribution
+  - name: CONTRIBUTOR EMPLOYER
+    number: '25'
+    value: Castle Financial Services
+  - name: CONTRIBUTOR OCCUPATION
+    number: '26'
+    value: Owner
+  - name: DONOR COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: '
+
+'
+- input: "SA11AI\x1CC00232843\x1CSA11AI.5699\x1C\x1C\x1CIND\x1C\x1CCarballo\x1CJason\x1C\x1C\x1C\x1C22
+    Woodland\x1C\x1CMontvale\x1CNJ\x1C07645\x1C\x1C\x1C20090304\x1C500.00\x1C500.00\x1C15\x1CContribution\x1CCastle
+    Financial Services\x1COwner\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11AI
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00232843
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA11AI.5699
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Carballo
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Jason
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 22 Woodland
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Montvale
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: NJ
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '07645'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090304'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '500.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '500.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: Contribution
+  - name: CONTRIBUTOR EMPLOYER
+    number: '25'
+    value: Castle Financial Services
+  - name: CONTRIBUTOR OCCUPATION
+    number: '26'
+    value: Owner
+  - name: DONOR COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: '
+
+'
+- input: "SA11AI\x1CC00232843\x1CSA11AI.5728\x1C\x1C\x1CIND\x1C\x1CGoldstein\x1CNeil\x1C\x1C\x1C\x1C10
+    West 22nd Street\x1C\x1CBaltimore\x1CMD\x1C21218\x1C\x1C\x1C20090528\x1C500.00\x1C500.00\x1C15\x1CContribution\x1CGold's
+    Check Cashing\x1COwner\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11AI
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00232843
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA11AI.5728
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Goldstein
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Neil
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 10 West 22nd Street
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Baltimore
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: MD
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '21218'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090528'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '500.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '500.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: Contribution
+  - name: CONTRIBUTOR EMPLOYER
+    number: '25'
+    value: Gold's Check Cashing
+  - name: CONTRIBUTOR OCCUPATION
+    number: '26'
+    value: Owner
+  - name: DONOR COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: '
+
+'
+- input: "SA11AI\x1CC00232843\x1CSA11AI.5725\x1C\x1C\x1CIND\x1C\x1CHans\x1CAbby\x1CL\x1C\x1C\x1C20518
+    N Milwaukee Ave\x1C\x1CDeerfield\x1CIL\x1C60015\x1C\x1C\x1C20090406\x1C1000.00\x1C1000.00\x1C15\x1CContribution\x1CHans
+    Management Inc.\x1COwner\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11AI
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00232843
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA11AI.5725
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Hans
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Abby
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: L
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 20518 N Milwaukee Ave
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Deerfield
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: IL
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '60015'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090406'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '1000.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '1000.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: Contribution
+  - name: CONTRIBUTOR EMPLOYER
+    number: '25'
+    value: Hans Management Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '26'
+    value: Owner
+  - name: DONOR COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: '
+
+'
+- input: "SA11AI\x1CC00232843\x1CSA11AI.5722\x1C\x1C\x1CIND\x1C\x1CKrell\x1CIra\x1C\x1CMr.\x1C\x1C3015
+    Third Avenue\x1C\x1CBronx\x1CNY\x1C10455\x1C\x1C\x1C20090319\x1C2500.00\x1C2500.00\x1C15\x1CContribution\x1CDavid's
+    Financial Corp.\x1COwner\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11AI
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00232843
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA11AI.5722
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Krell
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Ira
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: Mr.
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 3015 Third Avenue
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Bronx
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: NY
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '10455'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090319'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '2500.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '2500.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: Contribution
+  - name: CONTRIBUTOR EMPLOYER
+    number: '25'
+    value: David's Financial Corp.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '26'
+    value: Owner
+  - name: DONOR COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: '
+
+'
+- input: "SA11AI\x1CC00232843\x1CSA11AI.5708\x1C\x1C\x1CIND\x1C\x1CLake\x1CRichard\x1CD.\x1CMr.\x1C\x1C1956
+    Webster Street\x1CSuite 200\x1COakland\x1CCA\x1C94612\x1C\x1C\x1C20090316\x1C5000.00\x1C5000.00\x1C15\x1CContribution\x1CCalifornia
+    Check Cashing Store\x1CExecutive\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11AI
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00232843
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA11AI.5708
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Lake
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Richard
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: D.
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: Mr.
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 1956 Webster Street
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: Suite 200
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Oakland
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: CA
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '94612'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090316'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '5000.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '5000.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: Contribution
+  - name: CONTRIBUTOR EMPLOYER
+    number: '25'
+    value: California Check Cashing Store
+  - name: CONTRIBUTOR OCCUPATION
+    number: '26'
+    value: Executive
+  - name: DONOR COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: '
+
+'
+- input: "SA11AI\x1CC00232843\x1CSA11AI.5751\x1C\x1C\x1CIND\x1C\x1CLevy\x1CEmanuel\x1C\x1C\x1C\x1C163
+    Bayside Drive\x1C\x1CAtlantic Beach\x1CNY\x1C11509\x1C\x1C\x1C20090615\x1C750.00\x1C750.00\x1C15\x1CContribution\x1CNYC
+    Check Express\x1COwner\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11AI
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00232843
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA11AI.5751
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Levy
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Emanuel
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 163 Bayside Drive
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Atlantic Beach
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: NY
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '11509'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090615'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '750.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '750.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: Contribution
+  - name: CONTRIBUTOR EMPLOYER
+    number: '25'
+    value: NYC Check Express
+  - name: CONTRIBUTOR OCCUPATION
+    number: '26'
+    value: Owner
+  - name: DONOR COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: '
+
+'
+- input: "SA11AI\x1CC00232843\x1CSA11AI.5700\x1C\x1C\x1CIND\x1C\x1CModell\x1CGene\x1C\x1CMr.\x1C\x1C3212
+    Washington Blvd\x1C\x1CBaltimore\x1CMD\x1C21230\x1C\x1C\x1C20090305\x1C2000.00\x1C2000.00\x1C15\x1CContribution\x1CSouthwest
+    Liquors\x1COwner\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11AI
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00232843
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA11AI.5700
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Modell
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Gene
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: Mr.
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 3212 Washington Blvd
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Baltimore
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: MD
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '21230'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090305'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '2000.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '2000.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: Contribution
+  - name: CONTRIBUTOR EMPLOYER
+    number: '25'
+    value: Southwest Liquors
+  - name: CONTRIBUTOR OCCUPATION
+    number: '26'
+    value: Owner
+  - name: DONOR COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: '
+
+'
+- input: "SA11AI\x1CC00232843\x1CSA11AI.5721\x1C\x1C\x1CIND\x1C\x1CSchafer\x1CR. Craig\x1C\x1CMr.\x1C\x1C4-901G
+    Kuhio Hwy\x1C\x1CKapaa\x1CHI\x1C96746\x1C\x1C\x1C20090317\x1C600.00\x1C600.00\x1C15\x1CContributions\x1CMoney
+    Service Ctrs of Hawaii\x1COwner\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11AI
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00232843
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA11AI.5721
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Schafer
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: R. Craig
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: Mr.
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 4-901G Kuhio Hwy
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Kapaa
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: HI
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '96746'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090317'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '600.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '600.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: Contributions
+  - name: CONTRIBUTOR EMPLOYER
+    number: '25'
+    value: Money Service Ctrs of Hawaii
+  - name: CONTRIBUTOR OCCUPATION
+    number: '26'
+    value: Owner
+  - name: DONOR COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: '
+
+'
+- input: "SA11AI\x1CC00232843\x1CSA11AI.5703\x1C\x1C\x1CIND\x1C\x1CShaffer\x1CWilliam\x1CJ\x1C\x1C\x1C879
+    Mason Avenue\x1C\x1CDaytona Beach\x1CFL\x1C32117\x1C\x1C\x1C20090312\x1C1000.00\x1C1000.00\x1C15\x1CContribution\x1CCheck
+    On Hold\x1COwner\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11AI
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00232843
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA11AI.5703
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Shaffer
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: William
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: J
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 879 Mason Avenue
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Daytona Beach
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: FL
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '32117'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090312'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '1000.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '1000.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: Contribution
+  - name: CONTRIBUTOR EMPLOYER
+    number: '25'
+    value: Check On Hold
+  - name: CONTRIBUTOR OCCUPATION
+    number: '26'
+    value: Owner
+  - name: DONOR COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: '
+
+'
+- input: "SA11AI\x1CC00232843\x1CSA11AI.5729\x1C\x1C\x1CIND\x1C\x1CShipowitz\x1CJay
+    B.\x1C\x1C\x1C\x1C1231 Greenway Drive\x1C\x1CIrving\x1CTX\x1C75038\x1C\x1C\x1C20090603\x1C1500.00\x1C1500.00\x1C15\x1CContribution\x1CACE
+    Cash Express, Inc.\x1CPrincipal\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11AI
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00232843
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA11AI.5729
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Shipowitz
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Jay B.
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 1231 Greenway Drive
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Irving
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: TX
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '75038'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090603'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '1500.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '1500.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: Contribution
+  - name: CONTRIBUTOR EMPLOYER
+    number: '25'
+    value: ACE Cash Express, Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '26'
+    value: Principal
+  - name: DONOR COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: '
+
+'
+- input: "SA11AI\x1CC00232843\x1CSA11AI.5734\x1C\x1C\x1CIND\x1C\x1CSmith\x1CBill\x1C\x1C\x1C\x1C300
+    Devon Drive\x1C\x1CHomewood\x1CAZ\x1C35209\x1C\x1C\x1C20090527\x1C2400.00\x1C2400.00\x1C15\x1CContribution\x1CEasy
+    Money\x1COwner\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11AI
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00232843
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA11AI.5734
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Smith
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Bill
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 300 Devon Drive
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Homewood
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: AZ
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '35209'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090527'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '2400.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '2400.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: Contribution
+  - name: CONTRIBUTOR EMPLOYER
+    number: '25'
+    value: Easy Money
+  - name: CONTRIBUTOR OCCUPATION
+    number: '26'
+    value: Owner
+  - name: DONOR COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: '
+
+'
+- input: "SA11AI\x1CC00232843\x1CSA11AI.5731\x1C\x1C\x1CIND\x1C\x1CStogner\x1CJerry\x1C\x1C\x1C\x1CPO
+    Box 1683\x1C\x1CMcComb\x1CMS\x1C39649\x1C\x1C\x1C20090601\x1C1500.00\x1C1500.00\x1C15\x1CContribution\x1CEast
+    McComb Check Cash, Inc.\x1COwner\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11AI
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00232843
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA11AI.5731
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Stogner
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Jerry
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: PO Box 1683
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: McComb
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: MS
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '39649'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090601'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '1500.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '1500.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: Contribution
+  - name: CONTRIBUTOR EMPLOYER
+    number: '25'
+    value: East McComb Check Cash, Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '26'
+    value: Owner
+  - name: DONOR COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: '
+
+'
+- input: "SA11AI\x1CC00232843\x1CSA11AI.5727\x1C\x1C\x1CIND\x1C\x1CWolfberg\x1CRobert\x1CM.\x1CMr.\x1C\x1C300
+    North Elizabeth\x1C#4E\x1CChicago\x1CIL\x1C60607\x1C\x1C\x1C20090602\x1C1500.00\x1C1500.00\x1C15\x1CContribution\x1CPLS
+    Financial\x1CExecutive\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11AI
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00232843
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA11AI.5727
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Wolfberg
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Robert
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: M.
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: Mr.
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 300 North Elizabeth
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: '#4E'
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Chicago
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: IL
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '60607'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090602'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '1500.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '1500.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: '15'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: Contribution
+  - name: CONTRIBUTOR EMPLOYER
+    number: '25'
+    value: PLS Financial
+  - name: CONTRIBUTOR OCCUPATION
+    number: '26'
+    value: Executive
+  - name: DONOR COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: '
+
+'
+- input: "SA11C\x1CC00232843\x1CSA11C.5753\x1C\x1C\x1CCOM\x1CCHECKSMART FINANCIAL
+    LLC PAC\x1C\x1C\x1C\x1C\x1C\x1C7001 POST ROAD\x1C\x1CDUBLIN\x1COH\x1C43016\x1C\x1C\x1C20090616\x1C5000.00\x1C5000.00\x1C\x1CContribution\x1C\x1C\x1CC00433805\x1CCHECKSMART
+    FINANCIAL LLC PAC\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11C
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00232843
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA11C.5753
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: COM
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: CHECKSMART FINANCIAL LLC PAC
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 7001 POST ROAD
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: DUBLIN
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: OH
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '43016'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090616'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '5000.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '5000.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: Contribution
+  - name: CONTRIBUTOR EMPLOYER
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR OCCUPATION
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE FEC ID
+    number: '27'
+    value: C00433805
+  - name: DONOR COMMITTEE NAME
+    number: '28'
+    value: CHECKSMART FINANCIAL LLC PAC
+  - name: DONOR CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: '
+
+'
+- input: "SA11C\x1CC00232843\x1CSA11C.5755\x1C\x1C\x1CCOM\x1CPLS FINANCIAL SVCS INC
+    GOOD NEIGHBOR  POLITICAL ACTION COMMITTE (PLS GOOD NEIGHBOR PAC)\x1C\x1C\x1C\x1C\x1C\x1C300
+    NORTH ELIZABETH STREET STE 4E\x1C\x1CCHICAGO\x1CIL\x1C60607\x1C\x1C\x1C20090622\x1C1500.00\x1C1500.00\x1C\x1CContribution\x1C\x1C\x1CC00450189\x1CPLS
+    FINANCIAL SVCS INC GOOD NEIGHBOR  POLITICAL ACTION COMMITTE (PLS GOOD NEIGHBOR
+    PAC)\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11C
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00232843
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA11C.5755
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: COM
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: PLS FINANCIAL SVCS INC GOOD NEIGHBOR  POLITICAL ACTION COMMITTE (PLS GOOD
+      NEIGHBOR PAC)
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 300 NORTH ELIZABETH STREET STE 4E
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: CHICAGO
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: IL
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '60607'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090622'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '1500.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '1500.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: Contribution
+  - name: CONTRIBUTOR EMPLOYER
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR OCCUPATION
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE FEC ID
+    number: '27'
+    value: C00450189
+  - name: DONOR COMMITTEE NAME
+    number: '28'
+    value: PLS FINANCIAL SVCS INC GOOD NEIGHBOR  POLITICAL ACTION COMMITTE (PLS GOOD
+      NEIGHBOR PAC)
+  - name: DONOR CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: '
+
+'
+- input: "SA11C\x1CC00232843\x1CSA11C.5757\x1C\x1C\x1CCOM\x1CPLS FINANCIAL SVCS INC
+    GOOD NEIGHBOR  POLITICAL ACTION COMMITTE (PLS GOOD NEIGHBOR PAC)\x1C\x1C\x1C\x1C\x1C\x1C300
+    NORTH ELIZABETH STREET STE 4E\x1C\x1CCHICAGO\x1CIL\x1C60607\x1C\x1C\x1C20090622\x1C1500.00\x1C3000.00\x1C\x1CContribution\x1C\x1C\x1CC00450189\x1CPLS
+    FINANCIAL SVCS INC GOOD NEIGHBOR  POLITICAL ACTION COMMITTE (PLS GOOD NEIGHBOR
+    PAC)\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11C
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00232843
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA11C.5757
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: COM
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: PLS FINANCIAL SVCS INC GOOD NEIGHBOR  POLITICAL ACTION COMMITTE (PLS GOOD
+      NEIGHBOR PAC)
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 300 NORTH ELIZABETH STREET STE 4E
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: CHICAGO
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: IL
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '60607'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20090622'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '1500.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '3000.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: Contribution
+  - name: CONTRIBUTOR EMPLOYER
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR OCCUPATION
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE FEC ID
+    number: '27'
+    value: C00450189
+  - name: DONOR COMMITTEE NAME
+    number: '28'
+    value: PLS FINANCIAL SVCS INC GOOD NEIGHBOR  POLITICAL ACTION COMMITTE (PLS GOOD
+      NEIGHBOR PAC)
+  - name: DONOR CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: '
+
+'
+- input: "SB21B\x1CC00232843\x1CSB21B.5742\x1C\x1C\x1CORG\x1CAmerican Express\x1C\x1C\x1C\x1C\x1C\x1CP.O.
+    Box 53852\x1C\x1CPhoenix\x1CAZ\x1C850723852\x1CG2009\x1C\x1C20090405\x1C221.25\x1C\x1C\x1CAmerican
+    Express Fee\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB21B
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00232843
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB21B.5742
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: American Express
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: P.O. Box 53852
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Phoenix
+  - name: PAYEE STATE
+    number: '16'
+    value: AZ
+  - name: PAYEE ZIP
+    number: '17'
+    value: '850723852'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090405'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '221.25'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: American Express Fee
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: '
+
+'
+- input: "SB21B\x1CC00232843\x1CSB21B.5743\x1C\x1C\x1CORG\x1CAmerican Express\x1C\x1C\x1C\x1C\x1C\x1CP.O.
+    Box 53852\x1C\x1CPhoenix\x1CAZ\x1C850723852\x1CG2009\x1C\x1C20090407\x1C4.95\x1C\x1C\x1CAmerican
+    Express Fee\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB21B
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00232843
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB21B.5743
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: American Express
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: P.O. Box 53852
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Phoenix
+  - name: PAYEE STATE
+    number: '16'
+    value: AZ
+  - name: PAYEE ZIP
+    number: '17'
+    value: '850723852'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090407'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '4.95'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: American Express Fee
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: '
+
+'
+- input: "SB21B\x1CC00232843\x1CSB21B.5739\x1C\x1C\x1CORG\x1CMerchant Service\x1C\x1C\x1C\x1C\x1C\x1C7300
+    Chapman Highway\x1C\x1CKnoxville\x1CTN\x1C37920\x1CG2009\x1C\x1C20090331\x1C103.00\x1C\x1C\x1CMerchant
+    Fee\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB21B
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00232843
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB21B.5739
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Merchant Service
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 7300 Chapman Highway
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Knoxville
+  - name: PAYEE STATE
+    number: '16'
+    value: TN
+  - name: PAYEE ZIP
+    number: '17'
+    value: '37920'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090331'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '103.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Merchant Fee
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: '
+
+'
+- input: "SB21B\x1CC00232843\x1CSB21B.5740\x1C\x1C\x1CORG\x1CMerchant Service\x1C\x1C\x1C\x1C\x1C\x1C7300
+    Chapman Highway\x1C\x1CKnoxville\x1CTN\x1C37920\x1CG2009\x1C\x1C20090430\x1C33.50\x1C\x1C\x1CMerchant
+    Fee\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB21B
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00232843
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB21B.5740
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Merchant Service
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 7300 Chapman Highway
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Knoxville
+  - name: PAYEE STATE
+    number: '16'
+    value: TN
+  - name: PAYEE ZIP
+    number: '17'
+    value: '37920'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090430'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '33.50'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Merchant Fee
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: '
+
+'
+- input: "SB21B\x1CC00232843\x1CSB21B.5741\x1C\x1C\x1CORG\x1CMerchant Service\x1C\x1C\x1C\x1C\x1C\x1C7300
+    Chapman Highway\x1C\x1CKnoxville\x1CTN\x1C37920\x1CG2009\x1C\x1C20090531\x1C96.86\x1C\x1C\x1CMerchant
+    Fee\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB21B
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00232843
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB21B.5741
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Merchant Service
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 7300 Chapman Highway
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Knoxville
+  - name: PAYEE STATE
+    number: '16'
+    value: TN
+  - name: PAYEE ZIP
+    number: '17'
+    value: '37920'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090531'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '96.86'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Merchant Fee
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: '
+
+'
+- input: "SB23\x1CC00232843\x1CSB23.5726\x1C\x1C\x1CCCM\x1CCITIZENS FOR RUSH\x1C\x1C\x1C\x1C\x1C\x1CP.
+    O. Box 7292\x1C\x1CCHICAGO\x1CIL\x1C60680\x1CG2009\x1C\x1C20090413\x1C1000.00\x1C\x1C\x1CContribution\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CH\x1CIL\x1C01\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00232843
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB23.5726
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: CCM
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: CITIZENS FOR RUSH
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: P. O. Box 7292
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: CHICAGO
+  - name: PAYEE STATE
+    number: '16'
+    value: IL
+  - name: PAYEE ZIP
+    number: '17'
+    value: '60680'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090413'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '1000.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Contribution
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '35'
+    value: IL
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '36'
+    value: '01'
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: '
+
+'
+- input: "SB23\x1CC00232843\x1CSB23.5717\x1C\x1C\x1CCCM\x1CDEMOCRATIC CONGRESSIONAL
+    CAMPAIGN COMMITTEE\x1C\x1C\x1C\x1C\x1C\x1C430 South Capitol Street, SE\x1C2nd
+    Floor\x1CWashington\x1CDC\x1C20003\x1CG2009\x1C\x1C20090312\x1C15000.00\x1C\x1C\x1CContribution\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00232843
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB23.5717
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: CCM
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 430 South Capitol Street, SE
+  - name: PAYEE STREET 2
+    number: '14'
+    value: 2nd Floor
+  - name: PAYEE CITY
+    number: '15'
+    value: Washington
+  - name: PAYEE STATE
+    number: '16'
+    value: DC
+  - name: PAYEE ZIP
+    number: '17'
+    value: '20003'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090312'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '15000.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Contribution
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: '
+
+'
+- input: "SB23\x1CC00232843\x1CSB23.5709\x1C\x1C\x1CCCM\x1CFRITCHEY FOR US\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 578336\x1C\x1CChicago\x1CIL\x1C60657\x1CG2009\x1C\x1C20090202\x1C1000.00\x1C\x1C\x1CContribution\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CH\x1CIL\x1C05\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00232843
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB23.5709
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: CCM
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: FRITCHEY FOR US
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: PO Box 578336
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Chicago
+  - name: PAYEE STATE
+    number: '16'
+    value: IL
+  - name: PAYEE ZIP
+    number: '17'
+    value: '60657'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090202'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '1000.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Contribution
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '35'
+    value: IL
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '36'
+    value: '05'
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: '
+
+'
+- input: "SB23\x1CC00232843\x1CSB23.5759\x1C\x1C\x1CCCM\x1CMALONEY FOR CONGRESS\x1C\x1C\x1C\x1C\x1C\x1C24
+    E. 93rd Street, Suite 1B\x1C\x1CNEW YORK\x1CNY\x1C10128\x1CG2009\x1C\x1C20090617\x1C5000.00\x1C\x1C\x1CContribution\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CH\x1CNY\x1C14\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00232843
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB23.5759
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: CCM
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: MALONEY FOR CONGRESS
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 24 E. 93rd Street, Suite 1B
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: NEW YORK
+  - name: PAYEE STATE
+    number: '16'
+    value: NY
+  - name: PAYEE ZIP
+    number: '17'
+    value: '10128'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090617'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '5000.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Contribution
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '35'
+    value: NY
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '36'
+    value: '14'
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: '
+
+'
+- input: "SB23\x1CC00232843\x1CSB23.5730\x1C\x1C\x1CCCM\x1CNATIONAL REPUBLICAN CONGRESSIONAL
+    COMMITTEE\x1C\x1C\x1C\x1C\x1C\x1C320 FIRST STREET\x1C.\x1CWASHINGTON\x1CDC\x1C20003\x1CG2009\x1C\x1C20090526\x1C10000.00\x1C\x1C\x1CCONTRIBUTION\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00232843
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB23.5730
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: CCM
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 320 FIRST STREET
+  - name: PAYEE STREET 2
+    number: '14'
+    value: .
+  - name: PAYEE CITY
+    number: '15'
+    value: WASHINGTON
+  - name: PAYEE STATE
+    number: '16'
+    value: DC
+  - name: PAYEE ZIP
+    number: '17'
+    value: '20003'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090526'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '10000.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: CONTRIBUTION
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: '
+
+'
+- input: "SB29\x1CC00232843\x1CSB29.5715\x1C\x1C\x1CCCM\x1CKENDRICK MEEK FOR FLORIDA\x1C\x1C\x1C\x1C\x1C\x1C111
+    NW 183RD STREET SUITE 325\x1C\x1CMIAMI\x1CFL\x1C33169\x1CG2009\x1C\x1C20090218\x1C2500.00\x1C\x1C\x1CContribution\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CS\x1CFL\x1C00\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB29
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00232843
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB29.5715
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: CCM
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: KENDRICK MEEK FOR FLORIDA
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 111 NW 183RD STREET SUITE 325
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: MIAMI
+  - name: PAYEE STATE
+    number: '16'
+    value: FL
+  - name: PAYEE ZIP
+    number: '17'
+    value: '33169'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20090218'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '2500.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Contribution
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '34'
+    value: S
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '35'
+    value: FL
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '36'
+    value: '00'
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: '
+
+'
+sourceurl: !!python/unicode 20090701
+type: chunk

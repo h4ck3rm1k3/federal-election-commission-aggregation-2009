@@ -1,0 +1,1618 @@
+countrows: 14
+filename: 421682.fec
+header: {}
+rows:
+- 2
+- input: "F24\x1CC00005157\x1C24\x1CInternational Brotherhood of Boilermakers Campaign
+    Assistance Fund\x1C753 State Ave.\x1CSuite 565\x1CKansas City\x1CKS\x1C66101\x1CCreeden\x1CWilliam\x1C\x1C\x1C\x1C20090629\n"
+  record: fec.version.v6_4.F24
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F24
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00005157
+  - name: REPORT TYPE (24/48 Hour)
+    number: '3'
+    value: '24'
+  - name: COMMITTEE NAME
+    number: '4'
+    value: International Brotherhood of Boilermakers Campaign Assistance Fund
+  - name: STREET 1
+    number: '5'
+    value: 753 State Ave.
+  - name: STREET 2
+    number: '6'
+    value: Suite 565
+  - name: CITY
+    number: '7'
+    value: Kansas City
+  - name: STATE
+    number: '8'
+    value: KS
+  - name: ZIP
+    number: '9'
+    value: '66101'
+  - name: TREASURER LAST NAME
+    number: '10'
+    value: Creeden
+  - name: TREASURER FIRST NAME
+    number: '11'
+    value: William
+  - name: TREASURER MIDDLE NAME
+    number: '12'
+    value: ''
+  - name: TREASURER PREFIX
+    number: '13'
+    value: ''
+  - name: TREASURER SUFFIX
+    number: '14'
+    value: ''
+  - name: DATE SIGNED
+    number: '15'
+    value: '20090629
+
+'
+- input: "TEXT\x1CC00005157\x1C.TEXT\x1C\x1CF24\x1CThis is in response to your letter
+    dated May 29, 2009, regarding our amended 30-day Post General Report, which indicates
+    that we may have failed to file timely 24 hour notice independent expenditure
+    report.  A review of our records indicated that this office had failed to file
+    24-hour notices on expenses that were incurred prior to the November 4, 2008,
+    General Election, but paid after.  \n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00005157
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: .TEXT
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: F24
+  - name: TEXT4000
+    number: '6'
+    value: "This is in response to your letter dated May 29, 2009, regarding our amended
+      30-day Post General Report, which indicates that we may have failed to file
+      timely 24 hour notice independent expenditure report.  A review of our records
+      indicated that this office had failed to file 24-hour notices on expenses that
+      were incurred prior to the November 4, 2008, General Election, but paid after.
+      \ \n"
+- input: "SE\x1CC00005157\x1CSE.24482\x1C\x1C\x1CORG\x1CK&R INDUSTRIES\x1C\x1C\x1C\x1C\x1C\x1C14110
+    SULLYFIELD CIRCLE\x1C\x1CCHANTILLY\x1CVA\x1C20151\x1CG2008\x1C\x1C20081028\x1C2372.42\x1C55709.41\x1C\x1CPayment
+    for Boilermakers for Obama Tees\x1C006\x1CC00005157\x1CS\x1CP80003338\x1COBAMA\x1CBARACK\x1C\x1C\x1C\x1CP\x1C\x1C\x1CCreeden\x1CWilliam\x1C\x1C\x1C\x1C20090629\x1C\x1C\n"
+  record: fec.version.v6_4.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00005157
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.24482
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: K&R INDUSTRIES
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 14110 SULLYFIELD CIRCLE
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: CHANTILLY
+  - name: PAYEE STATE
+    number: '16'
+    value: VA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '20151'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081028'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '2372.42'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '55709.41'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Payment for Boilermakers for Obama Tees
+  - name: CATEGORY CODE
+    number: '25'
+    value: '006'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '26'
+    value: C00005157
+  - name: SUPPORT/OPPOSE CODE
+    number: '27'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '28'
+    value: P80003338
+  - name: S/O CANDIDATE LAST NAME
+    number: '29'
+    value: OBAMA
+  - name: S/O CANDIDATE FIRST NAME
+    number: '30'
+    value: BARACK
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '34'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '37'
+    value: Creeden
+  - name: COMPLETING FIRST NAME
+    number: '38'
+    value: William
+  - name: COMPLETING MIDDLE NAME
+    number: '39'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '40'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '41'
+    value: ''
+  - name: DATE SIGNED
+    number: '42'
+    value: '20090629'
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: '
+
+'
+- input: "SE\x1CC00005157\x1CSE.24483\x1C\x1C\x1CORG\x1CK&R INDUSTRIES\x1C\x1C\x1C\x1C\x1C\x1C14110
+    SULLYFIELD CIRCLE\x1C\x1CCHANTILLY\x1CVA\x1C20151\x1CG2008\x1C\x1C20081030\x1C8811.95\x1C55709.41\x1C\x1CPayment
+    for Boilermakers for Obama tees\x1C006\x1CC00005157\x1CS\x1CP80003338\x1COBAMA\x1CBARACK\x1C\x1C\x1C\x1CP\x1C\x1C\x1CCreeden\x1CWilliam\x1C\x1C\x1C\x1C20090629\x1C\x1C\n"
+  record: fec.version.v6_4.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00005157
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.24483
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: K&R INDUSTRIES
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 14110 SULLYFIELD CIRCLE
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: CHANTILLY
+  - name: PAYEE STATE
+    number: '16'
+    value: VA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '20151'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081030'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '8811.95'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '55709.41'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Payment for Boilermakers for Obama tees
+  - name: CATEGORY CODE
+    number: '25'
+    value: '006'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '26'
+    value: C00005157
+  - name: SUPPORT/OPPOSE CODE
+    number: '27'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '28'
+    value: P80003338
+  - name: S/O CANDIDATE LAST NAME
+    number: '29'
+    value: OBAMA
+  - name: S/O CANDIDATE FIRST NAME
+    number: '30'
+    value: BARACK
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '34'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '37'
+    value: Creeden
+  - name: COMPLETING FIRST NAME
+    number: '38'
+    value: William
+  - name: COMPLETING MIDDLE NAME
+    number: '39'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '40'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '41'
+    value: ''
+  - name: DATE SIGNED
+    number: '42'
+    value: '20090629'
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: '
+
+'
+- input: "SE\x1CC00005157\x1CSE.24484\x1C\x1C\x1CORG\x1CKELLY PRESS\x1C\x1C\x1C\x1C\x1C\x1C1701
+    CABIN BRANCH DRIVE\x1C\x1CCHEVERLY\x1CMD\x1C20785\x1CG2008\x1C\x1C20081016\x1C1528.80\x1C52971.30\x1C\x1CPayment
+    for Bumper Stickers\x1C006\x1CC00005157\x1CS\x1CP80003338\x1COBAMA\x1CBARACK\x1C\x1C\x1C\x1CP\x1C\x1C\x1CCreeden\x1CWilliam\x1C\x1C\x1C\x1C20090629\x1C\x1C\n"
+  record: fec.version.v6_4.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00005157
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.24484
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: KELLY PRESS
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 1701 CABIN BRANCH DRIVE
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: CHEVERLY
+  - name: PAYEE STATE
+    number: '16'
+    value: MD
+  - name: PAYEE ZIP
+    number: '17'
+    value: '20785'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081016'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '1528.80'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '52971.30'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Payment for Bumper Stickers
+  - name: CATEGORY CODE
+    number: '25'
+    value: '006'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '26'
+    value: C00005157
+  - name: SUPPORT/OPPOSE CODE
+    number: '27'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '28'
+    value: P80003338
+  - name: S/O CANDIDATE LAST NAME
+    number: '29'
+    value: OBAMA
+  - name: S/O CANDIDATE FIRST NAME
+    number: '30'
+    value: BARACK
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '34'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '37'
+    value: Creeden
+  - name: COMPLETING FIRST NAME
+    number: '38'
+    value: William
+  - name: COMPLETING MIDDLE NAME
+    number: '39'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '40'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '41'
+    value: ''
+  - name: DATE SIGNED
+    number: '42'
+    value: '20090629'
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: '
+
+'
+- input: "SE\x1CC00005157\x1CSE.24485\x1C\x1C\x1CORG\x1CKELLY PRESS\x1C\x1C\x1C\x1C\x1C\x1C1701
+    CABIN BRANCH DRIVE\x1C\x1CCHEVERLY\x1CMD\x1C20785\x1CG2008\x1C\x1C20081016\x1C638.40\x1C52971.30\x1C\x1CPayment
+    for Lapel stickers\x1C006\x1CC00005157\x1CS\x1CP80003338\x1COBAMA\x1CBARACK\x1C\x1C\x1C\x1CP\x1C\x1C\x1CCreeden\x1CWilliam\x1C\x1C\x1C\x1C20090629\x1C\x1C\n"
+  record: fec.version.v6_4.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00005157
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.24485
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: KELLY PRESS
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 1701 CABIN BRANCH DRIVE
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: CHEVERLY
+  - name: PAYEE STATE
+    number: '16'
+    value: MD
+  - name: PAYEE ZIP
+    number: '17'
+    value: '20785'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081016'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '638.40'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '52971.30'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Payment for Lapel stickers
+  - name: CATEGORY CODE
+    number: '25'
+    value: '006'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '26'
+    value: C00005157
+  - name: SUPPORT/OPPOSE CODE
+    number: '27'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '28'
+    value: P80003338
+  - name: S/O CANDIDATE LAST NAME
+    number: '29'
+    value: OBAMA
+  - name: S/O CANDIDATE FIRST NAME
+    number: '30'
+    value: BARACK
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '34'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '37'
+    value: Creeden
+  - name: COMPLETING FIRST NAME
+    number: '38'
+    value: William
+  - name: COMPLETING MIDDLE NAME
+    number: '39'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '40'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '41'
+    value: ''
+  - name: DATE SIGNED
+    number: '42'
+    value: '20090629'
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: '
+
+'
+- input: "SE\x1CC00005157\x1CSE.24486\x1C\x1C\x1CORG\x1CKELLY PRESS\x1C\x1C\x1C\x1C\x1C\x1C1701
+    CABIN BRANCH DRIVE\x1C\x1CCHEVERLY\x1CMD\x1C20785\x1CG2008\x1C\x1C20081016\x1C11166.40\x1C52971.30\x1C\x1CPayment
+    for Yard signs\x1C006\x1CC00005157\x1CS\x1CP80003338\x1COBAMA\x1CBARACK\x1C\x1C\x1C\x1CP\x1C\x1C\x1CCreeden\x1CWilliam\x1C\x1C\x1C\x1C20090629\x1C\x1C\n"
+  record: fec.version.v6_4.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00005157
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.24486
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: KELLY PRESS
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 1701 CABIN BRANCH DRIVE
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: CHEVERLY
+  - name: PAYEE STATE
+    number: '16'
+    value: MD
+  - name: PAYEE ZIP
+    number: '17'
+    value: '20785'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081016'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '11166.40'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '52971.30'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Payment for Yard signs
+  - name: CATEGORY CODE
+    number: '25'
+    value: '006'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '26'
+    value: C00005157
+  - name: SUPPORT/OPPOSE CODE
+    number: '27'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '28'
+    value: P80003338
+  - name: S/O CANDIDATE LAST NAME
+    number: '29'
+    value: OBAMA
+  - name: S/O CANDIDATE FIRST NAME
+    number: '30'
+    value: BARACK
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '34'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '37'
+    value: Creeden
+  - name: COMPLETING FIRST NAME
+    number: '38'
+    value: William
+  - name: COMPLETING MIDDLE NAME
+    number: '39'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '40'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '41'
+    value: ''
+  - name: DATE SIGNED
+    number: '42'
+    value: '20090629'
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: '
+
+'
+- input: "SE\x1CC00005157\x1CSE.24487\x1C\x1C\x1CORG\x1CLocal Lodge 154\x1C\x1C\x1C\x1C\x1C\x1C1221
+    Banksville Road\x1C\x1CPittsburgh\x1CPA\x1C15216\x1CG2008\x1C\x1C20081024\x1C535.71\x1C55709.41\x1C\x1CPayment
+    for Helium for Blimp purchased\x1C006\x1CC00005157\x1CS\x1CP80003338\x1COBAMA\x1CBARACK\x1C\x1C\x1C\x1CP\x1C\x1C\x1CCreeden\x1CWilliam\x1C\x1C\x1C\x1C20090629\x1C\x1C\n"
+  record: fec.version.v6_4.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00005157
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.24487
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Local Lodge 154
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 1221 Banksville Road
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Pittsburgh
+  - name: PAYEE STATE
+    number: '16'
+    value: PA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '15216'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081024'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '535.71'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '55709.41'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Payment for Helium for Blimp purchased
+  - name: CATEGORY CODE
+    number: '25'
+    value: '006'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '26'
+    value: C00005157
+  - name: SUPPORT/OPPOSE CODE
+    number: '27'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '28'
+    value: P80003338
+  - name: S/O CANDIDATE LAST NAME
+    number: '29'
+    value: OBAMA
+  - name: S/O CANDIDATE FIRST NAME
+    number: '30'
+    value: BARACK
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '34'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '37'
+    value: Creeden
+  - name: COMPLETING FIRST NAME
+    number: '38'
+    value: William
+  - name: COMPLETING MIDDLE NAME
+    number: '39'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '40'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '41'
+    value: ''
+  - name: DATE SIGNED
+    number: '42'
+    value: '20090629'
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: '
+
+'
+- input: "SE\x1CC00005157\x1CSE.24490\x1C\x1C\x1CIND\x1C\x1CMiller\x1CKevin\x1C\x1C\x1C\x1C114
+    B Pine Street\x1C\x1CRussellton\x1CPA\x1C150761322\x1CG2008\x1C\x1C20081026\x1C506.56\x1C55709.41\x1C\x1CReimb.
+    expenses - Boilermaker RV\x1C002\x1CC00005157\x1CS\x1CP80003338\x1COBAMA\x1CBARACK\x1C\x1C\x1C\x1CP\x1C\x1C\x1CCreeden\x1CWilliam\x1C\x1C\x1C\x1C20090629\x1C\x1C\n"
+  record: fec.version.v6_4.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00005157
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.24490
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Miller
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Kevin
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 114 B Pine Street
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Russellton
+  - name: PAYEE STATE
+    number: '16'
+    value: PA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '150761322'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081026'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '506.56'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '55709.41'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Reimb. expenses - Boilermaker RV
+  - name: CATEGORY CODE
+    number: '25'
+    value: '002'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '26'
+    value: C00005157
+  - name: SUPPORT/OPPOSE CODE
+    number: '27'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '28'
+    value: P80003338
+  - name: S/O CANDIDATE LAST NAME
+    number: '29'
+    value: OBAMA
+  - name: S/O CANDIDATE FIRST NAME
+    number: '30'
+    value: BARACK
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '34'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '37'
+    value: Creeden
+  - name: COMPLETING FIRST NAME
+    number: '38'
+    value: William
+  - name: COMPLETING MIDDLE NAME
+    number: '39'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '40'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '41'
+    value: ''
+  - name: DATE SIGNED
+    number: '42'
+    value: '20090629'
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: '
+
+'
+- input: "SE\x1CC00005157\x1CSE.24489\x1C\x1C\x1CIND\x1C\x1CMiller\x1CKevin\x1C\x1C\x1C\x1C114
+    B Pine Street\x1C\x1CRussellton\x1CPA\x1C150761322\x1CG2008\x1C\x1C20081027\x1C269.47\x1C55709.41\x1C\x1CPayment
+    for expenses incurred w/Boilermaker RV\x1C002\x1CC00005157\x1CS\x1CP80003338\x1COBAMA\x1CBARACK\x1C\x1C\x1C\x1CP\x1C\x1C\x1CCreeden\x1CWilliam\x1C\x1C\x1C\x1C20090629\x1C\x1C\n"
+  record: fec.version.v6_4.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00005157
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.24489
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Miller
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Kevin
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 114 B Pine Street
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Russellton
+  - name: PAYEE STATE
+    number: '16'
+    value: PA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '150761322'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081027'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '269.47'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '55709.41'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Payment for expenses incurred w/Boilermaker RV
+  - name: CATEGORY CODE
+    number: '25'
+    value: '002'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '26'
+    value: C00005157
+  - name: SUPPORT/OPPOSE CODE
+    number: '27'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '28'
+    value: P80003338
+  - name: S/O CANDIDATE LAST NAME
+    number: '29'
+    value: OBAMA
+  - name: S/O CANDIDATE FIRST NAME
+    number: '30'
+    value: BARACK
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '34'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '37'
+    value: Creeden
+  - name: COMPLETING FIRST NAME
+    number: '38'
+    value: William
+  - name: COMPLETING MIDDLE NAME
+    number: '39'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '40'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '41'
+    value: ''
+  - name: DATE SIGNED
+    number: '42'
+    value: '20090629'
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: '
+
+'
+- input: "SE\x1CC00005157\x1CSE.24491\x1C\x1C\x1CIND\x1C\x1CWolfe\x1CStanley\x1C\x1C\x1CJr.\x1C113
+    Bennet Blvd.\x1C\x1CAliquippa\x1CPA\x1C15001\x1CG2008\x1C\x1C20081027\x1C42.50\x1C55709.41\x1C\x1CPayment
+    for IBB RV expenses incurred\x1C002\x1CC00005157\x1CS\x1CP80003338\x1COBAMA\x1CBARACK\x1C\x1C\x1C\x1CP\x1C\x1C\x1CCreeden\x1CWilliam\x1C\x1C\x1C\x1C20090629\x1C\x1C\n"
+  record: fec.version.v6_4.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00005157
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.24491
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Wolfe
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Stanley
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: Jr.
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 113 Bennet Blvd.
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Aliquippa
+  - name: PAYEE STATE
+    number: '16'
+    value: PA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '15001'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081027'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '42.50'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '55709.41'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Payment for IBB RV expenses incurred
+  - name: CATEGORY CODE
+    number: '25'
+    value: '002'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '26'
+    value: C00005157
+  - name: SUPPORT/OPPOSE CODE
+    number: '27'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '28'
+    value: P80003338
+  - name: S/O CANDIDATE LAST NAME
+    number: '29'
+    value: OBAMA
+  - name: S/O CANDIDATE FIRST NAME
+    number: '30'
+    value: BARACK
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '34'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '37'
+    value: Creeden
+  - name: COMPLETING FIRST NAME
+    number: '38'
+    value: William
+  - name: COMPLETING MIDDLE NAME
+    number: '39'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '40'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '41'
+    value: ''
+  - name: DATE SIGNED
+    number: '42'
+    value: '20090629'
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: '
+
+'
+- input: "SE\x1CC00005157\x1CSE.24492\x1C\x1C\x1CIND\x1C\x1CWolfe\x1CStanley\x1C\x1C\x1CJr.\x1C113
+    Bennet Blvd.\x1C\x1CAliquippa\x1CPA\x1C15001\x1CG2008\x1C\x1C20081029\x1C62.31\x1C55709.41\x1C\x1CPayment
+    for IBB RV expenses incurred\x1C002\x1CC00005157\x1CS\x1CP80003338\x1COBAMA\x1CBARACK\x1C\x1C\x1C\x1CP\x1C\x1C\x1CCreeden\x1CWilliam\x1C\x1C\x1C\x1C20090629\x1C\x1C\n"
+  record: fec.version.v6_4.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00005157
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.24492
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Wolfe
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Stanley
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: Jr.
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 113 Bennet Blvd.
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Aliquippa
+  - name: PAYEE STATE
+    number: '16'
+    value: PA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '15001'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081029'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '62.31'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '55709.41'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Payment for IBB RV expenses incurred
+  - name: CATEGORY CODE
+    number: '25'
+    value: '002'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '26'
+    value: C00005157
+  - name: SUPPORT/OPPOSE CODE
+    number: '27'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '28'
+    value: P80003338
+  - name: S/O CANDIDATE LAST NAME
+    number: '29'
+    value: OBAMA
+  - name: S/O CANDIDATE FIRST NAME
+    number: '30'
+    value: BARACK
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '34'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '37'
+    value: Creeden
+  - name: COMPLETING FIRST NAME
+    number: '38'
+    value: William
+  - name: COMPLETING MIDDLE NAME
+    number: '39'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '40'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '41'
+    value: ''
+  - name: DATE SIGNED
+    number: '42'
+    value: '20090629'
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: '
+
+'
+- input: "SE\x1CC00005157\x1CSE.24494\x1C\x1C\x1CIND\x1C\x1CWolfe\x1CStanley\x1C\x1C\x1CJr.\x1C113
+    Bennet Blvd.\x1C\x1CAliquippa\x1CPA\x1C15001\x1CG2008\x1C\x1C20081101\x1C25.22\x1C55709.41\x1C\x1CPayment
+    for IBB RV expenses incurred\x1C002\x1CC00005157\x1CS\x1CP80003338\x1COBAMA\x1CBARACK\x1C\x1C\x1C\x1CP\x1C\x1C\x1CCreeden\x1CWilliam\x1C\x1C\x1C\x1C20090629\x1C\x1C\n"
+  record: fec.version.v6_4.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00005157
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.24494
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Wolfe
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Stanley
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: Jr.
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 113 Bennet Blvd.
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Aliquippa
+  - name: PAYEE STATE
+    number: '16'
+    value: PA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '15001'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20081101'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '25.22'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '55709.41'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Payment for IBB RV expenses incurred
+  - name: CATEGORY CODE
+    number: '25'
+    value: '002'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '26'
+    value: C00005157
+  - name: SUPPORT/OPPOSE CODE
+    number: '27'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '28'
+    value: P80003338
+  - name: S/O CANDIDATE LAST NAME
+    number: '29'
+    value: OBAMA
+  - name: S/O CANDIDATE FIRST NAME
+    number: '30'
+    value: BARACK
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '34'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '37'
+    value: Creeden
+  - name: COMPLETING FIRST NAME
+    number: '38'
+    value: William
+  - name: COMPLETING MIDDLE NAME
+    number: '39'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '40'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '41'
+    value: ''
+  - name: DATE SIGNED
+    number: '42'
+    value: '20090629'
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: '
+
+'
+sourceurl: !!python/unicode 20090629
+type: chunk

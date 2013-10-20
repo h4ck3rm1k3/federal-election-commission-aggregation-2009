@@ -1,0 +1,162 @@
+countrows: 3
+filename: 421575.fec
+header: {}
+rows:
+- 2
+- input: "F2N\x1CH8MN03077\x1CPaulsen\x1CErik\x1CP\x1CRep.\x1C\x1C\x1CPO Box 44369\x1C\x1CEden
+    Prairie\x1CMN\x1C553441369\x1CREP\x1CH\x1CMN\x1C03\x1C2010\x1CC00439661\x1CFriends
+    of Erik Paulsen\x1CP.O. Box 44369\x1C250 Prairie Center Drive\x1CEden Prairie\x1CMN\x1C553441369\x1C\x1CHouse
+    Republican Freshmen 2009\x1CPO Box 2719\x1C\x1CWashington\x1CDC\x1C220132719\x1CPaulsen\x1CErik\x1CP\x1CRep.\x1C\x1C20090625\n"
+  record: fec.version.v6_4.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2N
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H8MN03077
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Paulsen
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: Erik
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: P
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: Rep.
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: PO Box 44369
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Eden Prairie
+  - name: CANDIDATE STATE
+    number: '12'
+    value: MN
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '553441369'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: REP
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: MN
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '03'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2010'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00439661
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: Friends of Erik Paulsen
+  - name: PCC STREET 1
+    number: '21'
+    value: P.O. Box 44369
+  - name: PCC STREET 2
+    number: '22'
+    value: 250 Prairie Center Drive
+  - name: PCC CITY
+    number: '23'
+    value: Eden Prairie
+  - name: PCC STATE
+    number: '24'
+    value: MN
+  - name: PCC ZIP
+    number: '25'
+    value: '553441369'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: ''
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: House Republican Freshmen 2009
+  - name: AUTH STREET 1
+    number: '28'
+    value: PO Box 2719
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: Washington
+  - name: AUTH STATE
+    number: '31'
+    value: DC
+  - name: AUTH ZIP
+    number: '32'
+    value: '220132719'
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: Paulsen
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: Erik
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: P
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: Rep.
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20090625
+
+'
+- input: "F2S\x1CH8MN03077\x1CC00462200\x1CPatriot Day Committee\x1C228 S. Washington
+    Street\x1CSuite 115\x1CAlexandria\x1CDC\x1C22314\n"
+  record: fec.version.v6_4.F2S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2S
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H8MN03077
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '3'
+    value: C00462200
+  - name: AUTH COMMITTEE NAME
+    number: '4'
+    value: Patriot Day Committee
+  - name: AUTH STREET 1
+    number: '5'
+    value: 228 S. Washington Street
+  - name: AUTH STREET 2
+    number: '6'
+    value: Suite 115
+  - name: AUTH CITY
+    number: '7'
+    value: Alexandria
+  - name: AUTH STATE
+    number: '8'
+    value: DC
+  - name: AUTH ZIP
+    number: '9'
+    value: '22314
+
+'
+sourceurl: !!python/unicode 20090625
+type: chunk
