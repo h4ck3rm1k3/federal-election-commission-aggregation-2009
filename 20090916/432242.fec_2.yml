@@ -1,0 +1,120 @@
+countrows: 3
+filename: 432242.fec
+header: {}
+rows:
+- input: "SD10\x1CC00433136\x1CD249476\x1CORG\x1CGrossman Marketing Group\x1C\x1C\x1C\x1C\x1C\x1C30
+    Cobble Hill Rd\x1C\x1CSomerville\x1CMA\x1C021434412\x1Cenvelopes\x1C0.00\x1C1285.25\x1C0.00\x1C1285.25\n"
+  record: fec.version.v6_4.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00433136
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D249476
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Grossman Marketing Group
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 30 Cobble Hill Rd
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Somerville
+  - name: CREDITOR STATE
+    number: '14'
+    value: MA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '021434412'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: envelopes
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '0.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '1285.25'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '1285.25
+
+'
+- input: "TEXT\x1CC00433136\x1CX1\x1CC5119952\x1CSA11AI\x1CData processing error.
+    Duplicate entry 3/29/09 contribution.\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00433136
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X1
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: C5119952
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11AI
+  - name: TEXT4000
+    number: '6'
+    value: 'Data processing error. Duplicate entry 3/29/09 contribution.
+
+'
+- input: "TEXT\x1CC00433136\x1CX2\x1CC5112344\x1CSA14\x1CRefund for TM-Pres. Inaugural
+    tickets paid 4/1/09 First Bankcard\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00433136
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X2
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: C5112344
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA14
+  - name: TEXT4000
+    number: '6'
+    value: 'Refund for TM-Pres. Inaugural tickets paid 4/1/09 First Bankcard
+
+'
+sourceurl: !!python/unicode 20090916
+type: chunk

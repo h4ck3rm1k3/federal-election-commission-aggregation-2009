@@ -1,0 +1,4109 @@
+countrows: 33
+filename: 431296.fec
+header: {}
+rows:
+- input: "H6\x1CC00248864\x1CD1275H6\x1C\x1C\x1CORG\x1CAT&T\x1C\x1C\x1C\x1C\x1C\x1CP.O.
+    Box 2969\x1C\x1COmaha\x1CNE\x1C681032969\x1C\x1C20060801\x1C77.57\x1C16.28\x1C61.29\x1C16601.80\x1C\x1CTelephone\x1C\x1C\x1CX\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SH6
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H6
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00248864
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D1275H6
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: AT&T
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: P.O. Box 2969
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Omaha
+  - name: PAYEE STATE
+    number: '16'
+    value: NE
+  - name: PAYEE ZIP
+    number: '17'
+    value: '681032969'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20060801'
+  - name: TOTAL FED-LEVIN AMOUNT
+    number: '20'
+    value: '77.57'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '16.28'
+  - name: LEVIN SHARE
+    number: '22'
+    value: '61.29'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '16601.80'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '24'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '25'
+    value: Telephone
+  - name: CATEGORY CODE
+    number: '26'
+    value: ''
+  - name: Activity Is Voter Registration
+    number: 27-
+    value: ''
+  - name: Activity GOTV
+    number: 28-
+    value: X
+  - name: Activity Is Voter ID
+    number: 29-
+    value: ''
+  - name: Activity is Generic Campaign
+    number: 30-
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '32'
+    value: '
+
+'
+- input: "H6\x1CC00248864\x1CD1295H6\x1C\x1C\x1CIND\x1C\x1CHowell\x1CBill\x1C\x1CHon.\x1C\x1C3615
+    Oak Creek Circle\x1C\x1CDallas\x1CTX\x1C75227\x1C\x1C20060815\x1C507.92\x1C106.66\x1C401.26\x1C16601.80\x1C\x1CPayroll\x1C\x1C\x1CX\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SH6
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H6
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00248864
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D1295H6
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Howell
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Bill
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: Hon.
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 3615 Oak Creek Circle
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Dallas
+  - name: PAYEE STATE
+    number: '16'
+    value: TX
+  - name: PAYEE ZIP
+    number: '17'
+    value: '75227'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20060815'
+  - name: TOTAL FED-LEVIN AMOUNT
+    number: '20'
+    value: '507.92'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '106.66'
+  - name: LEVIN SHARE
+    number: '22'
+    value: '401.26'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '16601.80'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '24'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '25'
+    value: Payroll
+  - name: CATEGORY CODE
+    number: '26'
+    value: ''
+  - name: Activity Is Voter Registration
+    number: 27-
+    value: ''
+  - name: Activity GOTV
+    number: 28-
+    value: X
+  - name: Activity Is Voter ID
+    number: 29-
+    value: ''
+  - name: Activity is Generic Campaign
+    number: 30-
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '32'
+    value: '
+
+'
+- input: "H6\x1CC00248864\x1CD1296H6\x1C\x1C\x1CIND\x1C\x1CHowell\x1CBill\x1C\x1CHon.\x1C\x1C3615
+    Oak Creek Circle\x1C\x1CDallas\x1CTX\x1C75227\x1C\x1C20060831\x1C531.01\x1C111.51\x1C419.50\x1C16601.80\x1C\x1CPayroll\x1C\x1C\x1CX\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SH6
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H6
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00248864
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D1296H6
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Howell
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Bill
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: Hon.
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 3615 Oak Creek Circle
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Dallas
+  - name: PAYEE STATE
+    number: '16'
+    value: TX
+  - name: PAYEE ZIP
+    number: '17'
+    value: '75227'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20060831'
+  - name: TOTAL FED-LEVIN AMOUNT
+    number: '20'
+    value: '531.01'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '111.51'
+  - name: LEVIN SHARE
+    number: '22'
+    value: '419.50'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '16601.80'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '24'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '25'
+    value: Payroll
+  - name: CATEGORY CODE
+    number: '26'
+    value: ''
+  - name: Activity Is Voter Registration
+    number: 27-
+    value: ''
+  - name: Activity GOTV
+    number: 28-
+    value: X
+  - name: Activity Is Voter ID
+    number: 29-
+    value: ''
+  - name: Activity is Generic Campaign
+    number: 30-
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '32'
+    value: '
+
+'
+- input: "H6\x1CC00248864\x1CD1291H6\x1C\x1C\x1CIND\x1C\x1CHamilton\x1CJane\x1C\x1C\x1C\x1C4606
+    Cedar Springs #733\x1C\x1CDallas\x1CTX\x1C75219\x1C\x1C20060801\x1C2208.75\x1C463.83\x1C1744.92\x1C16601.80\x1C\x1CCoordinated
+    Campaign manager\x1C\x1C\x1CX\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SH6
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H6
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00248864
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D1291H6
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Hamilton
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Jane
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: '4606 Cedar Springs #733'
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Dallas
+  - name: PAYEE STATE
+    number: '16'
+    value: TX
+  - name: PAYEE ZIP
+    number: '17'
+    value: '75219'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20060801'
+  - name: TOTAL FED-LEVIN AMOUNT
+    number: '20'
+    value: '2208.75'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '463.83'
+  - name: LEVIN SHARE
+    number: '22'
+    value: '1744.92'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '16601.80'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '24'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '25'
+    value: Coordinated Campaign manager
+  - name: CATEGORY CODE
+    number: '26'
+    value: ''
+  - name: Activity Is Voter Registration
+    number: 27-
+    value: ''
+  - name: Activity GOTV
+    number: 28-
+    value: X
+  - name: Activity Is Voter ID
+    number: 29-
+    value: ''
+  - name: Activity is Generic Campaign
+    number: 30-
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '32'
+    value: '
+
+'
+- input: "H6\x1CC00248864\x1CD1292H6\x1C\x1C\x1CIND\x1C\x1CHamilton\x1CJane\x1C\x1C\x1C\x1C4606
+    Cedar Springs #733\x1C\x1CDallas\x1CTX\x1C75219\x1C\x1C20060815\x1C2208.75\x1C463.83\x1C1744.92\x1C16601.80\x1C\x1CCoordinated
+    Campaign manager\x1C\x1C\x1CX\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SH6
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H6
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00248864
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D1292H6
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Hamilton
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Jane
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: '4606 Cedar Springs #733'
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Dallas
+  - name: PAYEE STATE
+    number: '16'
+    value: TX
+  - name: PAYEE ZIP
+    number: '17'
+    value: '75219'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20060815'
+  - name: TOTAL FED-LEVIN AMOUNT
+    number: '20'
+    value: '2208.75'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '463.83'
+  - name: LEVIN SHARE
+    number: '22'
+    value: '1744.92'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '16601.80'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '24'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '25'
+    value: Coordinated Campaign manager
+  - name: CATEGORY CODE
+    number: '26'
+    value: ''
+  - name: Activity Is Voter Registration
+    number: 27-
+    value: ''
+  - name: Activity GOTV
+    number: 28-
+    value: X
+  - name: Activity Is Voter ID
+    number: 29-
+    value: ''
+  - name: Activity is Generic Campaign
+    number: 30-
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '32'
+    value: '
+
+'
+- input: "H6\x1CC00248864\x1CD1293H6\x1C\x1C\x1CIND\x1C\x1CHamilton\x1CJane\x1C\x1C\x1C\x1C4606
+    Cedar Springs #733\x1C\x1CDallas\x1CTX\x1C75219\x1C\x1C20060831\x1C2208.75\x1C463.83\x1C1744.92\x1C16601.80\x1C\x1CCoordinated
+    Campaign managerr\x1C\x1C\x1CX\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SH6
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H6
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00248864
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D1293H6
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Hamilton
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Jane
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: '4606 Cedar Springs #733'
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Dallas
+  - name: PAYEE STATE
+    number: '16'
+    value: TX
+  - name: PAYEE ZIP
+    number: '17'
+    value: '75219'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20060831'
+  - name: TOTAL FED-LEVIN AMOUNT
+    number: '20'
+    value: '2208.75'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '463.83'
+  - name: LEVIN SHARE
+    number: '22'
+    value: '1744.92'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '16601.80'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '24'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '25'
+    value: Coordinated Campaign managerr
+  - name: CATEGORY CODE
+    number: '26'
+    value: ''
+  - name: Activity Is Voter Registration
+    number: 27-
+    value: ''
+  - name: Activity GOTV
+    number: 28-
+    value: X
+  - name: Activity Is Voter ID
+    number: 29-
+    value: ''
+  - name: Activity is Generic Campaign
+    number: 30-
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '32'
+    value: '
+
+'
+- input: "H6\x1CC00248864\x1CD1286H6\x1C\x1C\x1CIND\x1C\x1CDalton\x1CJeff\x1C\x1CMr.\x1C\x1C1808
+    W. Midway\x1C\x1CMcKinney\x1CTX\x1C75069\x1C\x1C20060801\x1C2500.00\x1C525.00\x1C1975.00\x1C15305.65\x1C\x1CMedia
+    Design & Consultatnt\x1C006\x1C\x1C\x1C\x1CX\x1C\x1C\n"
+  record: fec.version.v6_4.SH6
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H6
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00248864
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D1286H6
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Dalton
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Jeff
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: Mr.
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 1808 W. Midway
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: McKinney
+  - name: PAYEE STATE
+    number: '16'
+    value: TX
+  - name: PAYEE ZIP
+    number: '17'
+    value: '75069'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20060801'
+  - name: TOTAL FED-LEVIN AMOUNT
+    number: '20'
+    value: '2500.00'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '525.00'
+  - name: LEVIN SHARE
+    number: '22'
+    value: '1975.00'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '15305.65'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '24'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '25'
+    value: Media Design & Consultatnt
+  - name: CATEGORY CODE
+    number: '26'
+    value: '006'
+  - name: Activity Is Voter Registration
+    number: 27-
+    value: ''
+  - name: Activity GOTV
+    number: 28-
+    value: ''
+  - name: Activity Is Voter ID
+    number: 29-
+    value: ''
+  - name: Activity is Generic Campaign
+    number: 30-
+    value: X
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '32'
+    value: '
+
+'
+- input: "H6\x1CC00248864\x1CD1276H6\x1C\x1C\x1CIND\x1C\x1CCathey\x1CNatesha\x1C\x1C\x1C\x1C928
+    Stillmeadow Rd\x1C\x1CDallas\x1CTX\x1C75232\x1C\x1C20060815\x1C1648.67\x1C346.22\x1C1302.45\x1C16601.80\x1C\x1CPayroll\x1C\x1C\x1CX\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SH6
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H6
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00248864
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D1276H6
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Cathey
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Natesha
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 928 Stillmeadow Rd
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Dallas
+  - name: PAYEE STATE
+    number: '16'
+    value: TX
+  - name: PAYEE ZIP
+    number: '17'
+    value: '75232'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20060815'
+  - name: TOTAL FED-LEVIN AMOUNT
+    number: '20'
+    value: '1648.67'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '346.22'
+  - name: LEVIN SHARE
+    number: '22'
+    value: '1302.45'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '16601.80'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '24'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '25'
+    value: Payroll
+  - name: CATEGORY CODE
+    number: '26'
+    value: ''
+  - name: Activity Is Voter Registration
+    number: 27-
+    value: ''
+  - name: Activity GOTV
+    number: 28-
+    value: X
+  - name: Activity Is Voter ID
+    number: 29-
+    value: ''
+  - name: Activity is Generic Campaign
+    number: 30-
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '32'
+    value: '
+
+'
+- input: "H6\x1CC00248864\x1CD1277H6\x1C\x1C\x1CIND\x1C\x1CCathey\x1CNatesha\x1C\x1C\x1C\x1C928
+    Stillmeadow Rd\x1C\x1CDallas\x1CTX\x1C75232\x1C\x1C20060831\x1C1648.67\x1C346.22\x1C1302.45\x1C16601.80\x1C\x1CPayroll\x1C\x1C\x1CX\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SH6
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H6
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00248864
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D1277H6
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Cathey
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Natesha
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 928 Stillmeadow Rd
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Dallas
+  - name: PAYEE STATE
+    number: '16'
+    value: TX
+  - name: PAYEE ZIP
+    number: '17'
+    value: '75232'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20060831'
+  - name: TOTAL FED-LEVIN AMOUNT
+    number: '20'
+    value: '1648.67'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '346.22'
+  - name: LEVIN SHARE
+    number: '22'
+    value: '1302.45'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '16601.80'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '24'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '25'
+    value: Payroll
+  - name: CATEGORY CODE
+    number: '26'
+    value: ''
+  - name: Activity Is Voter Registration
+    number: 27-
+    value: ''
+  - name: Activity GOTV
+    number: 28-
+    value: X
+  - name: Activity Is Voter ID
+    number: 29-
+    value: ''
+  - name: Activity is Generic Campaign
+    number: 30-
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '32'
+    value: '
+
+'
+- input: "H6\x1CC00248864\x1CD1302H6\x1C\x1C\x1CORG\x1CNationwide Insurance\x1C\x1C\x1C\x1C\x1C\x1C626
+    West Wheatland Rd, Suite A\x1C\x1CDuncanville\x1CTX\x1C75116\x1C\x1C20060831\x1C87.50\x1C18.37\x1C69.13\x1C16601.80\x1C\x1CInsurance\x1C\x1C\x1CX\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SH6
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H6
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00248864
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D1302H6
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Nationwide Insurance
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 626 West Wheatland Rd, Suite A
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Duncanville
+  - name: PAYEE STATE
+    number: '16'
+    value: TX
+  - name: PAYEE ZIP
+    number: '17'
+    value: '75116'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20060831'
+  - name: TOTAL FED-LEVIN AMOUNT
+    number: '20'
+    value: '87.50'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '18.37'
+  - name: LEVIN SHARE
+    number: '22'
+    value: '69.13'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '16601.80'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '24'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '25'
+    value: Insurance
+  - name: CATEGORY CODE
+    number: '26'
+    value: ''
+  - name: Activity Is Voter Registration
+    number: 27-
+    value: ''
+  - name: Activity GOTV
+    number: 28-
+    value: X
+  - name: Activity Is Voter ID
+    number: 29-
+    value: ''
+  - name: Activity is Generic Campaign
+    number: 30-
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '32'
+    value: '
+
+'
+- input: "H6\x1CC00248864\x1CD1307H6\x1C\x1C\x1CORG\x1CPreston LBJ, LTD\x1C\x1C\x1C\x1C\x1C\x1C5930
+    LBJ Freeway, Suite 400\x1C\x1CDallas\x1CTX\x1C75240\x1C\x1C20060803\x1C500.00\x1C105.00\x1C395.00\x1C16601.80\x1C\x1CRent
+    GTOV Office\x1C\x1C\x1CX\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SH6
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H6
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00248864
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D1307H6
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Preston LBJ, LTD
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 5930 LBJ Freeway, Suite 400
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Dallas
+  - name: PAYEE STATE
+    number: '16'
+    value: TX
+  - name: PAYEE ZIP
+    number: '17'
+    value: '75240'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20060803'
+  - name: TOTAL FED-LEVIN AMOUNT
+    number: '20'
+    value: '500.00'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '105.00'
+  - name: LEVIN SHARE
+    number: '22'
+    value: '395.00'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '16601.80'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '24'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '25'
+    value: Rent GTOV Office
+  - name: CATEGORY CODE
+    number: '26'
+    value: ''
+  - name: Activity Is Voter Registration
+    number: 27-
+    value: ''
+  - name: Activity GOTV
+    number: 28-
+    value: X
+  - name: Activity Is Voter ID
+    number: 29-
+    value: ''
+  - name: Activity is Generic Campaign
+    number: 30-
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '32'
+    value: '
+
+'
+- input: "H6\x1CC00248864\x1CD1308H6\x1C\x1C\x1CORG\x1CRed Bird Drapery Inc.\x1C\x1C\x1C\x1C\x1C\x1C620
+    E. Camp Wisdom\x1C\x1CDuncanville\x1CTX\x1C75116\x1C\x1C20060831\x1C1800.00\x1C378.00\x1C1422.00\x1C16601.80\x1C\x1CRent
+    So. GOTV Office\x1C\x1C\x1CX\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SH6
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H6
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00248864
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D1308H6
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Red Bird Drapery Inc.
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 620 E. Camp Wisdom
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Duncanville
+  - name: PAYEE STATE
+    number: '16'
+    value: TX
+  - name: PAYEE ZIP
+    number: '17'
+    value: '75116'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20060831'
+  - name: TOTAL FED-LEVIN AMOUNT
+    number: '20'
+    value: '1800.00'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '378.00'
+  - name: LEVIN SHARE
+    number: '22'
+    value: '1422.00'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '16601.80'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '24'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '25'
+    value: Rent So. GOTV Office
+  - name: CATEGORY CODE
+    number: '26'
+    value: ''
+  - name: Activity Is Voter Registration
+    number: 27-
+    value: ''
+  - name: Activity GOTV
+    number: 28-
+    value: X
+  - name: Activity Is Voter ID
+    number: 29-
+    value: ''
+  - name: Activity is Generic Campaign
+    number: 30-
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '32'
+    value: '
+
+'
+- input: "H6\x1CC00248864\x1CD1310H6\x1C\x1C\x1CORG\x1CReilly Echols Printing, Inc.\x1C\x1C\x1C\x1C\x1C\x1CP.O.
+    Box 152358\x1C\x1CDallas\x1CTX\x1C753152358\x1C\x1C20060807\x1C104.00\x1C21.84\x1C82.16\x1C16601.80\x1C\x1CGOTV
+    Printing\x1C\x1C\x1CX\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.SH6
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H6
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00248864
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D1310H6
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Reilly Echols Printing, Inc.
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: P.O. Box 152358
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Dallas
+  - name: PAYEE STATE
+    number: '16'
+    value: TX
+  - name: PAYEE ZIP
+    number: '17'
+    value: '753152358'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20060807'
+  - name: TOTAL FED-LEVIN AMOUNT
+    number: '20'
+    value: '104.00'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '21.84'
+  - name: LEVIN SHARE
+    number: '22'
+    value: '82.16'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '16601.80'
+  - name: EXPENDITURE PURPOSE CODE
+    number: '24'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '25'
+    value: GOTV Printing
+  - name: CATEGORY CODE
+    number: '26'
+    value: ''
+  - name: Activity Is Voter Registration
+    number: 27-
+    value: ''
+  - name: Activity GOTV
+    number: 28-
+    value: X
+  - name: Activity Is Voter ID
+    number: 29-
+    value: ''
+  - name: Activity is Generic Campaign
+    number: 30-
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '32'
+    value: '
+
+'
+- input: "SL\x1CC00248864\x1CSchedL1\x1CActLevin\x1CLevin Account\x1C20060801\x1C20060831\x1C20520.54\x1C0.00\x1C20520.54\x1C0.00\x1C20520.54\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C230.75\x1C230.75\x1C124954.61\x1C20520.54\x1C145475.15\x1C230.75\x1C145244.40\x1C174975.90\x1C30.00\x1C175005.90\x1C0.00\x1C175005.90\x1C0.00\x1C0.00\x1C20000.00\x1C9500.00\x1C29500.00\x1C261.50\x1C29761.50\x1C0.00\x1C175005.90\x1C175005.90\x1C29761.50\x1C145244.40\n"
+  record: fec.version.v6_4.SL
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SL
+  - name: FILER COMMITTEE ID
+    number: '2'
+    value: C00248864
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SchedL1
+  - name: RECORD ID NUMBER (for account name)
+    number: '4'
+    value: ActLevin
+  - name: ACCOUNT NAME
+    number: '5'
+    value: Levin Account
+  - name: COVERAGE FROM DATE
+    number: '6'
+    value: '20060801'
+  - name: COVERAGE THROUGH DATE
+    number: '7'
+    value: '20060831'
+  - name: Itemized Receipts From Persons
+    number: 8-1a.
+    value: '20520.54'
+  - name: Unitemized Receipts From Persons
+    number: 9-1b.
+    value: '0.00'
+  - name: Total Receipts From Persons
+    number: 10-1c.
+    value: '20520.54'
+  - name: OTHER RECEIPTS
+    number: 11-2.
+    value: '0.00'
+  - name: TOTAL RECEIPTS
+    number: 12-3.
+    value: '20520.54'
+  - name: Voter Registration DISBURSEMENTS
+    number: 13-4(a).
+    value: '0.00'
+  - name: Voter ID DISBURSEMENTS
+    number: 14-4(b).
+    value: '0.00'
+  - name: GOTV DISBURSEMENTS
+    number: 15-4(c).
+    value: '0.00'
+  - name: Generic Campaign DISBURSEMENTS
+    number: 16-4(d).
+    value: '0.00'
+  - name: Line 4 Total
+    number: 17-4(e)
+    value: '0.00'
+  - name: OTHER DISBURSEMENTS
+    number: 18-5.
+    value: '230.75'
+  - name: TOTAL DISBURSEMENTS
+    number: 19-6.
+    value: '230.75'
+  - name: CASH ON HAND (Beginning)
+    number: 20-7.
+    value: '124954.61'
+  - name: RECEIPTS
+    number: 21-8.
+    value: '20520.54'
+  - name: SUBTOTAL
+    number: 22-9.
+    value: '145475.15'
+  - name: DISBURSEMENTS
+    number: 23-10.
+    value: '230.75'
+  - name: ENDING CASH ON HAND
+    number: 24-11.
+    value: '145244.40'
+  - name: Itemized Receipts From Persons
+    number: 25-1a.
+    value: '174975.90'
+  - name: Unitemized Receipts From Persons
+    number: 26-1b.
+    value: '30.00'
+  - name: Total Receipts From Persons
+    number: 27-1c.
+    value: '175005.90'
+  - name: OTHER RECEIPTS
+    number: 28-2.
+    value: '0.00'
+  - name: TOTAL RECEIPTS
+    number: 29-3.
+    value: '175005.90'
+  - name: Voter Registration DISBURSEMENTS
+    number: 30-4(a).
+    value: '0.00'
+  - name: Voter ID DISBURSEMENTS
+    number: 31-4(b).
+    value: '0.00'
+  - name: GOTV DISBURSEMENTS
+    number: 32-4(c).
+    value: '20000.00'
+  - name: Generic Campaign DISBURSEMENTS
+    number: 33-4(d).
+    value: '9500.00'
+  - name: Line 4 Total
+    number: 34-4(e)
+    value: '29500.00'
+  - name: OTHER DISBURSEMENTS
+    number: 35-5.
+    value: '261.50'
+  - name: TOTAL DISBURSEMENTS
+    number: 36-6.
+    value: '29761.50'
+  - name: CASH ON HAND as of Jan 1
+    number: 37-7.
+    value: '0.00'
+  - name: RECEIPTS
+    number: 38-8.
+    value: '175005.90'
+  - name: SUBTOTAL
+    number: 39-9.
+    value: '175005.90'
+  - name: DISBURSEMENTS
+    number: 40-10.
+    value: '29761.50'
+  - name: ENDING CASH ON HAND
+    number: 41-11.
+    value: '145244.40
+
+'
+- input: "SASL1A\x1CC00248864\x1CC17846\x1C\x1C\x1CIND\x1C\x1CCallahan\x1CTena\x1CT.\x1C\x1C\x1C7119
+    Santa Fe Ave\x1C\x1CDallas\x1CTX\x1C75223\x1CP2006\x1C\x1C20060804\x1C5000.00\x1C5080.55\x1C\x1C\x1CDallas
+    County\x1CJudge\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CActLevin\n"
+  record: fec.version.v6_4.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SASL1A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00248864
+  - name: TRANSACTION ID
+    number: '3'
+    value: C17846
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Callahan
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Tena
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: T.
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 7119 Santa Fe Ave
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Dallas
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: TX
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '75223'
+  - name: ELECTION CODE
+    number: '18'
+    value: P2006
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20060804'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '5000.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '5080.55'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '25'
+    value: Dallas County
+  - name: CONTRIBUTOR OCCUPATION
+    number: '26'
+    value: Judge
+  - name: DONOR COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: 'ActLevin
+
+'
+- input: "SASL1A\x1CC00248864\x1CC17904\x1C\x1C\x1CIND\x1C\x1CCallahan\x1CTena\x1CT.\x1C\x1C\x1C7119
+    Santa Fe Ave\x1C\x1CDallas\x1CTX\x1C75223\x1CP2006\x1C\x1C20060831\x1C80.55\x1C5080.55\x1C\x1C\x1CDallas
+    County\x1CJudge\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CActLevin\n"
+  record: fec.version.v6_4.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SASL1A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00248864
+  - name: TRANSACTION ID
+    number: '3'
+    value: C17904
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Callahan
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Tena
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: T.
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 7119 Santa Fe Ave
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Dallas
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: TX
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '75223'
+  - name: ELECTION CODE
+    number: '18'
+    value: P2006
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20060831'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '80.55'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '5080.55'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '25'
+    value: Dallas County
+  - name: CONTRIBUTOR OCCUPATION
+    number: '26'
+    value: Judge
+  - name: DONOR COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: 'ActLevin
+
+'
+- input: "SASL1A\x1CC00248864\x1CC17902\x1C\x1C\x1CIND\x1C\x1CCanas\x1CRob\x1C\x1C\x1CJr.\x1C6032
+    Worth\x1C\x1CDallas\x1CTX\x1C75214\x1CG2006\x1C\x1C20060831\x1C750.00\x1C1250.00\x1C\x1C\x1CDallas
+    County\x1CJudge\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CActLevin\n"
+  record: fec.version.v6_4.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SASL1A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00248864
+  - name: TRANSACTION ID
+    number: '3'
+    value: C17902
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Canas
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Rob
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: Jr.
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 6032 Worth
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Dallas
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: TX
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '75214'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2006
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20060831'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '750.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '1250.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '25'
+    value: Dallas County
+  - name: CONTRIBUTOR OCCUPATION
+    number: '26'
+    value: Judge
+  - name: DONOR COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: 'ActLevin
+
+'
+- input: "SASL1A\x1CC00248864\x1CC17901\x1C\x1C\x1CIND\x1C\x1CChatham\x1CAndrew\x1CM\x1C\x1C\x1C5513
+    Willis Ave\x1C\x1CDallas\x1CTX\x1C75206\x1CP2006\x1C\x1C20060815\x1C1500.00\x1C2000.00\x1C\x1C\x1CDallas
+    County\x1CJudge\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CActLevin\n"
+  record: fec.version.v6_4.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SASL1A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00248864
+  - name: TRANSACTION ID
+    number: '3'
+    value: C17901
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Chatham
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Andrew
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: M
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 5513 Willis Ave
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Dallas
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: TX
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '75206'
+  - name: ELECTION CODE
+    number: '18'
+    value: P2006
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20060815'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '1500.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '2000.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '25'
+    value: Dallas County
+  - name: CONTRIBUTOR OCCUPATION
+    number: '26'
+    value: Judge
+  - name: DONOR COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: 'ActLevin
+
+'
+- input: "SASL1A\x1CC00248864\x1CC17900\x1C\x1C\x1CIND\x1C\x1CChrisman Hockett\x1CLori\x1C\x1C\x1C\x1C3137
+    Bryn Mawr Dr.\x1C\x1CDallas\x1CTX\x1C752257724\x1CP2006\x1C\x1C20060803\x1C250.00\x1C1750.00\x1C\x1C\x1CDallas
+    County\x1CJudge\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CActLevin\n"
+  record: fec.version.v6_4.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SASL1A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00248864
+  - name: TRANSACTION ID
+    number: '3'
+    value: C17900
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Chrisman Hockett
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Lori
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 3137 Bryn Mawr Dr.
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Dallas
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: TX
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '752257724'
+  - name: ELECTION CODE
+    number: '18'
+    value: P2006
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20060803'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '250.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '1750.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '25'
+    value: Dallas County
+  - name: CONTRIBUTOR OCCUPATION
+    number: '26'
+    value: Judge
+  - name: DONOR COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: 'ActLevin
+
+'
+- input: "SASL1A\x1CC00248864\x1CC17897\x1C\x1C\x1CIND\x1C\x1CFitzsimmons\x1CGary\x1CJ.\x1C\x1C\x1C1411
+    Ferndale\x1C\x1CDallas\x1CTX\x1C75224\x1CG2006\x1C\x1C20060803\x1C900.00\x1C1900.00\x1C\x1C\x1CDallas
+    County\x1CDistrict Clerk\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CActLevin\n"
+  record: fec.version.v6_4.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SASL1A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00248864
+  - name: TRANSACTION ID
+    number: '3'
+    value: C17897
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Fitzsimmons
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Gary
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: J.
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 1411 Ferndale
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Dallas
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: TX
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '75224'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2006
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20060803'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '900.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '1900.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '25'
+    value: Dallas County
+  - name: CONTRIBUTOR OCCUPATION
+    number: '26'
+    value: District Clerk
+  - name: DONOR COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: 'ActLevin
+
+'
+- input: "SASL1A\x1CC00248864\x1CC17789\x1C\x1C\x1CIND\x1C\x1CHoffman\x1CMargaret\x1C\x1C\x1C\x1C7010
+    Vivian Ave.\x1C\x1CDallas\x1CTX\x1C75223\x1CP2006\x1C\x1C20060803\x1C1500.00\x1C2500.00\x1C\x1C\x1CDallas
+    County\x1CJudge\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CActLevin\n"
+  record: fec.version.v6_4.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SASL1A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00248864
+  - name: TRANSACTION ID
+    number: '3'
+    value: C17789
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Hoffman
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Margaret
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 7010 Vivian Ave.
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Dallas
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: TX
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '75223'
+  - name: ELECTION CODE
+    number: '18'
+    value: P2006
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20060803'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '1500.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '2500.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '25'
+    value: Dallas County
+  - name: CONTRIBUTOR OCCUPATION
+    number: '26'
+    value: Judge
+  - name: DONOR COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: 'ActLevin
+
+'
+- input: "SASL1A\x1CC00248864\x1CC17617\x1C\x1C\x1CIND\x1C\x1CLopez\x1CDavid\x1C\x1C\x1C\x1C2700
+    N. Stemmons Frwy.\x1C305 East Tower\x1CDallas\x1CTX\x1C75207\x1CP2006\x1C\x1C20060815\x1C2150.00\x1C4650.00\x1C\x1C\x1CSelf\x1CAttorney\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CActLevin\n"
+  record: fec.version.v6_4.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SASL1A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00248864
+  - name: TRANSACTION ID
+    number: '3'
+    value: C17617
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Lopez
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: David
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 2700 N. Stemmons Frwy.
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: 305 East Tower
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Dallas
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: TX
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '75207'
+  - name: ELECTION CODE
+    number: '18'
+    value: P2006
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20060815'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '2150.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '4650.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '25'
+    value: Self
+  - name: CONTRIBUTOR OCCUPATION
+    number: '26'
+    value: Attorney
+  - name: DONOR COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: 'ActLevin
+
+'
+- input: "SASL1A\x1CC00248864\x1CC17899\x1C\x1C\x1CIND\x1C\x1CMcKnight\x1CLisa\x1CE.\x1C\x1C\x1C4807
+    Gaston Ave.\x1C\x1CDallas\x1CTX\x1C75246\x1CP2006\x1C\x1C20060803\x1C350.00\x1C350.00\x1C\x1C\x1CSelf\x1CAttorney\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CActLevin\n"
+  record: fec.version.v6_4.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SASL1A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00248864
+  - name: TRANSACTION ID
+    number: '3'
+    value: C17899
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: McKnight
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Lisa
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: E.
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 4807 Gaston Ave.
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Dallas
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: TX
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '75246'
+  - name: ELECTION CODE
+    number: '18'
+    value: P2006
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20060803'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '350.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '350.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '25'
+    value: Self
+  - name: CONTRIBUTOR OCCUPATION
+    number: '26'
+    value: Attorney
+  - name: DONOR COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: 'ActLevin
+
+'
+- input: "SASL1A\x1CC00248864\x1CC17736\x1C\x1C\x1CIND\x1C\x1CMitchell\x1CJames\x1CL.\x1C\x1CJr.\x1C2816
+    Milton Avenue\x1C\x1CDallas\x1CTX\x1C75205\x1CP2006\x1C\x1C20060810\x1C1000.00\x1C1000.00\x1C\x1C\x1CBrown,
+    Sawicki & Mitchell, L.L.P.\x1CAttorney\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CActLevin\n"
+  record: fec.version.v6_4.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SASL1A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00248864
+  - name: TRANSACTION ID
+    number: '3'
+    value: C17736
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Mitchell
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: James
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: L.
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: Jr.
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 2816 Milton Avenue
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Dallas
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: TX
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '75205'
+  - name: ELECTION CODE
+    number: '18'
+    value: P2006
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20060810'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '1000.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '1000.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '25'
+    value: Brown, Sawicki & Mitchell, L.L.P.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '26'
+    value: Attorney
+  - name: DONOR COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: 'ActLevin
+
+'
+- input: "SASL1A\x1CC00248864\x1CC17896\x1C\x1C\x1CIND\x1C\x1CSmith\x1CCraig\x1CS.\x1C\x1C\x1C10440
+    N. Central Expwy.\x1CSuite 1100\x1CDallas\x1CTX\x1C75231\x1CG2006\x1C\x1C20060803\x1C5000.00\x1C10000.00\x1C\x1C\x1CDallas
+    County\x1CJudge\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CActLevin\n"
+  record: fec.version.v6_4.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SASL1A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00248864
+  - name: TRANSACTION ID
+    number: '3'
+    value: C17896
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Smith
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Craig
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: S.
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 10440 N. Central Expwy.
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: Suite 1100
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Dallas
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: TX
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '75231'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2006
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20060803'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '5000.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '10000.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '25'
+    value: Dallas County
+  - name: CONTRIBUTOR OCCUPATION
+    number: '26'
+    value: Judge
+  - name: DONOR COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: 'ActLevin
+
+'
+- input: "SASL1A\x1CC00248864\x1CC17905\x1C\x1C\x1CIND\x1C\x1CWarren\x1CJohn\x1C\x1C\x1C\x1C4311
+    Hampton Circle\x1C\x1CGrand Prairie\x1CTX\x1C75052\x1CP2006\x1C\x1C20060822\x1C1000.00\x1C2000.00\x1C\x1C\x1CDallas
+    County\x1CCounty Clerk\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CActLevin\n"
+  record: fec.version.v6_4.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SASL1A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00248864
+  - name: TRANSACTION ID
+    number: '3'
+    value: C17905
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Warren
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: John
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 4311 Hampton Circle
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Grand Prairie
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: TX
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '75052'
+  - name: ELECTION CODE
+    number: '18'
+    value: P2006
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20060822'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '1000.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '2000.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '25'
+    value: Dallas County
+  - name: CONTRIBUTOR OCCUPATION
+    number: '26'
+    value: County Clerk
+  - name: DONOR COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: 'ActLevin
+
+'
+- input: "SASL1A\x1CC00248864\x1CC17898\x1C\x1C\x1CIND\x1C\x1CWells\x1CJoe\x1CC.\x1C\x1C\x1C4243
+    Hill Top Ln\x1C\x1CGrand Prairie\x1CTX\x1C75052\x1CG2006\x1C\x1C20060803\x1C500.00\x1C1500.00\x1C\x1C\x1CDallas
+    County\x1CTreasurer\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CActLevin\n"
+  record: fec.version.v6_4.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SASL1A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00248864
+  - name: TRANSACTION ID
+    number: '3'
+    value: C17898
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Wells
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Joe
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: C.
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 4243 Hill Top Ln
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Grand Prairie
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: TX
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '75052'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2006
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20060803'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '500.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '1500.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '25'
+    value: Dallas County
+  - name: CONTRIBUTOR OCCUPATION
+    number: '26'
+    value: Treasurer
+  - name: DONOR COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: 'ActLevin
+
+'
+- input: "SASL1A\x1CC00248864\x1CC17627\x1C\x1C\x1CIND\x1C\x1CWhite\x1CErnest\x1CB.\x1C\x1C\x1C3808
+    Kimballdale Dr.\x1C\x1CDallas\x1CTX\x1C752332901\x1CP2006\x1C\x1C20060803\x1C250.00\x1C750.00\x1C\x1C\x1CDallas
+    County\x1CJudge\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CActLevin\n"
+  record: fec.version.v6_4.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SASL1A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00248864
+  - name: TRANSACTION ID
+    number: '3'
+    value: C17627
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: White
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Ernest
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: B.
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 3808 Kimballdale Dr.
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Dallas
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: TX
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '752332901'
+  - name: ELECTION CODE
+    number: '18'
+    value: P2006
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20060803'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '250.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '750.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '25'
+    value: Dallas County
+  - name: CONTRIBUTOR OCCUPATION
+    number: '26'
+    value: Judge
+  - name: DONOR COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: 'ActLevin
+
+'
+- input: "SASL1A\x1CC00248864\x1CC4527301\x1C\x1C\x1CPTY\x1CDallas County Democratic
+    Party\x1C\x1C\x1C\x1C\x1C\x1C4209 Parry Ave.\x1C\x1CDallas\x1CTX\x1C75223\x1CG2006\x1C\x1C20060830\x1C189.99\x1C1951.35\x1C\x1C\x1C\x1C\x1CC00248864\x1CDallas
+    County Democratic Party\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CActLevin\n"
+  record: fec.version.v6_4.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SASL1A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00248864
+  - name: TRANSACTION ID
+    number: '3'
+    value: C4527301
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: PTY
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: Dallas County Democratic Party
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 4209 Parry Ave.
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Dallas
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: TX
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '75223'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2006
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20060830'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '189.99'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '1951.35'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '25'
+    value: ''
+  - name: CONTRIBUTOR OCCUPATION
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE FEC ID
+    number: '27'
+    value: C00248864
+  - name: DONOR COMMITTEE NAME
+    number: '28'
+    value: Dallas County Democratic Party
+  - name: DONOR CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: 'ActLevin
+
+'
+- input: "SASL1A\x1CC00248864\x1CC17903\x1C\x1C\x1CORG\x1CLynn Cherry Campaign\x1C\x1C\x1C\x1C\x1C\x1C600
+    Commerce St.\x1C\x1CDallas\x1CTX\x1C75202\x1CG2006\x1C\x1C20060831\x1C100.00\x1C5100.00\x1C\x1C\x1CDallas
+    County\x1CJudge\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CActLevin\n"
+  record: fec.version.v6_4.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SASL1A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00248864
+  - name: TRANSACTION ID
+    number: '3'
+    value: C17903
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: Lynn Cherry Campaign
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 600 Commerce St.
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Dallas
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: TX
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '75202'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2006
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20060831'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '100.00'
+  - name: CONTRIBUTION AGGREGATE
+    number: '22'
+    value: '5100.00'
+  - name: CONTRIBUTION PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '24'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '25'
+    value: Dallas County
+  - name: CONTRIBUTOR OCCUPATION
+    number: '26'
+    value: Judge
+  - name: DONOR COMMITTEE FEC ID
+    number: '27'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '36'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '37'
+    value: ''
+  - name: CONDUIT NAME
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '39'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '40'
+    value: ''
+  - name: CONDUIT CITY
+    number: '41'
+    value: ''
+  - name: CONDUIT STATE
+    number: '42'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '43'
+    value: ''
+  - name: MEMO CODE
+    number: '44'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '45'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '46'
+    value: 'ActLevin
+
+'
+- input: "SBSL5\x1CC00248864\x1CD236955\x1C\x1C\x1CPTY\x1CDallas County Democratic
+    Party\x1C\x1C\x1C\x1C\x1C\x1C4209 Parry Ave.\x1C\x1CDallas\x1CTX\x1C75223\x1CG2009\x1C\x1C20060831\x1C200.00\x1C\x1C\x1CBank
+    Charges\x1C\x1CC00248864\x1CDallas County Democratic Party\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CActLevin\n"
+  record: fec.version.v6_4.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SBSL5
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00248864
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D236955
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: PTY
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Dallas County Democratic Party
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 4209 Parry Ave.
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Dallas
+  - name: PAYEE STATE
+    number: '16'
+    value: TX
+  - name: PAYEE ZIP
+    number: '17'
+    value: '75223'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2009
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20060831'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '200.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Bank Charges
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '26'
+    value: C00248864
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '27'
+    value: Dallas County Democratic Party
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: 'ActLevin
+
+'
+- input: "SBSL5\x1CC00248864\x1CD1279\x1C\x1C\x1CORG\x1CDallas National Bank\x1C\x1C\x1C\x1C\x1C\x1C2725
+    Turtle Creek Blvd\x1CP.O. Box 223809\x1CDallas\x1CTX\x1C75219\x1CG2006\x1C\x1C20060801\x1C30.75\x1C\x1C\x1CPrinted
+    Checks\x1C001\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CActLevin\n"
+  record: fec.version.v6_4.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SBSL5
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00248864
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D1279
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Dallas National Bank
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 2725 Turtle Creek Blvd
+  - name: PAYEE STREET 2
+    number: '14'
+    value: P.O. Box 223809
+  - name: PAYEE CITY
+    number: '15'
+    value: Dallas
+  - name: PAYEE STATE
+    number: '16'
+    value: TX
+  - name: PAYEE ZIP
+    number: '17'
+    value: '75219'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2006
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20060801'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '30.75'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE CODE
+    number: '23'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Printed Checks
+  - name: CATEGORY CODE
+    number: '25'
+    value: '001'
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: 'ActLevin
+
+'
+- input: "TEXT\x1CC00248864\x1CX0\x1C\x1CF3XA\x1CNo expenditures on this report were
+    used to promote, support, attack or oppose Federal candidates and no expenditures
+    on this report were used to expressly advocate the election or defeat of clearly
+    identified Federal candidates. In some cases contributions or expenditures amounts
+    were reported incorrectly or reported in the wrong period. These items have been
+    corrected.  Beginning cash balances are the same as previous ending cash balances.
+    \ Mathematical discrepancies have been corrected.  Supporting schedules have been
+    provided.  Items previously reported on the wrong schedule have been reported
+    on the proper schedule.  Adequate information has been provided for the individuals
+    whose contributions require itemization.  Debt was properly disclosed on Schedule
+    D.  \n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00248864
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X0
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: F3XA
+  - name: TEXT4000
+    number: '6'
+    value: "No expenditures on this report were used to promote, support, attack or
+      oppose Federal candidates and no expenditures on this report were used to expressly
+      advocate the election or defeat of clearly identified Federal candidates. In
+      some cases contributions or expenditures amounts were reported incorrectly or
+      reported in the wrong period. These items have been corrected.  Beginning cash
+      balances are the same as previous ending cash balances.  Mathematical discrepancies
+      have been corrected.  Supporting schedules have been provided.  Items previously
+      reported on the wrong schedule have been reported on the proper schedule.  Adequate
+      information has been provided for the individuals whose contributions require
+      itemization.  Debt was properly disclosed on Schedule D.  \n"
+sourceurl: !!python/unicode 20090829
+type: chunk

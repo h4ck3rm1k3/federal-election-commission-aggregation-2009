@@ -1,0 +1,819 @@
+countrows: 34
+filename: 429838.fec
+header: {}
+rows:
+- input: "TEXT\x1CC00016899\x1CTEXT-00013\x1C21b-34-01691-10595\x1CSB21b\x1CUncashed
+    Check-replaced 7-23-09\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00016899
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00013
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 21b-34-01691-10595
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB21b
+  - name: TEXT4000
+    number: '6'
+    value: 'Uncashed Check-replaced 7-23-09
+
+'
+- input: "TEXT\x1CC00016899\x1CTEXT-00014\x1C21b-34-01691-10596\x1CSB21b\x1CUncashed
+    Check-replaced 7-23-09\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00016899
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00014
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 21b-34-01691-10596
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB21b
+  - name: TEXT4000
+    number: '6'
+    value: 'Uncashed Check-replaced 7-23-09
+
+'
+- input: "TEXT\x1CC00016899\x1CTEXT-00015\x1C21b-34-01693-10599\x1CSB21b\x1CUncashed
+    Check reissued 7-23-09\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00016899
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00015
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 21b-34-01693-10599
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB21b
+  - name: TEXT4000
+    number: '6'
+    value: 'Uncashed Check reissued 7-23-09
+
+'
+- input: "TEXT\x1CC00016899\x1CTEXT-00016\x1C30b-34-01696-10602\x1CSB30b\x1CUncashed-Service
+    never provided\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00016899
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00016
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-34-01696-10602
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'Uncashed-Service never provided
+
+'
+- input: "TEXT\x1CC00016899\x1CTEXT-00017\x1C21b-34-01697-10603\x1CSB21b\x1CUncashed-Overpayment\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00016899
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00017
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 21b-34-01697-10603
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB21b
+  - name: TEXT4000
+    number: '6'
+    value: 'Uncashed-Overpayment
+
+'
+- input: "TEXT\x1CC00016899\x1CTEXT-00018\x1C30b-19-04284-09065\x1CSB30b\x1CUncashed-Replaced
+    7-23-09\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00016899
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00018
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-19-04284-09065
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'Uncashed-Replaced 7-23-09
+
+'
+- input: "TEXT\x1CC00016899\x1CTEXT-00019\x1C30b-19-04285-09066\x1CSB30b\x1CUncashed-Replaced
+    7-23-09\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00016899
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00019
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-19-04285-09066
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'Uncashed-Replaced 7-23-09
+
+'
+- input: "TEXT\x1CC00016899\x1CTEXT-00020\x1C25-19-04287-09068\x1CSF\x1CUncashed-replaced
+    7-23-09\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00016899
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00020
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 25-19-04287-09068
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SF
+  - name: TEXT4000
+    number: '6'
+    value: 'Uncashed-replaced 7-23-09
+
+'
+- input: "TEXT\x1CC00016899\x1CTEXT-00021\x1C30b-19-04287-09069\x1CSB30b\x1CUncashed-
+    replaced 7-23-09\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00016899
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00021
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-19-04287-09069
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'Uncashed- replaced 7-23-09
+
+'
+- input: "TEXT\x1CC00016899\x1CTEXT-00022\x1C25-19-04288-09070\x1CSF\x1CReplaces Check
+    issued 10-15-08\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00016899
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00022
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 25-19-04288-09070
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SF
+  - name: TEXT4000
+    number: '6'
+    value: 'Replaces Check issued 10-15-08
+
+'
+- input: "TEXT\x1CC00016899\x1CTEXT-00023\x1C30b-19-04289-09072\x1CSB30b\x1CUncashed
+    Check-replaced 7-23-09\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00016899
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00023
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-19-04289-09072
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'Uncashed Check-replaced 7-23-09
+
+'
+- input: "TEXT\x1CC00016899\x1CTEXT-00024\x1C25-19-04289-09073\x1CSF\x1CUncashed Check-replaced
+    7-23-09\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00016899
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00024
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 25-19-04289-09073
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SF
+  - name: TEXT4000
+    number: '6'
+    value: 'Uncashed Check-replaced 7-23-09
+
+'
+- input: "TEXT\x1CC00016899\x1CTEXT-00025\x1C25-19-04290-09075\x1CSF\x1CReplaces check
+    issued 10-30-08\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00016899
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00025
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 25-19-04290-09075
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SF
+  - name: TEXT4000
+    number: '6'
+    value: 'Replaces check issued 10-30-08
+
+'
+- input: "TEXT\x1CC00016899\x1CTEXT-00026\x1C30b-19-04291-09076\x1CSB30b\x1CUncashed
+    Check replaced 7-23-09\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00016899
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00026
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-19-04291-09076
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'Uncashed Check replaced 7-23-09
+
+'
+- input: "TEXT\x1CC00016899\x1CTEXT-00027\x1C30b-19-04293-09078\x1CSB30b\x1CUncashed
+    Check replaced 7-23-09\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00016899
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00027
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-19-04293-09078
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'Uncashed Check replaced 7-23-09
+
+'
+- input: "TEXT\x1CC00016899\x1CTEXT-00028\x1C25-19-04295-09080\x1CSF\x1CUncashed Check-Replaced
+    7-23-09\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00016899
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00028
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 25-19-04295-09080
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SF
+  - name: TEXT4000
+    number: '6'
+    value: 'Uncashed Check-Replaced 7-23-09
+
+'
+- input: "TEXT\x1CC00016899\x1CTEXT-00029\x1C30b-19-04295-09081\x1CSB30b\x1CUncashed
+    Check-Replaced 7-23-09\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00016899
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00029
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-19-04295-09081
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'Uncashed Check-Replaced 7-23-09
+
+'
+- input: "TEXT\x1CC00016899\x1CTEXT-00030\x1C25-19-04296-09082\x1CSF\x1CUncashed Check-Replaced
+    7-23-09\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00016899
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00030
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 25-19-04296-09082
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SF
+  - name: TEXT4000
+    number: '6'
+    value: 'Uncashed Check-Replaced 7-23-09
+
+'
+- input: "TEXT\x1CC00016899\x1CTEXT-00031\x1C30b-19-04296-09083\x1CSB30b\x1CUncashed
+    Check-Replaced 7-23-09\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00016899
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00031
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-19-04296-09083
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'Uncashed Check-Replaced 7-23-09
+
+'
+- input: "TEXT\x1CC00016899\x1CTEXT-00032\x1C25-19-04297-09084\x1CSF\x1CReplaces checks
+    issued 9-30-08 and 10-15-08\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00016899
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00032
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 25-19-04297-09084
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SF
+  - name: TEXT4000
+    number: '6'
+    value: 'Replaces checks issued 9-30-08 and 10-15-08
+
+'
+- input: "TEXT\x1CC00016899\x1CTEXT-00033\x1C25-19-04298-09086\x1CSF\x1CUncashed Check
+    replaced 7-23-09\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00016899
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00033
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 25-19-04298-09086
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SF
+  - name: TEXT4000
+    number: '6'
+    value: 'Uncashed Check replaced 7-23-09
+
+'
+- input: "TEXT\x1CC00016899\x1CTEXT-00034\x1C30b-19-04298-09087\x1CSB30b\x1CUncashed
+    Check replaced 7-23-09\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00016899
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00034
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-19-04298-09087
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'Uncashed Check replaced 7-23-09
+
+'
+- input: "TEXT\x1CC00016899\x1CTEXT-00035\x1C25-19-04299-09088\x1CSF\x1CUncashed Check
+    replaced 7-23-09\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00016899
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00035
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 25-19-04299-09088
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SF
+  - name: TEXT4000
+    number: '6'
+    value: 'Uncashed Check replaced 7-23-09
+
+'
+- input: "TEXT\x1CC00016899\x1CTEXT-00036\x1C30b-19-04299-09089\x1CSB30b\x1CUncashed
+    Check replaced 7-23-09\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00016899
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00036
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-19-04299-09089
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'Uncashed Check replaced 7-23-09
+
+'
+- input: "TEXT\x1CC00016899\x1CTEXT-00037\x1C25-19-04300-09090\x1CSF\x1CReplaces Chrecks
+    issued 9-30-08 and 10-15-08\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00016899
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00037
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 25-19-04300-09090
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SF
+  - name: TEXT4000
+    number: '6'
+    value: 'Replaces Chrecks issued 9-30-08 and 10-15-08
+
+'
+- input: "TEXT\x1CC00016899\x1CTEXT-00038\x1C25-19-04301-09092\x1CSF\x1CUncashed Check
+    replaced 7-23-09\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00016899
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00038
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 25-19-04301-09092
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SF
+  - name: TEXT4000
+    number: '6'
+    value: 'Uncashed Check replaced 7-23-09
+
+'
+- input: "TEXT\x1CC00016899\x1CTEXT-00039\x1C30b-19-04301-09093\x1CSB30b\x1CUncashed
+    Check replaced 7-23-09\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00016899
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00039
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-19-04301-09093
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'Uncashed Check replaced 7-23-09
+
+'
+- input: "TEXT\x1CC00016899\x1CTEXT-00040\x1C25-19-04302-09094\x1CSF\x1CReplaces Check
+    issued 10-16-08\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00016899
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00040
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 25-19-04302-09094
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SF
+  - name: TEXT4000
+    number: '6'
+    value: 'Replaces Check issued 10-16-08
+
+'
+- input: "TEXT\x1CC00016899\x1CTEXT-00041\x1C25-19-04303-09096\x1CSF\x1CUncashed Check-replaced
+    7-23-09\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00016899
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00041
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 25-19-04303-09096
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SF
+  - name: TEXT4000
+    number: '6'
+    value: 'Uncashed Check-replaced 7-23-09
+
+'
+- input: "TEXT\x1CC00016899\x1CTEXT-00042\x1C30b-19-04303-09097\x1CSB30b\x1CUncashed
+    Check-replaced 7-23-09\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00016899
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00042
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-19-04303-09097
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'Uncashed Check-replaced 7-23-09
+
+'
+- input: "TEXT\x1CC00016899\x1CTEXT-00043\x1C25-19-04304-09098\x1CSF\x1CReplaces check
+    issued 10-16-08\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00016899
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00043
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 25-19-04304-09098
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SF
+  - name: TEXT4000
+    number: '6'
+    value: 'Replaces check issued 10-16-08
+
+'
+- input: "TEXT\x1CC00016899\x1CTEXT-00044\x1C30b-01-06453-15626\x1CSB30b\x1CUncashed-Overpayment\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00016899
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00044
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-01-06453-15626
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'Uncashed-Overpayment
+
+'
+- input: "TEXT\x1CC00016899\x1CTEXT-00045\x1C30b-01-06475-15658\x1CSB30b\x1CUncashed
+    Check-reissued 7-23-09\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00016899
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00045
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-01-06475-15658
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'Uncashed Check-reissued 7-23-09
+
+'
+- input: "TEXT\x1CC00016899\x1CTEXT-00046\x1C30b-04-02249-04085\x1CSB30b\x1CUncashed-Overpayment\n"
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00016899
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00046
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-04-02249-04085
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'Uncashed-Overpayment
+
+'
+sourceurl: !!python/unicode 20090818
+type: chunk

@@ -1,0 +1,215 @@
+countrows: 4
+filename: 431099.fec
+header: {}
+rows:
+- 2
+- input: "F6\x1CC00461657\x1CFriends of David Harmer\x1C9321 Silverbend Lane\x1C\x1CElk
+    Grove\x1CCA\x1C95624\x1CH0CA10123\x1CHarmer\x1CDavid Jeffrey\x1C\x1C\x1C\x1CH\x1CCA\x1C10\x1CCopp\x1CVona
+    L.\x1C\x1C\x1C\x1C20090827\n"
+  record: fec.version.v6_4.F6
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F6
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461657
+  - name: COMMITTEE NAME
+    number: '3'
+    value: Friends of David Harmer
+  - name: STREET 1
+    number: '4'
+    value: 9321 Silverbend Lane
+  - name: STREET 2
+    number: '5'
+    value: ''
+  - name: CITY
+    number: '6'
+    value: Elk Grove
+  - name: STATE
+    number: '7'
+    value: CA
+  - name: ZIP
+    number: '8'
+    value: '95624'
+  - name: CANDIDATE ID NUMBER
+    number: '9'
+    value: H0CA10123
+  - name: CANDIDATE LAST NAME
+    number: '10'
+    value: Harmer
+  - name: CANDIDATE FIRST NAME
+    number: '11'
+    value: David Jeffrey
+  - name: CANDIDATE MIDDLE NAME
+    number: '12'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '13'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '14'
+    value: ''
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: CA
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '10'
+  - name: SIGNER LAST NAME
+    number: '18'
+    value: Copp
+  - name: SIGNER FIRST NAME
+    number: '19'
+    value: Vona L.
+  - name: SIGNER MIDDLE NAME
+    number: '20'
+    value: ''
+  - name: SIGNER PREFIX
+    number: '21'
+    value: ''
+  - name: SIGNER SUFFIX
+    number: '22'
+    value: ''
+  - name: DATE SIGNED
+    number: '23'
+    value: '20090827
+
+'
+- input: "F65\x1CC00461657\x1CINC.F65.913\x1CIND\x1C\x1CCronk\x1CJanet M.\x1C\x1C\x1C\x1C3796
+    Happy Valley Road\x1C\x1CLafayette\x1CCA\x1C94549\x1C\x1C20090825\x1C2400.00\x1Cn/a\x1CHomemaker\n"
+  record: fec.version.v6_4.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461657
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: INC.F65.913
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Cronk
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Janet M.
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 3796 Happy Valley Road
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Lafayette
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: CA
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '94549'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20090825'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '2400.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: n/a
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'Homemaker
+
+'
+- input: "F65\x1CC00461657\x1CINC.F65.912\x1CIND\x1C\x1CCronk\x1CWilliam F.\x1C\x1C\x1C\x1C3796
+    Happy Valley Road\x1C\x1CLafayette\x1CCA\x1C94549\x1C\x1C20090825\x1C2400.00\x1Cn/a\x1CRetired\n"
+  record: fec.version.v6_4.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461657
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: INC.F65.912
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Cronk
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: William F.
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 3796 Happy Valley Road
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Lafayette
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: CA
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '94549'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20090825'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '2400.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: n/a
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'Retired
+
+'
+sourceurl: !!python/unicode 20090827
+type: chunk

@@ -1,0 +1,361 @@
+countrows: 3
+filename: 431405.fec
+header: {}
+rows:
+- 2
+- input: "F1A\x1CC00345603\x1C\x1CUNISYS CORPORATION EMPLOYEES PAC\x1C\x1C1200 South
+    Hayes Street\x1CSuite 1100\x1CArlington\x1CVA\x1C22202\x1C\x1CDan.Hoydysh@Unisys.com\x1C\x1C\x1C20090514\x1CHoydysh\x1CDan\x1C\x1C\x1C\x1C20090514\x1CE\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CC\x1CX\x1C\x1C\x1C\x1CUnisys
+    Corporation\x1C\x1C\x1C\x1C\x1C\x1C\x1CUnisys Way\x1C\x1CBlue Bell\x1CPA\x1C194240001\x1CORG\x1CHoydysh\x1CDan\x1C\x1C\x1C\x1C1200
+    South Hayes Street\x1CSuite 1100\x1CArlington\x1CVA\x1C22202\x1CDirector Global
+    Publ\x1C7034193605\x1CHoydysh\x1CDan\x1C\x1C\x1C\x1C8311 Woodhaven Boulevard\x1C\x1CBethesda\x1CMD\x1C20817\x1CDirector
+    Global Publ\x1C7034193605\x1CYanoshak\x1CErica\x1C\x1C\x1C\x1C1200 South Hayes
+    Street\x1CSuite 1100\x1CArlington\x1CVA\x1C22202\x1CManager Government R\x1C7034193600\x1CGenisys
+    Credit Union\x1CP.O. Box 43634\x1C\x1CPontiac\x1CMI\x1C483436034\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v6_4.F1
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00345603
+  - name: CHANGE OF COMMITTEE NAME
+    number: '3'
+    value: ''
+  - name: COMMITTEE NAME
+    number: '4'
+    value: UNISYS CORPORATION EMPLOYEES PAC
+  - name: CHANGE OF ADDRESS
+    number: '5'
+    value: ''
+  - name: STREET 1
+    number: '6'
+    value: 1200 South Hayes Street
+  - name: STREET 2
+    number: '7'
+    value: Suite 1100
+  - name: CITY
+    number: '8'
+    value: Arlington
+  - name: STATE
+    number: '9'
+    value: VA
+  - name: ZIP
+    number: '10'
+    value: '22202'
+  - name: CHANGE OF COMMITTEE EMAIL
+    number: '11'
+    value: ''
+  - name: COMMITTEE EMAIL
+    number: '12'
+    value: Dan.Hoydysh@Unisys.com
+  - name: CHANGE OF COMMITTEE WEB URL
+    number: '13'
+    value: ''
+  - name: COMMITTEE WEB URL
+    number: '14'
+    value: ''
+  - name: SUBMISSION DATE
+    number: '15'
+    value: '20090514'
+  - name: SIGNATURE LAST NAME
+    number: '16'
+    value: Hoydysh
+  - name: SIGNATURE FIRST NAME
+    number: '17'
+    value: Dan
+  - name: SIGNATURE MIDDLE NAME
+    number: '18'
+    value: ''
+  - name: SIGNATURE PREFIX
+    number: '19'
+    value: ''
+  - name: SIGNATURE SUFFIX
+    number: '20'
+    value: ''
+  - name: DATE SIGNED
+    number: '21'
+    value: '20090514'
+  - name: COMMITTEE TYPE
+    number: 22-5.
+    value: E
+  - name: CANDIDATE ID NUMBER
+    number: 23-5.
+    value: ''
+  - name: CANDIDATE LAST NAME
+    number: 24-5.
+    value: ''
+  - name: CANDIDATE FIRST NAME
+    number: 25-5.
+    value: ''
+  - name: CANDIDATE MIDDLE NAME
+    number: 26-5.
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: 27-5.
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: 28-5.
+    value: ''
+  - name: CANDIDATE OFFICE
+    number: 29-5.
+    value: ''
+  - name: CANDIDATE STATE
+    number: 30-5.
+    value: ''
+  - name: CANDIDATE DISTRICT
+    number: 31-5.
+    value: ''
+  - name: PARTY CODE
+    number: 32-5.
+    value: ''
+  - name: PARTY TYPE
+    number: 33-5.
+    value: ''
+  - name: ORGANIZATION TYPE
+    number: 34-5 (e).
+    value: C
+  - name: LOBBYIST/REGISTRANT PAC
+    number: 35-5 (e).
+    value: X
+  - name: LOBBYIST/REGISTRANT PAC
+    number: 36-5 (f).
+    value: ''
+  - name: LEADERSHIP PAC
+    number: 37-5 (f).
+    value: ''
+  - name: AFFILIATED Committee ID NUM
+    number: 38-6.
+    value: ''
+  - name: AFFILIATED Committee NAME
+    number: 39-6.
+    value: Unisys Corporation
+  - name: AFFILIATED CANDIDATE ID NUM
+    number: 40-6.
+    value: ''
+  - name: AFFILIATED LAST NAME
+    number: 41-6.
+    value: ''
+  - name: AFFILIATED FIRST NAME
+    number: 42-6.
+    value: ''
+  - name: AFFILIATED MIDDLE NAME
+    number: 43-6.
+    value: ''
+  - name: AFFILIATED PREFIX
+    number: 44-6.
+    value: ''
+  - name: AFFILIATED SUFFIX
+    number: 45-6.
+    value: ''
+  - name: AFFILIATED STREET 1
+    number: 46-6.
+    value: Unisys Way
+  - name: AFFILIATED STREET 2
+    number: 47-6.
+    value: ''
+  - name: AFFILIATED CITY
+    number: 48-6.
+    value: Blue Bell
+  - name: AFFILIATED STATE
+    number: 49-6.
+    value: PA
+  - name: AFFILIATED ZIP
+    number: 50-6.
+    value: '194240001'
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 51-6.
+    value: ORG
+  - name: CUSTODIAN LAST NAME
+    number: 52-7.
+    value: Hoydysh
+  - name: CUSTODIAN FIRST NAME
+    number: 53-7.
+    value: Dan
+  - name: CUSTODIAN MIDDLE NAME
+    number: 54-7.
+    value: ''
+  - name: CUSTODIAN PREFIX
+    number: 55-7.
+    value: ''
+  - name: CUSTODIAN SUFFIX
+    number: 56-7.
+    value: ''
+  - name: CUSTODIAN STREET 1
+    number: 57-7.
+    value: 1200 South Hayes Street
+  - name: CUSTODIAN STREET 2
+    number: 58-7.
+    value: Suite 1100
+  - name: CUSTODIAN CITY
+    number: 59-7.
+    value: Arlington
+  - name: CUSTODIAN STATE
+    number: 60-7.
+    value: VA
+  - name: CUSTODIAN ZIP
+    number: 61-7.
+    value: '22202'
+  - name: CUSTODIAN TITLE
+    number: 62-7.
+    value: Director Global Publ
+  - name: CUSTODIAN TELEPHONE
+    number: 63-7.
+    value: '7034193605'
+  - name: TREASURER LAST NAME
+    number: 64-8.
+    value: Hoydysh
+  - name: TREASURER FIRST NAME
+    number: 65-8.
+    value: Dan
+  - name: TREASURER MIDDLE NAME
+    number: 66-8.
+    value: ''
+  - name: TREASURER PREFIX
+    number: 67-8.
+    value: ''
+  - name: TREASURER SUFFIX
+    number: 68-8.
+    value: ''
+  - name: TREASURER STREET 1
+    number: 69-8.
+    value: 8311 Woodhaven Boulevard
+  - name: TREASURER STREET 2
+    number: 70-8.
+    value: ''
+  - name: TREASURER CITY
+    number: 71-8.
+    value: Bethesda
+  - name: TREASURER STATE
+    number: 72-8.
+    value: MD
+  - name: TREASURER ZIP
+    number: 73-8.
+    value: '20817'
+  - name: TREASURER TITLE
+    number: 74-8.
+    value: Director Global Publ
+  - name: TREASURER TELEPHONE
+    number: 75-8.
+    value: '7034193605'
+  - name: AGENT LAST NAME
+    number: 76-8.
+    value: Yanoshak
+  - name: AGENT FIRST NAME
+    number: 77-8.
+    value: Erica
+  - name: AGENT MIDDLE NAME
+    number: 78-8.
+    value: ''
+  - name: AGENT PREFIX
+    number: 79-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 80-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 81-8.
+    value: 1200 South Hayes Street
+  - name: AGENT STREET 2
+    number: 82-8.
+    value: Suite 1100
+  - name: AGENT CITY
+    number: 83-8.
+    value: Arlington
+  - name: AGENT STATE
+    number: 84-8.
+    value: VA
+  - name: AGENT ZIP
+    number: 85-8.
+    value: '22202'
+  - name: AGENT TITLE
+    number: 86-8.
+    value: Manager Government R
+  - name: AGENT TELEPHONE
+    number: 87-8.
+    value: '7034193600'
+  - name: BANK NAME
+    number: 88-9. a)
+    value: Genisys Credit Union
+  - name: BANK STREET 1
+    number: 89-9. a)
+    value: P.O. Box 43634
+  - name: BANK STREET 2
+    number: 90-9. a)
+    value: ''
+  - name: BANK CITY
+    number: 91-9. a)
+    value: Pontiac
+  - name: BANK STATE
+    number: 92-9. a)
+    value: MI
+  - name: BANK ZIP
+    number: 93-9. a)
+    value: '483436034'
+  - name: BANK NAME
+    number: 94-9. b)
+    value: ''
+  - name: BANK STREET 1
+    number: 95-9. b)
+    value: ''
+  - name: BANK STREET 2
+    number: 96-9. b)
+    value: ''
+  - name: BANK CITY
+    number: 97-9. b)
+    value: ''
+  - name: BANK STATE
+    number: 98-9. b)
+    value: ''
+  - name: BANK ZIP
+    number: 99-9. b)
+    value: '
+
+'
+- input: !!binary |
+    VEVYVBxDMDAzNDU2MDMcMzEzNjIzNDEcHEYxQRxSZTogVW5pc3lzIENvcnBvcmF0aW9uIEVtcGxv
+    eWVlcyBQQUMgIAlGRUMgSUQgTm8uIEMwMDM0NTYwMyAJUkZBSSBvZiBBcHJpbCAxNSwgMjAwOSBy
+    ZWdhcmRpbmcgQW1lbmRlZCBTdGF0ZW1lbnQgb2YgT3JnYW5pemF0aW9uLCByZWNlaXZlZCAzLzI1
+    LzA5ICBEZWFyIE1yLiBKb25lczogIAlJbiByZXNwb25zZSB0byB5b3VyIGxldHRlciBvZiBBcHJp
+    bCAxNSwgMjAwOSwgSSBhbWVuZGVkIHRoZSBTdGF0ZW1lbnQgb2YgT3JnYW5pemF0aW9uIG9mIHRo
+    ZSBVbmlzeXMgQ29ycG9yYXRpb24gRW1wbG95ZWVzIFBBQyBhbmQgYXR0ZW1wdGVkIHRvIGZpbGUg
+    aXQgdXNpbmcgdGhlIEZFQ0ZpbGUgc3lzdGVtIG9uIE1heSAxNSwgMjAwOS4gIER1cmluZyB0aGUg
+    cm91dGluZSByZXZpZXcgb2YgUEFDIGRvY3VtZW50cyBvbiB0aGUgRkVDIHdlYnNpdGUgdGhpcyB3
+    ZWVrLCB3ZSBkaXNjb3ZlcmVkIG5vIHJlY29yZCBvZiB0aGF0IGZpbGluZyBvbiB0aGUgYWdlbmN5
+    knMgc3lzdGVtLiAgICAJSSBoYXZlIHRvZGF5IGZpbGVkIGEgc2Vjb25kIGNvcHkgb2YgdGhlIGFt
+    ZW5kZWQgRm9ybSAxIChiZWFyaW5nIHRvZGF5knMgc2lnbmF0dXJlIGRhdGUpLiAgSSBhcG9sb2dp
+    emUgZm9yIGFueSBpbmNvbnZlbmllbmNlIHRoaXMgbWF5IGhhdmUgY2F1c2VkLgo=
+  record: fec.version.v6_4.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00345603
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: '31362341'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: F1A
+  - name: TEXT4000
+    number: '6'
+    value: !!binary |
+      UmU6IFVuaXN5cyBDb3Jwb3JhdGlvbiBFbXBsb3llZXMgUEFDICAJRkVDIElEIE5vLiBDMDAzNDU2
+      MDMgCVJGQUkgb2YgQXByaWwgMTUsIDIwMDkgcmVnYXJkaW5nIEFtZW5kZWQgU3RhdGVtZW50IG9m
+      IE9yZ2FuaXphdGlvbiwgcmVjZWl2ZWQgMy8yNS8wOSAgRGVhciBNci4gSm9uZXM6ICAJSW4gcmVz
+      cG9uc2UgdG8geW91ciBsZXR0ZXIgb2YgQXByaWwgMTUsIDIwMDksIEkgYW1lbmRlZCB0aGUgU3Rh
+      dGVtZW50IG9mIE9yZ2FuaXphdGlvbiBvZiB0aGUgVW5pc3lzIENvcnBvcmF0aW9uIEVtcGxveWVl
+      cyBQQUMgYW5kIGF0dGVtcHRlZCB0byBmaWxlIGl0IHVzaW5nIHRoZSBGRUNGaWxlIHN5c3RlbSBv
+      biBNYXkgMTUsIDIwMDkuICBEdXJpbmcgdGhlIHJvdXRpbmUgcmV2aWV3IG9mIFBBQyBkb2N1bWVu
+      dHMgb24gdGhlIEZFQyB3ZWJzaXRlIHRoaXMgd2Vlaywgd2UgZGlzY292ZXJlZCBubyByZWNvcmQg
+      b2YgdGhhdCBmaWxpbmcgb24gdGhlIGFnZW5jeZJzIHN5c3RlbS4gICAgCUkgaGF2ZSB0b2RheSBm
+      aWxlZCBhIHNlY29uZCBjb3B5IG9mIHRoZSBhbWVuZGVkIEZvcm0gMSAoYmVhcmluZyB0b2RheZJz
+      IHNpZ25hdHVyZSBkYXRlKS4gIEkgYXBvbG9naXplIGZvciBhbnkgaW5jb252ZW5pZW5jZSB0aGlz
+      IG1heSBoYXZlIGNhdXNlZC4K
+sourceurl: !!python/unicode 20090902
+type: chunk
