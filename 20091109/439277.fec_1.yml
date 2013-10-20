@@ -1,0 +1,129 @@
+countrows: 2
+filename: 439277.fec
+header: {}
+rows:
+- 2
+- input: "F2N\x1CH2PA06080\x1CHolden\x1CT. Timothy\x1C\x1C\x1C\x1C\x1C31 Pearl Street\x1C\x1CSAINT
+    CLAIR\x1CPA\x1C17970\x1CDEM\x1CH\x1CPA\x1C17\x1C2010\x1CC00265322\x1CFriends of
+    Congressman Tim Holden\x1C18 N. Second Street. P.O. Box 37\x1C\x1CSaint Clair\x1CPA\x1C17970\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CHolden\x1CT.
+    Timothy\x1C\x1C\x1C\x1C20091109\n"
+  record: fec.version.v6_4.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2N
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H2PA06080
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Holden
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: T. Timothy
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: 31 Pearl Street
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: SAINT CLAIR
+  - name: CANDIDATE STATE
+    number: '12'
+    value: PA
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '17970'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: DEM
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: PA
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '17'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2010'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00265322
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: Friends of Congressman Tim Holden
+  - name: PCC STREET 1
+    number: '21'
+    value: 18 N. Second Street. P.O. Box 37
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: Saint Clair
+  - name: PCC STATE
+    number: '24'
+    value: PA
+  - name: PCC ZIP
+    number: '25'
+    value: '17970'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: ''
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: AUTH STREET 1
+    number: '28'
+    value: ''
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: ''
+  - name: AUTH STATE
+    number: '31'
+    value: ''
+  - name: AUTH ZIP
+    number: '32'
+    value: ''
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: Holden
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: T. Timothy
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: ''
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20091109
+
+'
+sourceurl: !!python/unicode 20091109
+type: chunk

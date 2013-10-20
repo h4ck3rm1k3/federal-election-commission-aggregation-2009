@@ -1,0 +1,128 @@
+countrows: 2
+filename: 441123.fec
+header: {}
+rows:
+- 2
+- input: "F2N\x1CH4CA49032\x1CBilbray\x1CBrian\x1CP\x1C\x1C\x1C\x1C2466 Unicornio
+    Street\x1C\x1CCarlsbad\x1CCA\x1C920095320\x1CREP\x1CH\x1CCA\x1C50\x1C2010\x1CC00300830\x1CBrian
+    Bilbray for Congress\x1C991C Lomas Santa Fe Drive\x1C# 192\x1CSolana Beach\x1CCA\x1C920752125\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CBilbray\x1CBrian\x1CP\x1C\x1C\x1C20091202\n"
+  record: fec.version.v6_4.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2N
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H4CA49032
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Bilbray
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: Brian
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: P
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: 2466 Unicornio Street
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Carlsbad
+  - name: CANDIDATE STATE
+    number: '12'
+    value: CA
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '920095320'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: REP
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: CA
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '50'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2010'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00300830
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: Brian Bilbray for Congress
+  - name: PCC STREET 1
+    number: '21'
+    value: 991C Lomas Santa Fe Drive
+  - name: PCC STREET 2
+    number: '22'
+    value: '# 192'
+  - name: PCC CITY
+    number: '23'
+    value: Solana Beach
+  - name: PCC STATE
+    number: '24'
+    value: CA
+  - name: PCC ZIP
+    number: '25'
+    value: '920752125'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: ''
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: AUTH STREET 1
+    number: '28'
+    value: ''
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: ''
+  - name: AUTH STATE
+    number: '31'
+    value: ''
+  - name: AUTH ZIP
+    number: '32'
+    value: ''
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: Bilbray
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: Brian
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: P
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20091202
+
+'
+sourceurl: !!python/unicode 20091202
+type: chunk
